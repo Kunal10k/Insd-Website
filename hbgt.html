@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Synchronized Testimonial Marquee</title>
+<style>
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #f5f7fb;
+  padding: 50px 0;
+  overflow-x: hidden;
+  color: #333;
+}
+
+h2 {
+  margin-left: 20px;
+  font-weight: 600;
+  color: #1e293b;
+}
+
+/* Marquee container */
+.marquee-container {
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  padding: 30px 0;
+  margin-bottom: 50px;
+}
+
+/* Marquee track */
+.marquee-track {
+  display: flex;
+  width: max-content;
+  gap: 20px;
+}
+
+/* Both marquees: same duration for sync */
+.marquee-right, .marquee-left {
+  animation-duration: 40s; /* slower */
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+/* Right-to-left marquee */
+.marquee-right {
+  animation-name: marqueeRight;
+}
+
+/* Left-to-right marquee */
+.marquee-left {
+  animation-name: marqueeLeft;
+}
+
+/* Pause on hover */
+.marquee-right:hover,
+.marquee-left:hover {
+  animation-play-state: paused;
+}
+
+/* Keyframes */
+@keyframes marqueeRight {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+@keyframes marqueeLeft {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+/* Card styles */
+.card {
+  min-width: 280px;
+  max-width: 280px;
+  background: linear-gradient(135deg, #ffffff, #f0f4f8);
+  border-radius: 20px;
+  padding: 25px 20px 20px 20px;
+  box-shadow: 0 15px 30px rgba(0,0,0,0.08);
+  position: relative;
+  flex-shrink: 0;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px) scale(1.03);
+  box-shadow: 0 20px 35px rgba(0,0,0,0.12);
+}
+
+.card::before {
+  content: "“";
+  font-size: 40px;
+  color: #3b82f6;
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  font-weight: bold;
+}
+
+.card p {
+  margin-top: 25px;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #475569;
+  font-style: italic;
+}
+
+/* Star rating */
+.card .rating {
+  margin-top: 10px;
+}
+
+.card .rating span {
+  color: #facc15;
+  font-size: 16px;
+  margin-right: 2px;
+}
+
+/* Profile section */
+.card .profile {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.card .profile img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid #3b82f6;
+  margin-right: 15px;
+}
+
+.card .profile .name {
+  font-weight: 600;
+  font-size: 14px;
+  color: #1e293b;
+}
+
+.card .profile .role {
+  font-size: 12px;
+  color: #64748b;
+}
+</style>
+</head>
+<body>
+
+<h2>Right-to-Left Student Testimonials</h2>
+<div class="marquee-container">
+
+  
+  <div class="marquee-track marquee-right">
+    <!-- Cards -->
+    <div class="card">
+      <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+      <div class="rating">
+        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+      </div>
+      <div class="profile">
+        <img src="https://picsum.photos/50?random=1" alt="Student">
+        <div>
+          <div class="name">Harsh Tiwari</div>
+          <div class="role">B.Tech, Bangalore</div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <p>“The projects and hands-on tasks made learning fun and practical. I feel confident now.”</p>
+      <div class="rating">
+        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+      </div>
+      <div class="profile">
+        <img src="https://picsum.photos/50?random=2" alt="Student">
+        <div>
+          <div class="name">Sneha Mehra</div>
+          <div class="role">MCA, Mumbai</div>
+        </div>
+      </div>
+    </div>
+    <!-- Duplicate cards for seamless loop -->
+    <div class="card">
+      <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+      <div class="rating">
+        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+      </div>
+      <div class="profile">
+        <img src="https://picsum.photos/50?random=1" alt="Student">
+        <div>
+          <div class="name">Harsh Tiwari</div>
+          <div class="role">B.Tech, Bangalore</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h2>Left-to-Right Student Testimonials</h2>
+<div class="marquee-container">
+  <div class="marquee-track marquee-left">
+    <!-- Cards -->
+    <div class="card">
+      <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+      <div class="rating">
+        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+      </div>
+      <div class="profile">
+        <img src="https://picsum.photos/50?random=4" alt="Student">
+        <div>
+          <div class="name">Arjun Mehra</div>
+          <div class="role">MBA, Gurgaon</div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <p>“The community and mentors made me stay motivated throughout. Fantastic learning experience.”</p>
+      <div class="rating">
+        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+      </div>
+      <div class="profile">
+        <img src="https://picsum.photos/50?random=5" alt="Student">
+        <div>
+          <div class="name">Sanya Verma</div>
+          <div class="role">BBA, Delhi NCR</div>
+        </div>
+      </div>
+    </div>
+    <!-- Duplicate cards for seamless loop -->
+    <div class="card">
+      <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+      <div class="rating">
+        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+      </div>
+      <div class="profile">
+        <img src="https://picsum.photos/50?random=4" alt="Student">
+        <div>
+          <div class="name">Arjun Mehra</div>
+          <div class="role">MBA, Gurgaon</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

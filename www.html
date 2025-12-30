@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scroll-In Gallery Animation</title>
+<style>
+  body {
+    margin: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    background: #f6f7fb;
+    overflow-x: hidden;
+  }
+
+  .spacer { height: 70vh; }
+
+.gallery-wrap {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.gallery {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.img-card {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  transition: all 0.8s ease;
+}
+
+.img-card img {
+  width: 400px;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  transition: all 0.8s ease;
+}
+
+.img-title {
+  margin-top: 15px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.6);
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.6s ease;
+}
+
+.img-card.active .img-title {
+  opacity: 1;
+  transform: translateY(0);
+}
+</style>
+</head>
+<body>
+
+<div class="spacer"></div>
+
+<section class="gallery-wrap">
+  <div class="gallery" id="gallery">
+    <!-- Left image -->
+    <div class="img-card img-left" id="leftImg">
+      <img src="assets/img/admission.jpg" alt="Admission">
+      <div class="img-title">Admission</div>
+    </div>
+
+    <!-- Center image -->
+    <div class="img-card img-center" id="centerImg">
+      <img src="assets/img/academic.jpg" alt="Academic">
+      <div class="img-title">Academic</div>
+    </div>
+
+    <!-- Right image -->
+    <div class="img-card img-right" id="rightImg">
+      <img src="assets/img/career.jpg" alt="Career">
+      <div class="img-title">Career</div>
+    </div>
+  </div>
+</section>
+
+<div class="spacer"></div>
+
+<script>
+const leftImg = document.getElementById('leftImg');
+const rightImg = document.getElementById('rightImg');
+const centerImg = document.getElementById('centerImg');
+
+function updateGallery() {
+  const gallery = document.getElementById('gallery');
+  const rect = gallery.getBoundingClientRect();
+  const windowHeight = window.innerHeight;
+
+  // Trigger when gallery is in center of viewport
+  const inView = rect.top < windowHeight * 0.7 && rect.bottom > windowHeight * 0.3;
+
+  if (inView) {
+    // scroll down: slide side images out from behind center
+    leftImg.style.opacity = '1';
+    rightImg.style.opacity = '1';
+
+    const leftX = - (centerImg.offsetWidth / 2 + leftImg.offsetWidth / 2 + 30);
+    const rightX = centerImg.offsetWidth / 2 + rightImg.offsetWidth / 2 + 30;
+
+    leftImg.style.transform = `translateY(-50%) translateX(${leftX}px)`;
+    rightImg.style.transform = `translateY(-50%) translateX(${rightX}px)`;
+    centerImg.style.transform = `translateY(-50%) scale(1.05)`;
+
+    // Show titles
+    leftImg.classList.add('active');
+    rightImg.classList.add('active');
+    centerImg.classList.add('active');
+
+  } else {
+    // scroll up: merge side images behind center
+    leftImg.style.opacity = '0';
+    rightImg.style.opacity = '0';
+    leftImg.style.transform = 'translateY(-50%) translateX(0)';
+    rightImg.style.transform = 'translateY(-50%) translateX(0)';
+    centerImg.style.transform = 'translateY(-50%) scale(1)';
+
+    // Hide titles
+    leftImg.classList.remove('active');
+    rightImg.classList.remove('active');
+    centerImg.classList.remove('active');
+  }
+}
+
+leftImg.style.transform = 'translateY(-50%) translateX(0)';
+rightImg.style.transform = 'translateY(-50%) translateX(0)';
+
+window.addEventListener('scroll', updateGallery);
+window.addEventListener('resize', updateGallery);
+</script>
+
+</body>
+</html>

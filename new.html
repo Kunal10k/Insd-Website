@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scroll Pin Video Expansion</title>
+<style>
+  body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    background: #f6f7fb;
+    overflow-x: hidden;
+  }
+
+  .spacer {
+    height: 100vh;
+  }
+
+  .gallery-wrap {
+    position: relative;
+    height: 300vh; /* scroll area increased */
+  }
+
+  .gallery {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .img-card {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    transition: all 1s ease;
+    z-index: 1;
+  }
+
+  .img-left { left: -180px; width: 220px; }
+  .img-right { right: -180px; width: 220px; }
+
+  .video-card {
+    position: relative;
+    width: 320px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    transition: all 1.5s ease-in-out;
+    z-index: 2;
+  }
+
+  .video-card video {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+  }
+
+  .caption {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 16px;
+    color: #fff;
+    background: rgba(0,0,0,0.4);
+    padding: 6px 14px;
+    border-radius: 8px;
+  }
+
+  @media (max-width: 768px) {
+    .img-left, .img-right { width: 140px; }
+    .video-card { width: 220px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="spacer"></div>
+
+<section class="gallery-wrap">
+  <div class="gallery" id="gallery">
+    <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=800&q=60&auto=format&fit=crop"
+         class="img-card img-left" id="leftImg">
+
+    <div class="video-card" id="centerVideo">
+      <video muted autoplay loop playsinline poster="https://images.unsplash.com/photo-1549880338-65ddcdfd017b?w=1200&q=60&auto=format&fit=crop">
+        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+      </video>
+      <div class="caption">Scroll down — video stays fixed</div>
+    </div>
+
+    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60&auto=format&fit=crop"
+         class="img-card img-right" id="rightImg">
+  </div>
+</section>
+
+<div class="spacer"></div>
+
+<script>
+const leftImg = document.getElementById('leftImg');
+const rightImg = document.getElementById('rightImg');
+const videoCard = document.getElementById('centerVideo');
+const gallery = document.getElementById('gallery');
+const galleryWrap = document.querySelector('.gallery-wrap');
+
+function updateGallery() {
+  const rect = galleryWrap.getBoundingClientRect();
+  const totalHeight = galleryWrap.offsetHeight;
+  const progress = Math.min(Math.max(1 - (rect.top / (totalHeight - window.innerHeight)), 0), 1);
+
+  // Fade out side images based on scroll progress
+  const fade = Math.max(0, 1 - progress * 3);
+  leftImg.style.opacity = fade;
+  rightImg.style.opacity = fade;
+  leftImg.style.transform = `translateY(-50%) translateX(${-250 * progress}px)`;
+  rightImg.style.transform = `translateY(-50%) translateX(${250 * progress}px)`;
+
+  // Expand video smoothly
+  const newWidth = 320 + (window.innerWidth - 320) * progress;
+  const newRadius = 12 - 12 * progress;
+  videoCard.style.width = `${newWidth}px`;
+  videoCard.style.borderRadius = `${newRadius}px`;
+  videoCard.style.boxShadow = `0 8px 20px rgba(0,0,0,${0.15 * (1 - progress)})`;
+}
+window.addEventListener('scroll', updateGallery);
+</script>
+
+</body>
+</html>
