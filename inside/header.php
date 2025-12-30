@@ -69,8 +69,8 @@
               </div>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-              data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-              aria-expanded="false" aria-label="Toggle navigation">
+              data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+              aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -109,7 +109,8 @@
 
                     <li><a class="dropdown-item" href="interior.php">B.DES in Interior Design Course in Kolkata</a></li>
                     <li><a class="dropdown-item" href="interior.php">MBA in Interior Design Course in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="interior.php">Dip/Adv.Dipin Interior Design Course in Kolkata</a></li>
+                    <li><a class="dropdown-item" href="interior.php">Dip/Adv.Dipin Interior Design Course in Kolkata</a>
+                    </li>
                     <li><a class="dropdown-item" href="interior.php">Department Overview</a></li>
                   </ul>
                 </li>
@@ -126,7 +127,8 @@
                   <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="interior.php">B.DES in Fashion Design Course in Kolkata</a></li>
                     <li><a class="dropdown-item" href="interior.php">MBA in Fashion Design Course in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="interior.php">Dip/Adv.Dipin Fashion Design Course in Kolkata</a></li>
+                    <li><a class="dropdown-item" href="interior.php">Dip/Adv.Dipin Fashion Design Course in Kolkata</a>
+                    </li>
                     <li><a class="dropdown-item" href="interior.php">Department Overview</a></li>
                   </ul>
                 </li>
@@ -143,7 +145,8 @@
                   <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="interior.php">B.DES in Graphic Design Course in Kolkata</a></li>
                     <li><a class="dropdown-item" href="interior.php">MBA in Graphic Design Course in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="interior.php">Dip/Adv.Dipin Graphic Design Course in Kolkata</a></li>
+                    <li><a class="dropdown-item" href="interior.php">Dip/Adv.Dipin Graphic Design Course in Kolkata</a>
+                    </li>
                     <li><a class="dropdown-item" href="interior.php">Department Overview</a></li>
                   </ul>
                 </li>
@@ -159,7 +162,7 @@
 
                   <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="interior.php">Admission Overview</a></li>
-                    
+
                     <li><a class="dropdown-item" href="interior.php">Eligibity Criteria</a></li>
                     <li><a class="dropdown-item" href="interior.php">Admission FAQ</a></li>
                     <li><a class="dropdown-item" href="interior.php">Scholarship Session</a></li>
@@ -271,8 +274,8 @@
               </div>
             </a>
 
-            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
-              data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
+              aria-controls="offcanvasNavbar">
               <i class="fa-solid fa-bars"></i>
             </button>
             <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
