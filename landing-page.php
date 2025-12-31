@@ -3,11 +3,7 @@
 
 
 <section class="landing_banner">
-
     <div class="banner" style="background-image: url('./assets/img/insd-banner1.jpg');">
-
-
-
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
@@ -352,37 +348,60 @@
 
 
 
-
-
-<section class="mentor-section">
+<section class="mentor-area">
     <div class="container">
-        <h2 class="title">Get Mentored by <br> <span>
-                Corporate Titans
-            </span></h2>
+        <p class="sub-head text-center cen ">QUALIFIED TEACHERS</p>
+        <h2 class="title text-center ">Meet the teacher who <br> teaches you online</h2>
 
-        <div class="owl-carousel owl-theme mentor-slider mt-4">
-            <div class="mentor-card">
-                <div class="card-content">
-                    <div class="mentor-img">
-                        <img src="https://cdn-websites.onlinecu.in/ONLINECU/public_html/assets/lp/images/mentor-1.webp"
-                            alt="Aparna Dhingra">
-                    </div>
-                    <div class="mentor-details">
-                        <h3 class="name">Aparna Dhingra</h3>
-                        <p class="designation"><strong>Head HR and Administration, BMW India</strong></p>
+        <div class="owl-carousel mentor-owl mt-5">
 
-                        <p class="quote-text">I am very impressed with this University. What I like is that CU is
-                            including
-                            industry exposure on every level...</p>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="https://randomuser.me/api/portraits/men/32.jpg" />
+                    <div class="mentor-share">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-whatsapp"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
-                <!-- <div class="quote-icon">"</div> -->
+                <h4>Edward Norton</h4>
+                <span>Musician</span>
             </div>
 
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="https://randomuser.me/api/portraits/women/44.jpg" />
+                    <div class="mentor-share">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-whatsapp"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+                <h4>Sarah Parker</h4>
+                <span>Designer</span>
+            </div>
+
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="https://randomuser.me/api/portraits/men/46.jpg" />
+                    <div class="mentor-share">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-whatsapp"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+                <h4>David Miller</h4>
+                <span>Developer</span>
+            </div>
 
         </div>
     </div>
 </section>
+
+
+
+
+
 
 
 
@@ -391,7 +410,7 @@
         <span class="sub-head text-center cen ">HISTUDY FEATURE</span>
         <h2 class="title">Check out Histudy's features <br> <span>to win any exam</span></h2>
 
-        <div class="row g-4 justify-content-center mt-4">
+        <div class="row  mt-5">
 
             <div class="col-md-4">
                 <div class="flip-card">
@@ -840,8 +859,8 @@
 
 <section class="v-stats-wrapper">
     <div class="container">
-        <h2 class="title text-center">Creating A Community Of Long
-            Life <br><span> Learners</span></h2>
+        <!-- <h2 class="title text-center">Creating A Community Of Long
+            Life <br><span> Learners</span></h2> -->
         <div class="v-stats-grid mt-4">
 
             <div class="v-stats-card">
@@ -876,68 +895,84 @@
     </div>
 </section>
 
-<section class="ct_box ">
-    <div class="container">
-        <div class="cta-bar">
-            <div class="cta-content">
-                <div class="cta-text">
-                    <p>Interested in exploring</p>
-                    <h2>our online programs?</h2>
-                </div>
-                <a href="#" class="apply-btn">Apply Now</a>
+<section class="career-hero">
+    <div class="career-container">
+        <div class="career-row">
+
+            <!-- Left Content -->
+            <div class="career-left">
+                <span class="career-label">BOOST YOUR CAREER</span>
+                <h1 class="career-title">
+                    Advance your knowledge,<br>
+                    achieve greater opportunities
+                </h1>
+                <a href="#" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Discover More</div>
+                        <div class="btn-text-hover">Discover More</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
             </div>
+
+            <!-- Right Image -->
+            <div class="career-right">
+                <img src="https://cdn.prod.website-files.com/68b824698be8e7c047a5da51/68d36e1ef7e7d18265801ff9_461bbddae587805361cc0e11ef717658_koursio-cta-one-image-p-500.webp"
+                    alt="Person working on laptop" class="career-img">
+            </div>
+
         </div>
     </div>
 </section>
 
 
 
-<footer class="minimal-f">
-
-    <div class="f-content">
-
-        <div class="f-main">
-            <div class="f-brand">
-                <img src="assets/img/cropped-logo-1-1-2.png" alt="Logo" class="f-logo">
-
-                <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Dicta aspernatur aperiam laudantium amet eligendi
+<!-- Footer Section -->
+<footer class="cu-footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-left">
+                <img src="assets/img/cropped-logo-1-1-2.png" alt="CU Online Logo" class="footer-logo">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>Commodi maxime vel, quos quia dolor
+                    earum?
                 </p>
-
-                <div class="f-links mt-3">
-                    <a href="#">About</a>
-                    <a href="#">Portfolio</a>
-                    <a href="#">Contact</a>
+            </div>
+            <div class="footer-center">
+                <p><strong>Chandigarh University</strong></p>
+                <p>Address: NH-05 Chandigarh-Ludhiana Highway, Mohali, Punjab (INDIA)</p>
+                <div class="social-icons">
+                    <a href="https://www.facebook.com/" target="_blank" class="facebook"><i
+                            class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/" target="_blank" class="instagram"><i
+                            class="fab fa-instagram"></i></a>
+                    <a href="https://twitter.com/" target="_blank" class="twitter"><i class="fab fa-twitter"></i></a>
                 </div>
 
-                <!-- Social Icons -->
-                <div class="f-social mt-4">
-                    <a href="#" class="social fb" aria-label="Facebook">
-                        <i class="fa-brands fa-facebook-f"></i>
-                    </a>
-                    <a href="#" class="social insta" aria-label="Instagram">
-                        <i class="fa-brands fa-instagram"></i>
-                    </a>
-                    <a href="#" class="social x" aria-label="X">
-                        <i class="fa-brands fa-x-twitter"></i>
-                    </a>
-                    <a href="#" class="social yt" aria-label="YouTube">
-                        <i class="fa-brands fa-youtube"></i>
-                    </a>
-                </div>
             </div>
         </div>
-
-        <div class="f-bottom">
-            <p>© 2025 S P Jain School of Global Management</p>
-            <p class="small-text">
-                This program is not accredited under the AQF or recognized by AICTE India.
-            </p>
+        <hr class="alen">
+        <div class="footer-bottom">
+            <p>© 2025 Chandigarh University. All rights reserved</p>
         </div>
-
     </div>
+    <div class="marquee-wrapper">
+        <p class="marquee-text">
+            <strong>
+                Admissions are open for Jan'26 Session. Enroll today & avail upto 25% early-bird scholarships!
+            </strong>
+        </p>
+    </div>
+
 </footer>
+
+
+
+
 
 
 
@@ -1086,5 +1121,28 @@
                 }
             }
         });
+    });
+</script>
+
+
+<script>
+    $('.mentor-owl').owlCarousel({
+        loop: true,
+        margin: 30,
+        nav: false,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 2
+            },
+            992: {
+                items: 5
+            }
+        }
     });
 </script>
