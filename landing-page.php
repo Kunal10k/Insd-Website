@@ -4,14 +4,13 @@
 
 <section class="landing_banner">
 
-    <div class="banner"
-        style="background-image: url(https://www.onlinemanipal.com/wp-content/themes/flamingo/images/distancelp-banner-2-1.jpg.webp);">
+    <div class="banner" style="background-image: url('./assets/img/insd-banner1.jpg');">
 
 
 
         <div class="container">
             <div class="row">
-                <div class="col-md-7">
+                <div class="col-md-8">
                     <div class="landing_content">
                         <h5>Master New-Age Marketing & Grow Brands​</h5>
                         <h1>Online Master of <br>
@@ -19,13 +18,20 @@
                             (MBA) – Digital Marketing
                             ​</h1>
                         <h6>Avail exclusive benefits</h6>
-                        <ul>
-                            <li>Industry-relevant curriculum</li>
-                            <li>​100% Placement Assistance</li>
+                        <ul class="feature-list">
+                            <li>
+                                <i class="fa-solid fa-circle-check"></i>
+                                Industry-relevant curriculum
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-circle-check"></i>
+                                100% Placement Assistance
+                            </li>
                         </ul>
+
                     </div>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-4">
 
                     <div class="landing_wrapper">
 
@@ -307,15 +313,42 @@
 
 
 
-
 <section class="alumni-container">
     <div class="container p-0">
-        <h1 class="title">Our Alumni Work At</h1>
+        <h1 class="title text-center">Our Alumni Work At</h1>
 
-        <img src="https://cdn-websites.onlinecu.in/ONLINECU/public_html/assets/lp/images/index-hiring-partner-desktopimage.webp"
-            alt="" class="img-fluid text-center">
+        <div class="owl-carousel alumni-carousel mt-4">
+
+            <div class="item">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Godrej_Logo.svg/1200px-Godrej_Logo.svg.png"
+                    class="img-fluid" alt="">
+            </div>
+
+            <div class="item">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png"
+                    class="img-fluid" alt="">
+            </div>
+
+            <div class="item">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzYwpe61avmUq2ulP6hB6I5t2vXTRc0OHugQ&s"
+                    class="img-fluid" alt="">
+            </div>
+
+            <!-- Repeat logos as needed -->
+            <div class="item">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Godrej_Logo.svg/1200px-Godrej_Logo.svg.png"
+                    class="img-fluid" alt="">
+            </div>
+
+            <div class="item">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png"
+                    class="img-fluid" alt="">
+            </div>
+
+        </div>
     </div>
 </section>
+
 
 
 
@@ -859,28 +892,50 @@
 
 
 
-
 <footer class="minimal-f">
-    <div class="bg-text-insd">INSD</div>
 
     <div class="f-content">
+
         <div class="f-main">
             <div class="f-brand">
                 <img src="assets/img/cropped-logo-1-1-2.png" alt="Logo" class="f-logo">
-                <p>Ideas shaped and delivered without compromise.</p>
-            </div>
 
-            <div class="f-links">
-                <a href="#">About</a>
-                <a href="#">Portfolio</a>
-                <a href="#">Contact</a>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                    Dicta aspernatur aperiam laudantium amet eligendi
+                </p>
+
+                <div class="f-links mt-3">
+                    <a href="#">About</a>
+                    <a href="#">Portfolio</a>
+                    <a href="#">Contact</a>
+                </div>
+
+                <!-- Social Icons -->
+                <div class="f-social mt-4">
+                    <a href="#" class="social fb" aria-label="Facebook">
+                        <i class="fa-brands fa-facebook-f"></i>
+                    </a>
+                    <a href="#" class="social insta" aria-label="Instagram">
+                        <i class="fa-brands fa-instagram"></i>
+                    </a>
+                    <a href="#" class="social x" aria-label="X">
+                        <i class="fa-brands fa-x-twitter"></i>
+                    </a>
+                    <a href="#" class="social yt" aria-label="YouTube">
+                        <i class="fa-brands fa-youtube"></i>
+                    </a>
+                </div>
             </div>
         </div>
 
         <div class="f-bottom">
             <p>© 2025 S P Jain School of Global Management</p>
-            <p class="small-text">This program is not accredited under the AQF or recognized by AICTE India.</p>
+            <p class="small-text">
+                This program is not accredited under the AQF or recognized by AICTE India.
+            </p>
         </div>
+
     </div>
 </footer>
 
@@ -984,10 +1039,37 @@
 
 
 <script>
+    $('.alumni-carousel').owlCarousel({
+        loop: true,
+        margin: 30,
+        autoplay: true,
+        autoplayTimeout: 2000,
+        autoplayHoverPause: true,
+        dots: false,
+        nav: false,
+        responsive: {
+            0: {
+                items: 2
+            },
+            576: {
+                items: 3
+            },
+            768: {
+                items: 4
+            },
+            992: {
+                items: 6
+            }
+        }
+    });
+</script>
+
+
+<script>
     $(document).ready(function () {
         $(".feedback-slider").owlCarousel({
             loop: true,
-            margin: 20,
+            margin: 10,
             nav: false,
             dots: true,
             autoplay: true,

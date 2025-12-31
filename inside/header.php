@@ -97,57 +97,47 @@
 
 
                 <li class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-
-                    <span class="nav-btn-spacer">ID</span>
-
-                    <span class="nav-btn-text">ID</span>
-                    <span class="nav-btn-text-hover">ID</span>
+                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
+                    <span class="nav-btn-spacer">Courses</span>
+                    <span class="nav-btn-text">Courses</span>
+                    <span class="nav-btn-text-hover">Courses</span>
                   </a>
 
                   <ul class="dropdown-menu">
 
-                    <li><a class="dropdown-item" href="interior.php">B.DES in Interior Design Course in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="interior.php">MBA in Interior Design Course in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="interior.php">Dip/Adv.Dipin Interior Design Course in Kolkata</a>
+                    <!-- Interior Design -->
+                    <li class="dropdown-submenu">
+                      <a class="dropdown-item dropdown-toggle" href="#">Interior Design (ID)</a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="interior.php">B.DES in Interior Design</a></li>
+                        <li><a class="dropdown-item" href="interior.php">MBA in Interior Design</a></li>
+                        <li><a class="dropdown-item" href="interior.php">Dip / Adv. Dip in Interior Design</a></li>
+                        <li><a class="dropdown-item" href="interior.php">Department Overview</a></li>
+                      </ul>
                     </li>
-                    <li><a class="dropdown-item" href="interior.php">Department Overview</a></li>
-                  </ul>
-                </li>
 
-                <li class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-
-                    <span class="nav-btn-spacer">FD</span>
-
-                    <span class="nav-btn-text">FD</span>
-                    <span class="nav-btn-text-hover">FD</span>
-                  </a>
-
-                  <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="interior.php">B.DES in Fashion Design Course in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="interior.php">MBA in Fashion Design Course in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="interior.php">Dip/Adv.Dipin Fashion Design Course in Kolkata</a>
+                    <!-- Fashion Design -->
+                    <li class="dropdown-submenu">
+                      <a class="dropdown-item dropdown-toggle" href="#">Fashion Design (FD)</a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="fashion.php">B.DES in Fashion Design</a></li>
+                        <li><a class="dropdown-item" href="fashion.php">MBA in Fashion Design</a></li>
+                        <li><a class="dropdown-item" href="fashion.php">Dip / Adv. Dip in Fashion Design</a></li>
+                        <li><a class="dropdown-item" href="fashion.php">Department Overview</a></li>
+                      </ul>
                     </li>
-                    <li><a class="dropdown-item" href="interior.php">Department Overview</a></li>
-                  </ul>
-                </li>
 
-                <li class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-
-                    <span class="nav-btn-spacer">GD</span>
-
-                    <span class="nav-btn-text">GD</span>
-                    <span class="nav-btn-text-hover">GD</span>
-                  </a>
-
-                  <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="interior.php">B.DES in Graphic Design Course in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="interior.php">MBA in Graphic Design Course in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="interior.php">Dip/Adv.Dipin Graphic Design Course in Kolkata</a>
+                    <!-- Graphic Design -->
+                    <li class="dropdown-submenu">
+                      <a class="dropdown-item dropdown-toggle" href="#">Graphic Design (GD)</a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="graphic.php">B.DES in Graphic Design</a></li>
+                        <li><a class="dropdown-item" href="graphic.php">MBA in Graphic Design</a></li>
+                        <li><a class="dropdown-item" href="graphic.php">Dip / Adv. Dip in Graphic Design</a></li>
+                        <li><a class="dropdown-item" href="graphic.php">Department Overview</a></li>
+                      </ul>
                     </li>
-                    <li><a class="dropdown-item" href="interior.php">Department Overview</a></li>
+
                   </ul>
                 </li>
 

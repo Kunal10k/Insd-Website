@@ -319,14 +319,15 @@ header.sticky .dropdown-toggle::after {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 8px 22px;
+  padding: 5px 20px;
   height: 100%;
-  border: 1px solid var(--primary-color);
+  border: 1px solid #0000003f;
   border-radius: 50px;
   overflow: hidden;
   background: rgba(255, 255, 255, 0.1);
   color: var(--primary-color);
   text-decoration: none;
+  font-size: 13px;
 }
 
 /* INVISIBLE WIDTH HOLDER */
@@ -440,6 +441,19 @@ header.sticky .dropdown-toggle::after {
   padding: 8px 15px;
   border-radius: 8px;
   transition: background 0.3s ease;
+  text-transform: uppercase;
+  border-radius: 0 !important;
+
+}
+
+.dropdown-item:hover {
+  background: var(--secondary-color1) !important;
+  border-radius: none !important;
+  color: #fff !important;
+}
+
+.dropdown-menu li {
+  border-radius: 0 !important;
 }
 
 .dropdown-item:hover {
@@ -2608,7 +2622,7 @@ textarea {
 .marquee-btn span {
   display: inline-block;
   white-space: nowrap;
-  animation: marqueeMove 6s linear infinite;
+  /* animation: marqueeMove 6s linear infinite; */
 }
 
 /* Animation */
@@ -5103,6 +5117,26 @@ img.img-mg2 {
 
 }
 
+.feature-list {
+  list-style: none;
+  padding: 0;
+}
+
+.feature-list li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.feature-list i {
+  color: #210000;
+  /* green tick */
+  font-size: 18px;
+}
+
+
 .landing_content h1 {
   font-weight: 600;
   margin: 10px 0;
@@ -5210,6 +5244,11 @@ img.img-mg2 {
   box-shadow:
     0 25px 50px rgba(0, 0, 0, 0.12),
     0 10px 20px rgba(0, 0, 0, 0.08);
+
+}
+
+.program-card:hover:nth-child(1) {
+  border-bottom: 2px solid var(--accent-color);
 }
 
 /* Title */
@@ -5405,24 +5444,35 @@ img.img-mg2 {
 
 
 .alumni-container {
-  background: var(--secondary-color1);
+    background: linear-gradient(0deg, rgb(243, 242, 242) 0%, rgb(248, 212, 238) 100%);
+
   padding: var(--global_padding);
   text-align: center;
 
 }
 
 .alumni-container .title {
-  color: #fff !important;
+  color: #000000 !important;
   margin-bottom: 0.3rem !important;
 }
 
+
+
+.alumni-carousel .item img {
+  width: 100%;
+  height: 80px;
+  object-fit: contain;
+  background-color: #fff;
+  border-radius: 13px;
+  padding: 5px;
+}
 
 
 /* ******** mentor-section ************  */
 
 
 .mentor-section {
-  background-color: #fdf5f0;
+  background-color: #f9f9ff;
   padding: var(--global_padding);
   text-align: center;
 }
@@ -5452,10 +5502,10 @@ img.img-mg2 {
 
 .mentor-img img {
   width: 100px !important;
-
   height: auto;
   border-radius: 50%;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-bottom: 7px solid #ffbd03;
 }
 
 
@@ -5551,6 +5601,7 @@ img.img-mg2 {
   color: #ff9d00;
   /* Star color */
   font-size: 20px;
+  display: flex;
 }
 
 
@@ -5624,7 +5675,27 @@ img.img-mg2 {
 
 .v-stats-wrapper {
   padding: var(--global_padding);
+  background-image: url('https://img.freepik.com/free-photo/lonely-tropicaltree-valley-nelliyampathy-hills-kerala-india_181624-42442.jpg?t=st=1767164287~exp=1767167887~hmac=dd64bca22965a2fc9ab4757b7af68454e79729ab3105bc9854ecdeb0acf71e05&w=1060');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  background-attachment: fixed;
 
+}
+
+.v-stats-wrapper::after {
+  content: '';
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #ffffffde;
+  position: absolute;
+}
+
+.v-stats-wrapper .container {
+  position: relative;
+  z-index: 99;
 }
 
 .v-stats-grid {
@@ -5641,13 +5712,17 @@ img.img-mg2 {
   text-align: center;
   flex: 1;
   min-width: 200px;
+  border: 1px double #0000001f;
+  border-radius: 10px;
+  padding: 35px;
 }
 
 .v-number-box {
-  color: #1a2333;
+  color: #000000;
   font-weight: 700;
-  font-size: 52px;
+  font-size: 45px;
   line-height: 1;
+
 }
 
 .v-plus {
@@ -5669,15 +5744,21 @@ img.img-mg2 {
 /* **** Landing Footer ***  */
 
 
+/* Footer Wrapper */
 .minimal-f {
   position: relative;
-  padding: 40px 20px;
-  background: #fff;
-  font-family: sans-serif;
+  padding: 60px 20px 40px;
+  /* background: #fff; */
+  /* font-family: Arial, sans-serif; */
   overflow: hidden;
+
+  background-image: url(../img/sliderbg.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 2rem;
 }
 
-/* বড় এবং হালকা INSD লেখা */
+/* Big background text */
 .bg-text-insd {
   position: absolute;
   bottom: -10px;
@@ -5686,50 +5767,122 @@ img.img-mg2 {
   font-size: 15vw;
   font-weight: 900;
   color: rgba(0, 82, 204, 0.05);
-  /* হালকা নীল রঙ */
-  z-index: 1;
   text-transform: uppercase;
+  z-index: 1;
   pointer-events: none;
+  white-space: nowrap;
 }
 
+/* Content wrapper */
 .f-content {
   position: relative;
   z-index: 2;
-  max-width: 1000px;
+  /* max-width: 1000px; */
   margin: 0 auto;
+  text-align: center;
 }
 
+.f-social {
+  display: flex;
+  gap: 14px;
+}
+
+.f-social .social {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 16px;
+  transition: 0.3s ease;
+}
+
+/* Individual Colors */
+.f-social .fb {
+  background: #1877f2;
+}
+
+.f-social .insta {
+  background: radial-gradient(circle at 30% 107%,
+      #fdf497 0%, #fdf497 5%,
+      #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
+
+.f-social .x {
+  background: #000;
+}
+
+.f-social .yt {
+  background: #ff0000;
+}
+
+/* Hover Effect */
+.f-social .social:hover {
+  transform: translateY(-4px);
+  opacity: 0.85;
+}
+
+
+/* Main flex */
 .f-main {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
   margin-bottom: 30px;
 }
 
+/* Brand */
+.f-brand {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .f-logo {
-  height: 40px;
+  height: 60px;
   margin-bottom: 10px;
 }
 
 .f-brand p {
   color: #666;
   font-size: 14px;
-  max-width: 250px;
+  max-width: 260px;
+}
+
+/* Links */
+.f-links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+}
+
+.f-links {
+  color: #000;
+  font-weight: 500;
 }
 
 .f-links a {
-  display: block;
   text-decoration: none;
   color: #333;
   font-size: 14px;
   margin-bottom: 8px;
+  transition: color 0.3s;
 }
 
+.f-links a:hover {
+  color: #0052cc;
+}
+
+/* Bottom */
 .f-bottom {
-  border-top: 1px solid #eee;
-  padding-top: 20px;
+  /* border-top: 1px solid #eee;
+  padding-top: 20px; */
   font-size: 12px;
-  color: #888;
+  color: #000000;
 }
 
 .small-text {
@@ -5737,11 +5890,11 @@ img.img-mg2 {
   opacity: 0.8;
 }
 
-/* মোবাইলের জন্য */
+/* Mobile responsive */
 @media (max-width: 600px) {
   .f-main {
     flex-direction: column;
-    gap: 20px;
+    gap: 25px;
   }
 }
 
@@ -5778,7 +5931,7 @@ img.img-mg2 {
 .flip-card-back {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 300px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   border-radius: 15px;
