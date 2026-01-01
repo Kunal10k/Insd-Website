@@ -325,10 +325,6 @@
                     class="img-fluid" alt="">
             </div>
 
-            <div class="item">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzYwpe61avmUq2ulP6hB6I5t2vXTRc0OHugQ&s"
-                    class="img-fluid" alt="">
-            </div>
 
             <!-- Repeat logos as needed -->
             <div class="item">
