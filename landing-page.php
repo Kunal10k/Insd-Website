@@ -8,22 +8,45 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="landing_content">
-                        <h5>Master New-Age Marketing & Grow Brands​</h5>
-                        <h1>Online Master of <br>
-                            Business Administration <br>
-                            (MBA) – Digital Marketing
+                        <h5>Join the Next Generation of Elite Fashion Designers​</h5>
+                        <h1 class="w-75">Launch Your Fashion Career with Kolkata’s Award Winning Design School <br>
+
                             ​</h1>
                         <h6>Avail exclusive benefits</h6>
                         <ul class="feature-list">
                             <li>
                                 <i class="fa-solid fa-circle-check"></i>
-                                Industry-relevant curriculum
+                                Industry-aligned, trend-forward curriculum
+
                             </li>
                             <li>
                                 <i class="fa-solid fa-circle-check"></i>
-                                100% Placement Assistance
+                                Hands-on learning in professional design studios
+
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-circle-check"></i>
+                                Expert guidance from experienced fashion mentors
+
                             </li>
                         </ul>
+
+                        <a href="#" class="btn-animated btn-light1 btn-light8">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Download Browchure</div>
+                                <div class="btn-text-hover">Download Browchure</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+
+
+
+
 
                     </div>
                 </div>
@@ -33,12 +56,13 @@
 
                         <div class="form_content">
                             <div class="content1">
-                                <h6>Step Closer to your MBA</h6>
-                                <h5>Book Your Seats Now!</h5>
+                                <h6>Ready to Begin Your Journey in the Global Fashion Industry?
+                                </h6>
+                                <h5>Connect With Us</h5>
                             </div>
-                            <div class="content2">
+                            <!-- <div class="content2">
                                 <img src="assets/img/form.png" alt="" class="img-fluid">
-                            </div>
+                            </div> -->
                         </div>
 
                         <form action="" method="post" class="landing_form">
@@ -97,15 +121,17 @@
     <div class="cardbox">
         <div class="container">
             <div class="row g-4">
-
                 <!-- Card 1 -->
                 <div class="col-md-4">
                     <div class="program-card">
                         <div class="icon pink">
-                            <i class="bi bi-book"></i>
+                            <i class="bi bi-scissors"></i>
                         </div>
-                        <h5>Master of Science in Biomedical Consultancy</h5>
-                        <p>The Master of Science in Biomedical Communication is a two-year.</p>
+                        <h5>Fashion Designer</h5>
+                        <p>
+                            Master the technical art of building complete collections and
+                            launching your own signature fashion label.
+                        </p>
                     </div>
                 </div>
 
@@ -113,10 +139,13 @@
                 <div class="col-md-4">
                     <div class="program-card">
                         <div class="icon blue">
-                            <i class="bi bi-people"></i>
+                            <i class="bi bi-shop"></i>
                         </div>
-                        <h5>Graduate Diploma in Health Research</h5>
-                        <p>The College of Health Sciences recognizes that it is imperative to evaluate.</p>
+                        <h5>Visual Merchandiser</h5>
+                        <p>
+                            Design high-impact retail spaces that transform shopping into
+                            an immersive and memorable brand experience.
+                        </p>
                     </div>
                 </div>
 
@@ -124,10 +153,13 @@
                 <div class="col-md-4">
                     <div class="program-card">
                         <div class="icon purple">
-                            <i class="bi bi-stack"></i>
+                            <i class="bi bi-stars"></i>
                         </div>
-                        <h5>Summer Undergraduate Research Program</h5>
-                        <p>Undergraduate BSC students and medical students (who do not hold a graduate).</p>
+                        <h5>Fashion Stylist</h5>
+                        <p>
+                            Shape the visual identity of brands through editorial,
+                            celebrity, and high-profile fashion styling.
+                        </p>
                     </div>
                 </div>
 
@@ -147,71 +179,78 @@
 
             <!-- Left Image -->
             <div class="col-lg-4 text-center text-lg-start">
-                <img src="assets/img/lg.png" alt="Student" class="img-fluid edu-image">
+                <img src="assets/img/fashion png-min.png" alt="Student" class="img-fluid edu-image">
             </div>
 
             <!-- Right Content -->
             <div class="col-lg-8 edu-content">
                 <span class="sub-head text-center  ">WHY CHOOSE US</span>
                 <h2 class="edu-heading title ">
-                    Discover the Distinct <br>
-                    Advantages of Our <span>Online Courses</span>
+                    Where Your Creative Vision Gets a
+                    <span>Professional Edge </span>
                 </h2>
-
                 <div class="custom-info-section py-5">
                     <div class="row row-cols-1 row-cols-md-2 g-5 position-relative">
 
-
-
+                        <!-- Feature 1 -->
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
-                                <i class="fa-solid fa-chart-line fa-2x text-warning-custom"></i>
+                                <i class="fa-solid fa-trophy fa-2x text-warning-custom"></i>
                             </div>
                             <div>
-                                <h5 class="feature-heading">High-growth career opportunities</h5>
-                                <p class="feature-description">Unlock leadership roles dynamic digital marketing
-                                    industry by mastering essential skills for strategic growth and impact in the
-                                    field.</p>
+                                <h5 class="feature-heading">Record-Breaking Excellence</h5>
+                                <p class="feature-description">
+                                    Learn at an award-winning institution recognized by the India Book of Records
+                                    for redefining modern fashion and design education standards.
+                                </p>
                             </div>
                         </div>
 
+                        <!-- Feature 2 -->
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
-                                <i class="fa-solid fa-arrow-up-right-dots fa-2x text-warning-custom"></i>
+                                <i class="fa-solid fa-briefcase fa-2x text-warning-custom"></i>
                             </div>
                             <div>
-                                <h5 class="feature-heading">Gain domain expertise</h5>
-                                <p class="feature-description">Gain expertise in consumer behavior, digital
-                                    branding, e-marketing, campaign management, and growth strategies.</p>
+                                <h5 class="feature-heading">Direct Industry Pipelines</h5>
+                                <p class="feature-description">
+                                    Secure your future with 100% placement support and access to global fashion
+                                    giants like Marks & Spencer, Benetton, and JJ Valaya.
+                                </p>
                             </div>
                         </div>
 
+                        <!-- Feature 3 -->
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
-                                <i class="fa-solid fa-bullseye fa-2x text-warning-custom"></i>
+                                <i class="fa-solid fa-person-walking-luggage fa-2x text-warning-custom"></i>
                             </div>
                             <div>
-                                <h5 class="feature-heading">Thrive in the digital marketing landscape</h5>
-                                <p class="feature-description">Explore career paths in performance marketing,
-                                    influencer marketing, e-commerce, paid advertising, and analytics, shaping
-                                    business success in the digital age.</p>
+                                <h5 class="feature-heading">Global Runway Stages</h5>
+                                <p class="feature-description">
+                                    Debut your collections at international showcases and Times Fashion Week
+                                    alongside renowned designers and celebrities.
+                                </p>
                             </div>
                         </div>
 
+                        <!-- Feature 4 -->
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
-                                <i class="fa-solid fa-wand-magic-sparkles fa-2x text-warning-custom"></i>
+                                <i class="fa-solid fa-scissors fa-2x text-warning-custom"></i>
                             </div>
                             <div>
-                                <h5 class="feature-heading">In-demand skills for success</h5>
-                                <p class="feature-description">Master essential skills like SEO, PPC, social media
-                                    strategy, email marketing, and marketing automation to stay ahead in the
-                                    industry.</p>
+                                <h5 class="feature-heading">Advanced Studio Training</h5>
+                                <p class="feature-description">
+                                    Master your craft through intensive hands-on workshops in state-of-the-art
+                                    studios led by experienced fashion industry veterans.
+                                </p>
                             </div>
                         </div>
 
                     </div>
                 </div>
+
 
 
             </div>
@@ -226,26 +265,26 @@
 
 <section class="histudy-courses ">
     <div class="container text-center">
-        <p class="sub-head text-center cen ">Admission</p>
-        <h2 class="title text-center mb-4">Courses Offered At Histudy <br><span class="histudy-highlight">Medical
-                Institute</span></h2>
+        <!-- <p class="sub-head text-center cen ">Admission</p> -->
+        <h2 class="title text-center mb-4">Industry-Ready Programs for <br><span class="histudy-highlight">Aspiring
+                Designers </span></h2>
 
         <div class="row g-4">
-            <!-- Course Card 1 -->
+
             <div class="col-md-4">
                 <div class="histudy-card shadow-sm p-0">
-                    <img src="https://histudy.pixcelsthemes.com/livepreview/histudy/assets/images/course/medical-course-01.jpg"
-                        class="histudy-card-img" alt="Bloodborne Pathogens">
+                    <img src="assets/img/01.jpg" class="histudy-card-img" alt="Bloodborne Pathogens">
                     <div class="histudy-card-body">
-                        <p class="histudy-meta small mb-1"><i class="fa fa-book"></i> 07 Lessons &nbsp; <i
-                                class="fa fa-user"></i> 01 Students</p>
-                        <h5 class="histudy-card-title">Bloodborne Pathogens</h5>
-                        <p class="histudy-card-text">Orem Ipsum is that it has a more-or-less normal distribution of
-                            letters.</p>
+                        <!-- <p class="histudy-meta small mb-1"><i class="fa fa-book"></i> 07 Lessons &nbsp; <i
+                                class="fa fa-user"></i> 01 Students</p> -->
+                        <h5 class="histudy-card-title mt-3">Under graduation Programme </h5>
+                        <p class="histudy-card-text">B.DES in Fashion Design <br>
+                            B.Voc in Fashion Design
+                        </p>
                         <div class="d-flex justify-content-between align-items-center mb-2">
                             <div class="histudy-rating ">★★★★☆ (56 Reviews)</div>
-                            <div class="histudy-price"><span class="fw-bold text-dark">$80</span> <del
-                                    class="text-muted">$160</del></div>
+                            <!-- <div class="histudy-price"><span class="fw-bold text-dark">$80</span> <del
+                                    class="text-muted">$160</del></div> -->
                         </div>
                         <a href="#" class="histudy-btn-link p-0">Enroll Course →</a>
                     </div>
@@ -253,18 +292,18 @@
             </div>
             <div class="col-md-4">
                 <div class="histudy-card shadow-sm p-0">
-                    <img src="https://histudy.pixcelsthemes.com/livepreview/histudy/assets/images/course/medical-course-01.jpg"
-                        class="histudy-card-img" alt="Bloodborne Pathogens">
+                    <img src="assets/img/04.jpg" class="histudy-card-img" alt="Bloodborne Pathogens">
                     <div class="histudy-card-body">
-                        <p class="histudy-meta small mb-1"><i class="fa fa-book"></i> 07 Lessons &nbsp; <i
-                                class="fa fa-user"></i> 01 Students</p>
-                        <h5 class="histudy-card-title">Bloodborne Pathogens</h5>
-                        <p class="histudy-card-text">Orem Ipsum is that it has a more-or-less normal distribution of
-                            letters.</p>
+                        <!-- <p class="histudy-meta small mb-1"><i class="fa fa-book"></i> 07 Lessons &nbsp; <i
+                                class="fa fa-user"></i> 01 Students</p> -->
+                        <h5 class="histudy-card-title mt-3">Diploma Programme </h5>
+                        <p class="histudy-card-text">Adv Diploma in Fashion Design<br>
+                            Adv Diploma in Fashion Design
+                        </p>
                         <div class="d-flex justify-content-between align-items-center mb-2">
-                            <div class="histudy-rating ">★★★★☆ (56 Reviews)</div>
-                            <div class="histudy-price"><span class="fw-bold text-dark">$80</span> <del
-                                    class="text-muted">$160</del></div>
+                            <div class="histudy-rating ">★★★★☆ (99 Reviews)</div>
+                            <!-- <div class="histudy-price"><span class="fw-bold text-dark">$80</span> <del
+                                    class="text-muted">$160</del></div> -->
                         </div>
                         <a href="#" class="histudy-btn-link p-0">Enroll Course →</a>
                     </div>
@@ -272,74 +311,33 @@
             </div>
             <div class="col-md-4">
                 <div class="histudy-card shadow-sm p-0">
-                    <img src="https://histudy.pixcelsthemes.com/livepreview/histudy/assets/images/course/medical-course-01.jpg"
-                        class="histudy-card-img" alt="Bloodborne Pathogens">
+                    <img src="assets/img/02.avif" class="histudy-card-img" alt="Bloodborne Pathogens">
                     <div class="histudy-card-body">
-                        <p class="histudy-meta small mb-1"><i class="fa fa-book"></i> 07 Lessons &nbsp; <i
-                                class="fa fa-user"></i> 01 Students</p>
-                        <h5 class="histudy-card-title">Bloodborne Pathogens</h5>
-                        <p class="histudy-card-text">Orem Ipsum is that it has a more-or-less normal distribution of
-                            letters.</p>
+                        <!-- <p class="histudy-meta small mb-1"><i class="fa fa-book"></i> 07 Lessons &nbsp; <i
+                                class="fa fa-user"></i> 01 Students</p> -->
+                        <h5 class="histudy-card-title mt-3">Post graduation Programme </h5>
+                        <p class="histudy-card-text">M.DES in Fashion Design<br>
+                            MBA in Fashion Design <br> M.VOC in Fashion Design
+                        </p>
                         <div class="d-flex justify-content-between align-items-center mb-2">
-                            <div class="histudy-rating ">★★★★☆ (56 Reviews)</div>
-                            <div class="histudy-price"><span class="fw-bold text-dark">$80</span> <del
-                                    class="text-muted">$160</del></div>
+                            <div class="histudy-rating ">★★★★☆ (58 Reviews)</div>
+                            <!-- <div class="histudy-price"><span class="fw-bold text-dark">$80</span> <del
+                                    class="text-muted">$160</del></div> -->
                         </div>
                         <a href="#" class="histudy-btn-link p-0">Enroll Course →</a>
                     </div>
                 </div>
             </div>
+
 
         </div>
 
-        <a href="#" class="btn-animated btn-light">
-            <div class="btn-text-wrap">
-                <div class="btn-text">Discover More</div>
-                <div class="btn-text-hover">Discover More</div>
-            </div>
-            <div class="btn-icon-wrap">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon-hover">
-            </div>
-        </a>
     </div>
 </section>
 
 
 
-<section class="alumni-container">
-    <div class="container p-0">
-        <h1 class="title text-center">Our Alumni Work At</h1>
 
-        <div class="owl-carousel alumni-carousel mt-4">
-
-            <div class="item">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Godrej_Logo.svg/1200px-Godrej_Logo.svg.png"
-                    class="img-fluid" alt="">
-            </div>
-
-            <div class="item">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png"
-                    class="img-fluid" alt="">
-            </div>
-
-
-            <!-- Repeat logos as needed -->
-            <div class="item">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Godrej_Logo.svg/1200px-Godrej_Logo.svg.png"
-                    class="img-fluid" alt="">
-            </div>
-
-            <div class="item">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png"
-                    class="img-fluid" alt="">
-            </div>
-
-        </div>
-    </div>
-</section>
 
 
 
@@ -395,94 +393,34 @@
 </section>
 
 
+<section class="alumni-container">
+    <div class="container p-0">
+        <h1 class="title text-center">Our Recruiter</h1>
 
+        <div class="owl-carousel alumni-carousel mt-4">
 
+            <div class="item">
+                <img src="assets/img/logo/01- (1).png" class="img-fluid" alt="">
+            </div>
+            <div class="item">
+                <img src="assets/img/logo/01- (2).png" class="img-fluid" alt="">
 
+            </div>
+            <div class="item">
+                <img src="assets/img/logo/01- (3).png" class="img-fluid" alt="">
 
+            </div>
+            <div class="item">
+                <img src="assets/img/logo/01- (4).png" class="img-fluid" alt="">
 
+            </div>
+            <div class="item">
+                <img src="assets/img/logo/01- (5).png" class="img-fluid" alt="">
 
-<section class="histudy-features ">
-    <div class="container text-center">
-        <span class="sub-head text-center cen ">HISTUDY FEATURE</span>
-        <h2 class="title">Check out Histudy's features <br> <span>to win any exam</span></h2>
-
-        <div class="row  mt-5">
-
-            <div class="col-md-4">
-                <div class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front card-yellow shadow-sm p-4">
-                            <div class="icon-box mb-3 text-warning">
-                                <img src="https://cdn-icons-png.flaticon.com/512/1041/1041883.png" width="60"
-                                    alt="icon">
-                            </div>
-                            <h5 class="fw-bold">Best Coaching</h5>
-                            <p class="text-muted small">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima
-                                error reiciendis.</p>
-                            <a href="#" class="btn-link mt-auto">Learn More <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                        <div class="flip-card-back card-gradient-1 p-4 text-start">
-                            <ul class="list-unstyled text-white">
-                                <li class="mb-2"><i class="fas fa-play-circle me-2"></i> 370 Free Video</li>
-                                <li class="mb-2"><i class="fas fa-book me-2"></i> 120 Subjects</li>
-                                <li class="mb-2"><i class="fas fa-video me-2"></i> Live Class</li>
-                                <li class="mb-2"><i class="fas fa-question-circle me-2"></i> MCQ and CQ Bank</li>
-                            </ul>
-
-                        </div>
-                    </div>
-                </div>
             </div>
 
-            <div class="col-md-4">
-                <div class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front card-purple-light shadow-sm p-4">
-                            <div class="icon-box mb-3">
-                                <img src="https://cdn-icons-png.flaticon.com/512/2991/2991108.png" width="60"
-                                    alt="icon">
-                            </div>
-                            <h5 class="fw-bold">Convenient practice</h5>
-                            <p class="text-muted small">Convenient practice dolor sit adipisicing elit. Minima error
-                                reiciendis.</p>
-                            <a href="#" class="btn-link mt-auto">Learn More <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                        <div class="flip-card-back card-gradient-2 p-4 text-start">
-                            <ul class="list-unstyled text-white">
-                                <li class="mb-2"><i class="fas fa-edit me-2"></i> Daily Quiz</li>
-                                <li class="mb-2"><i class="fas fa-file-alt me-2"></i> Mock Test</li>
-                                <li class="mb-2"><i class="fas fa-clock me-2"></i> Time Management</li>
-                            </ul>
 
-                        </div>
-                    </div>
-                </div>
-            </div>
 
-            <div class="col-md-4">
-                <div class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front card-pink shadow-sm p-4">
-                            <div class="icon-box mb-3">
-                                <img src="https://cdn-icons-png.flaticon.com/512/4406/4406124.png" width="60"
-                                    alt="icon">
-                            </div>
-                            <h5 class="fw-bold">Video Lecture</h5>
-                            <p class="text-muted small">Video Lecture sit, amet consectetur adipisicing elit. Minima
-                                error reiciendis.</p>
-                            <a href="#" class="btn-link mt-auto">Learn More <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                        <div class="flip-card-back card-gradient-3 p-4 text-start">
-                            <ul class="list-unstyled text-white">
-                                <li class="mb-2"><i class="fas fa-hd me-2"></i> HD Quality</li>
-                                <li class="mb-2"><i class="fas fa-download me-2"></i> Offline View</li>
-                                <li class="mb-2"><i class="fas fa-user-tie me-2"></i> Top Mentors</li>
-                            </ul>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
 
         </div>
     </div>
@@ -490,39 +428,103 @@
 
 
 
-<!-- <section class="feedback-section">
-    <div class="container">
-        <div class="header-text">
-            <p class="sub-head text-center cen ">Education For Everyone</p>
-            <h2 class="title">Student's <span>Feedback</span></h2>
-        </div>
 
-        <div class="owl-carousel feedback-slider mt-4">
-            <div class="feedback-card">
-                <div class="user-info">
-                    <div class="user-img">
-                        <img src="https://histudy.pixcelsthemes.com/livepreview/histudy/assets/images/testimonial/client-01.png"
-                            alt="Martha">
+
+<section class="histudy-features ">
+    <div class="container text-center">
+        <span class="sub-head text-center cen ">Strategic Learning</span>
+        <h2 class="title">Bridging the Gap Between <br> <span> Concept and Creation</span></h2>
+
+        <div class="row mt-5">
+
+            <!-- Card 1 -->
+            <div class="col-md-4">
+                <div class="flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front card-yellow shadow-sm p-4">
+                            <div class="icon-box mb-3 text-warning">
+                                <img src="assets/img/curriculum.png" width="60" alt="icon">
+
+                            </div>
+                            <h5 class="fw-bold">Modern Curriculum</h5>
+                            <p class="text-muted small">
+                                Industry-aligned, trend-forward syllabus designed to meet current market demands.
+                            </p>
+                            <!-- <a href="#" class="btn-link mt-auto">Learn More <i class="fas fa-arrow-right"></i></a> -->
+                        </div>
+
+                        <div class="flip-card-back card-gradient-1 p-4 text-start">
+                            <ul class="list-unstyled text-white">
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Industry Aligned</li>
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Trend Forward</li>
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Market Driven</li>
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Global Standards</li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="user-details">
-                        <h3>Martha Maldonado</h3>
-                        <p>Executive Chairman @ Google</p>
-                    </div>
-                    <div class="quote-mark">
-                        <i class="fas fa-quote-right"></i>
-                    </div>
-                </div>
-                <div class="feedback-text">
-                    <p>After the launch, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit nisi.
-                        Vestibulum eget risus velit. Lorem Ipsum is simply dummy text of the printing.</p>
-                </div>
-                <div class="rating">
-                    <span>★★★★</span>
                 </div>
             </div>
+
+            <!-- Card 2 -->
+            <div class="col-md-4">
+                <div class="flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front card-purple-light shadow-sm p-4">
+                            <div class="icon-box mb-3">
+                                <img src="assets/img/studio.png" width="60" alt="icon">
+                            </div>
+                            <h5 class="fw-bold">Professional Studios</h5>
+                            <p class="text-muted small">
+                                Hands-on learning experience in high-end professional studio environments.
+                            </p>
+                            <!-- <a href="#" class="btn-link mt-auto">Learn More <i class="fas fa-arrow-right"></i></a> -->
+                        </div>
+
+                        <div class="flip-card-back card-gradient-2 p-4 text-start">
+                            <ul class="list-unstyled text-white">
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Hands-on Learning</li>
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Advanced Equipment</li>
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Creative Environment</li>
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Technical Spaces</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="col-md-4">
+                <div class="flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front card-pink shadow-sm p-4">
+                            <div class="icon-box mb-3">
+                                <img src="assets/img/leadership-development.png" width="60" alt="icon">
+                            </div>
+                            <h5 class="fw-bold">Expert Mentorship</h5>
+                            <p class="text-muted small">
+                                Personalized guidance from experienced professionals to shape your creative career.
+                            </p>
+                            <!-- <a href="#" class="btn-link mt-auto">Learn More <i class="fas fa-arrow-right"></i></a> -->
+                        </div>
+
+                        <div class="flip-card-back card-gradient-3 p-4 text-start">
+                            <ul class="list-unstyled text-white">
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Professional Guidance</li>
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Industry Veterans</li>
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Personalized Training</li>
+                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Expert Insights</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
+
     </div>
-</section> -->
+</section>
+
+
 
 
 <section class="student-test">
@@ -855,39 +857,43 @@
 
 <section class="v-stats-wrapper">
     <div class="container">
-        <!-- <h2 class="title text-center">Creating A Community Of Long
-            Life <br><span> Learners</span></h2> -->
+
         <div class="v-stats-grid mt-4">
 
+            <!-- Stat 1 -->
             <div class="v-stats-card">
                 <div class="v-number-box">
-                    <span class="v-count-number" data-goal="500">0</span><span class="v-plus">+</span>
+                    <span class="v-count-number" data-goal="300">0</span><span class="v-plus">+</span>
                 </div>
-                <p class="v-stats-label">LEARNERS & COUNTING</p>
+                <p class="v-stats-label">TRAINING & PLACEMENT COMPANIES</p>
             </div>
 
+            <!-- Stat 2 -->
             <div class="v-stats-card">
                 <div class="v-number-box">
-                    <span class="v-count-number" data-goal="800">0</span><span class="v-plus">+</span>
+                    <span class="v-count-number" data-goal="11">0</span><span class="v-plus">L</span>
                 </div>
-                <p class="v-stats-label">COURSES & VIDEO</p>
+                <p class="v-stats-label">HIGHEST PACKAGE</p>
             </div>
 
+            <!-- Stat 3 -->
             <div class="v-stats-card">
                 <div class="v-number-box">
-                    <span class="v-count-number" data-goal="1000">0</span><span class="v-plus">+</span>
+                    <span class="v-count-number" data-goal="100">0</span><span class="v-plus">%</span>
                 </div>
-                <p class="v-stats-label">CERTIFIED STUDENTS</p>
+                <p class="v-stats-label">PLACEMENT ASSISTANCE</p>
             </div>
 
+            <!-- Stat 4 -->
             <div class="v-stats-card">
                 <div class="v-number-box">
-                    <span class="v-count-number" data-goal="100">0</span><span class="v-plus">+</span>
+                    <span class="v-count-number" data-goal="15000">0</span><span class="v-plus">+</span>
                 </div>
-                <p class="v-stats-label">CERTIFIED STUDENTS</p>
+                <p class="v-stats-label">STUDENTS GRADUATED</p>
             </div>
 
         </div>
+
     </div>
 </section>
 
@@ -897,15 +903,15 @@
 
             <!-- Left Content -->
             <div class="career-left">
-                <span class="career-label">BOOST YOUR CAREER</span>
+                <span class="career-label">Get Involved</span>
                 <h1 class="career-title">
-                    Advance your knowledge,<br>
-                    achieve greater opportunities
+                    Ready to Begin Your Journey in the
+                    Global Fashion Industry?
                 </h1>
                 <a href="#" class="btn-animated btn-light">
                     <div class="btn-text-wrap">
-                        <div class="btn-text">Discover More</div>
-                        <div class="btn-text-hover">Discover More</div>
+                        <div class="btn-text">Connect with Us </div>
+                        <div class="btn-text-hover">Connect with Us </div>
                     </div>
                     <div class="btn-icon-wrap">
                         <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
@@ -932,39 +938,79 @@
 <footer class="cu-footer">
     <div class="container">
         <div class="footer-content">
+
+            <!-- LEFT -->
             <div class="footer-left">
-                <img src="assets/img/cropped-logo-1-1-2.png" alt="CU Online Logo" class="footer-logo">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>Commodi maxime vel, quos quia dolor
-                    earum?
+                <img src="assets/img/cropped-logo-1-1-2.png" alt="INSD Kolkata Logo" class="footer-logo">
+                <p>
+                    INSD Kolkata stands at the forefront of design education in Eastern India, combining visionary
+                    academics with hands-on industry exposure.<br><br>
+                    International School of Design under aegis of Shree Jeen Education Centre.
                 </p>
             </div>
-            <div class="footer-center">
-                <p><strong>Chandigarh University</strong></p>
-                <p>Address: NH-05 Chandigarh-Ludhiana Highway, Mohali, Punjab (INDIA)</p>
-                <div class="social-icons">
-                    <a href="https://www.facebook.com/" target="_blank" class="facebook"><i
-                            class="fab fa-facebook-f"></i></a>
-                    <a href="https://www.instagram.com/" target="_blank" class="instagram"><i
-                            class="fab fa-instagram"></i></a>
-                    <a href="https://twitter.com/" target="_blank" class="twitter"><i class="fab fa-twitter"></i></a>
-                </div>
 
+            <!-- CENTER -->
+            <div class="footer-center">
+                <p><strong>INSD Kolkata</strong></p>
+
+                <p>
+                    1st Floor, Plot No. JL-9, EP Block,<br>
+                    Sector V, Kolkata, West Bengal – 700091
+                </p>
+
+                <p>
+                    <i class="fas fa-phone-alt"></i>
+                    <a href="tel:+916290905125">+91 6290905125</a> |
+                    <a href="tel:+916291065177">+91 6291065177</a>
+                </p>
+
+                <p>
+                    <i class="fas fa-envelope"></i>
+                    <a href="mailto:enquiry@insdkolkata.com">enquiry@insdkolkata.com</a>
+                </p>
+
+                <p>
+                    <i class="fas fa-info-circle"></i>
+                    <a href="mailto:info@insdkolkata.com">info@insdkolkata.com</a>
+                </p>
+
+                <!-- SOCIAL ICONS -->
+                <div class="social-icons">
+                    <a href="https://www.facebook.com/" target="_blank" class="facebook">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="https://www.instagram.com/" target="_blank" class="instagram">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="https://twitter.com/" target="_blank" class="twitter">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a href="https://wa.me/916290905125" target="_blank" class="whatsapp">
+                        <i class="fab fa-whatsapp"></i>
+                    </a>
+                </div>
             </div>
+
         </div>
+
         <hr class="alen">
+
+        <!-- BOTTOM -->
         <div class="footer-bottom">
-            <p>© 2025 Chandigarh University. All rights reserved</p>
+            <p>© 2026 INSD Kolkata. All rights reserved.</p>
         </div>
     </div>
-    <div class="marquee-wrapper">
+
+    <!-- MARQUEE -->
+    <!-- <div class="marquee-wrapper">
         <p class="marquee-text">
             <strong>
-                Admissions are open for Jan'26 Session. Enroll today & avail upto 25% early-bird scholarships!
+                Admission Open for Session 2026–27
             </strong>
         </p>
-    </div>
-
+    </div> -->
 </footer>
+
 
 
 

@@ -57,7 +57,63 @@
 </section>
 
 
-<div class="course-sec">
+<section class="lp-section">
+    <div class="lp-container">
+
+        <!-- LEFT CONTENT -->
+        <div class="lp-left">
+            <span class="lp-badge">BEST PLACE FOR LEARNING</span>
+
+            <h2 class="lp-title">
+                Learning paths built for<br>
+                your success
+            </h2>
+
+            <p class="lp-desc">
+                Discover structured courses tailored to your goals, guiding you
+                step by step toward mastery and lasting success.
+            </p>
+
+            <div class="lp-feature mt-5 ">
+                <span class="lp-icon">◆</span>
+                <div>
+                    <h4>Skill-based instruction</h4>
+                    <p>
+                        Gain practical knowledge through expert-led lessons
+                        focused on real-world applications.
+                    </p>
+                </div>
+            </div>
+
+            <div class="lp-feature">
+                <span class="lp-icon">◆</span>
+                <div>
+                    <h4>Global certification</h4>
+                    <p>
+                        Earn industry-recognized certifications that validate
+                        your skills worldwide.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- RIGHT CONTENT -->
+        <div class="lp-right">
+            <div class="lp-image-card large">
+                <img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e" alt="">
+            </div>
+
+            <div class="lp-image-card small">
+                <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" alt="">
+                <a href="#" class="lp-btn">Learn today →</a>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+<section class="course-sec">
     <div class="container">
         <div class="row">
             <div class="col-md-5">
@@ -78,16 +134,13 @@
             <ul class="nav nav-pills justify-content-center mb-4" id="libraryTabs" role="tablist">
                 <li class="nav-item" role="presentation">
                     <button class="nav-link active" id="research-tab1" data-bs-toggle="pill" data-bs-target="#research1"
-                        type="button" role="tab">Eligibility <span>Criteria</button>
+                        type="button" role="tab"> <span>Mission</button>
                 </li>
                 <li class="nav-item" role="presentation">
                     <button class="nav-link" id="innovation-tab1" data-bs-toggle="pill" data-bs-target="#innovation1"
-                        type="button" role="tab">Admission Process</button>
+                        type="button" role="tab">Vission</button>
                 </li>
-                <!-- <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="community-tab1" data-bs-toggle="pill" data-bs-target="#community1"
-                        type="button" role="tab">Fee structure</button>
-                </li> -->
+
             </ul>
 
             <!-- Tab Content -->
@@ -95,51 +148,26 @@
                 <!-- Research -->
                 <div class="tab-pane fade show active" id="research1" role="tabpanel">
 
-                  
+
 
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <img src="assets/img/insdimage.jpeg" alt="">
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-8">
                             <div class="eligibility-sec">
                                 <div class="container">
-                                    <h2 class="title ">Eligibility <span>Criteria</span> </h2>
+                                    <!-- <h2 class="title ">Eligibility <span>Criteria</span> </h2> -->
 
-                                    <h3 class="eligibility-heading">Academic Requirements</h3>
+                                    <!-- <h3 class="eligibility-heading">Academic Requirements</h3> -->
                                     <p class="para">
-                                        Class X & XII Marks: Submit your expected or final marks from recognized boards
-                                        such as CBSE, ISC, IB, or IGCSE.
+                                        To develop a professional design education ecosystem that prepares students for
+                                        meaningful and sustainable careers in the global creative industry.
                                     </p>
 
-                                    <h3 class="eligibility-heading">General Qualities We Look For:</h3>
 
-                                    <ul class="eligibility-list">
-                                        <li>
-                                            <span class="check-icon"><i class="fa-solid fa-check"></i></span>
-                                            <p><strong>Curiosity:</strong> A genuine eagerness to learn and explore new
-                                                ideas.</p>
-                                        </li>
 
-                                        <li>
-                                            <span class="check-icon"><i class="fa-solid fa-check"></i></span>
-                                            <p><strong>Humility:</strong> A willingness to learn from every situation
-                                                and person.</p>
-                                        </li>
 
-                                        <li>
-                                            <span class="check-icon"><i class="fa-solid fa-check"></i></span>
-                                            <p><strong>Commitment to Learning:</strong> A strong desire to build skills
-                                                that make a difference.</p>
-                                        </li>
-
-                                        <li>
-                                            <span class="check-icon"><i class="fa-solid fa-check"></i></span>
-                                            <p><strong>Passion:</strong> Show us what drives you. Whether it’s business,
-                                                design, technology, music, food, art, or engineering, we value genuine
-                                                passion for your craft.</p>
-                                        </li>
-                                    </ul>
 
 
 
@@ -148,15 +176,7 @@
 
                         </div>
                     </div>
-                    <!-- 
-                                                        <h3 class="eligibility-heading">For Design Courses</h3>
-                                    <p class="para">
-                                        Admission is based on selection through our <strong>Design Assessment Form.</strong>
-                                    </p>
 
-                                    <p class="para">
-                                        Fill the form, complete the short assessment, and our team will review your submission to make the final admission decision.
-                                    </p> -->
 
                 </div>
 
@@ -164,49 +184,25 @@
                 <div class="tab-pane fade" id="innovation1" role="tabpanel">
 
 
-                
+
 
                     <div class="row">
 
-                        <div class="col-md-6">
+                        <div class="col-md-8">
                             <div class="eligibility-sec">
                                 <div class="container">
-                                    <h2 class="title ">Admission <span>Process</span> </h2>
+                                    <!-- <h2 class="title ">Admission <span>Process</span> </h2> -->
 
-                                    <h3 class="eligibility-heading">Academic Requirements</h3>
+                                    <!-- <h3 class="eligibility-heading">Academic Requirements</h3> -->
                                     <p class="para">
-                                        Class X & XII Marks: Submit your expected or final marks from recognized boards
-                                        such as CBSE, ISC, IB, or IGCSE.
+                                        To deliver structured and industry-aligned design education focused on practical
+                                        learning, portfolio development, and professional readiness, while supporting
+                                        students in long-term creative and career growth.
                                     </p>
 
-                                    <h3 class="eligibility-heading">General Qualities We Look For:</h3>
 
-                                    <ul class="eligibility-list">
-                                        <li>
-                                            <span class="check-icon"><i class="fa-solid fa-check"></i></span>
-                                            <p><strong>Curiosity:</strong> A genuine eagerness to learn and explore new
-                                                ideas.</p>
-                                        </li>
 
-                                        <li>
-                                            <span class="check-icon"><i class="fa-solid fa-check"></i></span>
-                                            <p><strong>Humility:</strong> A willingness to learn from every situation
-                                                and person.</p>
-                                        </li>
 
-                                        <li>
-                                            <span class="check-icon"><i class="fa-solid fa-check"></i></span>
-                                            <p><strong>Commitment to Learning:</strong> A strong desire to build skills
-                                                that make a difference.</p>
-                                        </li>
-
-                                        <li>
-                                            <span class="check-icon"><i class="fa-solid fa-check"></i></span>
-                                            <p><strong>Passion:</strong> Show us what drives you. Whether it’s business,
-                                                design, technology, music, food, art, or engineering, we value genuine
-                                                passion for your craft.</p>
-                                        </li>
-                                    </ul>
 
 
 
@@ -214,7 +210,7 @@
                             </div>
 
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <img src="assets/img/contactinsd.jpeg" alt="">
                         </div>
                     </div>
@@ -278,7 +274,51 @@
             </div>
         </div>
     </div>
-</div>
+</section>
+
+
+
+<section class="founder-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="assets/img/Gemini_Generated_Image_2t3ckk2t3ckk2t3c-min.png" alt="Founder"
+                    class="founder-img img-fluid ">
+            </div>
+            <div class="col-md-6 cxzs">
+                <div class="founder-card">
+                    <div class="founder-info">
+                        <h3>Simon Sinek</h3>
+                        <p class="designation">Founder & Leadership Expert</p>
+
+                        <p class="founder-quote">
+                            “Every week from my kitchen table I talk with people that inspire me about love, life,
+                            leadership
+                            and silver linings.”
+                        </p>
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Apply to Join</div>
+                                <div class="btn-text-hover">Apply to Join</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>
+</section>
+
 
 
 <?php include 'inside/footer.php' ?>

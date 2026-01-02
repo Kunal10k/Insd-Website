@@ -174,6 +174,19 @@
                   </a>
                 </li> -->
 
+
+
+                <li class="nav-item">
+                  <a href="" class="nav-link">
+
+                    <span class="nav-btn-spacer">Campus Life</span>
+
+                    <span class="nav-btn-text">Campus Life</span>
+                    <span class="nav-btn-text-hover">Campus Life</span>
+                  </a>
+                </li>
+
+
                 <li class="nav-item dropdown">
                   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
 
@@ -192,17 +205,17 @@
                 </li>
 
 
+
+
                 <li class="nav-item">
                   <a href="" class="nav-link">
 
-                    <span class="nav-btn-spacer">Campus lifo</span>
+                    <span class="nav-btn-spacer">Apply Now</span>
 
-                    <span class="nav-btn-text">Campus lifo</span>
-                    <span class="nav-btn-text-hover">Campus lifo</span>
+                    <span class="nav-btn-text">Apply Now</span>
+                    <span class="nav-btn-text-hover">Apply Now</span>
                   </a>
                 </li>
-
-
 
               </ul>
 
@@ -237,11 +250,13 @@
                 </div>
               </a> -->
 
-            <div class="rbt-btn-wrapper d-none d-xl-block">
+            <!-- <div class="rbt-btn-wrapper d-none d-xl-block">
               <a class="rbt-btn marquee-btn" href="contact.php">
-                <span>Enroll Now</span>
+                <span>Apply Now</span>
               </a>
-            </div>
+            </div> -->
+
+            <!-- 
             <!-- <div class="rbt-btn-wrapper d-none d-xl-block">
     <a class="rbt-btn marquee-btn gradient-border-btn" href="#">
         <span>Purchase Now</span>
