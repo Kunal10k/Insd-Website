@@ -6391,3 +6391,71 @@ alumni-carousel .item img {
 
 
 /* **** btn ***  */
+
+/* *** awards section ******  */
+.awards-section {
+  padding: var(--global_padding);
+  background: #ffffff;
+}
+
+.awards-slider {
+  margin: 50px auto 0 auto;
+
+}
+
+.section-title h2 {
+  font-size: 34px;
+  font-weight: 600;
+  color: #111827;
+}
+
+.section-title p {
+  max-width: 720px;
+  margin: 14px auto 45px;
+  color: #4b5563;
+  font-size: 15px;
+}
+
+.award-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 22px;
+  gap: 20px;
+  transition: all 0.25s ease;
+  background: #fff;
+  margin-bottom: 15px;
+}
+
+.award-card:hover {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+  border-color: #d1d5db;
+}
+
+.award-img {
+  flex: 0 0 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background: #f9fafb;
+}
+
+.award-img img {
+  max-width: 45px;
+  max-height: 45px;
+  object-fit: contain;
+}
+
+.award-content h5 {
+  font-size: 16.5px;
+  font-weight: 500;
+  margin-bottom: 6px;
+  color: #111827;
+}
+
+.award-content p {
+  font-size: 14.5px;
+  color: #6b7280;
+  line-height: 1.5;
+}

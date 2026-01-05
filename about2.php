@@ -321,4 +321,177 @@
 
 
 
+<section class="affi">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-xl-4">
+
+                <h5 class="sub-head ">Affiliations</h5>
+                <h2 class="title ">Our Affiliations & <br> <span>Accreditations</span></h2>
+
+                <p class="para  pb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+
+
+            </div>
+            <div class="col-lg-12 col-xl-8">
+                <div class="grid-container">
+
+                    <div class="grid-item">
+                        <img src="assets/img/affi.webp" alt="">
+                        <h3>Affiliations One</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+
+                    <div class="grid-item">
+                        <img src="assets/img/affi.webp" alt="">
+                        <h3>Affiliations Two</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+
+                    <div class="grid-item">
+                        <img src="assets/img/affi.webp" alt="">
+                        <h3>Affiliations Three</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="awards-section">
+    <div class="container">
+        <div class="section-title text-center">
+            <h2 class="title ">Awards & <span>Recognition</span></h2>
+            <p>
+                INSD Kolkata has been recognised across academic and industry platforms
+                for its contribution to professional design education and institutional development.
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-8">
+
+                <div class="swiper awards-slider  ">
+                    <div class="swiper-wrapper">
+
+                        <!-- Award Card -->
+                        <div class="swiper-slide">
+                            <div class="award-card d-flex align-items-center">
+                                <div class="award-img">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/8092/8092389.png" alt="Award">
+                                </div>
+                                <div class="award-content">
+                                    <h5>Best Design Institute</h5>
+                                    <p>Recognised for excellence in professional design education.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="award-card d-flex align-items-center">
+                                <div class="award-img">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/8092/8092389.png" alt="Award">
+                                </div>
+                                <div class="award-content">
+                                    <h5>Academic Excellence Award</h5>
+                                    <p>Awarded for innovative curriculum and academic standards.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="award-card d-flex align-items-center">
+                                <div class="award-img">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/8092/8092389.png" alt="Award">
+                                </div>
+                                <div class="award-content">
+                                    <h5>Industry Collaboration Award</h5>
+                                    <p>Honoured for strong industry and institutional partnerships.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <img src="assets/img/fashion png-min.png" alt="" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section class="client">
+    <div class="container">
+        <h5 class="sub-head text-center cen">Partners</h5>
+        <h2 class="title text-center">Our Training And <span>Placement Partners</span></h2>
+
+        <p class="para text-center pb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+
+        <div class="container">
+            <div class="owl-carousel client-carousel">
+                <div class="item">
+                    <img src="assets/img/goodrej-1.png" alt="Apollo Hospitals">
+                </div>
+                <div class="item">
+                    <img src="assets/img/goodrej-2.png" alt="Fortis Hospitals">
+                </div>
+                <div class="item">
+                    <img src="assets/img/goodrej-3.png" alt="Narayana NH Group">
+                </div>
+                <div class="item">
+                    <img src="assets/img/goodrej-4.png" alt="Manipal Hospitals">
+                </div>
+                <div class="item">
+                    <img src="assets/img/goodrej-5.png" alt="CMRI">
+                </div>
+                <div class="item">
+                    <img src="assets/img/goodrej-6.png" alt="ck birla">
+                </div>
+                <div class="item">
+                    <img src="assets/img/goodrej.png" alt="ck birla">
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<script>
+    new Swiper(".awards-slider", {
+        slidesPerView: 3,
+        spaceBetween: 24,
+        loop: true,
+        autoplay: {
+            delay: 3500,
+            disableOnInteraction: false,
+        },
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        breakpoints: {
+            0: {
+                slidesPerView: 1
+            },
+            768: {
+                slidesPerView: 2
+            },
+            992: {
+                slidesPerView: 3
+            },
+        }
+    });
+</script>
+
+
 <?php include 'inside/footer.php' ?>
