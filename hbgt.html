@@ -1,245 +1,194 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Synchronized Testimonial Marquee</title>
-<style>
-body {
-  font-family: 'Poppins', sans-serif;
-  background: #f5f7fb;
-  padding: 50px 0;
-  overflow-x: hidden;
-  color: #333;
-}
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Horizontal Scholarship Card</title>
+  <style>
+    /* ফন্ট এবং পেজ সেটআপ */
+    body {
+      background-color: #eef2f7;
+      margin: 0;
+      padding: 20px;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
 
-h2 {
-  margin-left: 20px;
-  font-weight: 600;
-  color: #1e293b;
-}
+    /* মেইন কার্ড কন্টেইনার */
+    .scholarship-card {
+      background: white;
+      display: flex;
+      /* ছবি এবং লেখা পাশাপাশি করার জন্য */
+      flex-direction: row;
+      max-width: 850px;
+      width: 100%;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+    }
 
-/* Marquee container */
-.marquee-container {
-  overflow: hidden;
-  width: 100%;
-  position: relative;
-  padding: 30px 0;
-  margin-bottom: 50px;
-}
+    /* বাম পাশের ইমেজের অংশ */
+    .image-side {
+      flex: 1;
+      position: relative;
+      min-height: 300px;
+    }
 
-/* Marquee track */
-.marquee-track {
-  display: flex;
-  width: max-content;
-  gap: 20px;
-}
+    .image-side img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      /* ছবি যাতে ফেটে না যায় */
+      display: block;
+    }
 
-/* Both marquees: same duration for sync */
-.marquee-right, .marquee-left {
-  animation-duration: 40s; /* slower */
-  animation-timing-function: linear;
-  animation-iteration-count: infinite;
-}
+    /* ছবির ওপর হালকা ওভারলে টেক্সট */
+    .image-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+      padding: 20px;
+      color: white;
+    }
 
-/* Right-to-left marquee */
-.marquee-right {
-  animation-name: marqueeRight;
-}
+    /* ডান পাশের টেক্সট কন্টেন্ট */
+    .content-side {
+      flex: 1.2;
+      padding: 40px;
+      position: relative;
+    }
 
-/* Left-to-right marquee */
-.marquee-left {
-  animation-name: marqueeLeft;
-}
+    .badge {
+      background: #ffedea;
+      color: #ff4757;
+      padding: 6px 14px;
+      border-radius: 50px;
+      font-size: 12px;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
 
-/* Pause on hover */
-.marquee-right:hover,
-.marquee-left:hover {
-  animation-play-state: paused;
-}
+    .title {
+      font-size: 28px;
+      color: #1a1a1a;
+      margin: 15px 0 10px 0;
+    }
 
-/* Keyframes */
-@keyframes marqueeRight {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
+    .sub-title {
+      color: #7f8c8d;
+      font-size: 16px;
+      margin-bottom: 25px;
+      display: block;
+    }
 
-@keyframes marqueeLeft {
-  0% { transform: translateX(-100%); }
-  100% { transform: translateX(100%); }
-}
+    /* গ্রিড স্টাইল ইনফো (Deadline & Location) */
+    .info-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-bottom: 30px;
+      padding: 20px 0;
+      border-top: 1px solid #f1f1f1;
+      border-bottom: 1px solid #f1f1f1;
+    }
 
-/* Card styles */
-.card {
-  min-width: 280px;
-  max-width: 280px;
-  background: linear-gradient(135deg, #ffffff, #f0f4f8);
-  border-radius: 20px;
-  padding: 25px 20px 20px 20px;
-  box-shadow: 0 15px 30px rgba(0,0,0,0.08);
-  position: relative;
-  flex-shrink: 0;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
+    .info-box span {
+      display: block;
+      font-size: 11px;
+      color: #bdc3c7;
+      text-transform: uppercase;
+      font-weight: bold;
+    }
 
-.card:hover {
-  transform: translateY(-5px) scale(1.03);
-  box-shadow: 0 20px 35px rgba(0,0,0,0.12);
-}
+    .info-box strong {
+      font-size: 16px;
+      color: #2c3e50;
+    }
 
-.card::before {
-  content: "“";
-  font-size: 40px;
-  color: #3b82f6;
-  position: absolute;
-  top: 15px;
-  left: 20px;
-  font-weight: bold;
-}
+    .description {
+      color: #57606f;
+      line-height: 1.6;
+      font-size: 15px;
+      margin-bottom: 30px;
+    }
 
-.card p {
-  margin-top: 25px;
-  font-size: 15px;
-  line-height: 1.5;
-  color: #475569;
-  font-style: italic;
-}
+    /* বাটন ডিজাইন */
+    .btn-apply {
+      display: inline-block;
+      background: #3498db;
+      color: white;
+      padding: 14px 30px;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+      text-align: center;
+    }
 
-/* Star rating */
-.card .rating {
-  margin-top: 10px;
-}
+    .btn-apply:hover {
+      background: #2980b9;
+      box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);
+    }
 
-.card .rating span {
-  color: #facc15;
-  font-size: 16px;
-  margin-right: 2px;
-}
+    /* মোবাইল স্ক্রিনের জন্য রেসপন্সিভ ডিজাইন */
+    @media (max-width: 768px) {
+      .scholarship-card {
+        flex-direction: column;
+        /* মোবাইলে ছবি উপরে এবং লেখা নিচে আসবে */
+        max-width: 400px;
+      }
 
-/* Profile section */
-.card .profile {
-  display: flex;
-  align-items: center;
-  margin-top: 20px;
-}
-
-.card .profile img {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  border: 2px solid #3b82f6;
-  margin-right: 15px;
-}
-
-.card .profile .name {
-  font-weight: 600;
-  font-size: 14px;
-  color: #1e293b;
-}
-
-.card .profile .role {
-  font-size: 12px;
-  color: #64748b;
-}
-</style>
+      .content-side {
+        padding: 25px;
+      }
+    }
+  </style>
 </head>
+
 <body>
 
-<h2>Right-to-Left Student Testimonials</h2>
-<div class="marquee-container">
+  <section class="scholarship-card">
+    <div class="image-side">
+      <img
+        src="https://images.unsplash.com/photo-1523240682765-e70d87047411?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+        alt="Students">
+      <div class="image-overlay">
+        <small>Global Opportunity</small>
+        <h3>Study in Canada</h3>
+      </div>
+    </div>
 
-  
-  <div class="marquee-track marquee-right">
-    <!-- Cards -->
-    <div class="card">
-      <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
-      <div class="rating">
-        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-      </div>
-      <div class="profile">
-        <img src="https://picsum.photos/50?random=1" alt="Student">
-        <div>
-          <div class="name">Harsh Tiwari</div>
-          <div class="role">B.Tech, Bangalore</div>
-        </div>
-      </div>
-    </div>
-    <div class="card">
-      <p>“The projects and hands-on tasks made learning fun and practical. I feel confident now.”</p>
-      <div class="rating">
-        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-      </div>
-      <div class="profile">
-        <img src="https://picsum.photos/50?random=2" alt="Student">
-        <div>
-          <div class="name">Sneha Mehra</div>
-          <div class="role">MCA, Mumbai</div>
-        </div>
-      </div>
-    </div>
-    <!-- Duplicate cards for seamless loop -->
-    <div class="card">
-      <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
-      <div class="rating">
-        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-      </div>
-      <div class="profile">
-        <img src="https://picsum.photos/50?random=1" alt="Student">
-        <div>
-          <div class="name">Harsh Tiwari</div>
-          <div class="role">B.Tech, Bangalore</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+    <div class="content-side">
+      <span class="badge">Merit Based</span>
+      <h2 class="title">Innovators Scholarship 2026</h2>
+      <span class="sub-title">Global Tech Institute, Toronto</span>
 
-<h2>Left-to-Right Student Testimonials</h2>
-<div class="marquee-container">
-  <div class="marquee-track marquee-left">
-    <!-- Cards -->
-    <div class="card">
-      <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-      <div class="rating">
-        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-      </div>
-      <div class="profile">
-        <img src="https://picsum.photos/50?random=4" alt="Student">
-        <div>
-          <div class="name">Arjun Mehra</div>
-          <div class="role">MBA, Gurgaon</div>
+      <div class="info-grid">
+        <div class="info-box">
+          <span>Deadline</span>
+          <strong>31 October, 2026</strong>
+        </div>
+        <div class="info-box">
+          <span>Degree</span>
+          <strong>Undergraduate</strong>
         </div>
       </div>
+
+      <p class="description">
+        Supporting the next generation of tech leaders with a focus on AI, Robotics, and Sustainable technology. Open to
+        all international students with high academic records.
+      </p>
+
+      <a href="#" class="btn-apply">Learn More & Apply</a>
     </div>
-    <div class="card">
-      <p>“The community and mentors made me stay motivated throughout. Fantastic learning experience.”</p>
-      <div class="rating">
-        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-      </div>
-      <div class="profile">
-        <img src="https://picsum.photos/50?random=5" alt="Student">
-        <div>
-          <div class="name">Sanya Verma</div>
-          <div class="role">BBA, Delhi NCR</div>
-        </div>
-      </div>
-    </div>
-    <!-- Duplicate cards for seamless loop -->
-    <div class="card">
-      <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-      <div class="rating">
-        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-      </div>
-      <div class="profile">
-        <img src="https://picsum.photos/50?random=4" alt="Student">
-        <div>
-          <div class="name">Arjun Mehra</div>
-          <div class="role">MBA, Gurgaon</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+  </section>
 
 </body>
+
 </html>

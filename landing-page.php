@@ -124,10 +124,12 @@
                 <!-- Card 1 -->
                 <div class="col-md-4">
                     <div class="program-card">
-                        <div class="icon pink">
-                            <i class="bi bi-scissors"></i>
+                        <div class="programs_flex">
+                            <div class="icon pink">
+                                <i class="bi bi-scissors"></i>
+                            </div>
+                            <h5>Fashion Designer</h5>
                         </div>
-                        <h5>Fashion Designer</h5>
                         <p>
                             Master the technical art of building complete collections and
                             launching your own signature fashion label.
@@ -138,10 +140,13 @@
                 <!-- Card 2 -->
                 <div class="col-md-4">
                     <div class="program-card">
-                        <div class="icon blue">
-                            <i class="bi bi-shop"></i>
+                        <div class="programs_flex">
+
+                            <div class="icon blue">
+                                <i class="bi bi-shop"></i>
+                            </div>
+                            <h5>Visual Merchandiser</h5>
                         </div>
-                        <h5>Visual Merchandiser</h5>
                         <p>
                             Design high-impact retail spaces that transform shopping into
                             an immersive and memorable brand experience.
@@ -152,10 +157,13 @@
                 <!-- Card 3 -->
                 <div class="col-md-4">
                     <div class="program-card">
-                        <div class="icon purple">
-                            <i class="bi bi-stars"></i>
+                        <div class="programs_flex">
+
+                            <div class="icon purple">
+                                <i class="bi bi-stars"></i>
+                            </div>
+                            <h5>Fashion Stylist</h5>
                         </div>
-                        <h5>Fashion Stylist</h5>
                         <p>
                             Shape the visual identity of brands through editorial,
                             celebrity, and high-profile fashion styling.
@@ -273,61 +281,99 @@
 
             <div class="col-md-4">
                 <div class="histudy-card shadow-sm p-0">
-                    <img src="assets/img/01.jpg" class="histudy-card-img" alt="Bloodborne Pathogens">
+                    <img src="assets/img/01.jpg" class="histudy-card-img" alt="Diploma in Fashion Design">
                     <div class="histudy-card-body">
-                        <!-- <p class="histudy-meta small mb-1"><i class="fa fa-book"></i> 07 Lessons &nbsp; <i
-                                class="fa fa-user"></i> 01 Students</p> -->
-                        <h5 class="histudy-card-title mt-3">Under graduation Programme </h5>
-                        <p class="histudy-card-text">B.DES in Fashion Design <br>
-                            B.Voc in Fashion Design
+
+                        <h5 class="histudy-card-title mt-3">Diploma in Fashion Design</h5>
+
+                        <p class="histudy-card-text">
+                            <strong>DURATION:</strong><br>
+                            2 Years (After 10th) | 1 Year (After +2)
                         </p>
+
+                        <p class="histudy-card-text">
+                            <strong>MEDIUM:</strong><br>
+                            Online | Campus
+                        </p>
+
+                        <p class="histudy-card-text">
+                            <strong>ELIGIBILITY:</strong><br>
+                            10th | +2 or Equivalent
+                        </p>
+
                         <div class="d-flex justify-content-between align-items-center mb-2">
-                            <div class="histudy-rating ">★★★★☆ (56 Reviews)</div>
-                            <!-- <div class="histudy-price"><span class="fw-bold text-dark">$80</span> <del
-                                    class="text-muted">$160</del></div> -->
+                            <div class="histudy-rating">★★★★☆ (56 Reviews)</div>
                         </div>
-                        <a href="#" class="histudy-btn-link p-0">Enroll Course →</a>
+
+                        <a href="#" class="histudy-btn-link p-0">Apply Now →</a>
+
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="histudy-card shadow-sm p-0">
-                    <img src="assets/img/04.jpg" class="histudy-card-img" alt="Bloodborne Pathogens">
+                    <img src="assets/img/01.jpg" class="histudy-card-img" alt="Diploma in Fashion Design">
                     <div class="histudy-card-body">
-                        <!-- <p class="histudy-meta small mb-1"><i class="fa fa-book"></i> 07 Lessons &nbsp; <i
-                                class="fa fa-user"></i> 01 Students</p> -->
-                        <h5 class="histudy-card-title mt-3">Diploma Programme </h5>
-                        <p class="histudy-card-text">Adv Diploma in Fashion Design<br>
-                            Adv Diploma in Fashion Design
+
+                        <h5 class="histudy-card-title mt-3">Diploma in Fashion Design</h5>
+
+                        <p class="histudy-card-text">
+                            <strong>DURATION:</strong><br>
+                            2 Years (After 10th) | 1 Year (After +2)
                         </p>
+
+                        <p class="histudy-card-text">
+                            <strong>MEDIUM:</strong><br>
+                            Online | Campus
+                        </p>
+
+                        <p class="histudy-card-text">
+                            <strong>ELIGIBILITY:</strong><br>
+                            10th | +2 or Equivalent
+                        </p>
+
                         <div class="d-flex justify-content-between align-items-center mb-2">
-                            <div class="histudy-rating ">★★★★☆ (99 Reviews)</div>
-                            <!-- <div class="histudy-price"><span class="fw-bold text-dark">$80</span> <del
-                                    class="text-muted">$160</del></div> -->
+                            <div class="histudy-rating">★★★★☆ (56 Reviews)</div>
                         </div>
-                        <a href="#" class="histudy-btn-link p-0">Enroll Course →</a>
+
+                        <a href="#" class="histudy-btn-link p-0">Apply Now →</a>
+
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="histudy-card shadow-sm p-0">
-                    <img src="assets/img/02.avif" class="histudy-card-img" alt="Bloodborne Pathogens">
+                    <img src="assets/img/01.jpg" class="histudy-card-img" alt="Diploma in Fashion Design">
                     <div class="histudy-card-body">
-                        <!-- <p class="histudy-meta small mb-1"><i class="fa fa-book"></i> 07 Lessons &nbsp; <i
-                                class="fa fa-user"></i> 01 Students</p> -->
-                        <h5 class="histudy-card-title mt-3">Post graduation Programme </h5>
-                        <p class="histudy-card-text">M.DES in Fashion Design<br>
-                            MBA in Fashion Design <br> M.VOC in Fashion Design
+
+                        <h5 class="histudy-card-title mt-3">Diploma in Fashion Design</h5>
+
+                        <p class="histudy-card-text">
+                            <strong>DURATION:</strong><br>
+                            2 Years (After 10th) | 1 Year (After +2)
                         </p>
+
+                        <p class="histudy-card-text">
+                            <strong>MEDIUM:</strong><br>
+                            Online | Campus
+                        </p>
+
+                        <p class="histudy-card-text">
+                            <strong>ELIGIBILITY:</strong><br>
+                            10th | +2 or Equivalent
+                        </p>
+
                         <div class="d-flex justify-content-between align-items-center mb-2">
-                            <div class="histudy-rating ">★★★★☆ (58 Reviews)</div>
-                            <!-- <div class="histudy-price"><span class="fw-bold text-dark">$80</span> <del
-                                    class="text-muted">$160</del></div> -->
+                            <div class="histudy-rating">★★★★☆ (56 Reviews)</div>
                         </div>
-                        <a href="#" class="histudy-btn-link p-0">Enroll Course →</a>
+
+                        <a href="#" class="histudy-btn-link p-0">Apply Now →</a>
+
                     </div>
                 </div>
             </div>
+
+
 
 
         </div>
@@ -393,40 +439,138 @@
 </section>
 
 
-<section class="alumni-container">
-    <div class="container p-0">
-        <h1 class="title text-center">Our Recruiter</h1>
+<section class="alumni-container p-0">
+    <div class="row">
+        <div class="col-md-4 content">
 
-        <div class="owl-carousel alumni-carousel mt-4">
-
-            <div class="item">
-                <img src="assets/img/logo/01- (1).png" class="img-fluid" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/logo/01- (2).png" class="img-fluid" alt="">
-
-            </div>
-            <div class="item">
-                <img src="assets/img/logo/01- (3).png" class="img-fluid" alt="">
-
-            </div>
-            <div class="item">
-                <img src="assets/img/logo/01- (4).png" class="img-fluid" alt="">
-
-            </div>
-            <div class="item">
-                <img src="assets/img/logo/01- (5).png" class="img-fluid" alt="">
-
-            </div>
-
-
+            <h6 class="title ">Industry <br>
+                Partnerships</h6>
+            <!-- <p class="para ">Debut your collections at international showcases and Times Fashion Week
+                alongside renowned designers
+                and
+                celebrities</p> -->
 
 
         </div>
+        <div class="col-md-8">
+            <!-- MARQUEE LEFT -->
+            <div class="marquee-container">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+
+                    <!-- duplicate for infinite loop -->
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                </div>
+            </div>
+
+            <!-- MARQUEE RIGHT -->
+            <div class="marquee-container ">
+                <div class="marquee marquee-right">
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+
+                    <!-- duplicate -->
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                </div>
+            </div>
+
+        </div>
     </div>
+
+
+
+
 </section>
 
 
+
+
+
+
+
+<section class="placements">
+    <img src="assets/img/girl.webp" alt="" class="img-fluid girl">
+    <div class="container">
+
+        <h2 class="title">Place<span>ments</span></h2>
+
+        <div class="row mt-4">
+            <div class="col-md-10">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card">
+                            <h3>Artificial Intelligence<br>and Data Science*</h3>
+
+                            <div class="ctc">
+                                <span>Highest CTC:</span>
+                                <strong>21.33 LPA</strong>
+                            </div>
+
+                            <div class="ctc">
+                                <span>Average CTC:</span>
+                                <strong>14.74 LPA</strong>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <h3>Artificial Intelligence<br>and Data Science*</h3>
+
+                            <div class="ctc">
+                                <span>Highest CTC:</span>
+                                <strong>21.33 LPA</strong>
+                            </div>
+
+                            <div class="ctc">
+                                <span>Average CTC:</span>
+                                <strong>14.74 LPA</strong>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <h3>Artificial Intelligence<br>and Data Science*</h3>
+
+                            <div class="ctc">
+                                <span>Highest CTC:</span>
+                                <strong>21.33 LPA</strong>
+                            </div>
+
+                            <div class="ctc">
+                                <span>Average CTC:</span>
+                                <strong>14.74 LPA</strong>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+
+
+
+
+
+
+    </div>
+</section>
 
 
 
@@ -527,333 +671,7 @@
 
 
 
-<section class="student-test">
-    <div class="">
-        <div class="container">
-            <h5 class="sub-head text-center cen">Testimonial</h5>
-            <h2 class="title text-center">Experiences That Reflect <br> <span>Our Impact</span></h2>
 
-            <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?
-            </p>
-        </div>
-        <div class="marquee-container1">
-            <div class="marquee-track1 marquee-right">
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“The projects and hands-on tasks made learning fun and practical. I feel confident now.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=2" alt="Student">
-                        <div>
-                            <div class="name">Sneha Mehra</div>
-                            <div class="role">MCA, Mumbai</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
-                        <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
-                        <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
-                        <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Duplicate cards for smooth loop -->
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="marquee-container1">
-            <div class="marquee-track1 marquee-left">
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <p>“The community and mentors made me stay motivated throughout. Fantastic learning experience.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=5" alt="Student">
-                        <div>
-                            <div class="name">Sanya Verma</div>
-                            <div class="role">BBA, Delhi NCR</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Duplicate cards -->
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”
-                    </p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-</section>
 
 <section class="v-stats-wrapper">
     <div class="container">
@@ -896,6 +714,86 @@
 
     </div>
 </section>
+
+
+
+<section class="scholarship">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 m-auto">
+                <div class="scholarship-card">
+                    <div class="image-side">
+                        <img src="assets/img/happy-student-with-graduation-hat-diploma-grey_231208-12979.avif"
+                            alt="Students">
+                        <div class="image-overlay">
+                            <small>Global Opportunity</small>
+                            <h3>Study in Canada</h3>
+                        </div>
+                    </div>
+
+                    <div class="content-side">
+                        <span class="badge">Merit Based</span>
+                        <h2 class="title">Innovators <span> <br>Scholarship 2026</span></h2>
+                        <span class="sub-title">Global Tech Institute, Toronto</span>
+
+                        <div class="info-grid">
+                            <div class="info-box">
+                                <span>Deadline</span>
+                                <strong>31 October, 2026</strong>
+                            </div>
+                            <div class="info-box">
+                                <span>Degree</span>
+                                <strong>Undergraduate</strong>
+                            </div>
+                        </div>
+
+                        <p class="description">
+                            Supporting the next generation of tech leaders with a focus on AI, Robotics, and Sustainable
+                            technology.
+                            Open to
+                            all international students with high academic records.
+                        </p>
+
+                        <a href="#" class="btn-animated btn-light1 btn-light8">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Apply Now</div>
+                                <div class="btn-text-hover">Apply Now</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+<section class="pm_laxmi pb-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7">
+                <h4 class="title">PM-Vidyalaxmi Scheme – <span>Invest in Knowledge, Build the Nation</span></h4>
+                <p class="para text-left">The PM-Vidyalaxmi Scheme is a Government of India initiative designed to
+                    provide
+                    financial assistance
+                    to meritorious students pursuing higher education. The scheme ensures that talented students do not
+                    miss out on quality education due to financial constraints. By offering accessible education loans
+                    with transparent and student-friendly terms, PM-Vidyalaxmi empowers learners to focus on their
+                    academic goals and build a brighter, self-reliant future.</p>
+            </div>
+            <div class="col-md-5">
+                <img src="assets/img/Narendra-Modi-2.png" alt="" class="img-fluid modi">
+            </div>
+        </div>
+    </div>
+</section>
+
+
 
 <section class="career-hero">
     <div class="career-container">

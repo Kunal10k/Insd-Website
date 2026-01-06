@@ -2,7 +2,7 @@
 
 
 
-<section class="inner_my_banner" style="background-image: url('./assets/img/insd-banner1.jpg');">
+<section class="inner_my_banner" style="background-image: url('./assets/img/abt.jpg');">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -21,8 +21,7 @@
 
         <div class="hero-block__visual">
             <div class="hero-block__image-card">
-                <img src="https://cdn.prod.website-files.com/68b824698be8e7c047a5da51/68e8f52d54e6002385ac325c_Koursio-about-two-learn-p-500.webp"
-                    alt="Student" class="hero-block__img">
+                <img src="assets/img/about/insd 2nd image (1).jpg" alt="Student" class="hero-block__img">
             </div>
         </div>
 
@@ -58,57 +57,56 @@
 
 
 <section class="lp-section">
-    <div class="lp-container">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <!-- LEFT CONTENT -->
+                <div class="lp-left">
+                    <span class="lp-badge">BEST PLACE FOR LEARNING</span>
 
-        <!-- LEFT CONTENT -->
-        <div class="lp-left">
-            <span class="lp-badge">BEST PLACE FOR LEARNING</span>
+                    <h2 class="lp-title">
+                        Learning paths built for<br>
+                        your success
+                    </h2>
 
-            <h2 class="lp-title">
-                Learning paths built for<br>
-                your success
-            </h2>
-
-            <p class="lp-desc">
-                Discover structured courses tailored to your goals, guiding you
-                step by step toward mastery and lasting success.
-            </p>
-
-            <div class="lp-feature mt-5 ">
-                <span class="lp-icon">◆</span>
-                <div>
-                    <h4>Skill-based instruction</h4>
-                    <p>
-                        Gain practical knowledge through expert-led lessons
-                        focused on real-world applications.
+                    <p class="lp-desc">
+                        Discover structured courses tailored to your goals, guiding you
+                        step by step toward mastery and lasting success.
                     </p>
+
+                    <div class="lp-feature mt-5 ">
+                        <span class="lp-icon">◆</span>
+                        <div>
+                            <h4>Skill-based instruction</h4>
+                            <p>
+                                Gain practical knowledge through expert-led lessons
+                                focused on real-world applications.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="lp-feature">
+                        <span class="lp-icon">◆</span>
+                        <div>
+                            <h4>Global certification</h4>
+                            <p>
+                                Earn industry-recognized certifications that validate
+                                your skills worldwide.
+                            </p>
+                        </div>
+                    </div>
                 </div>
             </div>
+            <div class="col-md-6">
+                <!-- RIGHT CONTENT -->
+                <div class="lp-right">
+                    <div class="lp-image-card large">
+                        <img src="assets/img/about/insd 3rd image (1).jpg" alt="" class="img-fluid">
+                    </div>
 
-            <div class="lp-feature">
-                <span class="lp-icon">◆</span>
-                <div>
-                    <h4>Global certification</h4>
-                    <p>
-                        Earn industry-recognized certifications that validate
-                        your skills worldwide.
-                    </p>
                 </div>
             </div>
         </div>
-
-        <!-- RIGHT CONTENT -->
-        <div class="lp-right">
-            <div class="lp-image-card large">
-                <img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e" alt="">
-            </div>
-
-            <div class="lp-image-card small">
-                <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" alt="">
-                <a href="#" class="lp-btn">Learn today →</a>
-            </div>
-        </div>
-
     </div>
 </section>
 
@@ -152,7 +150,7 @@
 
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="assets/img/insdimage.jpeg" alt="">
+                            <img src="assets/img/about/insd 4th image (1).jpg" alt="">
                         </div>
                         <div class="col-md-8">
                             <div class="eligibility-sec">
@@ -211,7 +209,7 @@
 
                         </div>
                         <div class="col-md-4">
-                            <img src="assets/img/contactinsd.jpeg" alt="">
+                            <img src="assets/img/about/insd 5th image (1).jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -420,7 +418,7 @@
             </div>
 
             <div class="col-md-4">
-                <img src="assets/img/fashion png-min.png" alt="" class="img-fluid">
+                <img src="assets/img/about/insd 1st image (1).jpg" alt="" class="img-fluid">
             </div>
         </div>
     </div>
@@ -466,32 +464,105 @@
 </section>
 
 
-<script>
-    new Swiper(".awards-slider", {
-        slidesPerView: 3,
-        spaceBetween: 24,
-        loop: true,
-        autoplay: {
-            delay: 3500,
-            disableOnInteraction: false,
-        },
-        pagination: {
-            el: ".swiper-pagination",
-            clickable: true,
-        },
-        breakpoints: {
-            0: {
-                slidesPerView: 1
-            },
-            768: {
-                slidesPerView: 2
-            },
-            992: {
-                slidesPerView: 3
-            },
-        }
-    });
-</script>
+<section class="why-choose">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <!-- <h5 class="sub-head">Why Choose Us</h5> -->
+                <h2 class="title">Global Academic <span>Collaboration</span></h2>
+
+                <p class="para">International School of Design Kolkata believes that design education should extend
+                    beyond borders. Through global academic collaborations, the institute provides students with
+                    international exposure to design education, creative practices, and learning environments across
+                    leading global institutions. <br> <br>
+                    INSD Kolkata has established academic tie-ups with reputed international universities including
+                    College de Paris, International Business School of Washington (IBSW), University for the Creative
+                    Arts (UCA), École Supérieure de Relooking, and ESG Luxe (France). These collaborations connect
+                    students to global academic ecosystems focused on design, fashion, creative studies, and
+                    professional education.<br> <br>
+                    As part of these global partnerships, students have the opportunity to participate in international
+                    academic exposure programs, where selected modules are studied at partner universities abroad. This
+                    experience allows students to engage with international faculty, global design perspectives, and
+                    diverse academic cultures.<br> <br>
+                    Global academic exposure helps students broaden their creative outlook, understand international
+                    design standards, and develop confidence to operate in a global creative environment. These
+                    collaborations strengthen INSD Kolkata’s commitment to delivering design education that is globally
+                    informed, professionally relevant, and future-focused.
+                </p>
+
+
+
+
+            </div>
+            <div class="col-md-4">
+                <img src="assets/img/insdimage.jpeg" alt="" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section class="mentor-zone">
+    <div class="mentor-wrap">
+
+        <div class="mentor-title text-center">
+            <h2 class="title">Industry <span>Mentors</span></h2>
+            <p>Learning from Professionals Shaping the Design Industry</p>
+        </div>
+
+        <!-- Owl Carousel -->
+        <div class="mentor-carousel owl-carousel mt-4">
+
+            <div class="mentor-box">
+                <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                        alt="Mentor">
+                </div>
+                <div class="mentor-text">
+                    <h4>Rahul Mehta</h4>
+                    <span class="mentor-post">Creative Director</span>
+                    <p class="mentor-org">Studio RM</p>
+                    <span class="mentor-field">Fashion & Luxury Design</span>
+                </div>
+            </div>
+
+            <div class="mentor-box">
+                <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                        alt="Mentor">
+                </div>
+                <div class="mentor-text">
+                    <h4>Ananya Sen</h4>
+                    <span class="mentor-post">Interior Consultant</span>
+                    <p class="mentor-org">Urban Space</p>
+                    <span class="mentor-field">Interior & Retail Design</span>
+                </div>
+            </div>
+
+            <div class="mentor-box">
+                <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                        alt="Mentor">
+                </div>
+                <div class="mentor-text">
+                    <h4>Arjun Kapoor</h4>
+                    <span class="mentor-post">Brand Strategist</span>
+                    <p class="mentor-org">BrandLab India</p>
+                    <span class="mentor-field">Branding & Entrepreneurship</span>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
 
 
 <?php include 'inside/footer.php' ?>
