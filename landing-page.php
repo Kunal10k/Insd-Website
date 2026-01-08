@@ -94,7 +94,7 @@
 
 
                             <!-- Submit -->
-                            <button type="submit" class="btn-animated btn-light mt-3">
+                            <button type="submit" class="btn-animated btn-light ">
                                 <div class="btn-text-wrap">
                                     <div class="btn-text">Apply to Join</div>
                                     <div class="btn-text-hover">Apply to Join</div>
@@ -277,102 +277,101 @@
         <h2 class="title text-center mb-4">Industry-Ready Programs for <br><span class="histudy-highlight">Aspiring
                 Designers </span></h2>
 
-        <div class="row g-4">
+        <div class="row g-4 mt-5">
 
-            <div class="col-md-4">
-                <div class="histudy-card shadow-sm p-0">
-                    <img src="assets/img/01.jpg" class="histudy-card-img" alt="Diploma in Fashion Design">
-                    <div class="histudy-card-body">
 
-                        <h5 class="histudy-card-title mt-3">Diploma in Fashion Design</h5>
 
-                        <p class="histudy-card-text">
-                            <strong>DURATION:</strong><br>
-                            2 Years (After 10th) | 1 Year (After +2)
-                        </p>
-
-                        <p class="histudy-card-text">
-                            <strong>MEDIUM:</strong><br>
-                            Online | Campus
-                        </p>
-
-                        <p class="histudy-card-text">
-                            <strong>ELIGIBILITY:</strong><br>
-                            10th | +2 or Equivalent
-                        </p>
-
-                        <div class="d-flex justify-content-between align-items-center mb-2">
-                            <div class="histudy-rating">★★★★☆ (56 Reviews)</div>
-                        </div>
-
-                        <a href="#" class="histudy-btn-link p-0">Apply Now →</a>
-
+            <!-- Diploma -->
+            <div class="col-md-6 ">
+                <div class="course-card">
+                    <div class="card-header">
+                        <h2>Diploma in Fashion Design</h2>
+                        <a href="#" class="apply-btn">APPLY NOW</a>
                     </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="histudy-card shadow-sm p-0">
-                    <img src="assets/img/01.jpg" class="histudy-card-img" alt="Diploma in Fashion Design">
-                    <div class="histudy-card-body">
-
-                        <h5 class="histudy-card-title mt-3">Diploma in Fashion Design</h5>
-
-                        <p class="histudy-card-text">
-                            <strong>DURATION:</strong><br>
-                            2 Years (After 10th) | 1 Year (After +2)
-                        </p>
-
-                        <p class="histudy-card-text">
-                            <strong>MEDIUM:</strong><br>
-                            Online | Campus
-                        </p>
-
-                        <p class="histudy-card-text">
-                            <strong>ELIGIBILITY:</strong><br>
-                            10th | +2 or Equivalent
-                        </p>
-
-                        <div class="d-flex justify-content-between align-items-center mb-2">
-                            <div class="histudy-rating">★★★★☆ (56 Reviews)</div>
-                        </div>
-
-                        <a href="#" class="histudy-btn-link p-0">Apply Now →</a>
-
+                    <div class="card-row">
+                        <span class="label">DURATION:</span>
+                        <span class="value">2 Years for 10th | 1 Year for +2</span>
                     </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="histudy-card shadow-sm p-0">
-                    <img src="assets/img/01.jpg" class="histudy-card-img" alt="Diploma in Fashion Design">
-                    <div class="histudy-card-body">
-
-                        <h5 class="histudy-card-title mt-3">Diploma in Fashion Design</h5>
-
-                        <p class="histudy-card-text">
-                            <strong>DURATION:</strong><br>
-                            2 Years (After 10th) | 1 Year (After +2)
-                        </p>
-
-                        <p class="histudy-card-text">
-                            <strong>MEDIUM:</strong><br>
-                            Online | Campus
-                        </p>
-
-                        <p class="histudy-card-text">
-                            <strong>ELIGIBILITY:</strong><br>
-                            10th | +2 or Equivalent
-                        </p>
-
-                        <div class="d-flex justify-content-between align-items-center mb-2">
-                            <div class="histudy-rating">★★★★☆ (56 Reviews)</div>
-                        </div>
-
-                        <a href="#" class="histudy-btn-link p-0">Apply Now →</a>
-
+                    <div class="card-row">
+                        <span class="label">MEDIUM:</span>
+                        <span class="value">Online | Campus</span>
                     </div>
+                    <div class="card-row">
+                        <span class="label">ELIGIBILITY:</span>
+                        <span class="value">10th | +2 or Equivalent</span>
+                    </div>
+
                 </div>
             </div>
 
+            <!-- Adv Diploma -->
+            <div class="col-md-6 ">
+                <div class="course-card">
+                    <div class="card-header">
+                        <h2>Adv Diploma in Fashion Design</h2>
+                        <a href="#" class="apply-btn">APPLY NOW</a>
+                    </div>
+                    <div class="card-row">
+                        <span class="label">DURATION:</span>
+                        <span class="value">1 Year | 2 Years</span>
+                    </div>
+                    <div class="card-row">
+                        <span class="label">MEDIUM:</span>
+                        <span class="value">Online | Campus</span>
+                    </div>
+                    <div class="card-row">
+                        <span class="label">ELIGIBILITY:</span>
+                        <span class="value">Graduation or Equivalent</span>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- BSc -->
+            <div class="col-md-6 ">
+                <div class="course-card">
+                    <div class="card-header">
+                        <h2>BSc Fashion Design</h2>
+                        <a href="#" class="apply-btn">APPLY NOW</a>
+                    </div>
+                    <div class="card-row">
+                        <span class="label">DURATION:</span>
+                        <span class="value">3 Years</span>
+                    </div>
+                    <div class="card-row">
+                        <span class="label">MEDIUM:</span>
+                        <span class="value">Online | Campus</span>
+                    </div>
+                    <div class="card-row">
+                        <span class="label">ELIGIBILITY:</span>
+                        <span class="value">+2 or Equivalent</span>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- MSc -->
+            <div class="col-md-6 ">
+                <div class="course-card">
+                    <div class="card-header">
+                        <h2>MSc in Fashion Design</h2>
+                        <a href="#" class="apply-btn">APPLY NOW</a>
+                    </div>
+                    <div class="card-row">
+                        <span class="label">DURATION:</span>
+                        <span class="value">2 Years</span>
+                    </div>
+                    <div class="card-row">
+                        <span class="label">MEDIUM:</span>
+                        <span class="value">Online | Campus</span>
+                    </div>
+                    <div class="card-row">
+                        <span class="label">ELIGIBILITY:</span>
+                        <span class="value">Graduation or Equivalent</span>
+                    </div>
+
+                </div>
+            </div>
 
 
 
@@ -503,74 +502,7 @@
 
 
 
-<section class="placements">
-    <img src="assets/img/girl.webp" alt="" class="img-fluid girl">
-    <div class="container">
 
-        <h2 class="title">Place<span>ments</span></h2>
-
-        <div class="row mt-4">
-            <div class="col-md-10">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="card">
-                            <h3>Artificial Intelligence<br>and Data Science*</h3>
-
-                            <div class="ctc">
-                                <span>Highest CTC:</span>
-                                <strong>21.33 LPA</strong>
-                            </div>
-
-                            <div class="ctc">
-                                <span>Average CTC:</span>
-                                <strong>14.74 LPA</strong>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="card">
-                            <h3>Artificial Intelligence<br>and Data Science*</h3>
-
-                            <div class="ctc">
-                                <span>Highest CTC:</span>
-                                <strong>21.33 LPA</strong>
-                            </div>
-
-                            <div class="ctc">
-                                <span>Average CTC:</span>
-                                <strong>14.74 LPA</strong>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="card">
-                            <h3>Artificial Intelligence<br>and Data Science*</h3>
-
-                            <div class="ctc">
-                                <span>Highest CTC:</span>
-                                <strong>21.33 LPA</strong>
-                            </div>
-
-                            <div class="ctc">
-                                <span>Average CTC:</span>
-                                <strong>14.74 LPA</strong>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-        </div>
-
-
-
-
-
-
-
-    </div>
-</section>
 
 
 
@@ -720,80 +652,137 @@
 <section class="scholarship">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 m-auto">
-                <div class="scholarship-card">
-                    <div class="image-side">
-                        <img src="assets/img/happy-student-with-graduation-hat-diploma-grey_231208-12979.avif"
-                            alt="Students">
-                        <div class="image-overlay">
-                            <small>Global Opportunity</small>
-                            <h3>Study in Canada</h3>
+
+            <div class="col-md-3 image-side">
+                <div class="image-side">
+                    <img src="assets/img/high.jpeg" alt="Students">
+                    <!-- <div class="image-overlay">
+                            <small>PM-Vidyalaxmi Scheme</small>
+                          
+                        </div> -->
+                </div>
+            </div>
+
+            <div class="col-md-9">
+                <div class="content-side">
+                    <!-- <span class="badge">Merit Based</span> -->
+                    <h2 class="title">PM-Vidyalaxmi <span>Scheme</span> </h2>
+                    <!-- <span class="sub-title">Global Tech Institute, Toronto</span> -->
+
+
+                    <p class="description">
+                        The PM-Vidyalaxmi Scheme is a Government of India initiative designed to provide financial
+                        assistance to meritorious students pursuing higher education. The scheme ensures that
+                        talented students do not miss out on quality education due to financial constraints. By
+                        offering accessible education loans with transparent and student-friendly terms,
+                        PM-Vidyalaxmi empowers learners to focus on their academic goals and build a brighter,
+                        self-reliant future.
+                    </p>
+
+                    <a href="#" class="btn-animated btn-light1 btn-light8">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Apply Now</div>
+                            <div class="btn-text-hover">Apply Now</div>
                         </div>
-                    </div>
-
-                    <div class="content-side">
-                        <span class="badge">Merit Based</span>
-                        <h2 class="title">Innovators <span> <br>Scholarship 2026</span></h2>
-                        <span class="sub-title">Global Tech Institute, Toronto</span>
-
-                        <div class="info-grid">
-                            <div class="info-box">
-                                <span>Deadline</span>
-                                <strong>31 October, 2026</strong>
-                            </div>
-                            <div class="info-box">
-                                <span>Degree</span>
-                                <strong>Undergraduate</strong>
-                            </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
+                                alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon-hover">
                         </div>
+                    </a>
+                </div>
+            </div>
 
-                        <p class="description">
-                            Supporting the next generation of tech leaders with a focus on AI, Robotics, and Sustainable
-                            technology.
-                            Open to
-                            all international students with high academic records.
-                        </p>
+        </div>
+    </div>
+</section>
 
-                        <a href="#" class="btn-animated btn-light1 btn-light8">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">Apply Now</div>
-                                <div class="btn-text-hover">Apply Now</div>
-                            </div>
-                            <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
-                                    alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                    alt="Arrow" class="btn-icon-hover">
-                            </div>
-                        </a>
-                    </div>
+
+
+
+<section class="place">
+    <img src="assets/img/girl.webp" alt="" class="img-fluid place_set_img">
+    <div class="container">
+        <h6 class="title text-center mb-5">Place<span>ments</span></h6>
+
+        <div class="place-wrap ">
+
+            <!-- CARD 1 -->
+            <div class="place-card card-geo">
+                <div class="place-head">
+
+                    <span class="sub-head   ">Placements</span>
+                    <div class="place-icon"><i class="fas fa-chart-line"></i></div>
                 </div>
 
+                <h2 class="place-title">AI & Data Science*</h2>
+                <div class="place-sub">Standard</div>
+
+                <div class="place-stat">
+                    <span class="stat-name">Highest CTC</span>
+                    <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
+                </div>
+
+                <div class="place-stat">
+                    <span class="stat-name">Average CTC</span>
+                    <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
+                </div>
+
+                <div class="place-foot">*Placement statistics 2023–24</div>
             </div>
+
+            <!-- CARD 2 (DEFAULT ACTIVE) -->
+            <div class="place-card card-premium is-active">
+                <div class="place-head">
+                    <span class="sub-head  ">Placements</span>
+
+                    <div class="place-icon"><i class="fas fa-star"></i></div>
+                </div>
+
+                <h2 class="place-title">AI & Data Science*</h2>
+                <div class="place-sub">Premium</div>
+
+                <div class="place-stat">
+                    <span class="stat-name">Highest CTC</span>
+                    <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
+                </div>
+
+                <div class="place-stat">
+                    <span class="stat-name">Average CTC</span>
+                    <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
+                </div>
+
+                <div class="place-foot">*Placement statistics 2023–24</div>
+            </div>
+
+            <!-- CARD 3 -->
+            <div class="place-card card-dots">
+                <div class="place-head">
+                    <span class="sub-head  ">Placements</span>
+
+                    <div class="place-icon"><i class="fas fa-brain"></i></div>
+                </div>
+
+                <h2 class="place-title">AI & Data Science*</h2>
+                <div class="place-sub">Advanced</div>
+
+                <div class="place-stat">
+                    <span class="stat-name">Highest CTC</span>
+                    <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
+                </div>
+
+                <div class="place-stat">
+                    <span class="stat-name">Average CTC</span>
+                    <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
+                </div>
+
+                <div class="place-foot">*Placement statistics 2023–24</div>
+            </div>
+
         </div>
     </div>
 </section>
-<section class="pm_laxmi pb-0">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-7">
-                <h4 class="title">PM-Vidyalaxmi Scheme – <span>Invest in Knowledge, Build the Nation</span></h4>
-                <p class="para text-left">The PM-Vidyalaxmi Scheme is a Government of India initiative designed to
-                    provide
-                    financial assistance
-                    to meritorious students pursuing higher education. The scheme ensures that talented students do not
-                    miss out on quality education due to financial constraints. By offering accessible education loans
-                    with transparent and student-friendly terms, PM-Vidyalaxmi empowers learners to focus on their
-                    academic goals and build a brighter, self-reliant future.</p>
-            </div>
-            <div class="col-md-5">
-                <img src="assets/img/Narendra-Modi-2.png" alt="" class="img-fluid modi">
-            </div>
-        </div>
-    </div>
-</section>
-
-
 
 <section class="career-hero">
     <div class="career-container">

@@ -1,0 +1,9 @@
+https://www.bibs.co.in/
+https://apply.jioinstitute.edu.in/pgp_2026/
+https://iifd.in/iifd-fashion-design-kolkata/
+https://iifd.in/iifd-fashion-design-kolkata/
+https://www.budhacollege.edu.in/
+https://www.nifglobalkolkata.com/
+https://nifglobalkolkata.in/nif-fashion-designing-course-in-kolkata/?gad_campaignid=23178315962
+https://nifglobalkolkatalindsay.com/
+https://share.google/h1li3k6AHqUiKWW73
