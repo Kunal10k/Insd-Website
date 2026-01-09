@@ -2,7 +2,7 @@
 
 
 
-<section class="landing_banner">
+<section class="landing_banner" id="form">
     <div class="banner" style="background-image: url('./assets/img/insd-banner1.jpg');">
         <div class="container">
             <div class="row">
@@ -126,13 +126,13 @@
                     <div class="program-card">
                         <div class="programs_flex">
                             <div class="icon pink">
-                                <i class="bi bi-scissors"></i>
+                                <i class="bi bi-calendar-check"></i>
                             </div>
-                            <h5>Fashion Designer</h5>
+                            <h5>Admission Open <br> 2026</h5>
                         </div>
                         <p>
-                            Master the technical art of building complete collections and
-                            launching your own signature fashion label.
+                            Admissions are now open for the 2026 batch. Begin your fashion design journey with hands-on
+                            training, industry exposure, and expert-led learning at INSD Kolkata.
                         </p>
                     </div>
                 </div>
@@ -141,15 +141,14 @@
                 <div class="col-md-4">
                     <div class="program-card">
                         <div class="programs_flex">
-
                             <div class="icon blue">
-                                <i class="bi bi-shop"></i>
+                                <i class="bi bi-award"></i>
                             </div>
-                            <h5>Visual Merchandiser</h5>
+                            <h5>Scholarship Admission</h5>
                         </div>
                         <p>
-                            Design high-impact retail spaces that transform shopping into
-                            an immersive and memorable brand experience.
+                            Merit-based and need-based scholarships are available for deserving students. INSD supports
+                            creative talent by making quality fashion education accessible and affordable.
                         </p>
                     </div>
                 </div>
@@ -158,20 +157,19 @@
                 <div class="col-md-4">
                     <div class="program-card">
                         <div class="programs_flex">
-
                             <div class="icon purple">
-                                <i class="bi bi-stars"></i>
+                                <i class="bi bi-bank"></i>
                             </div>
-                            <h5>Fashion Stylist</h5>
+                            <h5>Loan <br> Assistance</h5>
                         </div>
                         <p>
-                            Shape the visual identity of brands through editorial,
-                            celebrity, and high-profile fashion styling.
+                            INSD Kolkata offers support for education loans under the PM-Vidyalaxmi Scheme, helping
+                            students finance their fashion education with ease and confidence.
                         </p>
                     </div>
                 </div>
-
             </div>
+
         </div>
     </div>
 
@@ -286,7 +284,7 @@
                 <div class="course-card">
                     <div class="card-header">
                         <h2>Diploma in Fashion Design</h2>
-                        <a href="#" class="apply-btn">APPLY NOW</a>
+                        <a href="#form" class="apply-btn">APPLY NOW</a>
                     </div>
                     <div class="card-row">
                         <span class="label">DURATION:</span>
@@ -309,7 +307,8 @@
                 <div class="course-card">
                     <div class="card-header">
                         <h2>Adv Diploma in Fashion Design</h2>
-                        <a href="#" class="apply-btn">APPLY NOW</a>
+                        <a href="#form" class="apply-btn">APPLY NOW</a>
+
                     </div>
                     <div class="card-row">
                         <span class="label">DURATION:</span>
@@ -332,7 +331,8 @@
                 <div class="course-card">
                     <div class="card-header">
                         <h2>BSc Fashion Design</h2>
-                        <a href="#" class="apply-btn">APPLY NOW</a>
+                        <a href="#form" class="apply-btn">APPLY NOW</a>
+
                     </div>
                     <div class="card-row">
                         <span class="label">DURATION:</span>
@@ -355,7 +355,8 @@
                 <div class="course-card">
                     <div class="card-header">
                         <h2>MSc in Fashion Design</h2>
-                        <a href="#" class="apply-btn">APPLY NOW</a>
+                        <a href="#form" class="apply-btn">APPLY NOW</a>
+
                     </div>
                     <div class="card-row">
                         <span class="label">DURATION:</span>
@@ -442,8 +443,7 @@
     <div class="row">
         <div class="col-md-4 content">
 
-            <h6 class="title ">Industry <br>
-                Partnerships</h6>
+            <h6 class="title ">Industry Partnerships & <br>Recruitment</h6>
             <!-- <p class="para ">Debut your collections at international showcases and Times Fashion Week
                 alongside renowned designers
                 and
@@ -679,18 +679,7 @@
                         self-reliant future.
                     </p>
 
-                    <a href="#" class="btn-animated btn-light1 btn-light8">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Apply Now</div>
-                            <div class="btn-text-hover">Apply Now</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
-                                alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </a>
+
                 </div>
             </div>
 
@@ -704,7 +693,7 @@
 <section class="place">
     <img src="assets/img/girl.webp" alt="" class="img-fluid place_set_img">
     <div class="container">
-        <h6 class="title text-center mb-5">Place<span>ments</span></h6>
+        <h6 class="title text-center mb-5">Placements</h6>
 
         <div class="place-wrap ">
 
@@ -795,7 +784,7 @@
                     Ready to Begin Your Journey in the
                     Global Fashion Industry?
                 </h1>
-                <a href="#" class="btn-animated btn-light">
+                <a href="#form" class="btn-animated btn-light">
                     <div class="btn-text-wrap">
                         <div class="btn-text">Connect with Us </div>
                         <div class="btn-text-hover">Connect with Us </div>

@@ -84,6 +84,19 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 
 
+<!-- AOS JS -->
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+
+
+<script>
+  AOS.init({
+    duration: 800,
+    easing: 'ease-in-out',
+    once: true
+  });
+</script>
+
+
 <script src="assets/js/main.js"></script>
 
 
@@ -123,6 +136,8 @@
     });
   });
 </script>
+
+
 
 
 <!-- <script>
