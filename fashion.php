@@ -1,104 +1,53 @@
 <?php include 'inside/header.php' ?>
 
-<!-- <section class="inner_Section" style="background-image: url('./assets/img/sliderbg.jpg');">
 
 
-  <div class="container-flud">
-    <h1 class="title text-center">
-      Fashion Design Course in Kolkata
-    </h1>
-  </div>
-</section> -->
+<section class="inner_my_banner" style="background-image: url('./assets/img/abt.jpg');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h6>ESSENCE OF GROWTH
+        </h6>
+        <h1>Real dedication fuels <br class="d-md-block d-none">your ongoing progress</h1>
 
+        <div class="ban-btn mt-4">
 
-<section class="ban">
-  <!-- <div class="owl-carousel owl-theme" id="e1"> -->
-  <div class="item">
-    <div class="ban-sec">
-
-      <div class="bg-zoom" style="background-image: url('./assets/img/sliderbg2.jpg');"></div>
-
-      <div class="container">
-
-        <div class="row">
-          <div class="col-md-6">
-            <div class="ban-cont">
-
-              <div class="course-badge-box">
-                <div class="badge-item bestseller">
-                  <i class="fa-solid fa-award"></i>
-                  <span>Bestseller</span>
-                </div>
-
-                <div class="badge-rating">
-                  <span class="rating-number">4.8</span>
-                  <i class="fa-solid fa-star"></i>
-                  <i class="fa-solid fa-star"></i>
-                  <i class="fa-solid fa-star"></i>
-                  <i class="fa-solid fa-star"></i>
-                  <i class="fa-solid fa-star"></i>
-                </div>
-
-                <div class="badge-text">215,475 ratings</div>
-                <div class="badge-text">616,029 students</div>
-              </div>
-
-
-              <h1 class="title-ban">
-                Start your creative journey in
-                <span class="cd-headline slide">
-                  <span id="words-wrapper" class="cd-words-wrapper">
-                    <b class="theme-gradient is-visible">Fashion Designing</b>
-                    <b class="theme-gradient is-hidden">Fashion Designing</b>
-                    <b class="theme-gradient is-hidden">Fashion Designing</b>
-                  </span>
-                </span>
-              </h1>
-
-
-              <!-- <h5 class="hero-subheading pb-3">We turn property listings into your next life chapter with professional guidance and care. </h5> -->
-
-              <div class="ban-btn">
-
-                <a href="#" class="btn-animated btn-light">
-                  <div class="btn-text-wrap">
-                    <div class="btn-text">Apply to Join</div>
-                    <div class="btn-text-hover">Apply to Join</div>
-                  </div>
-                  <div class="btn-icon-wrap">
-                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                  </div>
-                </a>
-
-                <a href="#" class="btn-animated btn-light1">
-                  <div class="btn-text-wrap">
-                    <div class="btn-text">Download Brochure</div>
-                    <div class="btn-text-hover">Download Brochure</div>
-                  </div>
-                  <div class="btn-icon-wrap">
-                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg" alt="Arrow" class="btn-icon">
-                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                  </div>
-                </a>
-
-
-
-              </div>
+          <a href="#" class="btn-animated btn-light">
+            <div class="btn-text-wrap">
+              <div class="btn-text">Apply to Join</div>
+              <div class="btn-text-hover">Apply to Join</div>
             </div>
-          </div>
-          <div class="col-md-6">
-            <img src="assets/img/graphic-removebg-preview.png" alt="" class="ban-img">
-          </div>
+            <div class="btn-icon-wrap">
+              <img
+                src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                alt="Arrow" class="btn-icon">
+              <img
+                src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                alt="Arrow" class="btn-icon-hover">
+            </div>
+          </a>
+
+          <a href="#" class="btn-animated btn-light1">
+            <div class="btn-text-wrap">
+              <div class="btn-text">Download Brochure</div>
+              <div class="btn-text-hover">Download Brochure</div>
+            </div>
+            <div class="btn-icon-wrap">
+              <img
+                src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
+                alt="Arrow" class="btn-icon">
+              <img
+                src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                alt="Arrow" class="btn-icon-hover">
+            </div>
+          </a>
+
+
+
         </div>
-
-
-
       </div>
     </div>
   </div>
-
-
 </section>
 
 
@@ -140,8 +89,12 @@
                 <div class="btn-text-hover">Submit</div>
               </div>
               <div class="btn-icon-wrap">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                <img
+                  src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                  alt="Arrow" class="btn-icon">
+                <img
+                  src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                  alt="Arrow" class="btn-icon-hover">
               </div>
             </a>
           </form>
@@ -192,9 +145,12 @@
                   <ul class="rbt-list-style-1">
                     <li><i class="fa-solid fa-check-circle me-2"></i>Become an advanced, confident, and
                       modern JavaScript developer from scratch.</li>
-                    <li><i class="fa-solid fa-check-circle me-2"></i>Have an intermediate skill level of Python programming.</li>
-                    <li><i class="fa-solid fa-check-circle me-2"></i>Have a portfolio of various data analysis projects.</li>
-                    <li><i class="fa-solid fa-check-circle me-2"></i>Use the numpy library to create and manipulate arrays.</li>
+                    <li><i class="fa-solid fa-check-circle me-2"></i>Have an intermediate skill level of Python
+                      programming.</li>
+                    <li><i class="fa-solid fa-check-circle me-2"></i>Have a portfolio of various data analysis projects.
+                    </li>
+                    <li><i class="fa-solid fa-check-circle me-2"></i>Use the numpy library to create and manipulate
+                      arrays.</li>
                   </ul>
                 </div>
                 <!-- End Feature Box -->
@@ -202,10 +158,12 @@
                 <!-- Start Feature Box -->
                 <div class="col-lg-6">
                   <ul class="rbt-list-style-1">
-                    <li><i class="fa-solid fa-check-circle me-2"></i>Use the Jupyter Notebook Environment. JavaScript developer from scratch.</li>
+                    <li><i class="fa-solid fa-check-circle me-2"></i>Use the Jupyter Notebook Environment. JavaScript
+                      developer from scratch.</li>
                     <li><i class="fa-solid fa-check-circle me-2"></i>Use the pandas module with Python
                       to create and structure data.</li>
-                    <li><i class="fa-solid fa-check-circle me-2"></i>Have a portfolio of various data analysis projects.</li>
+                    <li><i class="fa-solid fa-check-circle me-2"></i>Have a portfolio of various data analysis projects.
+                    </li>
                     <li><i class="fa-solid fa-check-circle me-2"></i>Create data visualizations using
                       matplotlib and seaborn.</li>
                   </ul>
@@ -233,12 +191,14 @@
 
                   <div class="accordion-item">
                     <h2 class="accordion-header card-header" id="headingTwo1">
-                      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo1" aria-expanded="true" aria-controls="collapseTwo1">
+                      <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo1" aria-expanded="true" aria-controls="collapseTwo1">
                         Intro to Course and Histudy <span class="rbt-badge-5 ml--10">1hr
                           30min</span>
                       </button>
                     </h2>
-                    <div id="collapseTwo1" class="accordion-collapse collapse show" aria-labelledby="headingTwo1" data-bs-parent="#accordionExampleb2">
+                    <div id="collapseTwo1" class="accordion-collapse collapse show" aria-labelledby="headingTwo1"
+                      data-bs-parent="#accordionExampleb2">
                       <div class="accordion-body card-body pr--0">
                         <ul class="rbt-course-main-content liststyle">
                           <li>
@@ -248,7 +208,8 @@
                               </div>
                               <div class="course-content-right">
                                 <span class="min-lable">30 min</span>
-                                <span class="rbt-badge variation-03 bg-primary-opacity"><i class="feather-eye"></i> Preview</span>
+                                <span class="rbt-badge variation-03 bg-primary-opacity"><i class="feather-eye"></i>
+                                  Preview</span>
                               </div>
                             </a>
                           </li>
@@ -260,7 +221,8 @@
                               </div>
                               <div class="course-content-right">
                                 <span class="min-lable">0.5 min</span>
-                                <span class="rbt-badge variation-03 bg-primary-opacity"><i class="feather-eye"></i> Preview</span>
+                                <span class="rbt-badge variation-03 bg-primary-opacity"><i class="feather-eye"></i>
+                                  Preview</span>
                               </div>
                             </a>
                           </li>
@@ -283,12 +245,14 @@
 
                   <div class="accordion-item">
                     <h2 class="accordion-header card-header" id="headingTwo2">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
                         Course Fundamentals <span class="rbt-badge-5 ml--10">2hr
                           30min</span>
                       </button>
                     </h2>
-                    <div id="collapseTwo2" class="accordion-collapse collapse" aria-labelledby="headingTwo2" data-bs-parent="#accordionExampleb2">
+                    <div id="collapseTwo2" class="accordion-collapse collapse" aria-labelledby="headingTwo2"
+                      data-bs-parent="#accordionExampleb2">
                       <div class="accordion-body card-body pr--0">
                         <ul class="rbt-course-main-content liststyle">
                           <li><a href="#">
@@ -330,7 +294,8 @@
 
                           <li><a href="lesson.html">
                               <div class="course-content-left">
-                                <i class="feather-play-circle"></i> <span class="text">Ten Factors That Affect Education's
+                                <i class="feather-play-circle"></i> <span class="text">Ten Factors That Affect
+                                  Education's
                                   Longevity.</span>
                               </div>
                               <div class="course-content-right">
@@ -346,12 +311,14 @@
 
                   <div class="accordion-item">
                     <h2 class="accordion-header card-header" id="headingTwo3">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo3" aria-expanded="false" aria-controls="collapseTwo3">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo3" aria-expanded="false" aria-controls="collapseTwo3">
                         You can develop skill and setup <span class="rbt-badge-5 ml--10">1hr
                           50min</span>
                       </button>
                     </h2>
-                    <div id="collapseTwo3" class="accordion-collapse collapse" aria-labelledby="headingTwo3" data-bs-parent="#accordionExampleb2">
+                    <div id="collapseTwo3" class="accordion-collapse collapse" aria-labelledby="headingTwo3"
+                      data-bs-parent="#accordionExampleb2">
                       <div class="accordion-body card-body pr--0">
                         <ul class="rbt-course-main-content liststyle">
                           <li><a href="lesson.html">
@@ -379,11 +346,13 @@
 
                   <div class="accordion-item ">
                     <h2 class="accordion-header card-header" id="headingTwo4">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo4" aria-expanded="false" aria-controls="collapseTwo4">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo4" aria-expanded="false" aria-controls="collapseTwo4">
                         15 Things To Know About Education? <span class="rbt-badge-5 ml--10">2hr 60min</span>
                       </button>
                     </h2>
-                    <div id="collapseTwo4" class="accordion-collapse collapse" aria-labelledby="headingTwo4" data-bs-parent="#accordionExampleb2">
+                    <div id="collapseTwo4" class="accordion-collapse collapse" aria-labelledby="headingTwo4"
+                      data-bs-parent="#accordionExampleb2">
                       <div class="accordion-body card-body pr--0">
                         <ul class="rbt-course-main-content liststyle">
                           <li><a href="lesson.html">
@@ -414,11 +383,13 @@
 
                   <div class="accordion-item">
                     <h2 class="accordion-header card-header" id="headingTwo5">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo5" aria-expanded="false" aria-controls="collapseTwo5">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo5" aria-expanded="false" aria-controls="collapseTwo5">
                         Course Description <span class="rbt-badge-5 ml--10">2hr 20min</span>
                       </button>
                     </h2>
-                    <div id="collapseTwo5" class="accordion-collapse collapse" aria-labelledby="headingTwo5" data-bs-parent="#accordionExampleb2">
+                    <div id="collapseTwo5" class="accordion-collapse collapse" aria-labelledby="headingTwo5"
+                      data-bs-parent="#accordionExampleb2">
                       <div class="accordion-body card-body pr--0">
                         <ul class="rbt-course-main-content liststyle">
                           <li><a href="lesson.html">
@@ -460,7 +431,8 @@
 
                           <li><a href="lesson.html">
                               <div class="course-content-left">
-                                <i class="feather-play-circle"></i> <span class="text">Ten Factors That Affect Education's
+                                <i class="feather-play-circle"></i> <span class="text">Ten Factors That Affect
+                                  Education's
                                   Longevity.</span>
                               </div>
                               <div class="course-content-right">
@@ -577,55 +549,55 @@
 
               <div class="student-grid">
 
-    <div class="student-box">
-      <img src="assets/img/fashion/place-1.jpg" alt="">
-      <h5>Rishita Sengupta</h5>
-      <p>Placed at: <span>H&M</span></p>
-    </div>
+                <div class="student-box">
+                  <img src="assets/img/fashion/place-1.jpg" alt="">
+                  <h5>Rishita Sengupta</h5>
+                  <p>Placed at: <span>H&M</span></p>
+                </div>
 
-    <div class="student-box">
-      <img src="assets/img/fashion/place-2.jpg" alt="">
-      <h5>Damini Bhattacharya</h5>
-      <p>Placed at: <span>Jaipur Rugs</span></p>
-    </div>
+                <div class="student-box">
+                  <img src="assets/img/fashion/place-2.jpg" alt="">
+                  <h5>Damini Bhattacharya</h5>
+                  <p>Placed at: <span>Jaipur Rugs</span></p>
+                </div>
 
-    <div class="student-box">
-      <img src="assets/img/fashion/place-3.jpg" alt="">
-      <h5>Sneha Singh</h5>
-      <p>Placed at: <span>Ritu Kumar</span></p>
-    </div>
+                <div class="student-box">
+                  <img src="assets/img/fashion/place-3.jpg" alt="">
+                  <h5>Sneha Singh</h5>
+                  <p>Placed at: <span>Ritu Kumar</span></p>
+                </div>
 
-    <div class="student-box">
-      <img src="assets/img/fashion/place-4.jpg" alt="">
-      <h5>Abhishek Mishra</h5>
-      <p>Placed at: <span>Levi’s</span></p>
-    </div>
+                <div class="student-box">
+                  <img src="assets/img/fashion/place-4.jpg" alt="">
+                  <h5>Abhishek Mishra</h5>
+                  <p>Placed at: <span>Levi’s</span></p>
+                </div>
 
-    <div class="student-box">
-      <img src="assets/img/fashion/place-5.jpg" alt="">
-      <h5>Prity Dutta</h5>
-      <p>Placed at: <span>Manish</span></p>
-    </div>
+                <div class="student-box">
+                  <img src="assets/img/fashion/place-5.jpg" alt="">
+                  <h5>Prity Dutta</h5>
+                  <p>Placed at: <span>Manish</span></p>
+                </div>
 
-    <div class="student-box">
-      <img src="assets/img/fashion/place-6.jpg" alt="">
-      <h5>Muskan Agarwal</h5>
-      <p>Placed at: <span>Anandadhara Line</span></p>
-    </div>
+                <div class="student-box">
+                  <img src="assets/img/fashion/place-6.jpg" alt="">
+                  <h5>Muskan Agarwal</h5>
+                  <p>Placed at: <span>Anandadhara Line</span></p>
+                </div>
 
-    <div class="student-box">
-      <img src="assets/img/fashion/place-2.jpg" alt="">
-      <h5>Naziya Khan</h5>
-      <p>Placed at: <span>Puma</span></p>
-    </div>
+                <div class="student-box">
+                  <img src="assets/img/fashion/place-2.jpg" alt="">
+                  <h5>Naziya Khan</h5>
+                  <p>Placed at: <span>Puma</span></p>
+                </div>
 
-    <div class="student-box">
-      <img src="assets/img/fashion/place-1.jpg" alt="">
-      <h5>Ritika Sharma</h5>
-      <p>Placed at: <span>Puma</span></p>
-    </div>
+                <div class="student-box">
+                  <img src="assets/img/fashion/place-1.jpg" alt="">
+                  <h5>Ritika Sharma</h5>
+                  <p>Placed at: <span>Puma</span></p>
+                </div>
 
-  </div>
+              </div>
 
               <div class="recruiter-section">
                 <h3 class="title-sm pb-4">Our Recruiters</h3>
@@ -647,7 +619,9 @@
                     <img src="assets/img/fashion/LVMH-logo-300x87.png" alt="Recruiter Logo">
                   </div>
                   <div class="recruiter-item">
-                    <img src="assets/img/fashion/puma-logo-design-history-and-evolution-kreafolk_a042e2da-4ee1-4b78-a7be-c7c2e6acf65a-300x180.webp" alt="Recruiter Logo">
+                    <img
+                      src="assets/img/fashion/puma-logo-design-history-and-evolution-kreafolk_a042e2da-4ee1-4b78-a7be-c7c2e6acf65a-300x180.webp"
+                      alt="Recruiter Logo">
                   </div>
                   <div class="recruiter-item">
                     <img src="assets/img/fashion/RedressLogo-10-300x157.png" alt="Recruiter Logo">
@@ -674,7 +648,7 @@
 <section class="student-work">
   <div class="container">
     <h5 class="sub-head text-center cen">Student work</h5>
-    <h2 class="title text-center">WALK THE STAGE  <span>AS A DESIGNER</span></h2>
+    <h2 class="title text-center">WALK THE STAGE <span>AS A DESIGNER</span></h2>
 
     <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
 
@@ -724,8 +698,8 @@
 
 <section class="related-courses">
   <div class="container">
-     <h5 class="sub-head text-center cen">Related Courses</h5>
-    <h2 class="title text-center">Our Related  <span>Course</span></h2>
+    <h5 class="sub-head text-center cen">Related Courses</h5>
+    <h2 class="title text-center">Our Related <span>Course</span></h2>
 
     <div class="related-course-grid">
 
@@ -794,22 +768,62 @@
 <section class="newsletter-section">
   <div class="newsletter-left-wrapper">
     <div class="newsletter-left-image-div">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be64d1c2819da190063_newsletter-image-left1.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="4b9dde6d-dbc7-7693-7b8f-ea03fcd00ba9" alt="" class="newsletter-left-image blending-effect">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be5815fd0bdca4f1748_newsletter-image-left2.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="99926619-004e-9283-51f2-7b861e14d06f" alt="" class="newsletter-left-image">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6867537dc41f6f206_newsletter-image-left3.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="18fecd25-17fa-6655-6756-30ed05f3c108" alt="" class="newsletter-left-image blending-effect">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be67c712ee92ad86809_newsletter-image-left4.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="8da9a065-14c9-de25-6c22-e91783b8e630" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be64d1c2819da190063_newsletter-image-left1.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="4b9dde6d-dbc7-7693-7b8f-ea03fcd00ba9" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be5815fd0bdca4f1748_newsletter-image-left2.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="99926619-004e-9283-51f2-7b861e14d06f" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6867537dc41f6f206_newsletter-image-left3.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="18fecd25-17fa-6655-6756-30ed05f3c108" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be67c712ee92ad86809_newsletter-image-left4.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="8da9a065-14c9-de25-6c22-e91783b8e630" alt="" class="newsletter-left-image">
     </div>
     <div class="newsletter-left-image-div">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be79670f43a10527d61_newsletter-image-left5.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="8014587a-3644-7c15-f91f-49f6182c4a53" alt="" class="newsletter-left-image blending-effect">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be74d1c2819da19015f_newsletter-image-left6.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="8014587a-3644-7c15-f91f-49f6182c4a54" alt="" class="newsletter-left-image">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be99085694b727def7a_newsletter-image-left7.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="8014587a-3644-7c15-f91f-49f6182c4a55" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be79670f43a10527d61_newsletter-image-left5.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="8014587a-3644-7c15-f91f-49f6182c4a53" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be74d1c2819da19015f_newsletter-image-left6.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="8014587a-3644-7c15-f91f-49f6182c4a54" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be99085694b727def7a_newsletter-image-left7.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="8014587a-3644-7c15-f91f-49f6182c4a55" alt="" class="newsletter-left-image blending-effect">
     </div>
     <div class="newsletter-left-image-div">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beac732184ccd633b83_newsletter-image-left8.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcb" alt="" class="newsletter-left-image">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beb94c68e37e28172f3_newsletter-image-left9.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcc" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beac732184ccd633b83_newsletter-image-left8.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcb" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beb94c68e37e28172f3_newsletter-image-left9.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcc" alt="" class="newsletter-left-image">
     </div>
     <div class="newsletter-left-image-div">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec1e6f2d8016ef8e11_newsletter-image-left10.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="bf77ee2c-682f-0f3d-c5c0-cc01d432d90b" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec1e6f2d8016ef8e11_newsletter-image-left10.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="bf77ee2c-682f-0f3d-c5c0-cc01d432d90b" alt="" class="newsletter-left-image blending-effect">
     </div>
   </div>
 
@@ -828,8 +842,12 @@
           <div class="btn-text-hover">Reserve My Spot</div>
         </div>
         <div class="btn-icon-wrap">
-          <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-          <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+          <img
+            src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+            alt="Arrow" class="btn-icon">
+          <img
+            src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+            alt="Arrow" class="btn-icon-hover">
         </div>
       </a>
     </div>
@@ -837,22 +855,62 @@
 
   <div class="newsletter-right-wrapper">
     <div class="newsletter-right-image-div">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be66594d3d3bb3cf7f5_newsletter-image-right10.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258d1" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be66594d3d3bb3cf7f5_newsletter-image-right10.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258d1" alt="" class="newsletter-left-image blending-effect">
     </div>
     <div class="newsletter-right-image-div">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf225be3aabcd407616_newsletter-image-right8.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258ce" alt="" class="newsletter-left-image blending-effect">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6c59f64210bb9a996_newsletter-image-right9.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258cf" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf225be3aabcd407616_newsletter-image-right8.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258ce" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6c59f64210bb9a996_newsletter-image-right9.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258cf" alt="" class="newsletter-left-image">
     </div>
     <div class="newsletter-right-image-div">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef071e66fe0b7aaa33_newsletter-image-right5.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258ca" alt="" class="newsletter-left-image">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf073081d734817875c_newsletter-image-right6.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258cb" alt="" class="newsletter-left-image">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf0ab2ec63aa8541de6_newsletter-image-right7.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258cc" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef071e66fe0b7aaa33_newsletter-image-right5.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258ca" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf073081d734817875c_newsletter-image-right6.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258cb" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf0ab2ec63aa8541de6_newsletter-image-right7.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258cc" alt="" class="newsletter-left-image blending-effect">
     </div>
     <div class="newsletter-right-image-div">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637c4b7ccb0ab128c31ed6_newsletter-image-right1.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258c5" alt="" class="newsletter-left-image">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bee8ea2ed5d5905120c_newsletter-image-right2.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258c6" alt="" class="newsletter-left-image blending-effect">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef47df0be4638364d4_newsletter-image-right3.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258c7" alt="" class="newsletter-left-image">
-      <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec8b32069242907e7a_newsletter-image-right4.jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258c8" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637c4b7ccb0ab128c31ed6_newsletter-image-right1.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c5" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bee8ea2ed5d5905120c_newsletter-image-right2.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c6" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef47df0be4638364d4_newsletter-image-right3.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c7" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec8b32069242907e7a_newsletter-image-right4.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c8" alt="" class="newsletter-left-image">
     </div>
   </div>
 </section>
@@ -864,7 +922,7 @@
 
 <script>
   document.querySelectorAll('.service-menu li a').forEach(anchor => {
-    anchor.addEventListener('click', function(e) {
+    anchor.addEventListener('click', function (e) {
       e.preventDefault();
 
       const target = document.querySelector(this.getAttribute('href'));
@@ -898,7 +956,7 @@
 
 
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
+  document.addEventListener("DOMContentLoaded", function () {
     const menuItems = document.querySelectorAll(".mainmenu li a");
     const sections = [];
 
@@ -912,7 +970,7 @@
     });
 
     // Scroll Listener
-    window.addEventListener("scroll", function() {
+    window.addEventListener("scroll", function () {
       let scrollPos = window.scrollY + 150; // adjust for offset
 
       sections.forEach(sec => {
@@ -932,7 +990,7 @@
 
     // Smooth scroll on click
     menuItems.forEach(item => {
-      item.addEventListener("click", function(e) {
+      item.addEventListener("click", function (e) {
         e.preventDefault();
         const target = document.querySelector(this.getAttribute("href"));
         window.scrollTo({
@@ -946,13 +1004,13 @@
 
 
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
+  document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll(".has-show-more").forEach(container => {
 
       const content = container.querySelector(".has-show-more-inner-content");
       const btn = container.querySelector(".rbt-show-more-btn");
 
-      btn.addEventListener("click", function() {
+      btn.addEventListener("click", function () {
         container.classList.toggle("expanded");
 
         if (container.classList.contains("expanded")) {

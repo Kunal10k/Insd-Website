@@ -140,100 +140,6 @@
 
 
 
-<!-- <script>
-const leftImg = document.getElementById('leftImg');
-const rightImg = document.getElementById('rightImg');
-const centerImg = document.getElementById('centerImg');
-
-function updateGallery() {
-  const gallery = document.getElementById('gallery');
-  const rect = gallery.getBoundingClientRect();
-  const windowHeight = window.innerHeight;
-
-  // Trigger when gallery is in the center of viewport
-  const inView = rect.top < windowHeight * 0.7 && rect.bottom > windowHeight * 0.3;
-
-  if (inView) {
-    // scroll down: slide side images out from behind center
-    leftImg.style.opacity = '1';
-    rightImg.style.opacity = '1';
-
-    const leftX = - (centerImg.offsetWidth / 2 + leftImg.offsetWidth / 2 + 30);
-    const rightX = centerImg.offsetWidth / 2 + rightImg.offsetWidth / 2 + 30;
-
-    leftImg.style.transform = `translateY(-50%) translateX(${leftX}px)`;
-    rightImg.style.transform = `translateY(-50%) translateX(${rightX}px)`;
-    centerImg.style.transform = `translateY(-50%) scale(1.05)`; // subtle zoom
-  } else {
-    // scroll up: merge side images behind center
-    leftImg.style.opacity = '0';
-    rightImg.style.opacity = '0';
-    leftImg.style.transform = 'translateY(-50%) translateX(0)';
-    rightImg.style.transform = 'translateY(-50%) translateX(0)';
-    centerImg.style.transform = 'translateY(-50%) scale(1)';
-  }
-}
-
-// initialize positions
-leftImg.style.transform = 'translateY(-50%) translateX(0)';
-rightImg.style.transform = 'translateY(-50%) translateX(0)';
-
-window.addEventListener('scroll', updateGallery);
-window.addEventListener('resize', updateGallery);
-</script> -->
-
-<!-- <script>
-const leftImg = document.getElementById('leftImg');
-const rightImg = document.getElementById('rightImg');
-const centerImg = document.getElementById('centerImg');
-
-function updateGallery() {
-  const gallery = document.getElementById('gallery');
-  const rect = gallery.getBoundingClientRect();
-  const windowHeight = window.innerHeight;
-
-  // Trigger when gallery is in center of viewport
-  const inView = rect.top < windowHeight * 0.7 && rect.bottom > windowHeight * 0.3;
-
-  if (inView) {
-    // scroll down: slide side images out from behind center
-    leftImg.style.opacity = '1';
-    rightImg.style.opacity = '1';
-
-    const leftX = - (centerImg.offsetWidth / 2 + leftImg.offsetWidth / 2 + 30);
-    const rightX = centerImg.offsetWidth / 2 + rightImg.offsetWidth / 2 + 30;
-
-    leftImg.style.transform = `translateY(-50%) translateX(${leftX}px)`;
-    rightImg.style.transform = `translateY(-50%) translateX(${rightX}px)`;
-    centerImg.style.transform = `translateY(-50%) scale(1.05)`;
-
-    // Show titles
-    leftImg.classList.add('active');
-    rightImg.classList.add('active');
-    centerImg.classList.add('active');
-
-  } else {
-    // scroll up: merge side images behind center
-    leftImg.style.opacity = '0';
-    rightImg.style.opacity = '0';
-    leftImg.style.transform = 'translateY(-50%) translateX(0)';
-    rightImg.style.transform = 'translateY(-50%) translateX(0)';
-    centerImg.style.transform = 'translateY(-50%) scale(1)';
-
-    // Hide titles
-    leftImg.classList.remove('active');
-    rightImg.classList.remove('active');
-    centerImg.classList.remove('active');
-  }
-}
-
-leftImg.style.transform = 'translateY(-50%) translateX(0)';
-rightImg.style.transform = 'translateY(-50%) translateX(0)';
-
-window.addEventListener('scroll', updateGallery);
-window.addEventListener('resize', updateGallery);
-</script> -->
-
 
 <script>
   const leftImg = document.getElementById('leftImg');
@@ -812,6 +718,50 @@ window.addEventListener('resize', updateGallery);
 
 
 
+
+<script>
+  const cards = document.querySelectorAll('.testimonial-card');
+  const nextBtn = document.querySelector('.next');
+  const prevBtn = document.querySelector('.prev');
+  let index = 0;
+
+  function showCard(i) {
+    cards.forEach(card => card.classList.remove('active'));
+    cards[i].classList.add('active');
+  }
+
+  nextBtn.addEventListener('click', () => {
+    index = (index + 1) % cards.length;
+    showCard(index);
+  });
+
+  prevBtn.addEventListener('click', () => {
+    index = (index - 1 + cards.length) % cards.length;
+    showCard(index);
+  });
+</script>
+
+<script>
+  $('.insd-alumni-carousel').owlCarousel({
+    loop: false,
+    margin: 30,
+    nav: true,
+    dots: false,
+    autoplay: false,
+    smartSpeed: 600,
+    responsive: {
+      0: {
+        items: 1
+      },
+      768: {
+        items: 2
+      },
+      1200: {
+        items: 3
+      }
+    }
+  });
+</script>
 
 
 

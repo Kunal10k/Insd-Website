@@ -6,7 +6,7 @@
     <div class="banner" style="background-image: url('./assets/img/insd-banner1.jpg');">
         <div class="container">
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-md-8 col-sm-12">
                     <div class="landing_content">
                         <h5>Join the Next Generation of Elite Fashion Designers​</h5>
                         <h1 class="w-75">Launch Your Fashion Career with Kolkata’s Award Winning Design School <br>
@@ -50,7 +50,7 @@
 
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-sm-12  d-md-block mt-5 ">
 
                     <div class="landing_wrapper">
 
