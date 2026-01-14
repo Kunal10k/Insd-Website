@@ -2,6 +2,7 @@
     .landing_banner .d-md-block {
         width: 100%;
     }
+
     .navbar-light .navbar-nav .nav-link {
         border: transparent !important;
     }
@@ -11,6 +12,23 @@
         bottom: 0;
         left: 0;
         right: 0;
+    }
+
+    .opportunites {
+        flex-direction: column;
+    }
+
+    .opportunites .title {
+        margin-bottom: 15px !important;
+    }
+
+    .placement-counters {
+        flex-direction: column;
+    }
+
+    .counter-box {
+          padding: 15px;
+     
     }
 
     .programs_flex {
@@ -747,7 +765,7 @@
 
     .blog-details-text blockquote {
         padding: 9px;
-        
+
     }
 
     .inner_my_banner h1 {
