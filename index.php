@@ -199,13 +199,13 @@
   <div class="container">
     <div class="row">
       <div class="col-md-5">
-        <h2 class="title">Connect <br> <span>with Us</span></h2>
+        <h2 class="title">Our <br> <span>Courses</span></h2>
       </div>
       <div class="col-md-7">
         <p class="para">Our University provides world-class education, drives innovation, and prepares future leaders.
           With modern facilities and a vibrant community, we empower students to succeed and make lasting impact.</p>
 
-        <a href="#" class="btn-animated btn-light mt-4">
+        <a href="#" class="btn-animated btn-light mt-4 mb-5">
           <div class="btn-text-wrap">
             <div class="btn-text">Talk to our Counsellor</div>
             <div class="btn-text-hover">Talk to our Counsellor</div>
@@ -242,202 +242,240 @@
       <!-- Tab Content -->
       <div class="tab-content" id="libraryTabsContent">
         <!-- Research -->
-        <div class="tab-pane fade show active" id="research" role="tabpanel">
+        <div class="tab-pane show active" id="research" role="tabpanel">
 
           <div class="course-card-grid">
-            <div class="item">
-              <div class="course-card">
-                <div class="course-header">
-                  <span class="degree-label">DEGREE</span>
-                  <h2>Under-graduation Programme (UG)</h2>
-                  <div class="course-meta">
-                    <span>
-                      <i class="fa-regular fa-clock"></i>
-                      <span class="meta-text">3-Year Course</span>
-                    </span>
-                    <span>
-                      <i class="fa-solid fa-building-columns"></i>
-                      <span class="meta-text">Full-Time On-Campus</span>
-                    </span>
-                  </div>
 
-                </div>
+            <!-- Interior Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
+                <h2>Interior Designing</h2>
 
-                <ul class="course-features">
-                  <li><i class="fa-solid fa-check-circle"></i> B.DES in Fashion Design</li>
-                  <li><i class="fa-solid fa-check-circle"></i> B.Voc in Fashion Design</li>
-
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
                 </ul>
-
-                <a href="#" class="learn-more-btn"><i class="fa-solid fa-arrow-right"></i> Apply Now</a>
               </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Studio-based interior design learning</li>
+                <li><i class="fa-solid fa-check-circle"></i> Live projects & site exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Interior Design</div>
+                  <div class="btn-text-hover">Explore Interior Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+            </div>
+
+            <!-- Fashion Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
+
+                <h2>Fashion Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Design development & technical training</li>
+                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Fashion Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
 
 
             </div>
-            <div class="item">
-              <div class="course-card">
-                <div class="course-header">
-                  <span class="degree-label">DEGREE</span>
-                  <h2>Post-graduation Programme (PG)</h2>
-                  <div class="course-meta">
-                    <span>
-                      <i class="fa-regular fa-clock"></i>
-                      <span class="meta-text">3-Year Course</span>
-                    </span>
-                    <span>
-                      <i class="fa-solid fa-building-columns"></i>
-                      <span class="meta-text">Full-Time On-Campus</span>
-                    </span>
-                  </div>
 
-                </div>
+            <!-- Graphic Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
 
-                <ul class="course-features">
-                  <li><i class="fa-solid fa-check-circle"></i> M.DES in Fashion Design</li>
-                  <li><i class="fa-solid fa-check-circle"></i> MBA in Fashion Design</li>
-                  <li><i class="fa-solid fa-check-circle"></i> M.VOC in Fashion Design</li>
+                <h2>Graphic Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
                 </ul>
-
-                <a href="#" class="learn-more-btn"><i class="fa-solid fa-arrow-right"></i> Apply Now</a>
-
               </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Visual communication & branding skills</li>
+                <li><i class="fa-solid fa-check-circle"></i> Digital tools & real-world briefs</li>
+                <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Graphic Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
 
 
             </div>
-            <div class="item">
-              <div class="course-card">
-                <div class="course-header">
-                  <span class="degree-label">DEGREE</span>
-                  <h2>Diploma Programme</h2>
-                  <div class="course-meta">
-                    <span>
-                      <i class="fa-regular fa-clock"></i>
-                      <span class="meta-text">3-Year Course</span>
-                    </span>
-                    <span>
-                      <i class="fa-solid fa-building-columns"></i>
-                      <span class="meta-text">Full-Time On-Campus</span>
-                    </span>
-                  </div>
 
-                </div>
-
-                <ul class="course-features">
-                  <li><i class="fa-solid fa-check-circle"></i> Adv Diploma in Fashion Design</li>
-                  <li><i class="fa-solid fa-check-circle"></i> Diploma in Fashion Design</li>
-
-                </ul>
-
-                <a href="#" class="learn-more-btn"><i class="fa-solid fa-arrow-right"></i> Apply Now</a>
-
-              </div>
-
-
-            </div>
           </div>
-
         </div>
+
 
         <!-- Innovation -->
         <div class="tab-pane fade" id="innovation" role="tabpanel">
           <div class="course-card-grid">
-            <div class="item">
-              <div class="course-card">
-                <div class="course-header">
-                  <span class="degree-label">DEGREE</span>
-                  <h2>Under-graduation Programme (UG)</h2>
-                  <div class="course-meta">
-                    <span>
-                      <i class="fa-regular fa-clock"></i>
-                      <span class="meta-text">3-Year Course</span>
-                    </span>
-                    <span>
-                      <i class="fa-solid fa-building-columns"></i>
-                      <span class="meta-text">Full-Time On-Campus</span>
-                    </span>
-                  </div>
 
-                </div>
+            <!-- Interior Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
+                <h2>Interior Designing</h2>
 
-                <ul class="course-features">
-                  <li><i class="fa-solid fa-check-circle"></i> B.DES in Interior Design</li>
-                  <li><i class="fa-solid fa-check-circle"></i>B.Voc in Interior Design
-
-                  </li>
-
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
                 </ul>
-
-                <a href="#" class="learn-more-btn"><i class="fa-solid fa-arrow-right"></i> Apply Now</a>
               </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Studio-based interior design learning</li>
+                <li><i class="fa-solid fa-check-circle"></i> Live projects & site exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Interior Design</div>
+                  <div class="btn-text-hover">Explore Interior Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+            </div>
+
+            <!-- Fashion Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
+
+                <h2>Fashion Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Design development & technical training</li>
+                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Fashion Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
 
 
             </div>
-            <div class="item">
-              <div class="course-card">
-                <div class="course-header">
-                  <span class="degree-label">DEGREE</span>
-                  <h2>Post-graduation Programme (PG)</h2>
-                  <div class="course-meta">
-                    <span>
-                      <i class="fa-regular fa-clock"></i>
-                      <span class="meta-text">3-Year Course</span>
-                    </span>
-                    <span>
-                      <i class="fa-solid fa-building-columns"></i>
-                      <span class="meta-text">Full-Time On-Campus</span>
-                    </span>
-                  </div>
 
-                </div>
+            <!-- Graphic Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
 
-                <ul class="course-features">
-                  <li><i class="fa-solid fa-check-circle"></i> M.DES in Interior Design
-                  </li>
-                  <li><i class="fa-solid fa-check-circle"></i>MBA in Interior Design
-                  </li>
-                  <li><i class="fa-solid fa-check-circle"></i> M.VOC in Interior Design
+                <h2>Graphic Designing</h2>
 
-                  </li>
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
                 </ul>
-
-                <a href="#" class="learn-more-btn"><i class="fa-solid fa-arrow-right"></i> Learn More</a>
               </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Visual communication & branding skills</li>
+                <li><i class="fa-solid fa-check-circle"></i> Digital tools & real-world briefs</li>
+                <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Graphic Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
 
 
             </div>
-            <div class="item">
-              <div class="course-card">
-                <div class="course-header">
-                  <span class="degree-label">DEGREE</span>
-                  <h2>Diploma Programme
-                  </h2>
-                  <div class="course-meta">
-                    <span>
-                      <i class="fa-regular fa-clock"></i>
-                      <span class="meta-text">3-Year Course</span>
-                    </span>
-                    <span>
-                      <i class="fa-solid fa-building-columns"></i>
-                      <span class="meta-text">Full-Time On-Campus</span>
-                    </span>
-                  </div>
 
-                </div>
-
-                <ul class="course-features">
-                  <li><i class="fa-solid fa-check-circle"></i> Adv Diploma in Interior Design
-                  </li>
-                  <li><i class="fa-solid fa-check-circle"></i> Diploma in Interior Design
-
-                  </li>
-
-                </ul>
-
-                <a href="#" class="learn-more-btn"><i class="fa-solid fa-arrow-right"></i> Learn More</a>
-              </div>
-
-
-            </div>
           </div>
 
         </div>
@@ -446,105 +484,118 @@
         <div class="tab-pane fade" id="community" role="tabpanel">
 
           <div class="course-card-grid">
-            <div class="item">
-              <div class="course-card">
-                <div class="course-header">
-                  <span class="degree-label">DEGREE</span>
-                  <h2>Under-graduation Programme (UG)</h2>
-                  <div class="course-meta">
-                    <span>
-                      <i class="fa-regular fa-clock"></i>
-                      <span class="meta-text">3-Year Course</span>
-                    </span>
-                    <span>
-                      <i class="fa-solid fa-building-columns"></i>
-                      <span class="meta-text">Full-Time On-Campus</span>
-                    </span>
-                  </div>
 
-                </div>
+            <!-- Interior Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
+                <h2>Interior Designing</h2>
 
-                <ul class="course-features">
-                  <li><i class="fa-solid fa-check-circle"></i> BSc in Graphic Design
-                  </li>
-                  <li><i class="fa-solid fa-check-circle"></i> B.DES in Graphic Design
-
-                  </li>
-
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
                 </ul>
-
-                <a href="#" class="learn-more-btn"><i class="fa-solid fa-arrow-right"></i> Learn More</a>
               </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Studio-based interior design learning</li>
+                <li><i class="fa-solid fa-check-circle"></i> Live projects & site exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Interior Design</div>
+                  <div class="btn-text-hover">Explore Interior Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+            </div>
+
+            <!-- Fashion Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
+
+                <h2>Fashion Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Design development & technical training</li>
+                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Fashion Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
 
 
             </div>
-            <div class="item">
-              <div class="course-card">
-                <div class="course-header">
-                  <span class="degree-label">DEGREE</span>
-                  <h2>Post-graduation Programme (PG)
-                  </h2>
-                  <div class="course-meta">
-                    <span>
-                      <i class="fa-regular fa-clock"></i>
-                      <span class="meta-text">3-Year Course</span>
-                    </span>
-                    <span>
-                      <i class="fa-solid fa-building-columns"></i>
-                      <span class="meta-text">Full-Time On-Campus</span>
-                    </span>
-                  </div>
 
-                </div>
+            <!-- Graphic Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
 
-                <ul class="course-features">
-                  <li><i class="fa-solid fa-check-circle"></i>M.DES in Graphic Design
-                  </li>
-                  <li><i class="fa-solid fa-check-circle"></i> MBA in Graphic Design
-                  </li>
-                  <li><i class="fa-solid fa-check-circle"></i> M.VOC in Graphic Design
+                <h2>Graphic Designing</h2>
 
-                  </li>
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
                 </ul>
-
-                <a href="#" class="learn-more-btn"><i class="fa-solid fa-arrow-right"></i> Apply Now</a>
               </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Visual communication & branding skills</li>
+                <li><i class="fa-solid fa-check-circle"></i> Digital tools & real-world briefs</li>
+                <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Graphic Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
 
 
             </div>
-            <div class="item">
-              <div class="course-card">
-                <div class="course-header">
-                  <span class="degree-label">DEGREE</span>
-                  <h2>Diploma Programme
-                  </h2>
-                  <div class="course-meta">
-                    <span>
-                      <i class="fa-regular fa-clock"></i>
-                      <span class="meta-text">3-Year Course</span>
-                    </span>
-                    <span>
-                      <i class="fa-solid fa-building-columns"></i>
-                      <span class="meta-text">Full-Time On-Campus</span>
-                    </span>
-                  </div>
 
-                </div>
-
-                <ul class="course-features">
-                  <li><i class="fa-solid fa-check-circle"></i> Adv Diploma in Graphic Design
-                  </li>
-                  <li><i class="fa-solid fa-check-circle"></i> Diploma in Graphic Design
-
-                  </li>
-
-                </ul>
-
-                <a href="#" class="learn-more-btn"><i class="fa-solid fa-arrow-right"></i> Apply Now</a>
-              </div>
-
-
-            </div>
           </div>
         </div>
       </div>
@@ -594,6 +645,89 @@
   </div>
 </section>
 
+<section class="why-choose">
+  <div class="container">
+    <div class="row align-items-center">
+
+      <div class="col-md-7">
+        <h5 class="sub-head">Why Choose INSD Kolkata</h5>
+        <h2 class="title">
+          Excellence That <br>
+          <span>Builds Your Creative Career</span>
+        </h2>
+
+        <p class="para">
+          INSD Kolkata offers an industry-driven curriculum designed to transform creativity into
+          real-world success. With hands-on studio learning, expert mentorship, and a strong
+          career-focused approach, we prepare students to lead in the design industry.
+        </p>
+
+        <div class="benifit-wraps">
+
+          <div class="benefit-item">
+            <div class="icon-circle">
+              <i class="bi bi-patch-check-fill"></i>
+            </div>
+            <div class="benefit-text">
+              <h5>Industry-Driven Curriculum</h5>
+              <p>Courses designed as per current industry standards and trends.</p>
+            </div>
+          </div>
+
+          <div class="benefit-item">
+            <div class="icon-circle">
+              <i class="bi bi-patch-check-fill"></i>
+            </div>
+            <div class="benefit-text">
+              <h5>Studio-Based Practical Learning</h5>
+              <p>Hands-on training through live projects and real design studios.</p>
+            </div>
+          </div>
+
+          <div class="benefit-item">
+            <div class="icon-circle">
+              <i class="bi bi-patch-check-fill"></i>
+            </div>
+            <div class="benefit-text">
+              <h5>Expert-Led Masterclasses</h5>
+              <p>Learn directly from industry professionals and creative leaders.</p>
+            </div>
+          </div>
+
+          <div class="benefit-item">
+            <div class="icon-circle">
+              <i class="bi bi-patch-check-fill"></i>
+            </div>
+            <div class="benefit-text">
+              <h5>Affordable Quality Education</h5>
+              <p>Premium design education that remains accessible and cost-effective.</p>
+            </div>
+          </div>
+
+          <div class="benefit-item">
+            <div class="icon-circle">
+              <i class="bi bi-patch-check-fill"></i>
+            </div>
+            <div class="benefit-text">
+              <h5>Career-Focused Approach</h5>
+              <p>Strong placement support, portfolio building, and career guidance.</p>
+            </div>
+          </div>
+
+        </div>
+
+
+
+      </div>
+
+      <div class="col-md-5">
+        <img src="assets/img/insdimage.jpeg" alt="INSD Kolkata Campus" class="img-fluid rounded">
+      </div>
+
+    </div>
+  </div>
+</section>
+
 
 <section class="marquee-container tab-sec ws">
 
@@ -625,8 +759,84 @@
     <!-- WORKSHOPS -->
     <div class="tab-pane fade show active pt-0" id="workshops">
       <div class="marquee-wrapper">
-        <div class="marquee-track run">
+        <!-- <div class="marquee-track run"> -->
+        <div class="marquee-track1 marquee-left overflow-hidden">
 
+          <div class="testimonial-card">
+            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/1 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/1 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/1 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/1 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/1 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/1 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
           <div class="testimonial-card">
             <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
               <img class="bg-img" src="assets/img/1 (2).jpg">
@@ -687,6 +897,81 @@
               </div>
             </div>
           </div>
+          <div class="testimonial-card">
+            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/2 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/2 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/2 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/2 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/2 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/2 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
 
         </div>
       </div>
@@ -697,6 +982,56 @@
       <div class="marquee-wrapper">
         <div class="marquee-track">
 
+          <div class="testimonial-card">
+            <a href="assets/img/3 (2).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/3 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/3 (2).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/3 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/3 (2).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/3 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/3 (2).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/3 (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
           <div class="testimonial-card">
             <a href="assets/img/3 (2).jpg" data-fancybox="fashion">
               <img class="bg-img" src="assets/img/3 (2).jpg">
@@ -757,6 +1092,56 @@
               </div>
             </div>
           </div>
+          <div class="testimonial-card">
+            <a href="assets/img/4.jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/4.jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/4.jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/4.jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/4.jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/4.jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/4.jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/4.jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
 
         </div>
       </div>
@@ -767,11 +1152,44 @@
 </section>
 
 
+<section class="cta-sec">
+  <div class="container">
+    <div class="cta-content">
+      <h5 class="sub-head text-center cen text-white">Not sure which design course is right for you?</h5>
+      <h2 class="title text-center text-white">Not sure which design course is right for you?</h2>
+      <p class="para text-center text-white">Join us today and take the first step toward a successful and
+        creative future.</p>
+
+      <div class="ban-btn2">
+
+        <a href="#" class="btn-animated btn-light mt-4">
+          <div class="btn-text-wrap">
+            <div class="btn-text">Talk to a Counsellor | Book Free Counselling</div>
+            <div class="btn-text-hover">Talk to a Counsellor | Book Free Counselling</div>
+          </div>
+          <div class="btn-icon-wrap">
+            <img
+              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+              alt="Arrow" class="btn-icon">
+            <img
+              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+              alt="Arrow" class="btn-icon-hover">
+          </div>
+        </a>
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
 
 
 
 
 
+
+<!-- 
 <div class="placement-assistance">
   <h4 class="title text-center">
     PLACEMENTS & <span>RECRUITERS</span>
@@ -791,7 +1209,7 @@
             <p>Brands Associated</p>
           </div>
           <div class="counter-box">
-            <!-- <h2><span class="counter" data-target="500">0</span>+</h2> -->
+          
             <p>BStudents placed across brands, studios, and agencies</p>
           </div>
         </div>
@@ -810,7 +1228,7 @@
             <img src="https://dsks.co.in/emsung-sen-website/assets/img/img-4.png" alt="">
 
 
-            <!-- duplicate for infinite loop -->
+         
             <img src="https://dsks.co.in/emsung-sen-website/assets/img/img-4.png" alt="">
             <img src="https://dsks.co.in/emsung-sen-website/assets/img/img-4.png" alt="">
             <img src="https://dsks.co.in/emsung-sen-website/assets/img/img-4.png" alt="">
@@ -831,71 +1249,135 @@
 
 
   </div>
-</div>
+</div> -->
 
 
 
 
 
-<!-- why choose us start -->
-
-<section class="why-choose">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-7">
-        <h5 class="sub-head">Why Choose Us</h5>
-        <h2 class="title">Excellence That <br> <span>Sets You Apart</span></h2>
-
-        <p class="para">Our University provides world-class education, drives innovation, and prepares future leaders.
-          With modern facilities and a vibrant community, we empower students to succeed and make lasting impact.</p>
 
 
-        <div class="benifit-wraps">
-          <div class="benefit-item">
-            <div class="icon-circle"><i class="bi bi-patch-check-fill"></i></div>
-            <div class="benefit-text">
-              <h5>Wide Range of Courses</h5>
-              <p>Choose from thousands of subjects and skills.</p>
-            </div>
+
+
+
+
+
+
+
+<section class="career-zone">
+  <div class="career-wrapper">
+
+    <!-- LEFT -->
+    <div class="career-info">
+      <h2 class="title">
+        PLACEMENTS & <br>
+        <span>RECRUITERS</span>
+      </h2>
+      <p class="para">Where talent meets industry</p>
+      <div class="career-metrics mt-3">
+
+        <div class="metric-box">
+          <div class="metric-icon">
+            <i class="fa-solid fa-check"></i>
           </div>
-
-          <div class="benefit-item">
-            <div class="icon-circle"><i class="bi bi-patch-check-fill"></i></div>
-            <div class="benefit-text">
-              <h5>Cost-Effective</h5>
-              <p>Often more affordable than traditional classroom learning.</p>
-            </div>
+          <div class="e21">
+            <h3>100%</h3>
+            <p>Placement Assistance</p>
           </div>
+        </div>
 
-          <div class="benefit-item">
-            <div class="icon-circle"><i class="bi bi-patch-check-fill"></i></div>
-            <div class="benefit-text">
-              <h5>Global Networking</h5>
-              <p>Connect with learners and instructors from around the world.</p>
-            </div>
+        <div class="metric-box">
+          <div class="metric-icon">
+            <i class="fa-solid fa-users"></i>
+          </div>
+          <div class="e21">
+
+            <h3>200+</h3>
+            <p>Industry Partners</p>
+          </div>
+        </div>
+
+        <div class="metric-box">
+          <div class="metric-icon">
+            <i class="fa-solid fa-briefcase"></i>
+          </div>
+          <div class="e21">
+
+            <h3>850+</h3>
+            <p>Students Placed</p>
           </div>
         </div>
 
       </div>
-      <div class="col-md-5">
-        <img src="assets/img/insdimage.jpeg" alt="" class="img-fluid">
-      </div>
+
     </div>
+
+    <!-- RIGHT -->
+    <div class="career-brands">
+      <h4 class="title text-center mb-3">Our Hiring <span>Partners</span></h4>
+
+      <div class="brand-grid">
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-5.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-4.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-3.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-2.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-1.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-5.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-4.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-3.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-2.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-1.png" alt="Accenture">
+        </div>
+
+
+      </div>
+
+    </div>
+
   </div>
 </section>
 
 
-<!-- why choose us End -->
 
 
 
-
-
-
-
-
-
-<!-- student-testi start -->
 
 <section class="student-test">
   <div class="">
@@ -1210,19 +1692,13 @@
   </div>
 </section>
 
-<section class="opportunites">
-  <div class="container">
-    <div class="col-md-12 d-flex">
-      <div class="opp_content">
-        <h4 class="title" style="color: #fff; font-weight: 600;">Want to know more about placements and career
-          opportunities</h4>
-      </div>
-    </div>
-  </div>
-  <div class="img_boxs_opportunites">
-    <img src="assets/img/2 (2).jpg" alt="" class="img-fluid">
-  </div>
-</section>
+
+
+
+
+
+
+
 
 <section class="cta">
   <div class="container">
@@ -1269,16 +1745,12 @@
   </div>
   </div>
 </section>
-<!-- cta End -->
 
 
 
 
 
 
-
-
-<!-- newslater start -->
 
 <section class="newsletter-section">
   <div class="newsletter-left-wrapper">
@@ -1448,17 +1920,10 @@
 
 
 <div class="modal fade" id="enquiryModal" tabindex="-1" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered modal-lg">
+  <div class="modal-dialog modal-dialog-centered modal-sm">
     <div class="modal-content">
 
-      <!-- Modal Header -->
-      <!-- <div class="modal-header">
-     
-        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
 
-      </div> -->
-
-      <!-- Modal Body -->
       <div class="modal-body p-0">
 
         <div class="landing_wrapper">

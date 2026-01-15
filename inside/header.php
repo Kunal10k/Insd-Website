@@ -30,6 +30,15 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
     rel="stylesheet">
 
+
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
+
+
   <!-- Fancybox CSS -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" rel="stylesheet">
 
@@ -113,9 +122,11 @@
                     <li class="dropdown-submenu">
                       <a class="dropdown-item dropdown-toggle" href="#">Interior Design </a>
                       <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="B.Des-in-Interior-Design-intern.php">B.Des in Interior Design</a></li>
-                        <li><a class="dropdown-item" href="interior.php">MBA in Interior Design</a></li>
-                        <li><a class="dropdown-item" href="interior.php">Diploma & Advanced Diploma in Interior
+                        <li><a class="dropdown-item" href="B.Des-in-Interior-Design-intern.php">B.Des in Interior
+                            Design</a></li>
+                        <li><a class="dropdown-item" href="MBA-in-Interior-Design.php">MBA in Interior Design</a></li>
+                        <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Interior-Design.php">Diploma &
+                            Advanced Diploma in Interior
                             Design</a></li>
                       </ul>
                     </li>
@@ -124,9 +135,11 @@
                     <li class="dropdown-submenu">
                       <a class="dropdown-item dropdown-toggle" href="#">Fashion Design </a>
                       <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="fashion.php">B.Des in Fashion Design</a></li>
-                        <li><a class="dropdown-item" href="fashion.php">MBA in Fashion Design</a></li>
-                        <li><a class="dropdown-item" href="fashion.php">B.Des in Fashion Design</a></li>
+                        <li><a class="dropdown-item" href="B.Des-in-Fashion-Design.php">B.Des in Fashion Design</a></li>
+                        <li><a class="dropdown-item" href="MBA-in-Fashion-Design.php">MBA in Fashion Design</a></li>
+                        <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Fashion-Design.php">Diploma &
+                            Advanced Diploma in Fashion
+                            Design</a></li>
 
                       </ul>
                     </li>
@@ -135,9 +148,10 @@
                     <li class="dropdown-submenu">
                       <a class="dropdown-item dropdown-toggle" href="#">Graphic Design </a>
                       <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="graphic.php">B.DES in Graphic Design</a></li>
-                        <li><a class="dropdown-item" href="graphic.php">MBA in Graphic Design</a></li>
-                        <li><a class="dropdown-item" href="graphic.php">Diploma & Advanced Diploma in Graphic Design</a>
+                        <li><a class="dropdown-item" href="B.DES-in-Graphic-Design.php">B.DES in Graphic Design</a></li>
+                        <li><a class="dropdown-item" href="MBA-in-Graphic-Design.php">MBA in Graphic Design</a></li>
+                        <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Graphic-Design.php">Diploma &
+                            Advanced Diploma in Graphic Design</a>
                         </li>
 
                       </ul>
@@ -156,7 +170,7 @@
                   </a>
 
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="admission.php">Admission Overview</a></li>
+                    <li><a class="dropdown-item" href="admission-overview-2.php">Admission Overview</a></li>
 
                     <li><a class="dropdown-item" href="Eligibity-Criteria.php">Eligibity Criteria</a></li>
                     <li><a class="dropdown-item" href="admission-faq.php">Admission FAQ</a></li>
@@ -213,7 +227,7 @@
 
 
                 <li class="nav-item">
-                  <a href="" class="nav-link">
+                  <a href="contact.php" class="nav-link">
 
                     <span class="nav-btn-spacer">Apply Now</span>
 

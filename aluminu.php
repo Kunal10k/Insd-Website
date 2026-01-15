@@ -2,14 +2,16 @@
 
 
 
-<section class="inner_Section" style="background-image: url('./assets/img/sliderbg.jpg');">
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/placement.jpg');">
 
 
-  <div class="container-flud">
-    <h1 class="title text-center">
-   Aluminu
-    </h1>
-  </div>
+
+    <div class="container">
+       
+         <h1 class="title ">
+             Alumni Success  <br class="d-md-block d-none">Stories
+        </h1>
+    </div>
 </section>
 
 <section class="insd-alumni-section">

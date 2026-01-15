@@ -2,12 +2,15 @@
 
 
 
-<section class="inner_Section" style="background-image: url('./assets/img/sliderbg.jpg');">
 
 
-    <div class="container-flud">
-        <h1 class="title text-center">
-            Eligibity Criteria
+
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/eligibility\ criteria.jpg');">
+
+
+    <div class="container">
+        <h1 class="title ">
+                Eligibity Criteria
         </h1>
     </div>
 </section>

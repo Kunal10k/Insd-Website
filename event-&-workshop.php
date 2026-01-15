@@ -1,12 +1,12 @@
 <?php include 'inside/header.php' ?>
 
 
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/campus\ life.jpg');">
 
-<section class="inner_Section" style="background-image: url('./assets/img/sliderbg.jpg');">
 
 
-    <div class="container-flud">
-        <h1 class="title text-center">
+    <div class="container">
+        <h1 class="title ">
             Event & Workshop
         </h1>
     </div>

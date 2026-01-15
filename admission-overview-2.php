@@ -2,12 +2,14 @@
 
 
 
-<section class="inner_Section" style="background-image: url('./assets/img/sliderbg.jpg');">
 
 
-    <div class="container-flud">
-        <h1 class="title text-center">
-            Admission Overview two
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/eligibility\ criteria.jpg');">
+
+
+    <div class="container">
+        <h1 class="title ">
+            Admission <br class="d-md-block d-none">Overview two
         </h1>
     </div>
 </section>
@@ -76,74 +78,74 @@
                     </div>
                 </a>
             </div>
+            <div class="procedure-card">
+                <h3>Submission of Application</h3>
+                <p class="para">
+                    Applications must be submitted to the admission office, emailed, or submitted through the website
+                    registration form along with all required documents.
+                </p>
+
+
+                <ul class="contact-list">
+                    <li>
+                        <i class="fa-solid fa-envelope"></i>
+                        <a href="mailto:info@www.insdkolkata.com">info@www.insdkolkata.com</a>
+                    </li>
+                    <li>
+                        <i class="fa-solid fa-envelope"></i>
+                        <a href="mailto:enquiry@www.insdkolkata.com">enquiry@www.insdkolkata.com</a>
+
+                    </li>
+                </ul>
+
+            </div>
         </div>
 
-        <!-- Fees -->
-        <!-- <div class="info-box highlights">
-            <h3>Registration & Prospectus Fee</h3>
-            <p>
-                <strong>₹ 21,500/-</strong>
-                <br>Upon payment, your seat will be reserved at <strong>INSD Kolkata</strong>.
-            </p>
-        </div> -->
 
-        <!-- Submission Info -->
-        <div class="info-box">
-            <h3 class="">Submission of Application</h3>
-            <p class="para">
-                Applications must be submitted to the admission office, emailed, or
-                submitted through the website registration form along with all required documents.
-            </p>
-            <p class="emails">
-                <i class="fa-solid fa-envelope"></i>
-                <a href="mailto:info@www.insdkolkata.com">info@www.insdkolkata.com</a>
-                <br>
-                <i class="fa-solid fa-envelope"></i>
-                <a href="mailto:enquiry@www.insdkolkata.com">enquiry@www.insdkolkata.com</a>
-            </p>
 
-        </div>
+        <div class="gridss_box">
 
-        <!-- Documents -->
-        <div class="info-box">
-            <h3>Necessary Accompanying Documents</h3>
-            <ul class="doc-list">
-                <li>Tuition fee of the selected course</li>
-                <li>Attested copies of birth certificate & address proof</li>
-                <li>Last qualifying examination certificate</li>
-                <li>SC / ST / OBC certificate (if applicable)</li>
-                <li>Migration / Transfer Certificate</li>
-                <li>Four passport size photographs</li>
-            </ul>
-        </div>
+            <!-- Documents -->
+            <div class="info-box">
+                <h3>Necessary Accompanying Documents</h3>
+                <ul class="doc-list">
+                    <li>Tuition fee of the selected course</li>
+                    <li>Attested copies of birth certificate & address proof</li>
+                    <li>Last qualifying examination certificate</li>
+                    <li>SC / ST / OBC certificate (if applicable)</li>
+                    <li>Migration / Transfer Certificate</li>
+                    <li>Four passport size photographs</li>
+                </ul>
+            </div>
 
-        <!-- Bank Details -->
-        <div class="info-box bank-box mb-0">
-            <h3>Financial Details</h3>
-            <p class="para">The fee can be paid via Cash / Online Transfer / NEFT / RTGS / Cheque / Draft</p>
+            <!-- Bank Details -->
+            <div class="info-box bank-box mb-0">
+                <h3>Financial Details</h3>
+                <p class="para">The fee can be paid via Cash / Online Transfer / NEFT / RTGS / Cheque / Draft</p>
 
-            <table class="bank-table">
-                <tr>
-                    <td>Bank Name</td>
-                    <td>Axis Bank</td>
-                </tr>
-                <tr>
-                    <td>Account Number</td>
-                    <td>918020071503394</td>
-                </tr>
-                <tr>
-                    <td>IFSC Code</td>
-                    <td>UTIB0001574</td>
-                </tr>
-                <tr>
-                    <td>Branch</td>
-                    <td>Vivekananda Road</td>
-                </tr>
-                <tr>
-                    <td>Payable To</td>
-                    <td>Shree Jeen Education Centre</td>
-                </tr>
-            </table>
+                <table class="bank-table">
+                    <tr>
+                        <td>Bank Name</td>
+                        <td>Axis Bank</td>
+                    </tr>
+                    <tr>
+                        <td>Account Number</td>
+                        <td>918020071503394</td>
+                    </tr>
+                    <tr>
+                        <td>IFSC Code</td>
+                        <td>UTIB0001574</td>
+                    </tr>
+                    <tr>
+                        <td>Branch</td>
+                        <td>Vivekananda Road</td>
+                    </tr>
+                    <tr>
+                        <td>Payable To</td>
+                        <td>Shree Jeen Education Centre</td>
+                    </tr>
+                </table>
+            </div>
         </div>
 
     </div>
@@ -394,87 +396,46 @@
 
 
 
-<!-- cta start -->
-<section class="cta-sec">
-    <div class="container">
-        <div class="cta-content">
-            <h5 class="sub-head text-center cen text-white">Beyond the Classroom</h5>
-            <h2 class="title text-center text-white">Your Journey Starts Here</h2>
-            <p class="para text-center text-white">Join us today and take the first step toward a successful and
-                creative future.</p>
-
-            <div class="ban-btn2">
-
-                <a href="#" class="btn-animated btn-light">
-                    <div class="btn-text-wrap">
-                        <div class="btn-text">Apply to Join</div>
-                        <div class="btn-text-hover">Apply to Join</div>
-                    </div>
-                    <div class="btn-icon-wrap">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon-hover">
-                    </div>
-                </a>
 
 
 
-            </div>
-        </div>
-    </div>
-</section>
-<!-- cta end -->
 
 <!-- why choose us start -->
 
-<section class="why-choose">
+
+<section class="opportunites">
     <div class="container">
-        <div class="row">
-            <div class="col-md-5">
-                <img src="assets/img/insdimage.jpeg" alt="" class="img-fluid">
-            </div>
-            <div class="col-md-7">
-                <h5 class="sub-head">Why Choose Us</h5>
-                <h2 class="title">Excellence That <br> <span>Sets You Apart</span></h2>
+        <div class="col-md-12 d-flex">
+            <div class="opp_content">
+                <h4 class="title" style="color: #fff; font-weight: 600;">Want to know more about placements and career
+                    opportunities</h4>
 
-                <p class="para">Our University provides world-class education, drives innovation, and prepares future
-                    leaders. With modern facilities and a vibrant community, we empower students to succeed and make
-                    lasting impact.</p>
+                <div class="ban-btn">
 
-
-                <div class="benifit-wraps">
-                    <div class="benefit-item">
-                        <div class="icon-circle"><i class="bi bi-patch-check-fill"></i></div>
-                        <div class="benefit-text">
-                            <h5>Wide Range of Courses</h5>
-                            <p>Choose from thousands of subjects and skills.</p>
+                    <a href="#" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Apply to Join</div>
+                            <div class="btn-text-hover">Apply to Join</div>
                         </div>
-                    </div>
-
-                    <div class="benefit-item">
-                        <div class="icon-circle"><i class="bi bi-patch-check-fill"></i></div>
-                        <div class="benefit-text">
-                            <h5>Cost-Effective</h5>
-                            <p>Often more affordable than traditional classroom learning.</p>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon-hover">
                         </div>
-                    </div>
+                    </a>
 
-                    <div class="benefit-item">
-                        <div class="icon-circle"><i class="bi bi-patch-check-fill"></i></div>
-                        <div class="benefit-text">
-                            <h5>Global Networking</h5>
-                            <p>Connect with learners and instructors from around the world.</p>
-                        </div>
-                    </div>
+
+
+
                 </div>
-
             </div>
-
         </div>
     </div>
+    <div class="img_boxs_opportunites">
+        <img src="assets/img/2 (2).jpg" alt="" class="img-fluid">
+    </div>
 </section>
-
 
 <!-- why choose us End -->
 

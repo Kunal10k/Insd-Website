@@ -2,11 +2,13 @@
 
 
 
-<section class="inner_Section" style="background-image: url('./assets/img/sliderbg.jpg');">
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/admission\ faq.jpg');">
 
 
-    <div class="container-flud">
-        <h1 class="title text-center">
+
+
+    <div class="container">
+        <h1 class="title ">
             Admission Faq
         </h1>
     </div>

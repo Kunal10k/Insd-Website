@@ -68,6 +68,7 @@ p {
   line-height: 1.8em;
   margin-bottom: 0px !important;
   margin-top: 15px;
+  font-family: var(--default-font1) !important;
 }
 
 h1,
@@ -94,6 +95,7 @@ figure {
 
 a {
   text-decoration: none;
+
 }
 
 a:hover {
@@ -627,11 +629,13 @@ header.sticky .dropdown-toggle::after {
   margin: auto;
 }
 
+
+
 .para {
   font-size: 85%;
   color: var(--secondary-color);
   font-weight: 500;
-  font-family: var(--accent-font);
+  font-family: var(--default-font1);
   text-align: left;
   padding-top: 10px;
   line-height: normal;
@@ -1059,7 +1063,7 @@ header.sticky .dropdown-toggle::after {
   position: relative;
   border-radius: 50px;
   overflow: hidden;
-  padding: 20px 32px;
+  padding: 14px 20px;
   text-decoration: none;
   font-weight: 600;
   font-size: 18px;
@@ -1326,7 +1330,7 @@ header.sticky .dropdown-toggle::after {
   border-radius: 30px;
   overflow: hidden;
   transition: all 1.2s ease;
-  z-index: 2;
+  z-index: 0;
   border: none;
 }
 
@@ -1581,6 +1585,9 @@ ul#autoTab {
   /* padding: 10px; */
   background-color: #00000060;
 }
+.testimonial-content p {
+  font-size: 15px;
+}
 
 .testimonial-content p.quote {
   font-size: 14px;
@@ -1626,22 +1633,35 @@ ul#autoTab {
     transform: translateX(-50%);
   }
 }
-
-/* Wrapper */
 .marquee-wrapper {
-  overflow: hidden;
   width: 100%;
+  overflow: hidden;
 }
 
-/* Track */
 .marquee-track {
   display: flex;
   width: max-content;
   animation: marquee 25s linear infinite;
 }
 
-/* Pause / Run control (optional) */
-.marquee-track.pause {
+.marquee-item {
+  padding: 0 40px;
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+/* PERFECT LOOP */
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* pause on hover (optional) */
+.marquee-wrapper:hover .marquee-track {
   animation-play-state: paused;
 }
 
@@ -1655,14 +1675,14 @@ ul#autoTab {
 }
 
 .tab-sec {
-  margin-top: 40px;
+  /* margin-top: 40px; */
   background: linear-gradient(0deg,
       rgb(255, 255, 255) 0%,
       rgb(240, 242, 255) 100%);
   padding: 40px 20px 40px 20px;
   border-radius: 15px;
   position: relative;
-  z-index: 1;
+  z-index: 0;
 }
 
 .tab-sec::after {
@@ -1686,12 +1706,12 @@ ul#autoTab {
 }
 
 .tab-sec .nav-pills .nav-link {
-  color: var(--white-color);
-  background-color: #1c1c1c;
+  color: #000000;
+  /* background-color: #1c1c1c; */
   border-radius: 50px;
   margin-right: 10px;
-  padding: 10px 25px !important;
-  font-weight: 600;
+  padding: 6px 18px !important;
+  font-weight: 500;
   border: 1px solid transparent;
   transition: all 0.3s ease;
   border-color: var(--secondary-color3) !important;
@@ -1719,7 +1739,14 @@ ul#autoTab {
 .course-card-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 30px;
+  gap: 13px;
+}
+
+.img_sdtc {
+  width: 140px !important;
+  margin: 0 auto !important;
+  display: block;
+  /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
 }
 
 .course-card {
@@ -1769,18 +1796,24 @@ ul#autoTab {
   font-family: var(--default-font);
 }
 
-.course-card:hover .degree-label {
+/* .course-card:hover .degree-label {
   color: var(--white-color);
-}
+} */
 
 .course-header h2 {
   font-size: 120%;
   margin-bottom: 12px;
   color: var(--primary-color);
   transition: color 0.4s ease;
-  padding-bottom: 30px;
+  padding-bottom: 13px;
   padding-top: 10px;
   font-family: var(--default-font);
+  text-align: center;
+}
+
+.course-card .btn-light {
+
+  width: 100%;
 }
 
 .course-meta {
@@ -1805,13 +1838,13 @@ ul#autoTab {
 }
 
 /* Hover effects */
-.course-card:hover .course-meta i {
+/* .course-card:hover .course-meta i {
   color: var(--white-color);
 }
 
 .course-card:hover .meta-text {
   color: var(--white-color);
-}
+} */
 
 .course-features {
   list-style: none;
@@ -1838,7 +1871,7 @@ ul#autoTab {
   transition: transform 0.4s ease, color 0.4s ease;
 }
 
-.course-card .course-card:hover .course-features li,
+/* .course-card .course-card:hover .course-features li,
 .course-card:hover .course-header h2 {
   color: var(--white-color);
 }
@@ -1846,7 +1879,7 @@ ul#autoTab {
 .course-card:hover .course-features li i {
   color: var(--white-color);
   transform: rotate(20deg) scale(1.2);
-}
+} */
 
 .learn-more-btn {
   display: inline-block;
@@ -1859,7 +1892,7 @@ ul#autoTab {
   transition: all 0.4s ease;
 }
 
-.learn-more-btn:hover {
+/* .learn-more-btn:hover {
   background: var(--white-color);
   color: var(--secondary-color3);
 }
@@ -1867,7 +1900,7 @@ ul#autoTab {
 .course-card:hover .learn-more-btn {
   background: #fff;
   color: var(--secondary-color3);
-}
+} */
 
 /* why choose us */
 
@@ -1957,23 +1990,23 @@ ul#autoTab {
   animation-play-state: paused;
 }
 
-/* Right-to-left marquee */
+
 .marquee-right {
   animation-name: marquee;
-  /* use existing keyframes */
+
   animation-direction: normal;
-  /* scroll left */
+
 }
 
-/* Left-to-right marquee */
+
 .marquee-left {
   animation-name: marquee;
-  /* use existing keyframes */
+
   animation-direction: reverse;
-  /* scroll right */
+
 }
 
-/* Infinite marquee from your testimonial-card CSS */
+
 @keyframes marquee {
   0% {
     transform: translateX(0);
@@ -1983,7 +2016,7 @@ ul#autoTab {
     transform: translateX(-50%);
   }
 
-  /* move by half for duplicated cards */
+
 }
 
 /* Card styles */
@@ -2081,7 +2114,7 @@ ul#autoTab {
   background-size: cover;
   background-position: center;
   padding: 100px 0px;
-  margin-top: 100px;
+  /* margin-top: 100px; */
 }
 
 /* Right form container */
@@ -4473,7 +4506,7 @@ img.img-mg2 {
   position: relative;
   color: #fff;
   text-align: center;
-  margin-top: 60px;
+  /* margin-top: 60px; */
 }
 
 .cta-sec::before {
@@ -4983,8 +5016,7 @@ img.img-mg2 {
 /* admission */
 
 .application-procedure {
-  padding: 100px 0px;
-  background: #f9f9f9;
+  padding: var(--global_padding);
 }
 
 .intro {
@@ -4995,10 +5027,16 @@ img.img-mg2 {
   line-height: 1.7;
 }
 
+.gridss_box {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+}
+
 /* Grid */
 .procedure-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 30px;
   margin-bottom: 50px;
   margin-top: 40px;
@@ -5030,7 +5068,8 @@ img.img-mg2 {
   padding: 30px;
   border-radius: 14px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
-  margin-bottom: 30px;
+  margin-bottom: 0;
+  min-height: 400px;
 }
 
 .info-box h3 {
@@ -5081,14 +5120,14 @@ img.img-mg2 {
   padding: 10px;
   border-bottom: 1px solid #ddd;
   font-family: var(--default-font);
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .bank-table td:first-child {
   font-weight: 600;
   width: 40%;
   font-family: var(--default-font);
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .contact-list {
@@ -5565,9 +5604,10 @@ img.img-mg2 {
 .course-card {
   background: #fff;
   /* border: 1px solid #0000002c; */
-  padding: 25px 30px;
-  text-align: left;
+  padding: 15px;
+  /* text-align: left; */
   border-radius: 15px !important;
+  /* min-height: 415px; */
 }
 
 .card-header {
@@ -6123,10 +6163,11 @@ alumni-carousel .item img {
 
 }
 
+/* 
 .course-card:hover,
 .course-card:hover * {
   color: #000 !important;
-}
+} */
 
 
 .student_placement {
@@ -7804,7 +7845,7 @@ alumni-carousel .item img {
 
 .enquery {
   position: fixed;
-  right: -142px;
+  right: -71px;
   top: 41%;
   transform: translateY(-50%);
   background: #000;
@@ -7815,14 +7856,15 @@ alumni-carousel .item img {
   z-index: 9999;
   transition: right 0.4s ease;
   background: var(--secondary-color1);
-  border-radius: 13px 0 0 13px;
+  border-radius: 5px;
+  transform: rotate(-90deg);
 }
 
 /* Hover effect */
-.enquery:hover {
+/* .enquery:hover {
   right: 0;
-  /* slide in */
-}
+
+} */
 
 
 
@@ -7983,6 +8025,102 @@ alumni-carousel .item img {
   }
 }
 
+/* =======================
+   DESKTOP (Default)
+======================= */
+#enquiryModal .modal-dialog {
+  position: fixed;
+  right: 0;
+  top: 40px;
+  bottom: 40px;
+  margin: 0;
+  height: auto;
+  max-height: calc(100vh - 80px);
+  width: 420px;
+  display: flex;
+  align-items: stretch;
+}
+
+#enquiryModal .modal-content {
+  height: 100%;
+  border-radius: 14px 0 0 14px;
+  overflow: hidden;
+}
+
+#enquiryModal form {
+  gap: 10px !important;
+}
+
+/* =======================
+   TABLET (≤ 991px)
+======================= */
+@media (max-width: 991px) {
+  #enquiryModal .modal-dialog {
+    width: 360px;
+    top: 30px;
+    bottom: 30px;
+  }
+
+  #enquiryModal .modal-content {
+    border-radius: 12px 0 0 12px;
+  }
+}
+
+/* =======================
+   MOBILE (≤ 575px)
+======================= */
+@media (max-width: 575px) {
+  #enquiryModal .modal-dialog {
+    position: fixed;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    width: 100%;
+    height: auto;
+    max-height: 90vh;
+    margin: 0;
+  }
+
+  #enquiryModal .modal-content {
+    border-radius: 16px 16px 0 0;
+  }
+}
+
+
+.btn_xzz {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  padding: 0;
+}
+
+.btn_xzz li {
+  padding: 7px 22px;
+  list-style: none;
+  border-radius: 30px;
+  font-size: 14px;
+  color: #333;
+}
+
+/* 1st li */
+.btn_xzz li:nth-child(1) {
+  background-color: #FCEFE8;
+}
+
+/* 2nd li */
+.btn_xzz li:nth-child(2) {
+  background-color: #E8F4FC;
+}
+
+/* 3rd li */
+.btn_xzz li:nth-child(3) {
+  background-color: #EAFCE8;
+}
+
+
+
 /* ********** opportunites ********** */
 
 .opportunites {
@@ -8128,10 +8266,9 @@ textarea {
 
 
 
-
 .terms {
   text-align: left;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 1.6;
 }
 
@@ -8185,5 +8322,170 @@ textarea {
   .loan-features {
     flex-direction: column;
     gap: 20px;
+  }
+}
+
+/* career zone  */
+
+
+/* ===== SECTION ===== */
+.career-zone {
+  padding: var(--global_padding);
+background-image: url(../img/inner_banner/Artboard\ 1.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+/* ===== WRAPPER ===== */
+.career-wrapper {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 20px;
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 60px;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 30px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.metric-icon i {
+  font-size: 18px;
+  color: #fff;
+}
+
+
+
+/* ===== METRICS ===== */
+.career-metrics {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.metric-box {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: #fff;
+  padding: 14px 18px;
+  border-radius: 12px;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+}
+
+.metric-icon {
+  width: 42px;
+  height: 42px;
+  background: var(--secondary-color3);
+  color: var(--secondary-color3);
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 18px;
+  flex-shrink: 0;
+}
+
+.metric-box h3 {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.metric-box p {
+  margin: 0;
+  font-size: 17px;
+  color: #666;
+}
+
+/* ===== RIGHT CONTENT ===== */
+.career-brands {
+  /* background: #fff; */
+  padding: 10px;
+  border-radius: 18px;
+  /* box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08); */
+}
+
+/* .brand-heading {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 25px;
+  text-align: center;
+} */
+
+/* ===== BRAND GRID ===== */
+.brand-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+}
+
+.brand-tile {
+  background: #fafafa;
+  border-radius: 12px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  transition: all 0.3s ease;
+}
+
+.brand-tile img {
+  max-height: 90px;
+  max-width: 100%;
+  /* filter: grayscale(100%); */
+  /* opacity: 0.7; */
+  transition: all 0.3s ease;
+}
+
+.e21 {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.brand-tile:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.brand-tile:hover img {
+  filter: grayscale(0);
+  opacity: 1;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 992px) {
+  .career-wrapper {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .career-info .title {
+    font-size: 34px;
+  }
+
+  .brand-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 576px) {
+  .career-zone {
+    padding: 50px 0;
+  }
+
+  .career-info .title {
+    font-size: 28px;
+  }
+
+  .brand-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .career-brands {
+    padding: 25px;
   }
 }

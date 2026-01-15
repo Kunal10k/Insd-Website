@@ -1,12 +1,12 @@
 
 <?php include 'inside/header.php' ?>
 
-<section class="inner_Section" style="background-image: url('./assets/img/sliderbg.jpg');">
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/placement.jpg');">
 
 
-    <div class="container-flud">
-        <h1 class="title text-center">
-            Contact Us
+    <div class="container">
+        <h1 class="title ">
+           contact Us
         </h1>
     </div>
 </section>
