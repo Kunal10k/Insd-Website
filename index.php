@@ -1921,9 +1921,7 @@
 
 <div class="modal fade" id="enquiryModal" tabindex="-1" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-sm">
-    <div class="modal-content">
-
-
+  
       <div class="modal-body p-0">
 
         <div class="landing_wrapper">
@@ -2003,8 +2001,6 @@
 
         </div>
       </div>
-
-    </div>
   </div>
 </div>
 
