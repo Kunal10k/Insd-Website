@@ -232,68 +232,179 @@
 
 <section class="criteria-section">
 
-  <div class="container">
-     <h2 class="title text-center">ELIGIBILITY <span>CRITERIA</span></h2>
+    <div class="container">
+        <h2 class="title text-center">ELIGIBILITY <span>CRITERIA</span></h2>
 
-    <div class="criteria-wrap mt-4">
+        <div class="criteria-wrap mt-4">
 
-        <div class="criteria-box">
-            <i class="fa-solid fa-graduation-cap"></i>
-            <h4>Bachelor's Degree</h4>
-            <p>(4 Years)<br>10+2 pass</p>
+            <div class="criteria-box">
+                <div class="flex_boxs">
+                    <i class="fa-solid fa-graduation-cap"></i>
+                    <h4>Bachelor's Degree</h4>
+                </div>
+                <p>(4 Years)<br>10+2 pass</p>
+            </div>
+
+            <div class="criteria-box">
+                <i class="fa-solid fa-user-graduate"></i>
+                <h4>Master's / MBA</h4>
+                <p>(2 Years)<br>Contact admission team</p>
+            </div>
+
+            <div class="criteria-box">
+                <i class="fa-solid fa-book-open"></i>
+                <h4>Diploma</h4>
+                <p>(1 Years)<br>Submit documents</p>
+            </div>
+
+            <div class="criteria-box">
+                <i class="fa-solid fa-award"></i>
+                <h4>Advanced Diploma</h4>
+                <p>(2 Years)<br>Secure your seat</p>
+            </div>
+
         </div>
-
-        <div class="criteria-box">
-            <i class="fa-solid fa-user-graduate"></i>
-            <h4>Master's / MBA</h4>
-            <p>(2 Years)<br>Contact admission team</p>
-        </div>
-
-        <div class="criteria-box">
-            <i class="fa-solid fa-book-open"></i>
-            <h4>Diploma</h4>
-            <p>(1 Years)<br>Submit documents</p>
-        </div>
-
-        <div class="criteria-box">
-            <i class="fa-solid fa-award"></i>
-            <h4>Advanced Diploma</h4>
-            <p>(2 Years)<br>Secure your seat</p>
-        </div>
-
     </div>
-  </div>
 
+</section>
+
+<section class="fees">
+    <div class="container">
+        <h2 class="title text-center">Fees & <span>Scholarships</span></h2>
+
+        <div class="row">
+            <div class="col-md-6 m-auto">
+                <div class="r-box">
+                    <div class="icon_boxs mt-4">
+                        <i class="fa-solid fa-graduation-cap me-2 icons"></i>
+                    </div>
+                    <h5 class="text-center mt-3">
+
+                        Program-wise fee details shared during counselling
+                    </h5>
+                    <div class="icon_boxs mt-4">
+                        <i class="fa-solid fa-award me-2 icons"></i>
+                    </div>
+                    <p class="para text-center">
+
+                        Scholarships available <br>
+                        <span class="fw-semibold">Merit-based</span>
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
 </section>
 
 
 
 <section class="cta-sec">
-  <div class="container">
-    <div class="cta-content">
-      <h5 class="sub-head text-center cen text-white">Start Your Application</h5>
-      <h2 class="title text-center text-white">Start Your Application</h2>
-      <p class="para text-center text-white">Join us today and take the first step toward a successful and
-        creative future.</p>
+    <div class="container">
+        <div class="cta-content">
+            <h5 class="sub-head text-center cen text-white">Start Your Application</h5>
+            <h2 class="title text-center text-white">Start Your Application</h2>
+            <p class="para text-center text-white">Join us today and take the first step toward a successful and
+                creative future.</p>
 
-      <div class="ban-btn2">
+            <div class="ban-btn2">
 
-        <a href="#" class="btn-animated btn-light mt-4">
-          <div class="btn-text-wrap">
-            <div class="btn-text">Talk to a Counsellor</div>
-            <div class="btn-text-hover">Talk to a Counsellor</div>
-          </div>
-          <div class="btn-icon-wrap">
-            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-          </div>
-        </a>
+                <a href="#" class="btn-animated btn-light mt-4">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Talk to a Counsellor</div>
+                        <div class="btn-text-hover">Talk to a Counsellor</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
 
 
 
-      </div>
+            </div>
+        </div>
     </div>
-  </div>
+</section>
+
+
+
+<section class="application-section">
+    <div class="app-container">
+
+        <!-- LEFT FEATURES -->
+        <div class="app-features">
+            <ul class="list-unstyled">
+                <li><i class="fa-solid fa-comments"></i> Career Counselling</li>
+                <li><i class="fa-solid fa-user-tie"></i> Qualified Counsellors</li>
+                <li><i class="fa-solid fa-book-open"></i> Assistance in Course Selection</li>
+                <li><i class="fa-solid fa-briefcase"></i> 100% Placement Assistance</li>
+                <li><i class="fa-solid fa-building-columns"></i> National Design Institute</li>
+            </ul>
+
+        </div>
+
+        <!-- RIGHT FORM -->
+        <div class="app-form">
+
+            <h2 class="title">Begin Your Design Journey at <span>INSD Kolkata — 2026 Intake</span></h2>
+            <p class="para mb-4">
+                Apply online for 2026 admissions at INSD Kolkata. Take the first step towards a career in design and
+                style.
+            </p>
+
+            <form>
+                <div class="form-grid">
+                    <input type="text" placeholder="Your Name">
+                    <input type="tel" placeholder="Phone Number">
+                    <input type="email" placeholder="Email">
+
+                    <select>
+                        <option>Select Your Country</option>
+                    </select>
+                    <input type="text" placeholder="City">
+                    <input type="text" placeholder="Address">
+
+                    <input type="text" placeholder="Date of Birth (dd/mm/yyyy)">
+                    <select>
+                        <option>Select Your Gender</option>
+                    </select>
+                    <input type="text" placeholder="Father's Name">
+
+                    <input type="text" placeholder="Mother's Name">
+                    <input type="tel" placeholder="Parent's Contact Number">
+
+                    <input type="text" placeholder="School / College Name">
+                    <input type="text" placeholder="Passed In Year">
+
+                    <textarea placeholder="Any Certifications"></textarea>
+                    <textarea placeholder="Past Qualifications"></textarea>
+
+                    <select class="full">
+                        <option>Select Your Department</option>
+                    </select>
+                </div>
+
+
+
+                <a href="#" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text"> SUBMIT ONLINE APPLICATION</div>
+                        <div class="btn-text-hover"> SUBMIT ONLINE APPLICATION</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+            </form>
+        </div>
+
+    </div>
 </section>
 
 

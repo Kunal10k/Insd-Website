@@ -4647,10 +4647,20 @@ img.img-mg2 {
   position: absolute;
   display: none;
 }
+/* .sett_img {
+  border-radius: 50% !important;
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
+  -ms-border-radius: 50% !important;
+  -o-border-radius: 50% !important;
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+} */
 
 .tab-sec1 .nav-pills .nav-link {
-  color: var(--white-color);
-  background-color: #1c1c1c;
+  color: #000;
+  /* background-color: #1c1c1c; */
   border-radius: 50px;
   margin-right: 10px;
   padding: 10px 25px !important;
@@ -6591,6 +6601,9 @@ alumni-carousel .item img {
 
 .founder-section {
   padding: var(--global_padding);
+  background: url(../img/fc.png) center;
+  background-repeat: no-repeat;
+  padding: 100px 0;
 
 }
 
@@ -6604,14 +6617,14 @@ alumni-carousel .item img {
 
 .designation {
   font-size: 14px;
-  color: #6b7280;
+  color: #000000;
   margin-bottom: 20px;
 }
 
 .founder-quote {
-  font-size: 18px;
+  font-size: 15px;
   line-height: 1.7;
-  color: #374151;
+  color: #000000;
   margin-bottom: 30px;
   max-width: 500px;
 }
@@ -8154,7 +8167,9 @@ alumni-carousel .item img {
 /* application-section */
 
 .application-section {
-  background: url('../img/pexels-ray-piedra-1478477-2.webp') center/cover no-repeat;
+  /* background: url('../img/pexels-ray-piedra-1478477-2.webp') center/cover no-repeat; */
+
+  background: url(../img/sliderbg.jpg) center/cover no-repeat;
   padding: 60px 20px;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
@@ -8164,14 +8179,16 @@ alumni-carousel .item img {
   margin: auto;
   display: grid;
   grid-template-columns: 300px 1fr;
-  background: rgba(255, 255, 255, 0.96);
+  background: rgb(255 255 255 / 35%);
 }
 
-/* LEFT */
+
 .app-features {
-  background: #222;
+  background: var(--secondary-color1);
   color: #fff;
   padding: 40px 30px;
+  height: 435px;
+  border-radius: 17px;
 }
 
 .app-features ul {
@@ -8182,6 +8199,20 @@ alumni-carousel .item img {
 .app-features li {
   margin-bottom: 20px;
   font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.app-features li i {
+  width: 40px;
+  height: 45px;
+  background: var(--secondary-color3);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
 }
 
 /* RIGHT */
@@ -8189,17 +8220,8 @@ alumni-carousel .item img {
   padding: 40px;
 }
 
-.app-form h2 span {
-  color: var(--secondary-color3);
 
-  font-weight: 700;
-}
 
-.app-form p {
-  margin: 10px 0 30px;
-  font-size: 14px;
-  color: #666;
-}
 
 /* FORM GRID */
 .form-grid {
@@ -8612,8 +8634,9 @@ textarea {
   gap: 20px;
 
 }
+
 .apply-section {
-padding: var(--global_padding);
+  padding: var(--global_padding);
 }
 
 .apply-card {
@@ -8628,9 +8651,9 @@ padding: var(--global_padding);
 }
 
 .icon-box {
-  width: 55px;
-  height: 55px;
-  background:  var(--secondary-color3);
+  width: 45px;
+  height: 45px;
+  background: var(--secondary-color3);
   border-radius: 12px;
   display: flex;
   align-items: center;
@@ -8638,7 +8661,10 @@ padding: var(--global_padding);
   color: #fff;
   font-size: 22px;
   margin-bottom: 15px;
+  border-radius: 50%;
 }
+
+
 
 .apply-card h3 {
   margin: 0 0 8px;
@@ -8693,3 +8719,29 @@ padding: var(--global_padding);
 
 /* ********************** */
 
+
+.fees {
+  padding: var(--global_padding);
+}
+
+.icons {
+  text-align: center;
+}
+
+.icon_boxs {
+  text-align: center;
+
+}
+
+.icon_boxs i {
+  color: var(--secondary-color3);
+}
+
+.r-box {
+  background: #fff;
+  border-radius: 12px;
+  padding: 18px;
+  text-align: center;
+  box-shadow: 0 6px 15px rgba(111, 66, 193, 0.12);
+  margin-top: 15px;
+}

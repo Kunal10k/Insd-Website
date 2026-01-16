@@ -26,15 +26,23 @@
         </div>
 
         <div class="hero-block__content">
-            <span class="sub-head">Learning Made Simple</span>
-            <h1 class=" title ">Experience infinite learning and <span>endless growth</span></h1>
+            <span class="sub-head">Who We Are</span>
+            <h1 class=" title ">An Institution Committed to Professional Design<span> Education</span></h1>
             <p class="hero-block__description">
-                Empowering learners worldwide with flexible, expert-led online courses designed to enhance skills, boost
-                careers, and inspire lifelong learning through an interactive, engaging, and accessible digital
-                education platform.
+                International School of Design Kolkata, established in 2011, is a professional design institute
+                dedicated to delivering structured, industry-aligned design education. The institute offers academic
+                programs in Interior Design, Fashion Design, and Graphic Design, designed to prepare students for
+                professional practice in the creative industry. <br>
+                INSD Kolkata follows a studio-based learning approach where practical application, skill development,
+                and creative execution form the core of education. The emphasis remains on building professional
+                competence, creative confidence, and portfolio readiness through consistent hands-on learning rather
+                than theory-heavy instruction. <br>
+                The institute is positioned as a focused academic environment that values discipline, relevance, and
+                long-term career preparation.
+
             </p>
 
-            <div class="hero-block__features mt-4">
+            <!-- <div class="hero-block__features mt-4">
                 <div class="hero-block__feature-item">
                     <span class="hero-block__tick">✓</span> 150+ online courses
                 </div>
@@ -47,7 +55,7 @@
                 <div class="hero-block__feature-item">
                     <span class="hero-block__tick">✓</span> Expert guidance
                 </div>
-            </div>
+            </div> -->
 
 
         </div>
@@ -59,22 +67,26 @@
 <section class="lp-section">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-8">
                 <!-- LEFT CONTENT -->
                 <div class="lp-left">
-                    <span class="lp-badge">BEST PLACE FOR LEARNING</span>
+                    <!-- <span class="lp-badge">Our Education Philosophy</span> -->
 
-                    <h2 class="lp-title">
-                        Learning paths built for<br>
-                        your success
+                    <h2 class="title">
+                        Our Education <br> <span>Philosophy</span>
                     </h2>
 
-                    <p class="lp-desc">
-                        Discover structured courses tailored to your goals, guiding you
-                        step by step toward mastery and lasting success.
+                    <p class="para">
+                        Education at INSD Kolkata is grounded in practical learning. Students learn through active
+                        studio work, real design problem-solving, and continuous portfolio development throughout their
+                        academic journey. <br> <br>
+                        The learning approach integrates applied execution, mentorship, and industry exposure to ensure
+                        that students graduate with skills aligned to current professional expectations and evolving
+                        industry practices.
+
                     </p>
 
-                    <div class="lp-feature mt-5 ">
+                    <!-- <div class="lp-feature mt-5 ">
                         <span class="lp-icon">◆</span>
                         <div>
                             <h4>Skill-based instruction</h4>
@@ -94,10 +106,10 @@
                                 your skills worldwide.
                             </p>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-4">
                 <!-- RIGHT CONTENT -->
                 <div class="lp-right">
                     <div class="lp-image-card large">
@@ -150,7 +162,7 @@
 
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="assets/img/about/insd 4th image (1).jpg" alt="">
+                            <img src="assets/img/about/insd 4th image (1).jpg" alt="" class="sett_img">
                         </div>
                         <div class="col-md-8">
                             <div class="eligibility-sec">
@@ -209,7 +221,7 @@
 
                         </div>
                         <div class="col-md-4">
-                            <img src="assets/img/about/insd 5th image (1).jpg" alt="">
+                            <img src="assets/img/about/insd 5th image (1).jpg" alt="" class="sett_img">
                         </div>
                     </div>
                 </div>
@@ -279,34 +291,26 @@
 <section class="founder-section">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
-                <img src="assets/img/Gemini_Generated_Image_2t3ckk2t3ckk2t3c-min.png" alt="Founder"
-                    class="founder-img img-fluid ">
-            </div>
-            <div class="col-md-6 cxzs">
+
+            <div class="col-md-6 offset-md-6 cxzs">
+
                 <div class="founder-card">
                     <div class="founder-info">
-                        <h3>Simon Sinek</h3>
-                        <p class="designation">Founder & Leadership Expert</p>
+                        <h3>Naveen Soni</h3>
+                        <p class="designation">Director, INSD Kolkata</p>
 
                         <p class="founder-quote">
-                            “Every week from my kitchen table I talk with people that inspire me about love, life,
-                            leadership
-                            and silver linings.”
+                            At INSD Kolkata, education is approached with responsibility, clarity, and long-term intent.
+                            Our focus has always been on preparing students for the realities of the design profession
+                            through relevant curriculum, practical exposure, and structured academic guidance.
+                            Design education must remain connected to industry realities while nurturing creativity and
+                            professional discipline. Every program, collaboration, and academic initiative is developed
+                            with the objective of supporting student growth, creative maturity, and career readiness in
+                            an evolving global design landscape.
+
                         </p>
 
-                        <a href="#" class="btn-animated btn-light">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">Apply to Join</div>
-                                <div class="btn-text-hover">Apply to Join</div>
-                            </div>
-                            <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                    alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                    alt="Arrow" class="btn-icon-hover">
-                            </div>
-                        </a>
+                      
                     </div>
                 </div>
             </div>
