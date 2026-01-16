@@ -10,7 +10,7 @@
 
     <div class="container">
         <h1 class="title ">
-                Eligibity Criteria
+            Eligibity Criteria
         </h1>
     </div>
 </section>
@@ -18,7 +18,7 @@
 
 
 
-<section class="eligibility-section py-5">
+<!-- <section class="eligibility-section py-5">
     <div class="container">
 
         <h5 class="sub-head text-center cen">Eligibility Criteria</h5>
@@ -27,7 +27,7 @@
 
 
 
-        <!-- Responsive Table -->
+       
         <div class="table-responsive mt-5">
             <table class="table table-bordered table-hover ">
                 <thead class="table-dark">
@@ -101,7 +101,46 @@
 
 
     </div>
-</section>
+</section> -->
 
+
+
+<section class="criteria-section">
+
+    <div class="container">
+        <h2 class="title text-center">ELIGIBILITY <span>CRITERIA</span></h2>
+
+        <div class="criteria-wrap mt-4">
+
+            <div class="criteria-box">
+                <div class="flex_boxs">
+                    <i class="fa-solid fa-graduation-cap"></i>
+                    <h4>Bachelor's Degree</h4>
+                </div>
+                <p>(4 Years)<br>10+2 pass</p>
+            </div>
+
+            <div class="criteria-box">
+                <i class="fa-solid fa-user-graduate"></i>
+                <h4>Master's / MBA</h4>
+                <p>(2 Years)<br>Contact admission team</p>
+            </div>
+
+            <div class="criteria-box">
+                <i class="fa-solid fa-book-open"></i>
+                <h4>Diploma</h4>
+                <p>(1 Years)<br>Submit documents</p>
+            </div>
+
+            <div class="criteria-box">
+                <i class="fa-solid fa-award"></i>
+                <h4>Advanced Diploma</h4>
+                <p>(2 Years)<br>Secure your seat</p>
+            </div>
+
+        </div>
+    </div>
+
+</section>
 
 <?php include 'inside/footer.php' ?>

@@ -13,7 +13,7 @@
     <div class="item">
         <div class="ban-sec">
 
-            <div class="bg-zoom" style="background-image: url('./assets/img/sliderbg.jpg');"></div>
+            <div class="bg-zoom" style="background-image: url('./assets/img/inner_banner/adv.jpg');"></div>
 
             <div class="container">
 
@@ -83,9 +83,9 @@
 
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <!-- <div class="col-md-6">
                         <img src="assets/img/es.png" alt="" class="ban-img">
-                    </div>
+                    </div> -->
                 </div>
 
 
@@ -299,20 +299,49 @@
 
 
 
-<section class="cta-sec">
+
+
+<section class="cta-sec" style="background-image: url(./assets/img/inner_banner/shutterstock_2495297637c\ \(1\).jpg);">
     <div class="container">
         <div class="cta-content">
-            <h5 class="sub-head text-center cen text-white">Start Your Application</h5>
-            <h2 class="title text-center text-white">Start Your Application</h2>
-            <p class="para text-center text-white">Join us today and take the first step toward a successful and
-                creative future.</p>
+            <h5 class="sub-head text-center cen text-white">Begin Your Design Journey at INSD Kolkata — 2026 Intake</h5>
+            <h2 class="title text-center text-white">Begin Your Design Journey at INSD Kolkata — 2026 Intake</h2>
+            <!-- <p class="para text-center text-white">Join us today and take the first step toward a successful and
+                creative future.</p> -->
 
             <div class="ban-btn2">
 
                 <a href="#" class="btn-animated btn-light mt-4">
                     <div class="btn-text-wrap">
-                        <div class="btn-text">Talk to a Counsellor</div>
-                        <div class="btn-text-hover">Talk to a Counsellor</div>
+                        <div class="btn-text">Apply Now for 2026</div>
+                        <div class="btn-text-hover">Apply Now for 2026</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+                <a href="#" class="btn-animated btn-light mt-4">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Book Counselling</div>
+                        <div class="btn-text-hover">Book Counselling</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+
+
+
+                <a href="#" class="btn-animated btn-light mt-4">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Download Brochure (2026)</div>
+                        <div class="btn-text-hover">Download Brochure (2026)</div>
                     </div>
                     <div class="btn-icon-wrap">
                         <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
@@ -328,7 +357,6 @@
         </div>
     </div>
 </section>
-
 
 
 <section class="application-section">
@@ -349,7 +377,7 @@
         <!-- RIGHT FORM -->
         <div class="app-form">
 
-            <h2 class="title">Begin Your Design Journey at <span>INSD Kolkata — 2026 Intake</span></h2>
+            <h2 class="title">ONLINE APPLICATION <span>FORM (2026)</span></h2>
             <p class="para mb-4">
                 Apply online for 2026 admissions at INSD Kolkata. Take the first step towards a career in design and
                 style.
@@ -405,7 +433,39 @@
         </div>
 
     </div>
+
+    <div class="help-bar">
+        <div class="container">
+            <div class="help-left">
+                <div class="help-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" alt="Help">
+                </div>
+                <span class="help-text">Need Help? Talk to a Counsellor</span>
+            </div>
+
+            <div class="ban-btn">
+
+                <a href="#" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Download Browchure</div>
+                        <div class="btn-text-hover">Download Browchure</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
 </section>
+
+
+
+
+
 
 
 

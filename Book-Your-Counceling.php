@@ -9,34 +9,35 @@
 
     <div class="container">
         <h1 class="title ">
-                    Book Your Counceling
+            Book Your Counceling
         </h1>
     </div>
 </section>
 
 
-<section class="application-section">
+
+<section class="application-section" style="background: #fff; box-shadow: none;">
     <div class="app-container">
 
         <!-- LEFT FEATURES -->
         <div class="app-features">
-            <ul>
-                <li>Comprehensive Curriculum</li>
-                <li> State-of-the-Art Infrastructure</li>
-                <li>Industry-Experienced Faculty</li>
-                <li>Placement Assistance</li>
-                <li>Industry Leading Collaborations & Exposure</li>
+            <ul class="list-unstyled">
+                <li><i class="fa-solid fa-comments"></i> Career Counselling</li>
+                <li><i class="fa-solid fa-user-tie"></i> Qualified Counsellors</li>
+                <li><i class="fa-solid fa-book-open"></i> Assistance in Course Selection</li>
+                <li><i class="fa-solid fa-briefcase"></i> 100% Placement Assistance</li>
+                <li><i class="fa-solid fa-building-columns"></i> National Design Institute</li>
             </ul>
+
         </div>
 
         <!-- RIGHT FORM -->
         <div class="app-form">
-            <h2>
-                <span>GET STARTED TODAY –</span><br />
-                FOR A GREAT CAREER TOMORROW.
-            </h2>
-            <p>
-                Great things never came from comfort zones. Reserve your seat today.
+
+            <h2 class="title">ONLINE APPLICATION <span>FORM (2026)</span></h2>
+            <p class="para mb-4">
+                Apply online for 2026 admissions at INSD Kolkata. Take the first step towards a career in design and
+                style.
             </p>
 
             <form>
@@ -71,15 +72,52 @@
                     </select>
                 </div>
 
-                <button type="submit" class="submit-btn">
-                    SUBMIT ONLINE APPLICATION
-                </button>
+
+
+                <a href="#" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text"> SUBMIT ONLINE APPLICATION</div>
+                        <div class="btn-text-hover"> SUBMIT ONLINE APPLICATION</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
             </form>
         </div>
 
     </div>
-</section>
 
+    <div class="help-bar">
+        <div class="container">
+            <div class="help-left">
+                <div class="help-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" alt="Help">
+                </div>
+                <span class="help-text">Need Help? Talk to a Counsellor</span>
+            </div>
+
+            <div class="ban-btn">
+
+                <a href="#" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Download Browchure</div>
+                        <div class="btn-text-hover">Download Browchure</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 

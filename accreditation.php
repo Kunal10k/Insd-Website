@@ -12,13 +12,9 @@
         </h1>
     </div>
 </section>
-<!-- about-sec Start -->
 
 
-
-<!-- ABOUT -->
-
-<section class="about-ban-sec">
+<!-- <section class="about-ban-sec">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -44,11 +40,11 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
-<!-- ACCREDITATIONS -->
 
-<section class="student-test">
+
+<!-- <section class="student-test">
     <div class="container">
         <h2 class="title text-center">Our <span>Accreditations</span></h2>
         <p class="para text-center ">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt nam quos maxime,
@@ -84,11 +80,11 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
-<!-- PROCESS -->
 
-<section class="process-section">
+
+<!-- <section class="process-section">
     <div class="container">
         <h2 class="title text-center">Accreditation <span>Process</span> </h2>
         <p class="para text-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt nam quos maxime,
@@ -138,13 +134,13 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 
-<!-- newslater start -->
 
-<section class="newsletter-section">
+
+<!-- <section class="newsletter-section">
     <div class="newsletter-left-wrapper">
         <div class="newsletter-left-image-div">
             <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be64d1c2819da190063_newsletter-image-left1.jpg"
@@ -199,12 +195,10 @@
     <div class="newsletter-content">
         <p class="sub-head text-center text-white">Explore your creative potential with expert-led programs in</p>
         <h2 class="title text-white">Start your <br>creative journey in</h2>
-        <!-- <p class="search-line">
-      Get found on search <span class="google-pill"><i class="fa-brands fa-google"></i> Find best Marketing Course</span> without pay for every click.
-    </p> -->
+     
         <div class="buttons">
             <a href="#" class="btn-outline"><i class="fa-solid fa-download"></i> Download Course Outline</a>
-            <!-- <a href="#" class="btn-fill">Reserve My Spot <i class="fa-solid fa-arrow-right"></i></a> -->
+           
             <a href="#" class="btn-animated btn-light mt-0">
                 <div class="btn-text-wrap">
                     <div class="btn-text">Reserve My Spot</div>
@@ -270,8 +264,94 @@
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258c8" alt="" class="newsletter-left-image">
         </div>
     </div>
+</section> -->
+
+
+
+<section class="affi" style="background: #fff;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+
+                <h5 class="sub-head ">Affiliations</h5>
+                <h2 class="title ">Affiliations & Global <span> Accreditations</span></h2>
+
+
+
+
+            </div>
+            <div class="col-md-7">
+                <p class="para">
+                    International School of Design Kolkata operates within a recognised academic and industry ecosystem
+                    that connects structured education with real-world design practice.
+                    The institute’s academic affiliations, industry alliances, and global associations support credible
+                    learning across Interior Design, Fashion Design, and Graphic Design, ensuring that education remains
+                    professionally relevant, industry-aligned, and academically structured.
+
+                </p>
+            </div>
+
+
+
+            <div class="col-lg-12 col-xl-12 mt-5">
+                <div class="affiliation-carousel owl-carousel owl-theme">
+
+                    <div class="grid-item dsa">
+                        <img src="assets/img/affi.webp" alt="">
+                        <h3>Affiliations One</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+
+
+                </div>
+            </div>
+
+            <div class="col-md-5 en">
+                <h2 class="title mt-5 ">Academic <span> Affiliations</span></h2>
+
+            </div>
+            <div class="col-md-7 mt-5">
+                <p class="para">
+                    INSD Kolkata is academically affiliated with Maharaja Agrasen Himalayan Garhwal University,
+                    supporting recognised undergraduate, postgraduate, diploma, and advanced diploma programs within an
+                    established higher education framework. <br>
+                    The institute also maintains an academic alliance with Sikkim Professional University, contributing
+                    to curriculum alignment and academic guidance within professionally oriented and skill-based
+                    education models.<br>
+                    Together, these affiliations provide academic structure while allowing flexibility for studio-based
+                    learning and practical design education.
+
+
+                </p>
+            </div>
+        </div>
+    </div>
 </section>
 
-<!-- newslater End -->
 
 <?php include 'inside/footer.php' ?>
+
+<script>
+    $(document).ready(function () {
+        $('.affiliation-carousel').owlCarousel({
+            loop: true,
+            margin: 20,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            nav: false,
+            dots: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                576: {
+                    items: 2
+                },
+                992: {
+                    items: 4
+                }
+            }
+        });
+    });
+</script>

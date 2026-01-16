@@ -18,7 +18,7 @@
 
 
 
-<section class="about">
+<!-- <section class="about">
     <h2 class="title text-center">Why Collaborate <span>With Us?</span> </h2>
     <p class="para text-center">We work with leading organizations to foster research, innovation, and talent
         development through collaborative initiatives.</p>
@@ -36,12 +36,12 @@
             <p>Workshops & Seminars</p>
         </div>
     </div>
-</section>
+</section> -->
 
 
 
-<!-- Collaboration Opportunities start -->
-<section class="collaboration">
+
+<!-- <section class="collaboration">
     <h2 class="title text-center">Collaboration <span>Opportunities</span> </h2>
     <div class="collab-cards">
         <div class="collab-card">
@@ -64,15 +64,14 @@
 
         </div>
     </div>
-</section>
-
-<!-- Collaboration Opportunities End -->
+</section> -->
 
 
 
-<!-- client start -->
 
-<section class="client mt-0">
+
+
+<!-- <section class="client mt-0">
     <div class="container">
         <h5 class="sub-head text-center cen">Partners</h5>
         <h2 class="title text-center">Our Training And <span>Placement Partners</span></h2>
@@ -107,14 +106,14 @@
 
         </div>
     </div>
-</section>
-
-
-<!-- client End -->
+</section> -->
 
 
 
-<!-- Success Stories start -->
+
+
+
+<!-- 
 <section class="success">
     <div class="container">
         <h2 class="title text-center">Success <span>Stories</span> </h2>
@@ -143,13 +142,13 @@
         </div>
     </div>
 
-</section>
-<!-- Success Stories End -->
+</section> -->
 
 
 
-<!-- newslater start -->
 
+
+<!-- 
 <section class="newsletter-section">
     <div class="newsletter-left-wrapper">
         <div class="newsletter-left-image-div">
@@ -205,12 +204,10 @@
     <div class="newsletter-content">
         <p class="sub-head text-center text-white">Explore your creative potential with expert-led programs in</p>
         <h2 class="title text-white">Start your <br>creative journey in</h2>
-        <!-- <p class="search-line">
-      Get found on search <span class="google-pill"><i class="fa-brands fa-google"></i> Find best Marketing Course</span> without pay for every click.
-    </p> -->
+     
         <div class="buttons">
             <a href="#" class="btn-outline"><i class="fa-solid fa-download"></i> Download Course Outline</a>
-            <!-- <a href="#" class="btn-fill">Reserve My Spot <i class="fa-solid fa-arrow-right"></i></a> -->
+           
             <a href="#" class="btn-animated btn-light mt-0">
                 <div class="btn-text-wrap">
                     <div class="btn-text">Reserve My Spot</div>
@@ -276,9 +273,296 @@
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258c8" alt="" class="newsletter-left-image">
         </div>
     </div>
+</section> -->
+
+
+
+
+
+<section class="why-choose">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <!-- <h5 class="sub-head">Why Choose Us</h5> -->
+                <h2 class="title">Global Academic <br> <span>Collaboration</span></h2>
+
+                <p class="para">International School of Design Kolkata believes that design education should extend
+                    beyond borders. Through global academic collaborations, the institute provides students with
+                    international exposure to design education, creative practices, and learning environments across
+                    leading global institutions. <br> <br>
+                    INSD Kolkata has established academic tie-ups with reputed international universities including
+                    College de Paris, International Business School of Washington (IBSW), University for the Creative
+                    Arts (UCA), École Supérieure de Relooking, and ESG Luxe (France). These collaborations connect
+                    students to global academic ecosystems focused on design, fashion, creative studies, and
+                    professional education.<br> <br>
+                    As part of these global partnerships, students have the opportunity to participate in international
+                    academic exposure programs, where selected modules are studied at partner universities abroad. This
+                    experience allows students to engage with international faculty, global design perspectives, and
+                    diverse academic cultures.<br> <br>
+                    Global academic exposure helps students broaden their creative outlook, understand international
+                    design standards, and develop confidence to operate in a global creative environment. These
+                    collaborations strengthen INSD Kolkata’s commitment to delivering design education that is globally
+                    informed, professionally relevant, and future-focused.
+
+                </p>
+
+
+
+
+            </div>
+
+            <div class="col-md-4">
+                <img src="assets/img/insdimage.jpeg" alt="" class="img-fluid">
+            </div>
+
+            <div class="container  mt-4">
+                <div class="owl-carousel client-carousel owl-loaded owl-drag">
+                    <div class="owl-stage-outer">
+                        <div class="owl-stage"
+                            style="transform: translate3d(-1442px, 0px, 0px); transition: 0.25s; width: 3367px;">
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-1.png" alt="Apollo Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-2.png" alt="Fortis Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-3.png" alt="Narayana NH Group">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-4.png" alt="Manipal Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-5.png" alt="CMRI">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-6.png" alt="ck birla">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej.png" alt="ck birla">
+                                </div>
+                            </div>
+                            <div class="owl-item" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-1.png" alt="Apollo Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-2.png" alt="Fortis Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-3.png" alt="Narayana NH Group">
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-4.png" alt="Manipal Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-5.png" alt="CMRI">
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-6.png" alt="ck birla">
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej.png" alt="ck birla">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-1.png" alt="Apollo Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-2.png" alt="Fortis Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-3.png" alt="Narayana NH Group">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-4.png" alt="Manipal Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-5.png" alt="CMRI">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-6.png" alt="ck birla">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej.png" alt="ck birla">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span
+                                aria-label="Previous">‹</span></button><button type="button" role="presentation"
+                            class="owl-next"><span aria-label="Next">›</span></button></div>
+                    <div class="owl-dots disabled"><button role="button" class="owl-dot active"><span></span></button>
+                    </div>
+                </div>
+
+                <div class="ban-btn text-center justify-content-center ">
+
+                    <a href="#" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Explore Academic Programs</div>
+                            <div class="btn-text-hover">Explore Academic Programs</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+
+
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
 </section>
 
-<!-- newslater End -->
+
+<section class="global_Section_ready">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h2 class="title">
+                    GLOBAL ACADEMIC <span>COLLABORATION</span>
+                </h2>
+                <p class="para">
+                    International School of Design Kolkata believes that contemporary design education benefits from
+                    global exposure and international academic perspectives. Through global academic collaborations, the
+                    institute connects students to learning environments beyond India, supporting broader understanding
+                    of design practices, creative cultures, and professional standards. <br> <br>
+                    These collaborations are designed to complement classroom learning by introducing students to global
+                    academic frameworks and international approaches to design education.
+
+                </p>
+            </div>
+            <div class="col-md-6">
+                <img src="assets/img/inner_banner/f1.jpg" alt="" class="img-fluid">
+            </div>
+        </div>
+
+        <h4 class="title">International Academic <br> <span>Partners</span></h4>
+
+        <div class="container mt-5">
+            <div class="owl-carousel client-carousel">
+
+                <div class="item">
+                    <img src="assets/img/goodrej-1.png" alt="Client 1">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej-2.png" alt="Client 2">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej-3.png" alt="Client 3">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej-4.png" alt="Client 4">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej-5.png" alt="Client 5">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej-6.png" alt="Client 6">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej.png" alt="Client 7">
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    <div class="banner_ing">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2 class="title">
+                        International Academic <span>Exposure</span>
+                    </h2>
+                    <p class="para">
+                        Through these global academic collaborations, students at INSD Kolkata have the opportunity to
+                        participate in international academic exposure programmes, including short-term study modules
+                        conducted at partner institutions abroad. <br> <br>
+                        These experiences allow students to engage with international faculty, understand global design
+                        perspectives, and experience academic environments beyond their home country, contributing to
+                        creative growth and global awareness.
+
+
+                    </p>
+
+                    <div class="ban-btn mt-4 ">
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text"> EXPLORE COURSES</div>
+                                <div class="btn-text-hover"> EXPLORE COURSES</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+
+
+
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
 
 
 

@@ -58,6 +58,7 @@
 <body>
 
 
+
   <a href="#" id="backToTop" title="Back to Top">&#8679;</a>
 
   <!-- WhatsApp Floating Button -->
@@ -68,7 +69,7 @@
 
 
   <header>
-    <div class="">
+    <div>
 
       <div class="header1">
 
@@ -100,8 +101,8 @@
                   </a>
 
                   <ul class="dropdown-menu custom-dropdown">
-                    <li><a class="dropdown-item" href="about.php">About INSD in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="accreditation.php">Accreditation</a></li>
+                    <li><a class="dropdown-item" href="about2.php">About INSD in Kolkata</a></li>
+                    <li><a class="dropdown-item" href="accreditation.php">Accreditations</a></li>
                     <li><a class="dropdown-item" href="faculty.php">Faculty & Mentor</a></li>
                     <li><a class="dropdown-item" href="industry.php">Industry Collaboration</a></li>
                   </ul>
@@ -170,7 +171,7 @@
                   </a>
 
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="admission-overview-2.php">Admission Overview</a></li>
+                    <li><a class="dropdown-item" href="admission_new_page.php">Admission Overview</a></li>
 
                     <li><a class="dropdown-item" href="Eligibity-Criteria.php">Eligibity Criteria</a></li>
                     <li><a class="dropdown-item" href="admission-faq.php">Admission FAQ</a></li>
@@ -237,6 +238,12 @@
                 </li>
 
               </ul>
+
+              <!-- <div class="rbt-btn-wrapper d-none d-xl-block">
+                <a class="rbt-btn marquee-btn" href="contact.php">
+                  <span>Enroll Now</span>
+                </a>
+              </div> -->
 
 
 

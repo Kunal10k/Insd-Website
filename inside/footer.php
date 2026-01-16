@@ -6,21 +6,39 @@
         <h2 class="footer-logo">
           <img src="assets/img/cropped-logo-1-1-2.png" alt="">
         </h2>
-        <h4>Campus Office</h4>
-        <p>45 College Street,<br>Greenfield Boston, MA<br>02115, USA</p>
-        <h4>Email</h4>
-        <p><a href="mailto:yourmail@email.com">yourmail@email.com</a></p>
+
+
+        <!-- <ul class="social-links-list">
+          <li class="social-link-item social-fb">
+            <a href="#" class="social-link-fb" aria-label="Facebook">
+              <i class="fa-brands fa-facebook-f"></i>
+            </a>
+          </li>
+
+          <li class="social-link-item social-insta">
+            <a href="#" class="social-link-insta" aria-label="Instagram">
+              <i class="fa-brands fa-instagram"></i>
+            </a>
+          </li>
+
+          <li class="social-link-item social-linkedin">
+            <a href="#" class="social-link-linkedin" aria-label="LinkedIn">
+              <i class="fa-brands fa-linkedin-in"></i>
+            </a>
+          </li>
+        </ul> -->
+
       </div>
 
       <!-- Main Pages -->
       <div class="footer-column">
         <h3>Main Pages</h3>
         <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="event.php">Events</a></li>
-          <li><a href="#">Programs</a></li>
-          <li><a href="blog.php">Blog</a></li>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="about2.php">About</a></li>
+          <li><a href="contact-us.php">Contact us</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+
         </ul>
       </div>
 
@@ -28,7 +46,7 @@
       <div class="footer-column">
         <h3>Utility Pages</h3>
         <ul>
-          <li><a href="#">Style Guide</a></li>
+          <li><a href="#">Terms & Conditions</a></li>
           <li><a href="#">Licenses</a></li>
           <li><a href="#">Change Log</a></li>
           <li><a href="#">404</a></li>
@@ -46,13 +64,35 @@
 
       <!-- Programs -->
       <div class="footer-column">
-        <h3>Programs</h3>
-        <ul>
-          <li><a href="#">B.Sc. in Computer Science</a></li>
-          <li><a href="#">Postgraduate</a></li>
-          <li><a href="#">Professional Studies</a></li>
-          <li><a href="#">Certificate & Courses</a></li>
+        <h3>Office Address</h3>
+
+        <ul class="contact-info-list mt-2  gap-2">
+          <li class="contact-info-item">
+            <i class="fa-solid fa-envelope contact-info-icon"></i>
+            <strong class="contact-info-text">enquiry@insdkolkata.com</strong>
+          </li>
+
+          <li class="contact-info-item">
+            <i class="fa-solid fa-envelope-open-text contact-info-icon"></i>
+            <strong class="contact-info-text">info@insdkolkata.com</strong>
+          </li>
+
+          <li class="contact-info-item">
+            <i class="fa-solid fa-phone contact-info-icon"></i>
+            <strong class="contact-info-text">+916290905125/+916291065177</strong>
+          </li>
+          <li class="contact-info-item">
+            <i class="fa-solid fa-location-dot contact-info-icon"></i>
+            <strong class="contact-info-text">
+              1st Floor, Plot No, JL-9, EP Block, Sector V, Kolkata, West Bengal 700091
+            </strong>
+          </li>
+
+
+
         </ul>
+
+
       </div>
     </div>
 

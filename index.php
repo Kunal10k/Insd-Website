@@ -199,7 +199,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-5">
-        <h2 class="title">Our <br> <span>Courses</span></h2>
+        <h2 class="title">Our <span>Courses</span></h2>
       </div>
       <div class="col-md-7">
         <p class="para">Our University provides world-class education, drives innovation, and prepares future leaders.
@@ -1921,86 +1921,86 @@
 
 <div class="modal fade" id="enquiryModal" tabindex="-1" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-sm">
-  
-      <div class="modal-body p-0">
 
-        <div class="landing_wrapper">
+    <div class="modal-body p-0">
 
-          <button type="button" class="btn-close position-absolute top-0 end-0 m-3" data-bs-dismiss="modal"
-            aria-label="Close">
-          </button>
+      <div class="landing_wrapper">
+
+        <button type="button" class="btn-close position-absolute top-0 end-0 m-3" data-bs-dismiss="modal"
+          aria-label="Close">
+        </button>
 
 
 
-          <div class="form_content p-0">
-            <div class="content1">
+        <div class="form_content p-0">
+          <div class="content1">
 
-              <h5>Connect With Us</h5>
+            <h5>Connect With Us</h5>
+          </div>
+
+        </div>
+
+        <form action="" method="post" class="landing_form">
+
+          <!-- Name -->
+          <div>
+            <label class="form-label">Full Name</label>
+            <input type="text" class="form-control" name="name" placeholder="Enter your name" required>
+          </div>
+
+          <!-- Email -->
+          <div>
+            <label class="form-label">Email Address</label>
+            <input type="email" class="form-control" name="email" placeholder="Enter your email" required>
+          </div>
+
+          <!-- Phone -->
+          <div>
+            <label class="form-label">Mobile Number</label>
+            <div class="input-group">
+              <span class="input-group-text">+91</span>
+              <input type="tel" class="form-control" name="phone" placeholder="Enter mobile number" pattern="[0-9]{10}"
+                maxlength="10" required>
+            </div>
+          </div>
+
+          <div>
+            <!-- Select Course -->
+            <div class="mb-4">
+              <label class="form-label">Select Course</label>
+              <select class="form-select" name="course" required>
+                <option value="" selected disabled>Select Course</option>
+                <option value="fashion_design">Fashion Designing</option>
+                <option value="interior_design">Interior Designing</option>
+                <option value="graphic_design">Graphic Designing</option>
+                <option value="ui_ux_design">UI / UX Design</option>
+              </select>
             </div>
 
           </div>
 
-          <form action="" method="post" class="landing_form">
 
-            <!-- Name -->
-            <div>
-              <label class="form-label">Full Name</label>
-              <input type="text" class="form-control" name="name" placeholder="Enter your name" required>
+
+          <!-- Submit -->
+          <button type="submit" class="btn-animated btn-light ">
+            <div class="btn-text-wrap">
+              <div class="btn-text">Apply to Join</div>
+              <div class="btn-text-hover">Apply to Join</div>
             </div>
-
-            <!-- Email -->
-            <div>
-              <label class="form-label">Email Address</label>
-              <input type="email" class="form-control" name="email" placeholder="Enter your email" required>
+            <div class="btn-icon-wrap">
+              <img
+                src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                alt="Arrow" class="btn-icon">
+              <img
+                src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                alt="Arrow" class="btn-icon-hover">
             </div>
+          </button>
 
-            <!-- Phone -->
-            <div>
-              <label class="form-label">Mobile Number</label>
-              <div class="input-group">
-                <span class="input-group-text">+91</span>
-                <input type="tel" class="form-control" name="phone" placeholder="Enter mobile number"
-                  pattern="[0-9]{10}" maxlength="10" required>
-              </div>
-            </div>
+        </form>
 
-            <div>
-              <!-- Select Course -->
-              <div class="mb-4">
-                <label class="form-label">Select Course</label>
-                <select class="form-select" name="course" required>
-                  <option value="" selected disabled>Select Course</option>
-                  <option value="fashion_design">Fashion Designing</option>
-                  <option value="interior_design">Interior Designing</option>
-                  <option value="graphic_design">Graphic Designing</option>
-                  <option value="ui_ux_design">UI / UX Design</option>
-                </select>
-              </div>
-
-            </div>
-
-
-
-            <!-- Submit -->
-            <button type="submit" class="btn-animated btn-light ">
-              <div class="btn-text-wrap">
-                <div class="btn-text">Apply to Join</div>
-                <div class="btn-text-hover">Apply to Join</div>
-              </div>
-              <div class="btn-icon-wrap">
-                <img
-                  src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                  alt="Arrow" class="btn-icon">
-                <img
-                  src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                  alt="Arrow" class="btn-icon-hover">
-              </div>
-            </button>
-
-          </form>
-
-        </div>
       </div>
+    </div>
   </div>
 </div>
 

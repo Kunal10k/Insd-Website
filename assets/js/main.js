@@ -15,7 +15,7 @@ $(document).ready(function () {
                 items: 2
             },
             992: {
-                items: 3
+                items: 4
             }
         }
     });
@@ -65,3 +65,8 @@ new Swiper(".awards-slider", {
     });
   });
 
+
+
+
+
+  

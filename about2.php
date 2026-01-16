@@ -2,18 +2,18 @@
 
 
 
-<section class="inner_my_banner" style="background-image: url('./assets/img/abt.jpg');">
+
+
+<section class="inner_Section" style="background-image: url('./assets/img/abt.jpg');">
+
+
+
     <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <h6>ESSENCE OF GROWTH
-                </h6>
-                <h1>Real dedication fuels your ongoing progress</h1>
-            </div>
-        </div>
+        <h6>ESSENCE OF GROWTH
+        </h6>
+        <h1>Real dedication fuels <br> your ongoing progress</h1>
     </div>
 </section>
-
 
 
 <section class="hero-block">
@@ -161,18 +161,21 @@
 
 
                     <div class="row">
-                        <div class="col-md-4">
+                        <div class="col-md-3 en">
                             <img src="assets/img/about/insd 4th image (1).jpg" alt="" class="sett_img">
                         </div>
-                        <div class="col-md-8">
+                        <div class="col-md-9 en">
                             <div class="eligibility-sec">
                                 <div class="container">
                                     <!-- <h2 class="title ">Eligibility <span>Criteria</span> </h2> -->
 
                                     <!-- <h3 class="eligibility-heading">Academic Requirements</h3> -->
                                     <p class="para">
-                                        To develop a professional design education ecosystem that prepares students for
-                                        meaningful and sustainable careers in the global creative industry.
+                                        To develop a professional design education ecosystem that empowers students with
+                                        creative excellence, industry-relevant skills, and critical thinking. Our aim is
+                                        to nurture innovation, ethical practice, and global awareness, preparing
+                                        graduates for meaningful, sustainable, and future-ready careers in the evolving
+                                        global creative industry.
                                     </p>
 
 
@@ -198,16 +201,18 @@
 
                     <div class="row">
 
-                        <div class="col-md-8">
+                        <div class="col-md-9 en">
                             <div class="eligibility-sec">
                                 <div class="container">
                                     <!-- <h2 class="title ">Admission <span>Process</span> </h2> -->
 
                                     <!-- <h3 class="eligibility-heading">Academic Requirements</h3> -->
                                     <p class="para">
-                                        To deliver structured and industry-aligned design education focused on practical
-                                        learning, portfolio development, and professional readiness, while supporting
-                                        students in long-term creative and career growth.
+                                        To deliver a structured, industry-aligned design education that emphasizes
+                                        hands-on learning, strong conceptual foundations, and portfolio development. Our
+                                        approach focuses on building professional readiness while continuously
+                                        supporting students in their long-term creative growth, career development, and
+                                        success within the global design industry.
                                     </p>
 
 
@@ -220,7 +225,7 @@
                             </div>
 
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-3">
                             <img src="assets/img/about/insd 5th image (1).jpg" alt="" class="sett_img">
                         </div>
                     </div>
@@ -310,7 +315,7 @@
 
                         </p>
 
-                      
+
                     </div>
                 </div>
             </div>
@@ -326,41 +331,180 @@
 <section class="affi">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 col-xl-4">
+            <div class="col-lg-5">
 
                 <h5 class="sub-head ">Affiliations</h5>
-                <h2 class="title ">Our Affiliations & <br> <span>Accreditations</span></h2>
+                <h2 class="title ">Affiliations & Global <span> Accreditations</span></h2>
 
-                <p class="para  pb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+
 
 
             </div>
-            <div class="col-lg-12 col-xl-8">
-                <div class="grid-container">
+            <div class="col-md-7">
+                <p class="para">
+                    International School of Design Kolkata operates within a recognised academic and industry ecosystem
+                    that connects structured education with real-world design practice.
+                    The institute’s academic affiliations, industry alliances, and global associations support credible
+                    learning across Interior Design, Fashion Design, and Graphic Design, ensuring that education remains
+                    professionally relevant, industry-aligned, and academically structured.
 
-                    <div class="grid-item">
+                </p>
+            </div>
+
+
+
+            <div class="col-lg-12 col-xl-12 mt-5">
+                <div class="affiliation-carousel owl-carousel owl-theme">
+
+                    <div class="grid-item dsa">
                         <img src="assets/img/affi.webp" alt="">
                         <h3>Affiliations One</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     </div>
 
-                    <div class="grid-item">
-                        <img src="assets/img/affi.webp" alt="">
-                        <h3>Affiliations Two</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    </div>
 
-                    <div class="grid-item">
-                        <img src="assets/img/affi.webp" alt="">
-                        <h3>Affiliations Three</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </div>
+
+            <div class="col-md-5 en">
+                <h2 class="title mt-5 ">Academic <span> Affiliations</span></h2>
+
+            </div>
+            <div class="col-md-7 mt-5">
+                <p class="para">
+                    INSD Kolkata is academically affiliated with Maharaja Agrasen Himalayan Garhwal University,
+                    supporting recognised undergraduate, postgraduate, diploma, and advanced diploma programs within an
+                    established higher education framework. <br>
+                    The institute also maintains an academic alliance with Sikkim Professional University, contributing
+                    to curriculum alignment and academic guidance within professionally oriented and skill-based
+                    education models.<br>
+                    Together, these affiliations provide academic structure while allowing flexibility for studio-based
+                    learning and practical design education.
+
+
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section class="awards-section">
+    <div class="container">
+        <div class="section-title text-center">
+            <h2 class="title ">Industry Alliances & <br> <span>Professional Platforms</span></span></h2>
+            <p>
+                INSD Kolkata actively engages with a wide range of professional platforms that provide students exposure
+                to real-world design environments, industry standards, and professional evaluation settings.
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <p class="para ">
+                    In Fashion Design, students gain exposure through platforms such as Lakmé Fashion Week, Times
+                    Fashion Week, Asian Designer Week, National Fashion Show, and Couture Runway Week, supporting
+                    interaction with live fashion ecosystems and industry-facing showcases.
+                    In Interior Design, the institute engages with professional competitions and exhibitions including
+                    Design Milestone, IGNITE – The Creators, Ace Reflect, and ABID (A+D Interiors), enabling students to
+                    participate in industry-led design evaluations and exhibitions.
+                    Across design disciplines, INSD Kolkata is associated with professional bodies such as the
+                    Association of Designers of India (ADI), Fashion Design Council of India (FDCI), and Institute of
+                    Indian Interior Designers (IIID). The institute also aligns with national skill initiatives
+                    including Skill India and the National Skill Development Corporation (NSDC).
+                    Recognising the growing importance of digital platforms in creative careers, INSD Kolkata engages
+                    with the digital ecosystem through Google and Meta, supporting exposure to contemporary design,
+                    branding, and communication tools.
+
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 en mt-5">
+                <div class="owl-carousel dsas">
+
+                    <div class="item">
+                        <div class="award-card text-center">
+                            <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png"
+                                alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="award-card text-center">
+                            <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png"
+                                alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="award-card text-center">
+                            <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png"
+                                alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="award-card text-center">
+                            <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="award-card text-center">
+                            <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-5.png" alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="award-card text-center">
+                            <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-4.png" alt="">
+                        </div>
                     </div>
 
 
 
                 </div>
+
             </div>
+
+
         </div>
+
+        <h4 class="title  text-center">A Strong Foundation for Professional <br> <span> Design Education</span></span>
+            </h2>
+
+            <p class="para">
+                Through its academic affiliations, industry alliances, and global associations, INSD Kolkata offers a
+                structured and credible foundation for students pursuing professional design careers. <br> <br>
+                These associations actively support curriculum relevance, industry exposure, and long-term career
+                readiness, reinforcing the institute’s commitment to quality, professionalism, and industry-aligned
+                design education.
+
+            </p>
+
+            <div class="ban-btn mt-4 d-flex justify-content-center">
+                <a href="#" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Apply Now</div>
+                        <div class="btn-text-hover">Apply Now</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+                <a href="#" class="btn-animated btn-light1 ">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Book Counselling</div>
+                        <div class="btn-text-hover">Book Counselling</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+            </div>
+
     </div>
 </section>
 
@@ -374,51 +518,25 @@
             </p>
         </div>
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-8 en">
+                <div class="owl-carousel award-carousel">
 
-                <div class="swiper awards-slider  ">
-                    <div class="swiper-wrapper">
-
-                        <!-- Award Card -->
-                        <div class="swiper-slide">
-                            <div class="award-card d-flex align-items-center">
-                                <div class="award-img">
-                                    <img src="https://cdn-icons-png.flaticon.com/512/8092/8092389.png" alt="Award">
-                                </div>
-                                <div class="award-content">
-                                    <h5>Best Design Institute</h5>
-                                    <p>Recognised for excellence in professional design education.</p>
-                                </div>
+                    <div class="item">
+                        <div class="award-card text-center">
+                            <div class="award-img">
+                                <img src="https://cdn-icons-png.flaticon.com/512/8092/8092389.png" alt="Award">
+                            </div>
+                            <div class="award-content">
+                                <h5>Best Design Institute</h5>
+                                <p>Recognised for excellence in professional design education.</p>
                             </div>
                         </div>
-
-                        <div class="swiper-slide">
-                            <div class="award-card d-flex align-items-center">
-                                <div class="award-img">
-                                    <img src="https://cdn-icons-png.flaticon.com/512/8092/8092389.png" alt="Award">
-                                </div>
-                                <div class="award-content">
-                                    <h5>Academic Excellence Award</h5>
-                                    <p>Awarded for innovative curriculum and academic standards.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="award-card d-flex align-items-center">
-                                <div class="award-img">
-                                    <img src="https://cdn-icons-png.flaticon.com/512/8092/8092389.png" alt="Award">
-                                </div>
-                                <div class="award-content">
-                                    <h5>Industry Collaboration Award</h5>
-                                    <p>Honoured for strong industry and institutional partnerships.</p>
-                                </div>
-                            </div>
-                        </div>
-
                     </div>
-                    <div class="swiper-pagination"></div>
+
+
+
                 </div>
+
             </div>
 
             <div class="col-md-4">
@@ -432,12 +550,14 @@
 
 <section class="client">
     <div class="container">
-        <h5 class="sub-head text-center cen">Partners</h5>
-        <h2 class="title text-center">Our Training And <span>Placement Partners</span></h2>
+        <h5 class="sub-head text-center cen">Featured In</h5>
+        <h2 class="title text-center">Featured <span>In</span></h2>
 
-        <p class="para text-center pb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+        <p class="para text-center pb-5 w-75 m-auto">INSD Kolkata has been featured across leading national and industry
+            media
+            platforms for its work in design education, student initiatives, leadership, and institutional growth.</p>
 
-        <div class="container">
+        <div class="container ">
             <div class="owl-carousel client-carousel">
                 <div class="item">
                     <img src="assets/img/goodrej-1.png" alt="Apollo Hospitals">
@@ -464,43 +584,37 @@
             </div>
 
         </div>
-    </div>
-</section>
 
+        <div class="ban-btn text-center justify-content-center mt-5">
 
-<section class="why-choose">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8">
-                <!-- <h5 class="sub-head">Why Choose Us</h5> -->
-                <h2 class="title">Global Academic <span>Collaboration</span></h2>
+            <a href="#" class="btn-animated btn-light">
+                <div class="btn-text-wrap">
+                    <div class="btn-text">Apply Now</div>
+                    <div class="btn-text-hover">Apply Now</div>
+                </div>
+                <div class="btn-icon-wrap">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                        alt="Arrow" class="btn-icon">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                        alt="Arrow" class="btn-icon-hover">
+                </div>
+            </a>
 
-                <p class="para">International School of Design Kolkata believes that design education should extend
-                    beyond borders. Through global academic collaborations, the institute provides students with
-                    international exposure to design education, creative practices, and learning environments across
-                    leading global institutions. <br> <br>
-                    INSD Kolkata has established academic tie-ups with reputed international universities including
-                    College de Paris, International Business School of Washington (IBSW), University for the Creative
-                    Arts (UCA), École Supérieure de Relooking, and ESG Luxe (France). These collaborations connect
-                    students to global academic ecosystems focused on design, fashion, creative studies, and
-                    professional education.<br> <br>
-                    As part of these global partnerships, students have the opportunity to participate in international
-                    academic exposure programs, where selected modules are studied at partner universities abroad. This
-                    experience allows students to engage with international faculty, global design perspectives, and
-                    diverse academic cultures.<br> <br>
-                    Global academic exposure helps students broaden their creative outlook, understand international
-                    design standards, and develop confidence to operate in a global creative environment. These
-                    collaborations strengthen INSD Kolkata’s commitment to delivering design education that is globally
-                    informed, professionally relevant, and future-focused.
-                </p>
-
+            <a href="#" class="btn-animated btn-light1">
+                <div class="btn-text-wrap">
+                    <div class="btn-text">Book Counselling</div>
+                    <div class="btn-text-hover">Book Counselling</div>
+                </div>
+                <div class="btn-icon-wrap">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
+                        alt="Arrow" class="btn-icon">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                        alt="Arrow" class="btn-icon-hover">
+                </div>
+            </a>
 
 
 
-            </div>
-            <div class="col-md-4">
-                <img src="assets/img/insdimage.jpeg" alt="" class="img-fluid">
-            </div>
         </div>
     </div>
 </section>
@@ -508,12 +622,36 @@
 
 
 
+
+
 <section class="mentor-zone">
     <div class="mentor-wrap">
 
-        <div class="mentor-title text-center">
-            <h2 class="title">Industry <span>Mentors</span></h2>
-            <p>Learning from Professionals Shaping the Design Industry</p>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="mentor-title text-center">
+                    <h2 class="title">Industry <span>Mentors</span></h2>
+
+                    <p class="para">
+                        Learning from Professionals Shaping the Design Industry
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-8">
+
+                <p class="para">
+                    International School of Design Kolkata is supported by a network of industry professionals,
+                    entrepreneurs, designers, and creative leaders who actively engage with students through mentorship,
+                    expert sessions, masterclasses, and industry interactions.
+                    These mentors bring perspectives drawn from active professional practice across fashion, interior
+                    design, luxury, branding, retail, and creative entrepreneurship. Their association reflects INSD
+                    Kolkata’s strong connection with the industry and its focus on keeping learning aligned with
+                    contemporary professional practice.
+
+                </p>
+
+            </div>
         </div>
 
         <!-- Owl Carousel -->
@@ -563,6 +701,387 @@
 </section>
 
 
+<section class="affi">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h5 class="sub-head ">Faculty Members</h5>
+                <h2 class="title ">Faculty <span> Members</span></h2>
+                <p class="para">
+                    International School of Design Kolkata is supported by a team of faculty members who bring
+                    professional experience, academic grounding, and practical insight into the learning environment.
+                    Faculty members at INSD Kolkata are closely connected to the design industry through active
+                    practice, professional engagement, and entrepreneurial work. Their approach to teaching is informed
+                    by real-world exposure, current industry standards, and an understanding of how the design
+                    profession is evolving.
+                    This alignment ensures that academic delivery remains relevant, structured, and closely connected to
+                    professional practice across Interior Design, Fashion Design, and Graphic Design.
+                </p>
+            </div>
+            <div class="faculty-section nds mt-4">
+                <div class="container">
+                    <div class="faculty-slider owl-carousel">
+
+                        <!-- Faculty Card -->
+                        <div class="faculty-item">
+                            <div class="faculty-photo">
+                                <img src="https://img.freepik.com/free-photo/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-129416.jpg?semt=ais_hybrid&w=740&q=80"
+                                    alt="Faculty Name">
+                            </div>
+
+                            <div class="faculty-details">
+                                <h5 class="faculty-title">Dr. Ananya Sen</h5>
+                                <p class="faculty-post">Associate Professor</p>
+                                <p class="faculty-branch">Department of Design</p>
+                                <span class="faculty-work">Founder – Studio Axis</span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row mt-5">
+                <div class="col-md-5">
+                    <h2 class="title ">Academic Guidance <span> <br>at INSD Kolkata</span></h2>
+
+                    <div class="ban-btn   mt-4">
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Explore Academic Programs</div>
+                                <div class="btn-text-hover">Explore Academic Programs</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+
+
+
+
+                    </div>
+                </div>
+                <div class="col-md-7">
+                    <p class="para">
+                        Faculty members play a central role in guiding students through studio work, practical
+                        execution, and
+                        portfolio development. Their engagement supports structured learning while integrating
+                        professional
+                        discipline, creative thinking, and applied skills.
+                        This approach helps ensure that students receive academic guidance that is informed by both
+                        educational
+                        frameworks and real industry practice.
+
+                    </p>
+                </div>
+
+
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<section class="why-choose">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <!-- <h5 class="sub-head">Why Choose Us</h5> -->
+                <h2 class="title">Global Academic <br> <span>Collaboration</span></h2>
+
+                <p class="para">International School of Design Kolkata believes that design education should extend
+                    beyond borders. Through global academic collaborations, the institute provides students with
+                    international exposure to design education, creative practices, and learning environments across
+                    leading global institutions. <br> <br>
+                    INSD Kolkata has established academic tie-ups with reputed international universities including
+                    College de Paris, International Business School of Washington (IBSW), University for the Creative
+                    Arts (UCA), École Supérieure de Relooking, and ESG Luxe (France). These collaborations connect
+                    students to global academic ecosystems focused on design, fashion, creative studies, and
+                    professional education.<br> <br>
+                    As part of these global partnerships, students have the opportunity to participate in international
+                    academic exposure programs, where selected modules are studied at partner universities abroad. This
+                    experience allows students to engage with international faculty, global design perspectives, and
+                    diverse academic cultures.<br> <br>
+                    Global academic exposure helps students broaden their creative outlook, understand international
+                    design standards, and develop confidence to operate in a global creative environment. These
+                    collaborations strengthen INSD Kolkata’s commitment to delivering design education that is globally
+                    informed, professionally relevant, and future-focused.
+
+                </p>
+
+
+
+
+            </div>
+
+            <div class="col-md-4">
+                <img src="assets/img/insdimage.jpeg" alt="" class="img-fluid">
+            </div>
+
+            <div class="container  mt-4">
+                <div class="owl-carousel client-carousel owl-loaded owl-drag">
+                    <div class="owl-stage-outer">
+                        <div class="owl-stage"
+                            style="transform: translate3d(-1442px, 0px, 0px); transition: 0.25s; width: 3367px;">
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-1.png" alt="Apollo Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-2.png" alt="Fortis Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-3.png" alt="Narayana NH Group">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-4.png" alt="Manipal Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-5.png" alt="CMRI">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-6.png" alt="ck birla">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej.png" alt="ck birla">
+                                </div>
+                            </div>
+                            <div class="owl-item" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-1.png" alt="Apollo Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-2.png" alt="Fortis Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-3.png" alt="Narayana NH Group">
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-4.png" alt="Manipal Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-5.png" alt="CMRI">
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-6.png" alt="ck birla">
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej.png" alt="ck birla">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-1.png" alt="Apollo Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned active" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-2.png" alt="Fortis Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-3.png" alt="Narayana NH Group">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-4.png" alt="Manipal Hospitals">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-5.png" alt="CMRI">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej-6.png" alt="ck birla">
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                                <div class="item">
+                                    <img src="assets/img/goodrej.png" alt="ck birla">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span
+                                aria-label="Previous">‹</span></button><button type="button" role="presentation"
+                            class="owl-next"><span aria-label="Next">›</span></button></div>
+                    <div class="owl-dots disabled"><button role="button" class="owl-dot active"><span></span></button>
+                    </div>
+                </div>
+
+                <div class="ban-btn text-center justify-content-center ">
+
+                    <a href="#" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Explore Academic Programs</div>
+                            <div class="btn-text-hover">Explore Academic Programs</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+
+
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="global_Section_ready">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h2 class="title">
+                    GLOBAL ACADEMIC <span>COLLABORATION</span>
+                </h2>
+                <p class="para">
+                    International School of Design Kolkata believes that contemporary design education benefits from
+                    global exposure and international academic perspectives. Through global academic collaborations, the
+                    institute connects students to learning environments beyond India, supporting broader understanding
+                    of design practices, creative cultures, and professional standards. <br> <br>
+                    These collaborations are designed to complement classroom learning by introducing students to global
+                    academic frameworks and international approaches to design education.
+
+                </p>
+            </div>
+            <div class="col-md-6">
+                <img src="assets/img/inner_banner/f1.jpg" alt="" class="img-fluid">
+            </div>
+        </div>
+
+        <h4 class="title">International Academic <br> <span>Partners</span></h4>
+
+        <div class="container mt-5">
+            <div class="owl-carousel client-carousel">
+
+                <div class="item">
+                    <img src="assets/img/goodrej-1.png" alt="Client 1">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej-2.png" alt="Client 2">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej-3.png" alt="Client 3">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej-4.png" alt="Client 4">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej-5.png" alt="Client 5">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej-6.png" alt="Client 6">
+                </div>
+
+                <div class="item">
+                    <img src="assets/img/goodrej.png" alt="Client 7">
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    <div class="banner_ing">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2 class="title">
+                        International Academic <span>Exposure</span>
+                    </h2>
+                    <p class="para">
+                        Through these global academic collaborations, students at INSD Kolkata have the opportunity to
+                        participate in international academic exposure programmes, including short-term study modules
+                        conducted at partner institutions abroad. <br> <br>
+                        These experiences allow students to engage with international faculty, understand global design
+                        perspectives, and experience academic environments beyond their home country, contributing to
+                        creative growth and global awareness.
+
+
+                    </p>
+
+                    <div class="ban-btn mt-4 ">
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text"> EXPLORE COURSES</div>
+                                <div class="btn-text-hover"> EXPLORE COURSES</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+
+
+
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
 
 
 
@@ -570,3 +1089,103 @@
 
 
 <?php include 'inside/footer.php' ?>
+
+<script>
+    $(document).ready(function () {
+        $(".award-carousel").owlCarousel({
+            loop: true,
+            margin: 20,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            smartSpeed: 800,
+            nav: false,
+            dots: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                576: {
+                    items: 2
+                },
+                992: {
+                    items: 3
+                }
+            }
+        });
+    });
+</script>
+
+
+<script>
+    $(document).ready(function () {
+        $('.affiliation-carousel').owlCarousel({
+            loop: true,
+            margin: 20,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            nav: false,
+            dots: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                576: {
+                    items: 2
+                },
+                992: {
+                    items: 4
+                }
+            }
+        });
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        $('.dsas').owlCarousel({
+            loop: true,
+            margin: 20,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            nav: false,
+            dots: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                576: {
+                    items: 2
+                },
+                992: {
+                    items: 6
+                }
+            }
+        });
+    });
+</script>
+
+<script>
+    $('.faculty-slider').owlCarousel({
+        loop: true,
+        margin: 20,
+        nav: false,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 4000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 2
+            },
+            992: {
+                items: 3
+            },
+            1200: {
+                items: 3
+            }
+        }
+    });
+</script>

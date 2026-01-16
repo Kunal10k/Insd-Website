@@ -1679,6 +1679,18 @@ ul#autoTab {
   animation-play-state: paused;
 }
 
+.en {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dsa img {
+
+  width: 35% !important;
+  height: 35% !important;
+  margin: 0 auto;
+}
 
 /* course-sec */
 
@@ -1949,7 +1961,8 @@ ul#autoTab {
 .icon-circle {
   width: 50px;
   height: 50px;
-  background: var(--secondary-color1);
+  /* background: var(--secondary-color1); */
+  border: 1px solid var(--secondary-color3);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -4647,6 +4660,7 @@ img.img-mg2 {
   position: absolute;
   display: none;
 }
+
 /* .sett_img {
   border-radius: 50% !important;
   -webkit-border-radius: 50% !important;
@@ -6912,6 +6926,16 @@ alumni-carousel .item img {
 /* Owl spacing */
 .faculty-slider .faculty-item {
   padding: 15px;
+  display: flex;
+  gap: 15px;
+}
+
+.faculty-photo img {
+  width: 100px !important;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  border-left: 3px solid var(--secondary-color3);
 }
 
 /* ********** faculty-editorial-wrap **************  */
@@ -8640,7 +8664,7 @@ textarea {
 }
 
 .apply-card {
-  background: linear-gradient(135deg, #ffffff, #f2eaff);
+  /* background: linear-gradient(135deg, #ffffff, #f2eaff); */
   border-radius: 15px;
   padding: 25px;
   box-shadow: 0 8px 20px rgba(111, 66, 193, 0.15);
@@ -8648,6 +8672,9 @@ textarea {
   -moz-border-radius: 15px;
   -ms-border-radius: 15px;
   -o-border-radius: 15px;
+  background-image: url(../img/inner_banner/Artboard\ 2.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 .icon-box {
@@ -8745,3 +8772,167 @@ textarea {
   box-shadow: 0 6px 15px rgba(111, 66, 193, 0.12);
   margin-top: 15px;
 }
+
+/* ************** faculty **********  */
+
+.faculty-item {
+  background: #fff;
+  border-radius: 14px;
+  overflow: hidden;
+  text-align: center;
+  /* padding: 20px; */
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.faculty-photo img {
+  width: 100%;
+  /* border-radius: 10px; */
+}
+
+.faculty-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.faculty-post {
+  font-size: 14px;
+  font-weight: 500;
+  color: #555;
+  margin: 0;
+}
+
+.faculty-branch {
+  font-size: 13px;
+  color: #777;
+  margin: 0 !important;
+}
+
+.faculty-work {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--secondary-color3);
+}
+
+/* ***************** global_Section_ready ***************  */
+
+
+.global_Section_ready {
+  padding: var(--global_padding);
+}
+
+.banner_ing {
+  padding: var(--global_padding);
+  background-image: url(../img/inner_banner/f2.png);
+  background-size: cover;
+  background-position: center;
+  margin-top: 30px;
+}
+
+/* ***************** global_Section_ready ***************  */
+
+
+
+
+/* ************** help bar **************  */
+.help-bar .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 18px;
+  border-radius: 14px;
+  background: linear-gradient(90deg, #f7f2ff, #efe6ff);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  /* max-width: 100%; */
+  margin-top: 35px;
+}
+
+.help-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.help-icon {
+  width: 38px;
+  height: 38px;
+  background: var(--secondary-color3);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.help-icon img {
+  width: 20px;
+  filter: brightness(0) invert(1);
+}
+
+.help-text {
+  font-size: 16px;
+  font-weight: 500;
+  color: #2b2b2b;
+}
+
+
+.modal-backdrop {
+  display: none !important;
+}
+
+
+
+
+.contact-info-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contact-info-item {
+  display: flex;
+  /* align-items: center; */
+  gap: 8px;
+  /* justify-content: center; */
+
+}
+
+.contact-info-icon {
+  color: #fff;
+  /* theme color */
+  font-size: 18px;
+}
+
+.contact-info-text {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 20px;
+
+}
+
+.contact-info-item i {
+  /* padding: 5px;   */
+  color: var(--secondary-color3);
+  /* border-radius: 50%; */
+}
+
+
+.social-links-list {
+  list-style: none;
+  display: flex;
+  gap: 12px;
+  padding: 0;
+  margin: 0;
+}
+
+/* Common */
+.social-link-item a {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: var(--secondary-color3);
+  transition: all 0.3s ease;
+}
+
