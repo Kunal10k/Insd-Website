@@ -8,7 +8,7 @@
 
     <div class="container">
         <h1 class="title ">
-            Accreditation
+          Affiliation & Industry  <br>Accreditations
         </h1>
     </div>
 </section>

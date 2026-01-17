@@ -14,7 +14,7 @@
 
   <div class="container">
     <h1 class="title ">
-      Faculty & Mentors
+      Industry Mentors & Experts
     </h1>
   </div>
 </section>

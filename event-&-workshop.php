@@ -16,7 +16,7 @@
 <section class="events-section">
     <div class="container">
         <h2 class="title text-center">Events & <span>Workshops</span></h2>
-        <p class="para w-75 m-auto">
+        <p class="para w-75 m-auto text-center">
             Stay updated with our upcoming design events, expert-led workshops,
             and hands-on learning experiences.
         </p>
@@ -35,7 +35,27 @@
                         Learn space styling, color harmony, and modern interior trends
                         directly from industry professionals.
                     </p>
-                    <a href="#" class="event-btn">Register Now</a>
+
+
+                    <div class="ban-btn mt-3">
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Register Now</div>
+                                <div class="btn-text-hover">Register Now</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+
+
+
+
+                    </div>
                 </div>
             </div>
 
@@ -51,7 +71,25 @@
                         Explore upcoming fashion trends, fabrics, and market insights with
                         leading fashion experts.
                     </p>
-                    <a href="#" class="event-btn">Register Now</a>
+                    <div class="ban-btn mt-3">
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Register Now</div>
+                                <div class="btn-text-hover">Register Now</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+
+
+
+
+                    </div>
                 </div>
             </div>
 
@@ -67,7 +105,25 @@
                         Understand logo design, brand systems, and storytelling for modern
                         businesses.
                     </p>
-                    <a href="#" class="event-btn">Register Now</a>
+                    <div class="ban-btn mt-3">
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Register Now</div>
+                                <div class="btn-text-hover">Register Now</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                    alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+
+
+
+
+                    </div>
                 </div>
             </div>
         </div>

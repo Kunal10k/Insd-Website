@@ -9,9 +9,8 @@
 
 
     <div class="container">
-        <h6>ESSENCE OF GROWTH
-        </h6>
-        <h1>Real dedication fuels <br> your ongoing progress</h1>
+     
+        <h1>About INSD in Kolkata</h1>
     </div>
 </section>
 

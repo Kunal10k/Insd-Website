@@ -15,7 +15,7 @@
 
 
 
-<section class="campus-tour-section">
+<section class="campus-tour-section" style="background: #fff;">
     <div class="container">
         <div class="row align-items-center">
 

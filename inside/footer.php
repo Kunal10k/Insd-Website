@@ -47,9 +47,12 @@
         <h3>Utility Pages</h3>
         <ul>
           <li><a href="#">Terms & Conditions</a></li>
-          <li><a href="#">Licenses</a></li>
-          <li><a href="#">Change Log</a></li>
-          <li><a href="#">404</a></li>
+          <li><a href="admission_new_page.php">Admission Process</a></li>
+          <li><a href="landing-page.php">Department Overview
+              Design</a></li>
+          <li><a href="event-&-workshop.php">
+              Event & Workshop
+            </a></li>
         </ul>
       </div>
 

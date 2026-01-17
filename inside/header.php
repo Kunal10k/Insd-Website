@@ -102,9 +102,9 @@
 
                   <ul class="dropdown-menu custom-dropdown">
                     <li><a class="dropdown-item" href="about2.php">About INSD in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="accreditation.php">Accreditations</a></li>
-                    <li><a class="dropdown-item" href="faculty.php">Faculty & Mentor</a></li>
-                    <li><a class="dropdown-item" href="industry.php">Industry Collaboration</a></li>
+                    <li><a class="dropdown-item" href="accreditation.php">Affiliation & Industry Accreditations</a></li>
+                    <li><a class="dropdown-item" href="faculty.php">Industry Mentors & Experts</a></li>
+                    <li><a class="dropdown-item" href="industry.php">Industry & Academic Collaborations</a></li>
                   </ul>
                 </li>
 
@@ -123,6 +123,8 @@
                     <li class="dropdown-submenu">
                       <a class="dropdown-item dropdown-toggle" href="#">Interior Design </a>
                       <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="landing-page.php">Department Overview
+                            Design</a></li>
                         <li><a class="dropdown-item" href="B.Des-in-Interior-Design-intern.php">B.Des in Interior
                             Design</a></li>
                         <li><a class="dropdown-item" href="MBA-in-Interior-Design.php">MBA in Interior Design</a></li>
@@ -136,6 +138,8 @@
                     <li class="dropdown-submenu">
                       <a class="dropdown-item dropdown-toggle" href="#">Fashion Design </a>
                       <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="landing-page.php">Department Overview
+                            Design</a></li>
                         <li><a class="dropdown-item" href="B.Des-in-Fashion-Design.php">B.Des in Fashion Design</a></li>
                         <li><a class="dropdown-item" href="MBA-in-Fashion-Design.php">MBA in Fashion Design</a></li>
                         <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Fashion-Design.php">Diploma &
@@ -149,6 +153,8 @@
                     <li class="dropdown-submenu">
                       <a class="dropdown-item dropdown-toggle" href="#">Graphic Design </a>
                       <ul class="dropdown-menu">
+                         <li><a class="dropdown-item" href="landing-page.php">Department Overview
+                            Design</a></li>
                         <li><a class="dropdown-item" href="B.DES-in-Graphic-Design.php">B.DES in Graphic Design</a></li>
                         <li><a class="dropdown-item" href="MBA-in-Graphic-Design.php">MBA in Graphic Design</a></li>
                         <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Graphic-Design.php">Diploma &
@@ -171,12 +177,12 @@
                   </a>
 
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="admission_new_page.php">Admission Overview</a></li>
+                    <li><a class="dropdown-item" href="admission_new_page.php">Admission Process</a></li>
 
-                    <li><a class="dropdown-item" href="Eligibity-Criteria.php">Eligibity Criteria</a></li>
+                    <!-- <li><a class="dropdown-item" href="Eligibity-Criteria.php">Eligibity Criteria</a></li> -->
                     <li><a class="dropdown-item" href="admission-faq.php">Admission FAQ</a></li>
-                    <li><a class="dropdown-item" href="Scholarship-Session.php">Scholarship Session</a></li>
-                    <li><a class="dropdown-item" href="Book-Your-Counceling.php">Book Your Counceling</a></li>
+                    <li><a class="dropdown-item" href="fees-payemt.php">FEES PAYMENT</a></li>
+                    <li><a class="dropdown-item" href="Book-Your-Counceling.php">Admissions Form 2026</a></li>
                   </ul>
                 </li>
 

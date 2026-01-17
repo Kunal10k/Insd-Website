@@ -58,14 +58,7 @@ new Swiper(".awards-slider", {
 
 
 
-  document.querySelectorAll('.admission-card').forEach(card => {
-    card.addEventListener('click', () => {
-      document.querySelectorAll('.admission-card').forEach(c => c.classList.remove('active-card'));
-      card.classList.add('active-card');
-    });
-  });
-
-
+  
 
 
 

@@ -230,6 +230,38 @@
 
 </section>
 
+
+<!-- 
+<section class="fees">
+    <div class="container">
+        <h2 class="title text-center">Fees & <span>Scholarships</span></h2>
+
+        <div class="row">
+            <div class="col-md-6 m-auto">
+                <div class="r-box">
+                    <div class="icon_boxs mt-4">
+                        <i class="fa-solid fa-graduation-cap me-2 icons"></i>
+                    </div>
+                    <h5 class="text-center mt-3">
+
+                        Program-wise fee details shared during counselling
+                    </h5>
+                    <div class="icon_boxs mt-4">
+                        <i class="fa-solid fa-award me-2 icons"></i>
+                    </div>
+                    <p class="para text-center">
+
+                        Scholarships available <br>
+                        <span class="fw-semibold">Merit-based</span>
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section> -->
+
+
 <section class="criteria-section">
 
     <div class="container">
@@ -267,38 +299,6 @@
     </div>
 
 </section>
-
-<section class="fees">
-    <div class="container">
-        <h2 class="title text-center">Fees & <span>Scholarships</span></h2>
-
-        <div class="row">
-            <div class="col-md-6 m-auto">
-                <div class="r-box">
-                    <div class="icon_boxs mt-4">
-                        <i class="fa-solid fa-graduation-cap me-2 icons"></i>
-                    </div>
-                    <h5 class="text-center mt-3">
-
-                        Program-wise fee details shared during counselling
-                    </h5>
-                    <div class="icon_boxs mt-4">
-                        <i class="fa-solid fa-award me-2 icons"></i>
-                    </div>
-                    <p class="para text-center">
-
-                        Scholarships available <br>
-                        <span class="fw-semibold">Merit-based</span>
-                    </p>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-
-
 
 
 <section class="cta-sec" style="background-image: url(./assets/img/inner_banner/shutterstock_2495297637c\ \(1\).jpg);">
@@ -359,10 +359,10 @@
 </section>
 
 
-<section class="application-section">
+<!-- <section class="application-section">
     <div class="app-container">
 
-        <!-- LEFT FEATURES -->
+ 
         <div class="app-features">
             <ul class="list-unstyled">
                 <li><i class="fa-solid fa-comments"></i> Career Counselling</li>
@@ -374,7 +374,7 @@
 
         </div>
 
-        <!-- RIGHT FORM -->
+       
         <div class="app-form">
 
             <h2 class="title">ONLINE APPLICATION <span>FORM (2026)</span></h2>
@@ -460,7 +460,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 
@@ -471,3 +471,25 @@
 
 
 <?php include 'inside/footer.php' ?>
+
+
+<script>
+    // Card click করলে Active হবে
+document.querySelectorAll('.admission-card').forEach(card => {
+  card.addEventListener('click', (e) => {
+    e.stopPropagation(); 
+    document.querySelectorAll('.admission-card').forEach(c => 
+      c.classList.remove('active-card')
+    );
+    card.classList.add('active-card');
+  });
+});
+
+// Document এর যেকোনো জায়গায় click করলে Active off হবে
+document.addEventListener('click', () => {
+  document.querySelectorAll('.admission-card').forEach(c => 
+    c.classList.remove('active-card')
+  );
+});
+
+</script>

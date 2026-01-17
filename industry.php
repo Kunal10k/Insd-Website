@@ -8,7 +8,7 @@
 
     <div class="container">
         <h1 class="title ">
-            Industry Collaboration
+         Industry & Academic <br> Collaborations
         </h1>
     </div>
 </section>
