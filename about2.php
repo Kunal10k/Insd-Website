@@ -9,14 +9,14 @@
 
 
     <div class="container">
-     
-        <h1>About INSD in Kolkata</h1>
+
+        <h1>About INSD in  <br class="d-md-block d-none">Kolkata</h1>
     </div>
 </section>
 
 
 <section class="hero-block">
-    <div class="hero-block__container">
+    <div class="hero-block__container container">
 
         <div class="hero-block__visual">
             <div class="hero-block__image-card">
@@ -300,10 +300,11 @@
 
                 <div class="founder-card">
                     <div class="founder-info">
-                        <h3>Naveen Soni</h3>
+                        <h3 class="title">Naveen <span>Soni</span></h3>
                         <p class="designation">Director, INSD Kolkata</p>
 
                         <p class="founder-quote">
+                            <i class="fa-solid fa-quote-left quotes"></i> <br>
                             At INSD Kolkata, education is approached with responsibility, clarity, and long-term intent.
                             Our focus has always been on preparing students for the realities of the design profession
                             through relevant curriculum, practical exposure, and structured academic guidance.
@@ -1090,7 +1091,7 @@
 <?php include 'inside/footer.php' ?>
 
 <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
         $(".award-carousel").owlCarousel({
             loop: true,
             margin: 20,
@@ -1116,7 +1117,7 @@
 
 
 <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
         $('.affiliation-carousel').owlCarousel({
             loop: true,
             margin: 20,
@@ -1140,7 +1141,7 @@
     });
 </script>
 <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
         $('.dsas').owlCarousel({
             loop: true,
             margin: 20,

@@ -14,7 +14,8 @@
 </section>
 
 <section class="feespayemts">
-    <div class="feespayemts-box">
+   <div class="container">
+     <div class="feespayemts-box">
 
         <h2 class="title">TERMS AND <span>CONDITIONS</span></h2>
         <p>Please follow the instructions carefully:</p>
@@ -79,6 +80,7 @@
 
         </div>
     </div>
+   </div>
 </section>
 
 

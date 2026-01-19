@@ -8,25 +8,7 @@
         </h2>
 
 
-        <!-- <ul class="social-links-list">
-          <li class="social-link-item social-fb">
-            <a href="#" class="social-link-fb" aria-label="Facebook">
-              <i class="fa-brands fa-facebook-f"></i>
-            </a>
-          </li>
-
-          <li class="social-link-item social-insta">
-            <a href="#" class="social-link-insta" aria-label="Instagram">
-              <i class="fa-brands fa-instagram"></i>
-            </a>
-          </li>
-
-          <li class="social-link-item social-linkedin">
-            <a href="#" class="social-link-linkedin" aria-label="LinkedIn">
-              <i class="fa-brands fa-linkedin-in"></i>
-            </a>
-          </li>
-        </ul> -->
+     
 
       </div>
 

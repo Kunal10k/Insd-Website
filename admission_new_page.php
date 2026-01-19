@@ -3,12 +3,7 @@
 
 
 
-<section class="ban">
-
-
-
-
-
+<section class="ban add_overview">
 
     <div class="item">
         <div class="ban-sec">
@@ -18,7 +13,7 @@
             <div class="container">
 
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-lg-6 col-md-12">
                         <div class="ban-cont">
 
 

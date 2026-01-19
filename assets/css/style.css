@@ -1374,7 +1374,7 @@ header.sticky .dropdown-toggle::after {
   padding: 60px;
   margin-top: 50px;
   position: relative;
-  z-index: 1;
+  z-index: 0;
 }
 
 .tab-section::after {
@@ -1785,7 +1785,7 @@ ul#autoTab {
   border: 1px solid #eee;
   position: relative;
   overflow: hidden;
-  z-index: 999;
+  z-index: 2;
 
 }
 
@@ -2998,7 +2998,7 @@ textarea {
 .grid-item {
   background: #fff;
   border-radius: 12px;
-  padding: 20px;
+  padding: 12px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
   text-align: center;
   transition: 0.3s ease;
@@ -5457,7 +5457,7 @@ img.img-mg2 {
 
 .cardbox {
   position: absolute;
-  bottom: -196px;
+  bottom: -243px;
   left: 0;
   right: 0;
 }
@@ -6415,14 +6415,14 @@ alumni-carousel .item img {
 
 /* Layout Reset */
 .hero-block {
-  padding: 100px 0;
+  padding: var(--global_padding);
   background-color: #fdfdfd;
 }
 
-.hero-block__container {
+.hero-block .container {
   display: flex;
-  max-width: 1200px;
-  margin: 0 auto;
+  /* max-width: 1200px; */
+  /* margin: 0 auto; */
   padding: 0 20px;
   align-items: center;
   gap: 80px;
@@ -6779,6 +6779,10 @@ alumni-carousel .item img {
   overflow: hidden;
   transition: all 0.4s ease;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
 }
 
 .mentor-box:hover {
@@ -6787,8 +6791,10 @@ alumni-carousel .item img {
 }
 
 .mentor-photo {
-  height: 280px;
+  height: 100px;
+  width: 100px;
   overflow: hidden;
+  border-radius: 50%;
 }
 
 .mentor-photo img {
@@ -6796,6 +6802,8 @@ alumni-carousel .item img {
   height: 100%;
   object-fit: cover;
   transition: transform 0.5s ease;
+  /* border-right: 4px solid var(--secondary-color3); */
+
 }
 
 .mentor-box:hover .mentor-photo img {
@@ -6803,7 +6811,7 @@ alumni-carousel .item img {
 }
 
 .mentor-text {
-  padding: 22px;
+  padding: 10px 0;
   text-align: center;
 }
 
@@ -7453,12 +7461,12 @@ alumni-carousel .item img {
 }
 
 .insd-alumni-card {
-  background: #ffffff;
+  background: #f1f1f1;
   padding: 35px 25px;
   border-radius: 14px;
   text-align: center;
   /* box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08); */
-  height: 100%;
+  height: 290px;
 }
 
 .insd-alumni-img {
@@ -7485,7 +7493,15 @@ alumni-carousel .item img {
 
 .insd-alumni-name span {
   font-weight: 400;
-  color: #555;
+  color: #fff;
+  background-color: var(--secondary-color2);
+  padding: 3px;
+  border-radius: 0 5px 0 5px;
+}
+
+.quotes {
+  font-size: 40px;
+  color: var(--secondary-color2);
 }
 
 .insd-alumni-text {
@@ -8046,7 +8062,7 @@ alumni-carousel .item img {
   top: 0;
   right: 0;
   margin: 0;
-  height: 100vh;
+  height: 0 !important;
   width: 50%;
   transform: translateX(100%);
   transition: transform 0.45s ease-in-out;
@@ -8083,7 +8099,7 @@ alumni-carousel .item img {
   max-height: calc(100vh - 80px);
   width: 420px;
   display: flex;
-  align-items: stretch;
+  /* align-items: stretch; */
 }
 
 #enquiryModal .modal-content {
@@ -8838,7 +8854,7 @@ textarea {
 
 .banner_ing {
   padding: var(--global_padding);
-  background-image: url(../img/inner_banner/f2.png);
+  background-image: url(../img/abt-img.png);
   background-size: cover;
   background-position: center;
   margin-top: 30px;
@@ -9222,4 +9238,101 @@ textarea {
 .loan-banner p {
   margin: 3px 0 0;
   font-size: 14px;
+}
+
+/* ************** video testimonials ************  */
+/* Section */
+.video-testimonial-section {
+  padding: var(--global_padding);
+  background: #f9f9f9;
+}
+
+
+
+.video-testimonial-item {
+  background: #fff;
+  border-radius: 16px;
+  padding: 0;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  transition: all 0.35s ease;
+}
+
+.video-testimonial-item:hover {
+  transform: translateY(-6px);
+}
+
+/* Video */
+.video-testimonial-item iframe.yt-video {
+  width: 100%;
+  height: 220px;
+  border-radius: 14px;
+  border: none;
+}
+
+/* Name */
+.video-testimonial-item h6 {
+  margin-top: 16px;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+/* Designation */
+.video-testimonial-item p {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 0;
+}
+
+/* Owl Navigation */
+.video-testimonial-slider .owl-nav {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.video-testimonial-slider .owl-nav button {
+  background: var(--secondary-color2) !important;
+  color: #fff !important;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  margin: 0 8px;
+}
+
+.video-testimonial-slider .owl-nav button span {
+  font-size: 24px;
+  line-height: 1;
+}
+
+/* Dots */
+.video-testimonial-slider .owl-dots {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.video-testimonial-slider .owl-dot span {
+  width: 10px;
+  height: 10px;
+  background: #ccc;
+  border-radius: 50%;
+  margin: 5px;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+.video-testimonial-slider .owl-dot.active span {
+  background: var(--secondary-color2);
+  width: 26px;
+  border-radius: 20px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .video-testimonial-item iframe.yt-video {
+    height: 200px;
+  }
+
+  .video-testimonial-section .title {
+    font-size: 26px;
+  }
 }

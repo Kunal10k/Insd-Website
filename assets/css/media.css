@@ -1,17 +1,48 @@
+@media only screen and (max-width: 1024px) {
+    .appinform-counselling-list li {
+        color: #000000;
+    }
+
+    .appinform-counselling-list i {
+        color: #000000;
+    }
+}
+
 @media only screen and (max-width: 991px) {
     .landing_banner .d-md-block {
         width: 100%;
+    }
+
+    .admission-wrapper {
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+
+    .apply-card {
+        background-size: cover;
+
     }
 
     .navbar-light .navbar-nav .nav-link {
         border: transparent !important;
     }
 
-    .cardbox {
-        position: relative;
-        bottom: 0;
-        left: 0;
-        right: 0;
+    .hero-block__container {
+        gap: 0;
+        flex-direction: column;
+    }
+
+    .hero_block .sub-head {
+        margin-top: 2rem;
+    }
+
+    .tab-sec1 {
+        margin-top: 0;
+
+    }
+
+    .lp-section .lp-right {
+        margin-top: 2rem;
     }
 
     .opportunites {
@@ -27,8 +58,8 @@
     }
 
     .counter-box {
-          padding: 15px;
-     
+        padding: 15px;
+
     }
 
     .programs_flex {
@@ -111,36 +142,86 @@
         flex: 1;
     }
 
+    .appinform-counselling-list li {
+        color: #000000;
+
+    }
+
+    .appinform-counselling {
+        padding: 30px 0;
+
+    }
+
+    .appinform-main {
+        gap: 0;
+    }
+
     .mentor-owl .owl-dots {
         margin-top: 30px;
         display: none;
     }
 
-    .marquee-container {
-        padding: 5px;
+    .admis_form {
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding: 40px 0;
     }
 
-    .content-side {
-        flex: 1.2;
-        padding: 5px;
-        position: relative;
-    }
+    .appinform-counselling-list i {
+        color: #000000;
 
-    .btn-light {
-        margin-bottom: 0;
-    }
 
-    .place-title {
-        font-size: 20px;
+        .marquee-container {
+            padding: 5px;
+        }
 
+        .content-side {
+            flex: 1.2;
+            padding: 5px;
+            position: relative;
+        }
+
+        .btn-light {
+            margin-bottom: 0;
+        }
+
+        .place-title {
+            font-size: 20px;
+
+        }
     }
 }
-
 
 @media screen and (max-width:767.78px) {
     .logo img {
         width: 130px;
         height: auto;
+    }
+
+    .add_overview .feature-list {
+        flex-direction: column;
+        gap: 0 !important;
+        margin: 0 !important;
+    }
+
+    .apply-card {
+        padding: 16px;
+
+    }
+
+    .apply-card .feature-list {
+        gap: 0 !important;
+        flex-direction: column;
+    }
+
+    .cta-sec {
+        padding: 60px 0;
+
+    }
+
+    .faculty-details {
+        text-align: left;
     }
 
     .cardbox {
@@ -149,6 +230,8 @@
         left: 0;
         right: 0;
     }
+
+
 
     .landing_banner {
         position: relative;
@@ -757,10 +840,57 @@
         font-size: 25px !important;
     }
 
-    .blog-details-title {
-
+    .career-title {
         font-size: 25px;
+        margin-bottom: 16px !important;
+    }
 
+    .scholarship .content-side {
+
+        padding: 0;
+
+    }
+
+    .card-header {
+        flex-direction: column;
+        text-align: center;
+        gap: 13px;
+    }
+
+    .histudy-courses .card-row {
+        margin-top: 1rem;
+    }
+
+    .faculty-slider .faculty-item {
+        align-items: center;
+    }
+
+    .para {
+        font-size: 15px;
+
+    }
+
+    .mentor-text h4 {
+        font-size: 16px;
+
+    }
+
+    .appinform-form-header p {
+
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .appinform-form-section {
+        padding: 15px;
+    }
+
+    .help-bar .container {
+        flex-direction: column;
+    }
+
+    .help-text {
+        margin-bottom: 15px;
     }
 
     .blog-details-text blockquote {

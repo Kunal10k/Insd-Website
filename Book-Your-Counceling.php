@@ -44,7 +44,7 @@
                     <!-- <h2>ONLINE APPLICATION FORM</h2>
                     <p>APPLICATION FORM (2026)</p> -->
 
-                    <h3 class="title">GET STARTED TODAY FOR A <br><span>GREAT CAREER TOMORROW</span>
+                    <h3 class="title">GET STARTED TODAY FOR A <br class="d-md-block d-none"><span>GREAT CAREER TOMORROW</span>
                         <p class="para">
                             Apply online for 2026 admissions at INSD Kolkata. Take the first step towards a career in
                             design and style.

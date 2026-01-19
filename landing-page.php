@@ -385,6 +385,37 @@
 
 
 
+<section class="video-testimonial-section">
+  <div class="container">
+    <h2 class="title text-center">Client Video <span>Testimonials</span></h2>
+
+    <div class="owl-carousel video-testimonial-slider mt-4">
+
+      <div class="video-testimonial-item">
+        <iframe class="yt-video"
+          src="https://www.youtube.com/embed/ZcgiigE3cXs"
+          allowfullscreen></iframe>
+      
+      </div>
+      <div class="video-testimonial-item">
+        <iframe class="yt-video"
+          src="https://www.youtube.com/embed/ZcgiigE3cXs"
+          allowfullscreen></iframe>
+      
+      </div>
+      <div class="video-testimonial-item">
+        <iframe class="yt-video"
+          src="https://www.youtube.com/embed/ZcgiigE3cXs"
+          allowfullscreen></iframe>
+      
+      </div>
+
+     
+
+    </div>
+  </div>
+</section>
+
 
 
 
@@ -1063,4 +1094,36 @@
             }
         }
     });
+</script>
+
+
+<script>
+$(document).ready(function () {
+
+  const slider = $('.video-testimonial-slider');
+
+  slider.owlCarousel({
+    loop: true,
+    margin: 20,
+    nav: true,
+    dots: true,
+    autoplay: true,              // 🔥 autoplay ON
+    autoplayTimeout: 5000,        // 5 seconds
+    autoplayHoverPause: true,
+    responsive: {
+      0: { items: 1 },
+      768: { items: 2 },
+      1200: { items: 3 }
+    }
+  });
+
+  // Slide change হলে video reset হবে
+  slider.on('changed.owl.carousel', function () {
+    $(this).find('iframe.yt-video').each(function () {
+      const src = $(this).attr('src');
+      $(this).attr('src', src);
+    });
+  });
+
+});
 </script>
