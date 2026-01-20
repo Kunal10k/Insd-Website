@@ -10,7 +10,7 @@
 
     <div class="container">
 
-        <h1>About INSD in  <br class="d-md-block d-none">Kolkata</h1>
+        <h1>About INSD in  <br>Kolkata</h1>
     </div>
 </section>
 

@@ -3,16 +3,18 @@
 
 
 
-<section class="inner_my_banner"
-    style="background-image: url('./assets/img/inner_banner/Diploma\ &\ Advanced\ Diploma\ in\ Fashion\ Design\ \(1\).jpg');">
+
+
+
+<section class="inner_Section"   style="background-image: url('./assets/img/inner_banner/Diploma\ &\ Advanced\ Diploma\ in\ Fashion\ Design\ \(1\).jpg');">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <h6>Diploma & Advanced Diploma in Fashion
                     Design
                 </h6>
-                <h1 class="title">Diploma & Advanced Diploma in <br class="d-md-block d-none"><span>Fashion
-                        Design </span></h1>
+                <h1 class="title">Diploma & Advanced Diploma <br class="d-md-block d-none"><span>in Fashion
+                    Design  </span></h1>
 
                 <div class="ban-btn mt-4">
 
@@ -49,7 +51,6 @@
         </div>
     </div>
 </section>
-
 <section class="course">
     <div class="container">
         <div class="row">

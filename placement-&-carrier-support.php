@@ -17,7 +17,7 @@
             <div class="col-md-8">
                 <h5 class="sub-head">Placements & Career Support at INSD Kolkata</h5>
                 <h2 class="title">100% Placement Assistance |
-                    <br> <span>200+ Industry Brand Partners</span>
+                    <br class="d-md-none d-block"> <span>200+ Industry Brand Partners</span>
                 </h2>
 
                 <p class="para">INSD Kolkata provides structured placement assistance and career support to help

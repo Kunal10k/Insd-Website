@@ -1593,7 +1593,7 @@ ul#autoTab {
   bottom: 0;
   left: 0;
   right: 0;
-  /* padding: 10px; */
+  padding: 10px;
   background-color: #00000060;
 }
 
@@ -3439,7 +3439,7 @@ img.img-mg2 {
 
 .blog-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 30px;
 }
 
@@ -7320,6 +7320,8 @@ alumni-carousel .item img {
   font-size: 15px;
   line-height: 1.6;
   color: #555;
+  margin: 0;
+  padding: 0;
 }
 
 /* Stats Card */
@@ -7466,7 +7468,7 @@ alumni-carousel .item img {
   border-radius: 14px;
   text-align: center;
   /* box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08); */
-  height: 290px;
+  height: 312px;
 }
 
 .insd-alumni-img {
@@ -7919,6 +7921,7 @@ alumni-carousel .item img {
   background: var(--secondary-color1);
   border-radius: 5px;
   transform: rotate(-90deg);
+  cursor: pointer;
 }
 
 /* Hover effect */
@@ -8350,10 +8353,12 @@ textarea {
 
 /* LOAN BANNER */
 .loan-banner {
-  background: #0142b3;
-  color: #fff;
+  background: var(--secondary-color2);
   text-align: center;
-  padding: 40px 0;
+  padding: 47px 10px;
+  margin-top: 20px;
+  color: #fff;
+  border-radius: 55px;
 }
 
 .loan-banner h3 {
@@ -8438,11 +8443,12 @@ textarea {
 .metric-box {
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: 15px;
   background: #fff;
-  padding: 14px 18px;
+  padding: 10px 7px;
   border-radius: 12px;
   box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+  /* justify-content: space-between; */
 }
 
 .metric-icon {
@@ -8465,7 +8471,7 @@ textarea {
 
 .metric-box p {
   margin: 0;
-  font-size: 17px;
+  font-size: 20px;
   color: #666;
 }
 
@@ -9078,6 +9084,7 @@ textarea {
   border-radius: 4px;
   font-size: 1rem;
   transition: border 0.3s;
+  /* border-radius: 30px; */
 }
 
 .appinform-form-control:focus {
@@ -9335,4 +9342,72 @@ textarea {
   .video-testimonial-section .title {
     font-size: 26px;
   }
+}
+
+/* *************** back to top *************  */
+
+#backToTop {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 45px;
+  height: 45px;
+  background: var(--secondary-color2);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  display: none;
+  z-index: 999;
+  transition: 0.3s ease;
+}
+
+#backToTop i {
+  font-size: 18px;
+}
+
+#backToTop:hover {
+  background: #444;
+  transform: translateY(-3px);
+}
+
+/* --------------------MOBILE FLOATING ICON ---------------  */
+.mobile-bottom-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: var(--secondary-color2);
+  z-index: 9999;
+}
+
+.icn-bx-ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+  padding: 10px 0;
+  list-style: none;
+}
+
+.icn-bx-ul li a {
+  color: #fff;
+  font-size: 20px;
+}
+
+.bord {
+  width: 1px;
+  height: 25px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+
+#enquiryModal .landing_wrapper::before,
+.landing_wrapper::after {
+  background: none !important;
+  box-shadow: rgba(0, 0, 0, 0.01) 0px 3px 8px !important;
+}
+
+.modal_form {
+  border-radius: 30px;
 }

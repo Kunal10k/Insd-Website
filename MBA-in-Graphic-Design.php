@@ -3,14 +3,15 @@
 
 
 
-<section class="inner_my_banner"
-    style="background-image: url('./assets/img/inner_banner/MBA\ in\ Graphic\ Design\ \(1\).jpg');">
+
+
+<section class="inner_Section"   style="background-image: url('./assets/img/inner_banner/MBA\ in\ Graphic\ Design\ \(1\).jpg');">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <h6>MBA in Graphic Design
                 </h6>
-                <h1 class="title">MBA in <br class="d-md-block d-none"><span>Graphic Design</span></h1>
+                <h1 class="title">MBA in Graphic  <br class="d-md-block d-none"><span>Design  </span></h1>
 
                 <div class="ban-btn mt-4">
 

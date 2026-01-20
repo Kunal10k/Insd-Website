@@ -5,8 +5,9 @@
 
 
 
-<section class="inner_my_banner"
-    style="background-image: url('./assets/img/courses/B.Des\ in\ Interior\ Design.webp');">
+
+
+<section class="inner_Section"  style="background-image: url('./assets/img/courses/B.Des\ in\ Interior\ Design.webp');">
     <div class="container">
         <div class="row">
             <div class="col-md-12">

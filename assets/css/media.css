@@ -13,6 +13,26 @@
         width: 100%;
     }
 
+    .navbar-light .navbar-nav .nav-link {
+        padding: 5px 27px 5px 0;
+
+    }
+
+
+    .enquery {
+        display: none !important;
+    }
+
+    .whatsapp-float {
+        left: 12px;
+        bottom: 64px;
+        display: none;
+    }
+
+    #backToTop {
+        bottom: 66px;
+    }
+
     .admission-wrapper {
         grid-template-columns: repeat(1, 1fr);
 
@@ -837,7 +857,80 @@
 
 @media only screen and (max-width: 475px) {
     .title {
-        font-size: 25px !important;
+        font-size: 20px !important;
+    }
+
+    .metric-box p {
+        font-size: 16px;
+    }
+
+    .insd-stats-card {
+        flex-direction: row;
+        gap: 0;
+    }
+
+    .insd-partner-card {
+        padding: 10px;
+    }
+
+    .insd-stats-card h4 {
+        font-size: 27px;
+    }
+
+    .insd-partner-desc {
+        margin: 0;
+    }
+
+    .insd-placement-grid {
+        gap: 10px;
+
+    }
+
+    .career-brands {
+        padding: 0;
+    }
+
+    .btn_xzz li {
+        padding: 7px 12px;
+    }
+
+    .blog-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+
+    .course-sec {
+        margin-top: 0;
+    }
+
+    .tab-sec1 .nav-pills .nav-link {
+        padding: 5px 12px !important;
+        font-size: 15px;
+
+    }
+
+    .course-sec .tab-sec1 {
+        padding: 0;
+
+    }
+
+    .blog-content {
+        padding: 8px;
+    }
+
+    .course-features {
+        margin: 0;
+    }
+
+    .course .tab-button {
+        padding: 8px 15px !important;
+        font-size: 15px;
+
+    }
+
+    .course .nav-tabs {
+        margin-top: 0 !important;
     }
 
     .career-title {
@@ -1013,5 +1106,26 @@
     .course-sec .nav-pills {
         display: flex;
         gap: 15px;
+        margin-top: 1rem;
+    }
+
+    .blog-details-title {
+        font-size: 22px;
+
+    }
+
+    .blog-details-text h2 {
+        font-size: 20px;
+        margin: 12px 0 12px;
+
+    }
+
+    .sidebar-box {
+        padding: 11px;
+    }
+
+    .insd-stats-card {
+        padding: 16px;
+
     }
 }

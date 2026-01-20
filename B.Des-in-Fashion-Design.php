@@ -3,14 +3,15 @@
 
 
 
-<section class="inner_my_banner"
-    style="background-image: url('./assets/img/inner_banner/B.Des\ in\ Fashion\ Design\ \(1\).webp');">
+
+
+<section class="inner_Section"  style="background-image: url('./assets/img/inner_banner/B.Des\ in\ Fashion\ Design\ \(1\).webp');">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <h6>B.Des in Fashion Design
                 </h6>
-                <h1 class="title">B.Des in <br class="d-md-block d-none"><span>Fashion Design</span></h1>
+                <h1 class="title">B.Des in   <br class="d-md-block d-none"><span>Fashion Design</span></h1>
 
                 <div class="ban-btn mt-4">
 
@@ -47,6 +48,7 @@
         </div>
     </div>
 </section>
+
 
 <section class="course">
     <div class="container">

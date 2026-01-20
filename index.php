@@ -265,7 +265,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light mt-4">
+              <a href="#" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Interior Design</div>
                   <div class="btn-text-hover">Explore Interior Design</div>
@@ -301,7 +301,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light mt-4">
+              <a href="#" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Fashion Design</div>
@@ -339,7 +339,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light mt-4">
+              <a href="#" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Graphic Design</div>
@@ -1918,58 +1918,63 @@
 
 
 
-
 <div class="modal fade" id="enquiryModal" tabindex="-1" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-sm">
+    <div class="modal-content p-0"> <!-- REQUIRED -->
 
-    <div class="modal-body p-0">
+      <div class="modal-body p-0">
 
-      <div class="landing_wrapper">
+        <div class="landing_wrapper position-relative">
 
-        <button type="button" class="btn-close position-absolute top-0 end-0 m-3" data-bs-dismiss="modal"
-          aria-label="Close">
-        </button>
+          <!-- Close Button -->
+          <button
+            type="button"
+            class="btn-close position-absolute top-0 end-0 m-3"
+            data-bs-dismiss="modal"
+            aria-label="Close">
+          </button>
 
-
-
-        <div class="form_content p-0">
-          <div class="content1">
-
+          <!-- Heading -->
+          <div class="form_content p-2 text-center">
             <h5>Connect With Us</h5>
           </div>
 
-        </div>
+          <!-- Form -->
+          <form action="" method="post" class="landing_form  pb-4">
 
-        <form action="" method="post" class="landing_form">
-
-          <!-- Name -->
-          <div>
-            <label class="form-label">Full Name</label>
-            <input type="text" class="form-control" name="name" placeholder="Enter your name" required>
-          </div>
-
-          <!-- Email -->
-          <div>
-            <label class="form-label">Email Address</label>
-            <input type="email" class="form-control" name="email" placeholder="Enter your email" required>
-          </div>
-
-          <!-- Phone -->
-          <div>
-            <label class="form-label">Mobile Number</label>
-            <div class="input-group">
-              <span class="input-group-text">+91</span>
-              <input type="tel" class="form-control" name="phone" placeholder="Enter mobile number" pattern="[0-9]{10}"
-                maxlength="10" required>
+            <!-- Name -->
+            <div class="mb-1">
+              <label class="form-label">Full Name</label>
+              <input type="text" class="form-control" name="name" placeholder="Enter your name" required>
             </div>
-          </div>
 
-          <div>
-            <!-- Select Course -->
+            <!-- Email -->
+            <div class="mb-1">
+              <label class="form-label">Email Address</label>
+              <input type="email" class="form-control" name="email" placeholder="Enter your email" required>
+            </div>
+
+            <!-- Phone -->
+            <div class="mb-1">
+              <label class="form-label">Mobile Number</label>
+              <div class="input-group">
+                <span class="input-group-text">+91</span>
+                <input
+                  type="tel"
+                  class="form-control"
+                  name="phone"
+                  placeholder="Enter mobile number"
+                  pattern="[0-9]{10}"
+                  maxlength="10"
+                  required>
+              </div>
+            </div>
+
+            <!-- Course -->
             <div class="mb-4">
               <label class="form-label">Select Course</label>
-              <select class="form-select" name="course" required>
-                <option value="" selected disabled>Select Course</option>
+              <select class="form-select modal_form" name="course" required>
+                <option value="" disabled selected>Select Course</option>
                 <option value="fashion_design">Fashion Designing</option>
                 <option value="interior_design">Interior Designing</option>
                 <option value="graphic_design">Graphic Designing</option>
@@ -1977,28 +1982,29 @@
               </select>
             </div>
 
-          </div>
+
+            <div class="ban-btn">
+
+                <a href="#" class="btn-animated btn-light">
+                  <div class="btn-text-wrap">
+                    <div class="btn-text">Apply to Join</div>
+                    <div class="btn-text-hover">Apply to Join</div>
+                  </div>
+                  <div class="btn-icon-wrap">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                  </div>
+                </a>
+
+           
 
 
 
-          <!-- Submit -->
-          <button type="submit" class="btn-animated btn-light ">
-            <div class="btn-text-wrap">
-              <div class="btn-text">Apply to Join</div>
-              <div class="btn-text-hover">Apply to Join</div>
-            </div>
-            <div class="btn-icon-wrap">
-              <img
-                src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                alt="Arrow" class="btn-icon">
-              <img
-                src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                alt="Arrow" class="btn-icon-hover">
-            </div>
-          </button>
+              </div>
 
-        </form>
+          </form>
 
+        </div>
       </div>
     </div>
   </div>
