@@ -169,7 +169,7 @@
                                     <!-- <h2 class="title ">Eligibility <span>Criteria</span> </h2> -->
 
                                     <!-- <h3 class="eligibility-heading">Academic Requirements</h3> -->
-                                    <p class="para">
+                                    <p class="para pt-3 pb-3">
                                         To develop a professional design education ecosystem that empowers students with
                                         creative excellence, industry-relevant skills, and critical thinking. Our aim is
                                         to nurture innovation, ethical practice, and global awareness, preparing
@@ -341,7 +341,7 @@
 
             </div>
             <div class="col-md-7">
-                <p class="para">
+                <p class="para ">
                     International School of Design Kolkata operates within a recognised academic and industry ecosystem
                     that connects structured education with real-world design practice.
                     The institute’s academic affiliations, industry alliances, and global associations support credible
@@ -370,7 +370,7 @@
                 <h2 class="title mt-5 ">Academic <span> Affiliations</span></h2>
 
             </div>
-            <div class="col-md-7 mt-5">
+            <div class="col-md-7 mt-md-5 mt-0">
                 <p class="para">
                     INSD Kolkata is academically affiliated with Maharaja Agrasen Himalayan Garhwal University,
                     supporting recognised undergraduate, postgraduate, diploma, and advanced diploma programs within an

@@ -3,7 +3,7 @@
 
 
 
-<section class="ban add_overview">
+<section class="ban add_overview inner_point_view">
 
     <div class="item">
         <div class="ban-sec">
@@ -275,19 +275,19 @@
             <div class="criteria-box">
                 <i class="fa-solid fa-user-graduate"></i>
                 <h4>Master's / MBA</h4>
-                <p>(2 Years)<br>Contact admission team</p>
+                <p>(2 Years)<br> Graduation in any stream</p>
             </div>
 
             <div class="criteria-box">
                 <i class="fa-solid fa-book-open"></i>
                 <h4>Diploma</h4>
-                <p>(1 Years)<br>Submit documents</p>
+                <p>(1 Years)<br>10th pass</p>
             </div>
 
             <div class="criteria-box">
                 <i class="fa-solid fa-award"></i>
                 <h4>Advanced Diploma</h4>
-                <p>(2 Years)<br>Secure your seat</p>
+                <p>(2 Years)<br>10th pass</p>
             </div>
 
         </div>

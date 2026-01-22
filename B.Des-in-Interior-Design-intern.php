@@ -703,7 +703,7 @@
         <h5 class="sub-head text-center cen">Student work</h5>
         <h2 class="title text-center">WALK THE STAGE <span>AS A DESIGNER</span></h2>
 
-        <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+        <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
 
         <div class="student-work-grid">
 
@@ -749,22 +749,13 @@
 
 
 
-<section class="related-courses">
+<!-- <section class="related-courses">
     <div class="container">
         <h5 class="sub-head text-center cen">Related Courses</h5>
         <h2 class="title text-center">Our Related <span>Course</span></h2>
 
         <div class="related-course-grid">
 
-            <!-- <div class="course-card">
-        <div class="course-img">
-          <img src="assets/img/fashion.jpg" alt="Course">
-        </div>
-        <div class="course-info">
-          <h4>Fashion Designing Course</h4>
-          <p>Beginner to Advanced</p>
-        </div>
-      </div> -->
 
             <div class="course-card1">
                 <div class="course-img">
@@ -788,7 +779,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
 
 

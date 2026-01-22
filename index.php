@@ -633,11 +633,11 @@
 
         <div class="col-lg-8 col-md-12 order-1 order-lg-2">
           <div class="tab-content">
-            <div class="tab-pane fade show active" id="content1"><img src="assets/img/inspairingsarro.jpeg"
+            <div class="tab-pane fade show active" id="content1"><img src="assets/img/new-photo/01.jpeg"
                 alt="Courses Layout"></div>
-            <div class="tab-pane fade" id="content2"><img src="assets/img/opportunitie.jpeg" alt="Header Layout"></div>
-            <div class="tab-pane fade" id="content3"><img src="assets/img/fashionsho.jpeg" alt="Toolkit"></div>
-            <div class="tab-pane fade" id="content4"><img src="assets/img/creativebu.jpeg" alt="Flexible"></div>
+            <div class="tab-pane fade" id="content2"><img src="assets/img/new-photo/02- (1).jpeg" alt="Header Layout"></div>
+            <div class="tab-pane fade" id="content3"><img src="assets/img/new-photo/02- (2).jpeg" alt="Toolkit"></div>
+            <div class="tab-pane fade" id="content4"><img src="assets/img/new-photo/04.jpeg" alt="Flexible"></div>
           </div>
         </div>
       </div>
@@ -763,8 +763,56 @@
         <div class="marquee-track1 marquee-left overflow-hidden">
 
           <div class="testimonial-card">
-            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
-              <img class="bg-img" src="assets/img/1 (2).jpg">
+            <a href="assets/img/new-photo/05- (1).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (1).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (2).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (3).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (3).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (4).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (4).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (5).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (5).jpg">
             </a>
             <div class="testimonial-content">
               <p>Creative workshops with industry mentors.</p>
@@ -775,59 +823,11 @@
             </div>
           </div>
 
-          <div class="testimonial-card">
-            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
-              <img class="bg-img" src="assets/img/1 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Creative workshops with industry mentors.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=11">
-                <span>Design Lab<br><small>Hands-on Learning</small></span>
-              </div>
-            </div>
-          </div>
-          <div class="testimonial-card">
-            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
-              <img class="bg-img" src="assets/img/1 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Creative workshops with industry mentors.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=11">
-                <span>Design Lab<br><small>Hands-on Learning</small></span>
-              </div>
-            </div>
-          </div>
 
-          <div class="testimonial-card">
-            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
-              <img class="bg-img" src="assets/img/1 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Creative workshops with industry mentors.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=11">
-                <span>Design Lab<br><small>Hands-on Learning</small></span>
-              </div>
-            </div>
-          </div>
-          <div class="testimonial-card">
-            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
-              <img class="bg-img" src="assets/img/1 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Creative workshops with industry mentors.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=11">
-                <span>Design Lab<br><small>Hands-on Learning</small></span>
-              </div>
-            </div>
-          </div>
 
-          <div class="testimonial-card">
-            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
-              <img class="bg-img" src="assets/img/1 (2).jpg">
+            <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (1).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (1).jpg">
             </a>
             <div class="testimonial-content">
               <p>Creative workshops with industry mentors.</p>
@@ -838,8 +838,8 @@
             </div>
           </div>
           <div class="testimonial-card">
-            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
-              <img class="bg-img" src="assets/img/1 (2).jpg">
+            <a href="assets/img/new-photo/05- (2).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (2).jpg">
             </a>
             <div class="testimonial-content">
               <p>Creative workshops with industry mentors.</p>
@@ -849,10 +849,9 @@
               </div>
             </div>
           </div>
-
           <div class="testimonial-card">
-            <a href="assets/img/1 (2).jpg" data-fancybox="workshops">
-              <img class="bg-img" src="assets/img/1 (2).jpg">
+            <a href="assets/img/new-photo/05- (3).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (3).jpg">
             </a>
             <div class="testimonial-content">
               <p>Creative workshops with industry mentors.</p>
@@ -862,19 +861,93 @@
               </div>
             </div>
           </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (4).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (4).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (5).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (5).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+       
+    
 
         </div>
       </div>
     </div>
 
     <!-- EXHIBITIONS -->
-    <div class="tab-pane fade" id="exhibitions">
+    <div class="tab-pane fade"  id="fashion">
       <div class="marquee-wrapper">
         <div class="marquee-track">
 
           <div class="testimonial-card">
-            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
-              <img class="bg-img" src="assets/img/2 (2).jpg">
+            <a href="assets/img/new-photo/06- (1).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/06- (1).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (8).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/06- (8).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (9).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/06- (9).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (10).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/06- (10).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (11).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/06- (11).jpg">
             </a>
             <div class="testimonial-content">
               <p>Annual exhibitions showcasing student creativity.</p>
@@ -885,34 +958,11 @@
             </div>
           </div>
 
-          <div class="testimonial-card">
-            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
-              <img class="bg-img" src="assets/img/2 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Annual exhibitions showcasing student creativity.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=22">
-                <span>Design Expo<br><small>Student Work</small></span>
-              </div>
-            </div>
-          </div>
-          <div class="testimonial-card">
-            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
-              <img class="bg-img" src="assets/img/2 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Annual exhibitions showcasing student creativity.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=22">
-                <span>Design Expo<br><small>Student Work</small></span>
-              </div>
-            </div>
-          </div>
 
+          
           <div class="testimonial-card">
-            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
-              <img class="bg-img" src="assets/img/2 (2).jpg">
+            <a href="assets/img/new-photo/06- (1).jpg" data-fancybox="fashion" >
+              <img class="bg-img" src="assets/img/new-photo/06- (1).jpg">
             </a>
             <div class="testimonial-content">
               <p>Annual exhibitions showcasing student creativity.</p>
@@ -923,21 +973,8 @@
             </div>
           </div>
           <div class="testimonial-card">
-            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
-              <img class="bg-img" src="assets/img/2 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Annual exhibitions showcasing student creativity.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=22">
-                <span>Design Expo<br><small>Student Work</small></span>
-              </div>
-            </div>
-          </div>
-
-          <div class="testimonial-card">
-            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
-              <img class="bg-img" src="assets/img/2 (2).jpg">
+            <a href="assets/img/new-photo/06- (8).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/new-photo/06- (8).jpg">
             </a>
             <div class="testimonial-content">
               <p>Annual exhibitions showcasing student creativity.</p>
@@ -948,8 +985,8 @@
             </div>
           </div>
           <div class="testimonial-card">
-            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
-              <img class="bg-img" src="assets/img/2 (2).jpg">
+            <a href="assets/img/new-photo/06- (9).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/new-photo/06- (9).jpg">
             </a>
             <div class="testimonial-content">
               <p>Annual exhibitions showcasing student creativity.</p>
@@ -959,10 +996,21 @@
               </div>
             </div>
           </div>
-
           <div class="testimonial-card">
-            <a href="assets/img/2 (2).jpg" data-fancybox="exhibitions">
-              <img class="bg-img" src="assets/img/2 (2).jpg">
+            <a href="assets/img/new-photo/06- (10).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/new-photo/06- (10).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (11).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/new-photo/06- (11).jpg">
             </a>
             <div class="testimonial-content">
               <p>Annual exhibitions showcasing student creativity.</p>
@@ -978,13 +1026,13 @@
     </div>
 
     <!-- FASHION -->
-    <div class="tab-pane fade" id="fashion">
+    <div class="tab-pane fade"  id="exhibitions">
       <div class="marquee-wrapper">
         <div class="marquee-track">
 
           <div class="testimonial-card">
-            <a href="assets/img/3 (2).jpg" data-fancybox="fashion">
-              <img class="bg-img" src="assets/img/3 (2).jpg">
+            <a href="assets/img/new-photo/07- (1).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (1).jpg">
             </a>
             <div class="testimonial-content">
               <p>Live fashion shows with professional ramp walks.</p>
@@ -994,69 +1042,69 @@
               </div>
             </div>
           </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/07- (2).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/07- (3).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (3).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/07- (4).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (4).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/07- (5).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (5).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/07- (6).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (6).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+       
 
-          <div class="testimonial-card">
-            <a href="assets/img/3 (2).jpg" data-fancybox="fashion">
-              <img class="bg-img" src="assets/img/3 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Live fashion shows with professional ramp walks.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=33">
-                <span>Fashion Week<br><small>Runway Show</small></span>
-              </div>
-            </div>
-          </div>
-          <div class="testimonial-card">
-            <a href="assets/img/3 (2).jpg" data-fancybox="fashion">
-              <img class="bg-img" src="assets/img/3 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Live fashion shows with professional ramp walks.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=33">
-                <span>Fashion Week<br><small>Runway Show</small></span>
-              </div>
-            </div>
-          </div>
-
-          <div class="testimonial-card">
-            <a href="assets/img/3 (2).jpg" data-fancybox="fashion">
-              <img class="bg-img" src="assets/img/3 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Live fashion shows with professional ramp walks.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=33">
-                <span>Fashion Week<br><small>Runway Show</small></span>
-              </div>
-            </div>
-          </div>
-          <div class="testimonial-card">
-            <a href="assets/img/3 (2).jpg" data-fancybox="fashion">
-              <img class="bg-img" src="assets/img/3 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Live fashion shows with professional ramp walks.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=33">
-                <span>Fashion Week<br><small>Runway Show</small></span>
-              </div>
-            </div>
-          </div>
-
-          <div class="testimonial-card">
-            <a href="assets/img/3 (2).jpg" data-fancybox="fashion">
-              <img class="bg-img" src="assets/img/3 (2).jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>Live fashion shows with professional ramp walks.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=33">
-                <span>Fashion Week<br><small>Runway Show</small></span>
-              </div>
-            </div>
-          </div>
+       
 
         </div>
       </div>
@@ -1068,8 +1116,8 @@
         <div class="marquee-track">
 
           <div class="testimonial-card">
-            <a href="assets/img/4.jpg" data-fancybox="student-life">
-              <img class="bg-img" src="assets/img/4.jpg">
+            <a href="assets/img/new-photo/p1- (1).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (1).jpg">
             </a>
             <div class="testimonial-content">
               <p>A vibrant campus filled with creativity & fun.</p>
@@ -1081,20 +1129,8 @@
           </div>
 
           <div class="testimonial-card">
-            <a href="assets/img/4.jpg" data-fancybox="student-life">
-              <img class="bg-img" src="assets/img/4.jpg">
-            </a>
-            <div class="testimonial-content">
-              <p>A vibrant campus filled with creativity & fun.</p>
-              <div class="author">
-                <img class="avatar" src="https://picsum.photos/30/30?random=44">
-                <span>Campus Life<br><small>Events & Culture</small></span>
-              </div>
-            </div>
-          </div>
-          <div class="testimonial-card">
-            <a href="assets/img/4.jpg" data-fancybox="student-life">
-              <img class="bg-img" src="assets/img/4.jpg">
+            <a href="assets/img/new-photo/p1- (2).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (2).jpg">
             </a>
             <div class="testimonial-content">
               <p>A vibrant campus filled with creativity & fun.</p>
@@ -1106,8 +1142,8 @@
           </div>
 
           <div class="testimonial-card">
-            <a href="assets/img/4.jpg" data-fancybox="student-life">
-              <img class="bg-img" src="assets/img/4.jpg">
+            <a href="assets/img/new-photo/p1- (3).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (3).jpg">
             </a>
             <div class="testimonial-content">
               <p>A vibrant campus filled with creativity & fun.</p>
@@ -1118,8 +1154,22 @@
             </div>
           </div>
           <div class="testimonial-card">
-            <a href="assets/img/4.jpg" data-fancybox="student-life">
-              <img class="bg-img" src="assets/img/4.jpg">
+            <a href="assets/img/new-photo/p1- (4).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (4).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+
+
+                   <div class="testimonial-card">
+            <a href="assets/img/new-photo/p1- (1).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (1).jpg">
             </a>
             <div class="testimonial-content">
               <p>A vibrant campus filled with creativity & fun.</p>
@@ -1131,8 +1181,8 @@
           </div>
 
           <div class="testimonial-card">
-            <a href="assets/img/4.jpg" data-fancybox="student-life">
-              <img class="bg-img" src="assets/img/4.jpg">
+            <a href="assets/img/new-photo/p1- (2).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (2).jpg">
             </a>
             <div class="testimonial-content">
               <p>A vibrant campus filled with creativity & fun.</p>
@@ -1142,6 +1192,32 @@
               </div>
             </div>
           </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/p1- (3).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (3).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/p1- (4).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (4).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+
 
         </div>
       </div>
@@ -1385,7 +1461,7 @@
       <h5 class="sub-head text-center cen">Testimonial</h5>
       <h2 class="title text-center">Experiences That Reflect <br> <span>Our Impact</span></h2>
 
-      <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+      <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
     </div>
     <div class="marquee-container1">
       <div class="marquee-track1 marquee-right">

@@ -73,7 +73,7 @@
             <!-- Right Image -->
             <div class="col-lg-6">
                 <div class="campus-image">
-                    <img src="assets/img/creativebu.jpeg" alt="INSD Kolkata Campus Tour" class="img-fluid">
+                    <img src="assets/img/new-photo/09.jpeg" alt="INSD Kolkata Campus Tour" class="img-fluid">
                 </div>
             </div>
 

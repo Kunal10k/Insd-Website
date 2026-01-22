@@ -284,7 +284,7 @@
         <div class="row">
             <div class="col-md-8">
                 <!-- <h5 class="sub-head">Why Choose Us</h5> -->
-                <h2 class="title">Global Academic <br> <span>Collaboration</span></h2>
+                <h2 class="title p-0 m-0">Global Academic <br> <span>Collaboration</span></h2>
 
                 <p class="para">International School of Design Kolkata believes that design education should extend
                     beyond borders. Through global academic collaborations, the institute provides students with

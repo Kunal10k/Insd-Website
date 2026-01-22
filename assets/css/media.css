@@ -6,6 +6,12 @@
     .appinform-counselling-list i {
         color: #000000;
     }
+
+    .footer-container {
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 22px;
+
+    }
 }
 
 @media only screen and (max-width: 991px) {
@@ -858,6 +864,68 @@
 @media only screen and (max-width: 475px) {
     .title {
         font-size: 20px !important;
+    }
+
+
+
+    .lp-section {
+        padding-top: 0 !important;
+    }
+
+    .benefit-item {
+        margin-bottom: 15px;
+        padding: 0;
+    }
+
+    .icon-circle1 {
+        width: 60px;
+        height: 60px;
+        font-size: 15px;
+    }
+
+    .ban-cont {
+        padding-bottom: 19px;
+    }
+
+    .affi {
+        padding: 40px 0;
+    }
+
+    .banner_ing {
+        margin-top: 0;
+    }
+
+    .inner_point_view .ban-sec {
+        padding-top: 100px;
+        padding-bottom: 36px;
+    }
+
+    .inner_point_view .ban-sec {
+        min-height: 70vh;
+    }
+
+    .gallery-wrap {
+        margin-top: 40px;
+    }
+
+    .footer-container {
+        margin-bottom: 60px;
+        gap: 10px;
+        grid-template-columns: repeat(1, 1fr);
+        margin-top: 30px;
+    }
+
+    .footer-column ul li a {
+        font-size: 17px;
+    }
+
+    .footer-column p {
+        font-size: 17px;
+    }
+
+
+    .global_Section_ready {
+        padding-top: 0 !important;
     }
 
     .metric-box p {

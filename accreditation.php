@@ -307,10 +307,10 @@
             </div>
 
             <div class="col-md-5 en">
-                <h2 class="title mt-5 ">Academic <span> Affiliations</span></h2>
+                <h2 class="title mt-md-5 mt-0 ">Academic <span> Affiliations</span></h2>
 
             </div>
-            <div class="col-md-7 mt-5">
+            <div class="col-md-7 mt-md-5 mt-0">
                 <p class="para">
                     INSD Kolkata is academically affiliated with Maharaja Agrasen Himalayan Garhwal University,
                     supporting recognised undergraduate, postgraduate, diploma, and advanced diploma programs within an

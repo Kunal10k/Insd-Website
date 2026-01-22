@@ -749,46 +749,7 @@
 
 
 
-<section class="related-courses">
-    <div class="container">
-        <h5 class="sub-head text-center cen">Related Courses</h5>
-        <h2 class="title text-center">Our Related <span>Course</span></h2>
 
-        <div class="related-course-grid">
-
-            <!-- <div class="course-card">
-        <div class="course-img">
-          <img src="assets/img/fashion.jpg" alt="Course">
-        </div>
-        <div class="course-info">
-          <h4>Fashion Designing Course</h4>
-          <p>Beginner to Advanced</p>
-        </div>
-      </div> -->
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/graph.webp" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>Graphic Designing Course</h4>
-                    <p>Photoshop • Illustrator • CorelDraw</p>
-                </div>
-            </div>
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/INTERIOR.jpg" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>Interior Designing Course</h4>
-                    <p>AutoCAD • 3Ds Max • V-Ray</p>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
 
 
 

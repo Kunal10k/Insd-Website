@@ -1,8 +1,6 @@
 <?php include 'inside/header.php' ?>
 
 <section class="inner_Section" style="background-image: url('./assets/img/inner_banner/placement.jpg');">
-
-
     <div class="container">
         <h1 class="title ">
             Placement & <br class="d-md-block d-none">carrier Support
@@ -139,19 +137,14 @@
 </section>
 
 
-<section class="final-cta-section">
+<!-- <section class="final-cta-section">
     <div class="cta-container">
-
-
         <h2 class="title">Final
             <br> <span>Conversion</span>
         </h2>
         <p class="para w-75 m-auto text-center">
             Explore detailed placement insights, recruiter associations, and the complete career support structure.
         </p>
-
-
-
         <div class="ban-btn mt-5 justify-content-center">
 
             <a href="#" class="btn-animated btn-light">
@@ -184,7 +177,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
 
 

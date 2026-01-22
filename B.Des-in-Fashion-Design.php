@@ -702,13 +702,13 @@
         <h5 class="sub-head text-center cen">Student work</h5>
         <h2 class="title text-center">WALK THE STAGE <span>AS A DESIGNER</span></h2>
 
-        <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+        
 
         <div class="student-work-grid">
 
             <div class="work-item">
-                <a href="assets/img/1 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/1 (2).jpg" alt="Student Work">
+                <a href="assets/img/new-photo/13-01 (1).jpeg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/new-photo/13-01 (1).jpeg" alt="Student Work">
                 </a>
                 <div class="work-overlay">
                     <h4>Fashion Design</h4>
@@ -716,8 +716,8 @@
             </div>
 
             <div class="work-item">
-                <a href="assets/img/2 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/2 (2).jpg" alt="Student Work">
+                <a href="assets/img/new-photo/13-01 (2).jpeg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/new-photo/13-01 (2).jpeg" alt="Student Work">
                 </a>
                 <div class="work-overlay">
                     <h4>Illustration</h4>
@@ -725,8 +725,8 @@
             </div>
 
             <div class="work-item">
-                <a href="assets/img/6-insd.jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/6-insd.jpg" alt="Student Work">
+                <a href="assets/img/new-photo/13-01 (3).jpeg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/new-photo/13-01 (3).jpeg" alt="Student Work">
                 </a>
                 <div class="work-overlay">
                     <h4>Garment Construction</h4>
@@ -734,8 +734,8 @@
             </div>
 
             <div class="work-item">
-                <a href="assets/img/3 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/3 (2).jpg" alt="Student Work">
+                <a href="assets/img/new-photo/13-01 (4).jpeg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/new-photo/13-01 (4).jpeg" alt="Student Work">
                 </a>
                 <div class="work-overlay">
                     <h4>Portfolio Work</h4>
@@ -747,47 +747,6 @@
 </section>
 
 
-
-<section class="related-courses">
-    <div class="container">
-        <h5 class="sub-head text-center cen">Related Courses</h5>
-        <h2 class="title text-center">Our Related <span>Course</span></h2>
-
-        <div class="related-course-grid">
-
-            <!-- <div class="course-card">
-        <div class="course-img">
-          <img src="assets/img/fashion.jpg" alt="Course">
-        </div>
-        <div class="course-info">
-          <h4>Fashion Designing Course</h4>
-          <p>Beginner to Advanced</p>
-        </div>
-      </div> -->
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/graph.webp" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>Graphic Designing Course</h4>
-                    <p>Photoshop • Illustrator • CorelDraw</p>
-                </div>
-            </div>
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/INTERIOR.jpg" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>Interior Designing Course</h4>
-                    <p>AutoCAD • 3Ds Max • V-Ray</p>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
 
 
 

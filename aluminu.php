@@ -34,7 +34,7 @@
                         alt="Mou Dutta">
                 </div>
                 <h4 class="insd-alumni-name">
-                    Mou Dutta <span>MBA Batch of 2025</span>
+                    Mou Dutta <br><span >MBA Batch of 2025</span>
                 </h4>
                 <p class="insd-alumni-text">
                     “The academic structure and mentorship support at INSD Kolkata helped me develop professional
@@ -49,7 +49,7 @@
                         alt="Mou Dutta">
                 </div>
                 <h4 class="insd-alumni-name">
-                    Rishita Sengupta <span>Fashion Design</span>
+                    Rishita Sengupta <br><span>Fashion Design</span>
                 </h4>
                 <p class="insd-alumni-text">
                     “The focus on portfolio development and industry exposure helped me understand professional
@@ -64,7 +64,7 @@
                         alt="Mou Dutta">
                 </div>
                 <h4 class="insd-alumni-name">
-                    Abhishek Mishra <span>Fashion Design</span>
+                    Abhishek Mishra <br><span>Fashion Design</span>
                 </h4>
                 <p class="insd-alumni-text">
                     “The practical learning approach and continuous feedback helped me refine my skills professionally.”

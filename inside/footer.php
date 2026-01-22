@@ -1,18 +1,19 @@
 <footer class="footer">
   <div class="container">
-    <div class="footer-container">
-      <!-- Left Column -->
-      <div class="footer-column">
+    <div class="row">
+      <div class="col-md-3">
+           <div class="footer-column">
         <h2 class="footer-logo">
-          <img src="assets/img/cropped-logo-1-1-2.png" alt="">
+          <img src="assets/img/cropped-logo-1-1-2.png" alt="" width="150">
         </h2>
-
-
-     
-
+        <p class=" footer-para">
+          Industry-driven design education focused on practical learning and career outcomes
+        </p>
       </div>
+      </div>
+      <div class="col-md-9">
+            <div class="footer-container">
 
-      <!-- Main Pages -->
       <div class="footer-column">
         <h3>Main Pages</h3>
         <ul>
@@ -80,6 +81,9 @@
 
       </div>
     </div>
+      </div>
+    </div>
+
 
     <div class="footer-bottom">
       <h1 class="footer-bg-text">INSD</h1>
