@@ -8,12 +8,12 @@
             <div class="row">
                 <div class="col-md-8 col-sm-12">
                     <div class="landing_content">
-                        <h5>Join the Next Generation of Elite Fashion Designers​</h5>
-                        <h1 class="w-75">Launch Your Fashion Career with Kolkata’s Award Winning Design School <br>
+                        <h5>Admissions Open | 2026 Intake​</h5>
+                        <h1 class="w-75">Launch Your Interior Design Career with INSD Kolkata and get hired
 
                             ​</h1>
-                        <h6>Avail exclusive benefits</h6>
-                        <ul class="feature-list">
+                        <h6 class="mt-3">Diploma | Advanced Diploma | B.Sc | B.Des | MBA</h6>
+                        <!-- <ul class="feature-list">
                             <li>
                                 <i class="fa-solid fa-circle-check"></i>
                                 Industry-aligned, trend-forward curriculum
@@ -29,20 +29,40 @@
                                 Expert guidance from experienced fashion mentors
 
                             </li>
-                        </ul>
+                        </ul> -->
 
-                        <a href="#" class="btn-animated btn-light1 btn-light8">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">Download Browchure</div>
-                                <div class="btn-text-hover">Download Browchure</div>
-                            </div>
-                            <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
-                                    alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                    alt="Arrow" class="btn-icon-hover">
-                            </div>
-                        </a>
+                        <p class="para">
+                            Career-focused interior design education with on-the-job training, live projects, and placement support.
+                            At INSD, students learn from practicing interior designers and entrepreneurs, gaining real exposure to studio work, site execution, and professional workflows.
+
+                        </p>
+
+                        <div>
+                            <a href="#" class="btn-animated btn-light1 btn-light8 mt-4">
+                                <div class="btn-text-wrap">
+                                    <div class="btn-text"> Apply Now</div>
+                                    <div class="btn-text-hover"> Apply Now</div>
+                                </div>
+                                <div class="btn-icon-wrap">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon-hover">
+                                </div>
+                            </a>
+                            <a href="#" class="btn-animated btn-light">
+                                <div class="btn-text-wrap">
+                                    <div class="btn-text">Book Free Counselling</div>
+                                    <div class="btn-text-hover">Book Free Counselling</div>
+                                </div>
+                                <div class="btn-icon-wrap">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                </div>
+                            </a>
+                        </div>
+
+
 
 
 
@@ -120,55 +140,74 @@
 
     <div class="cardbox">
         <div class="container">
-            <div class="row g-4">
+            <div class="row g-3">
+
                 <!-- Card 1 -->
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="program-card">
                         <div class="programs_flex">
                             <div class="icon pink">
-                                <i class="bi bi-calendar-check"></i>
+                                <i class="bi bi-briefcase"></i>
                             </div>
-                            <h5>Admission Open <br> 2026</h5>
+                            <h5>100% Placement Assistance</h5>
                         </div>
                         <p>
-                            Admissions are now open for the 2026 batch. Begin your fashion design journey with hands-on
-                            training, industry exposure, and expert-led learning at INSD Kolkata.
+                            Career guidance, interview preparation, and dedicated placement support
+                            for eligible students to help launch successful professional careers.
                         </p>
                     </div>
                 </div>
 
                 <!-- Card 2 -->
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="program-card">
                         <div class="programs_flex">
                             <div class="icon blue">
                                 <i class="bi bi-award"></i>
                             </div>
-                            <h5>Scholarship Admission</h5>
+                            <h5>Scholarship Support Available</h5>
                         </div>
                         <p>
-                            Merit-based and need-based scholarships are available for deserving students. INSD supports
-                            creative talent by making quality fashion education accessible and affordable.
+                            Merit-based and need-based scholarships are available for deserving students,
+                            making quality design education more accessible.
                         </p>
                     </div>
                 </div>
 
                 <!-- Card 3 -->
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="program-card">
                         <div class="programs_flex">
                             <div class="icon purple">
-                                <i class="bi bi-bank"></i>
+                                <i class="bi bi-people"></i>
                             </div>
-                            <h5>Loan <br> Assistance</h5>
+                            <h5>Industry-Active Faculty</h5>
                         </div>
                         <p>
-                            INSD Kolkata offers support for education loans under the PM-Vidyalaxmi Scheme, helping
-                            students finance their fashion education with ease and confidence.
+                            Learn directly from practicing designers and entrepreneurs who bring
+                            real-world insights and current industry experience into the classroom.
                         </p>
                     </div>
                 </div>
+
+                <!-- Card 4 -->
+                <div class="col-md-3">
+                    <div class="program-card">
+                        <div class="programs_flex">
+                            <div class="icon green">
+                                <i class="bi bi-tools"></i>
+                            </div>
+                            <h5>Live Projects & On-the-Job Training</h5>
+                        </div>
+                        <p>
+                            Gain hands-on exposure through real projects, site visits, and execution-based
+                            training that prepares you for professional practice.
+                        </p>
+                    </div>
+                </div>
+
             </div>
+
 
         </div>
     </div>
@@ -272,107 +311,96 @@
 <section class="histudy-courses ">
     <div class="container text-center">
         <!-- <p class="sub-head text-center cen ">Admission</p> -->
-        <h2 class="title text-center mb-4">Industry-Ready Programs for <br><span class="histudy-highlight">Aspiring
-                Designers </span></h2>
+        <h2 class="title text-center mb-4">INTERIOR DESIGN PROGRAMS <br><span class="histudy-highlight">AT INSD </span></h2>
 
         <div class="row g-4 mt-5">
 
 
 
-            <!-- Diploma -->
-            <div class="col-md-6 ">
+            <!-- Diploma / Advanced Diploma -->
+            <div class="col-md-4">
                 <div class="course-card">
                     <div class="card-header">
-                        <h2>Diploma in Fashion Design</h2>
-                        <a href="#form" class="apply-btn">APPLY NOW</a>
+                        <h2>Diploma / Advanced Diploma in Interior Design</h2>
+                        <a href="#form" class="apply-btn">View Course</a>
                     </div>
+
                     <div class="card-row">
                         <span class="label">DURATION:</span>
-                        <span class="value">2 Years for 10th | 1 Year for +2</span>
+                        <span class="value">1 Year (Diploma) | 2 Years (Advanced Diploma)</span>
                     </div>
-                    <div class="card-row">
-                        <span class="label">MEDIUM:</span>
-                        <span class="value">Online | Campus</span>
-                    </div>
+
                     <div class="card-row">
                         <span class="label">ELIGIBILITY:</span>
-                        <span class="value">10th | +2 or Equivalent</span>
+                        <span class="value">10 Pass (Any Stream)</span>
                     </div>
+
+                    <p class="course-desc">
+                        A progressive, skill-focused pathway that builds strong design fundamentals
+                        and advances into industry-ready training with live projects and on-the-job exposure.
+                    </p>
+
 
                 </div>
             </div>
 
-            <!-- Adv Diploma -->
-            <div class="col-md-6 ">
+            <!-- B.Des -->
+            <div class="col-md-4">
                 <div class="course-card">
                     <div class="card-header">
-                        <h2>Adv Diploma in Fashion Design</h2>
-                        <a href="#form" class="apply-btn">APPLY NOW</a>
+                        <h2>B.Des in Interior Design</h2>
+                        <a href="#form" class="apply-btn">View Course</a>
 
                     </div>
+
                     <div class="card-row">
                         <span class="label">DURATION:</span>
-                        <span class="value">1 Year | 2 Years</span>
+                        <span class="value">4 Years</span>
                     </div>
-                    <div class="card-row">
-                        <span class="label">MEDIUM:</span>
-                        <span class="value">Online | Campus</span>
-                    </div>
+
                     <div class="card-row">
                         <span class="label">ELIGIBILITY:</span>
-                        <span class="value">Graduation or Equivalent</span>
+                        <span class="value">10+2 Pass</span>
                     </div>
+
+                    <p class="course-desc">
+                        A full professional design degree with studio-based learning, extensive
+                        industry exposure, and portfolio development for long-term career growth.
+                    </p>
+
 
                 </div>
             </div>
 
-            <!-- BSc -->
-            <div class="col-md-6 ">
+            <!-- MBA -->
+            <div class="col-md-4">
                 <div class="course-card">
                     <div class="card-header">
-                        <h2>BSc Fashion Design</h2>
-                        <a href="#form" class="apply-btn">APPLY NOW</a>
+                        <h2>MBA in Interior Designing & Technology</h2>
+                        <a href="#form" class="apply-btn">View Course</a>
 
                     </div>
-                    <div class="card-row">
-                        <span class="label">DURATION:</span>
-                        <span class="value">3 Years</span>
-                    </div>
-                    <div class="card-row">
-                        <span class="label">MEDIUM:</span>
-                        <span class="value">Online | Campus</span>
-                    </div>
-                    <div class="card-row">
-                        <span class="label">ELIGIBILITY:</span>
-                        <span class="value">+2 or Equivalent</span>
-                    </div>
 
-                </div>
-            </div>
-
-            <!-- MSc -->
-            <div class="col-md-6 ">
-                <div class="course-card">
-                    <div class="card-header">
-                        <h2>MSc in Fashion Design</h2>
-                        <a href="#form" class="apply-btn">APPLY NOW</a>
-
-                    </div>
                     <div class="card-row">
                         <span class="label">DURATION:</span>
                         <span class="value">2 Years</span>
                     </div>
-                    <div class="card-row">
-                        <span class="label">MEDIUM:</span>
-                        <span class="value">Online | Campus</span>
-                    </div>
+
                     <div class="card-row">
                         <span class="label">ELIGIBILITY:</span>
-                        <span class="value">Graduation or Equivalent</span>
+                        <span class="value">Graduation (Any Stream)</span>
                     </div>
+
+                    <p class="course-desc">
+                        A postgraduate program designed to prepare students for leadership,
+                        management, and business roles within the interior design industry.
+                    </p>
+
 
                 </div>
             </div>
+
+
 
 
 
@@ -386,34 +414,34 @@
 
 
 <section class="video-testimonial-section">
-  <div class="container">
-    <h2 class="title text-center">Client Video <span>Testimonials</span></h2>
+    <div class="container">
+        <h2 class="title text-center">Client Video <span>Testimonials</span></h2>
 
-    <div class="owl-carousel video-testimonial-slider mt-4">
+        <div class="owl-carousel video-testimonial-slider mt-4">
 
-      <div class="video-testimonial-item">
-        <iframe class="yt-video"
-          src="https://www.youtube.com/embed/ZcgiigE3cXs"
-          allowfullscreen></iframe>
-      
-      </div>
-      <div class="video-testimonial-item">
-        <iframe class="yt-video"
-          src="https://www.youtube.com/embed/ZcgiigE3cXs"
-          allowfullscreen></iframe>
-      
-      </div>
-      <div class="video-testimonial-item">
-        <iframe class="yt-video"
-          src="https://www.youtube.com/embed/ZcgiigE3cXs"
-          allowfullscreen></iframe>
-      
-      </div>
+            <div class="video-testimonial-item">
+                <iframe class="yt-video"
+                    src="https://www.youtube.com/embed/ZcgiigE3cXs"
+                    allowfullscreen></iframe>
 
-     
+            </div>
+            <div class="video-testimonial-item">
+                <iframe class="yt-video"
+                    src="https://www.youtube.com/embed/ZcgiigE3cXs"
+                    allowfullscreen></iframe>
 
+            </div>
+            <div class="video-testimonial-item">
+                <iframe class="yt-video"
+                    src="https://www.youtube.com/embed/ZcgiigE3cXs"
+                    allowfullscreen></iframe>
+
+            </div>
+
+
+
+        </div>
     </div>
-  </div>
 </section>
 
 
@@ -724,7 +752,7 @@
 <section class="place">
     <img src="assets/img/girl.webp" alt="" class="img-fluid place_set_img">
     <div class="container">
-        <h6 class="title text-center mb-5">Placements</h6>
+        <h6 class="title text-center mb-5">CAREERS & <span>PLACEMENTS</span></h6>
 
         <div class="place-wrap ">
 
@@ -732,14 +760,14 @@
             <div class="place-card card-geo">
                 <div class="place-head">
 
-                    <span class="sub-head   ">Placements</span>
+                    <span class="sub-head   ">Career Roles</span>
                     <div class="place-icon"><i class="fas fa-chart-line"></i></div>
                 </div>
 
-                <h2 class="place-title">AI & Data Science*</h2>
-                <div class="place-sub">Standard</div>
+                <h2 class="place-title">Career Roles</h2>
+                <!-- <div class="place-sub">Standard</div> -->
 
-                <div class="place-stat">
+                <!-- <div class="place-stat">
                     <span class="stat-name">Highest CTC</span>
                     <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
                 </div>
@@ -747,22 +775,30 @@
                 <div class="place-stat">
                     <span class="stat-name">Average CTC</span>
                     <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
-                </div>
+                </div> -->
 
-                <div class="place-foot">*Placement statistics 2023–24</div>
+                <!-- <div class="place-foot">*Placement statistics 2023–24</div> -->
+
+                <ul class="course-features mt-3">
+                    <li><i class="fa-solid fa-check-circle"></i>Interior Designer</li>
+                    <li><i class="fa-solid fa-check-circle"></i>Design Consultant</li>
+                    <li><i class="fa-solid fa-check-circle"></i> Space Planner</li>
+                    <li><i class="fa-solid fa-check-circle"></i>Project Coordinator</li>
+                    <li><i class="fa-solid fa-check-circle"></i>Design Manager (MBA)</li>
+                </ul>
             </div>
 
             <!-- CARD 2 (DEFAULT ACTIVE) -->
             <div class="place-card card-premium is-active">
                 <div class="place-head">
-                    <span class="sub-head  ">Placements</span>
+                    <span class="sub-head  ">Placement Support</span>
 
                     <div class="place-icon"><i class="fas fa-star"></i></div>
                 </div>
 
-                <h2 class="place-title">AI & Data Science*</h2>
-                <div class="place-sub">Premium</div>
-
+                <h2 class="place-title">Placement Support</h2>
+                <!-- <div class="place-sub">Premium</div> -->
+                <!-- 
                 <div class="place-stat">
                     <span class="stat-name">Highest CTC</span>
                     <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
@@ -773,21 +809,28 @@
                     <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
                 </div>
 
-                <div class="place-foot">*Placement statistics 2023–24</div>
+                <div class="place-foot">*Placement statistics 2023–24</div> -->
+
+
+                <ul class="course-features mt-3">
+                    <li><i class="fa-solid fa-check-circle"></i>100% Placement Assistance</li>
+                    <li><i class="fa-solid fa-check-circle"></i> Opportunities across studios, real estate firms, and design companies</li>
+
+                </ul>
             </div>
 
             <!-- CARD 3 -->
             <div class="place-card card-dots">
                 <div class="place-head">
-                    <span class="sub-head  ">Placements</span>
+                    <span class="sub-head  ">STUDENT EXPERIENCES</span>
 
                     <div class="place-icon"><i class="fas fa-brain"></i></div>
                 </div>
 
-                <h2 class="place-title">AI & Data Science*</h2>
-                <div class="place-sub">Advanced</div>
+                <h2 class="place-title">STUDENT EXPERIENCES</h2>
+                <!-- <div class="place-sub">Advanced</div> -->
 
-                <div class="place-stat">
+                <!-- <div class="place-stat">
                     <span class="stat-name">Highest CTC</span>
                     <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
                 </div>
@@ -797,7 +840,14 @@
                     <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
                 </div>
 
-                <div class="place-foot">*Placement statistics 2023–24</div>
+                <div class="place-foot">*Placement statistics 2023–24</div> -->
+
+
+                <ul class="course-features mt-3">
+                    <li><i class="fa-solid fa-check-circle"></i>Real stories from students on learning, projects, and career growth.</li>
+
+
+                </ul>
             </div>
 
         </div>
@@ -810,23 +860,48 @@
 
             <!-- Left Content -->
             <div class="career-left">
-                <span class="career-label">Get Involved</span>
+                <!-- <span class="career-label">Get Involved</span> -->
                 <h1 class="career-title">
-                    Ready to Begin Your Journey in the
-                    Global Fashion Industry?
+                    Start Your Interior Design Career with INSD
                 </h1>
-                <a href="#form" class="btn-animated btn-light">
-                    <div class="btn-text-wrap">
-                        <div class="btn-text">Connect with Us </div>
-                        <div class="btn-text-hover">Connect with Us </div>
-                    </div>
-                    <div class="btn-icon-wrap">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon-hover">
-                    </div>
-                </a>
+                <div class="mt-4">
+                    <a href="#form" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Apply Now</div>
+                            <div class="btn-text-hover">Apply Now</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+                    <a href="#form" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Book Counselling</div>
+                            <div class="btn-text-hover">Book Counselling</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+                    <a href="#form" class="btn-animated btn-light mt-4">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Download Brochure</div>
+                            <div class="btn-text-hover">Download Brochure</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+                </div>
             </div>
 
             <!-- Right Image -->
@@ -951,7 +1026,7 @@
 
 
 <script>
-    window.addEventListener('scroll', function () {
+    window.addEventListener('scroll', function() {
         const header = document.querySelector('header');
         header.classList.toggle('sticky', window.scrollY > 50);
     });
@@ -1002,7 +1077,7 @@
 
 
 <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
         $(".mentor-slider").owlCarousel({
             loop: true,
             margin: 20,
@@ -1050,7 +1125,7 @@
 
 
 <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
         $(".feedback-slider").owlCarousel({
             loop: true,
             margin: 10,
@@ -1098,32 +1173,38 @@
 
 
 <script>
-$(document).ready(function () {
+    $(document).ready(function() {
 
-  const slider = $('.video-testimonial-slider');
+        const slider = $('.video-testimonial-slider');
 
-  slider.owlCarousel({
-    loop: true,
-    margin: 20,
-    nav: true,
-    dots: true,
-    autoplay: true,              // 🔥 autoplay ON
-    autoplayTimeout: 5000,        // 5 seconds
-    autoplayHoverPause: true,
-    responsive: {
-      0: { items: 1 },
-      768: { items: 2 },
-      1200: { items: 3 }
-    }
-  });
+        slider.owlCarousel({
+            loop: true,
+            margin: 20,
+            nav: true,
+            dots: true,
+            autoplay: true, // 🔥 autoplay ON
+            autoplayTimeout: 5000, // 5 seconds
+            autoplayHoverPause: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                768: {
+                    items: 2
+                },
+                1200: {
+                    items: 3
+                }
+            }
+        });
 
-  // Slide change হলে video reset হবে
-  slider.on('changed.owl.carousel', function () {
-    $(this).find('iframe.yt-video').each(function () {
-      const src = $(this).attr('src');
-      $(this).attr('src', src);
+        // Slide change হলে video reset হবে
+        slider.on('changed.owl.carousel', function() {
+            $(this).find('iframe.yt-video').each(function() {
+                const src = $(this).attr('src');
+                $(this).attr('src', src);
+            });
+        });
+
     });
-  });
-
-});
 </script>

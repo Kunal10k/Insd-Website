@@ -866,6 +866,16 @@
         font-size: 20px !important;
     }
 
+    .sticky-menu {
+        padding: 14px;
+
+    }
+
+    .cta-content h2 {
+        font-weight: 500;
+
+    }
+
 
 
     .lp-section {

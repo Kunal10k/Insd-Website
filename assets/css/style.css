@@ -1883,7 +1883,7 @@ ul#autoTab {
   font-size: 15px;
   color: var(--primary-color);
   display: flex;
-  align-items: center;
+  align-items: baseline;
   transition: color 0.4s ease;
   position: relative;
   margin-bottom: 12px;
@@ -2507,7 +2507,7 @@ textarea {
 }
 
 .footer-column ul li a:hover {
-  color: var(--accent-color);
+  color: var(--secondary-color2);
 }
 
 .footer-column ul {
@@ -2778,7 +2778,7 @@ textarea {
 /* about page */
 
 .inner_Section {
-  padding: 250px 0;
+  padding: 154px 0;
   position: relative;
   background-size: cover;
   background-position: center;
@@ -3870,8 +3870,8 @@ img.img-mg2 {
 }
 
 .title-sm {
-  font-size: 26px;
-  font-weight: 700;
+  font-size: 19px;
+  font-weight: 600;
   color: var(--primary-color);
   margin-bottom: 20px;
   font-family: var(--default-font);
@@ -3970,8 +3970,8 @@ img.img-mg2 {
   width: auto;
   height: auto;
   padding: 10px 24px;
-  background-color: var(--secondary-color4);
-  border: 1px solid var(--secondary-color4);
+  background-color: var(--secondary-color2);
+  border: 1px solid var(--secondary-color2);
   border-radius: 30px;
   font-family: var(--default-font);
 }
@@ -3990,7 +3990,7 @@ img.img-mg2 {
 
 .rbt-list-style-1 li {
   display: flex;
-  gap: 10px;
+  gap: 2px;
   margin-bottom: 12px;
   color: #555;
   font-size: 15px;
@@ -3999,7 +3999,7 @@ img.img-mg2 {
 
 .rbt-list-style-1 li i {
   color: var(--secondary-color3);
-  font-size: 18px;
+  font-size: 15px;
   margin-top: 2px;
 }
 
@@ -4181,7 +4181,7 @@ img.img-mg2 {
 
 .has-show-more-inner-content {
   max-height: 300px;
-  overflow: hidden;
+  overflow-y: auto;
   transition: max-height 0.3s ease;
   position: relative;
 }
@@ -4312,8 +4312,15 @@ img.img-mg2 {
 
 .student-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 25px;
+}
+
+.course .btn-animated {
+  padding: 12px 18px !important;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+
 }
 
 .student-box {
@@ -4409,6 +4416,14 @@ img.img-mg2 {
   border-radius: 10px;
   cursor: pointer;
 }
+
+.banner-badge-top i {
+  color: var(--secondary-color3);
+}
+
+/* .inner_Section .banner-badge-top {
+  padding: 0 20px !important;
+} */
 
 .work-item img {
   width: 100%;
@@ -5351,21 +5366,16 @@ img.img-mg2 {
   gap: 15px;
 }
 
-
 .program-card {
   background-color: #fff;
-  padding: 30px;
+  padding: 20px;
   border-radius: 16px;
   height: 100%;
   position: relative;
   overflow: hidden;
-
-  box-shadow:
-    0 8px 20px rgba(0, 0, 0, 0.05),
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05),
     0 2px 6px rgba(0, 0, 0, 0.03);
-
-  transition:
-    transform 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+  transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1),
     box-shadow 0.45s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
@@ -5415,11 +5425,12 @@ img.img-mg2 {
 }
 
 
-/* Title */
 .program-card h5 {
   font-weight: 600;
   /* margin-top: 20px; */
   margin-bottom: 12px;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 /* Text */
@@ -5647,11 +5658,9 @@ img.img-mg2 {
 
 .course-card {
   background: #fff;
-  /* border: 1px solid #0000002c; */
   padding: 15px;
-  /* text-align: left; */
   border-radius: 15px !important;
-  /* min-height: 415px; */
+  min-height: 372px;
 }
 
 .card-header {
@@ -5667,10 +5676,17 @@ img.img-mg2 {
   -webkit-text-fill-color: transparent;
   background-clip: text;
   color: transparent;
-  font-size: 22px;
+  font-size: 15px;
   font-weight: 600;
   position: relative;
   z-index: 99;
+  text-align: left;
+  width: 63%;
+}
+
+.course-desc {
+  font-size: 15px;
+  text-align: left;
 }
 
 .apply-btn {
@@ -7121,7 +7137,7 @@ alumni-carousel .item img {
 
 .place-head .sub-head {
   padding: 7px 22px;
-  font-size: 16px;
+  font-size: 13px;
 }
 
 /* ================= CARD VARIANTS ================= */
@@ -7317,7 +7333,7 @@ alumni-carousel .item img {
 
 .insd-partner-card {
   background: #fff;
-  padding: 30px;
+  padding: 14px;
   border-radius: 14px;
   box-shadow: 0 10px 35px rgba(0, 0, 0, 0.08);
 }

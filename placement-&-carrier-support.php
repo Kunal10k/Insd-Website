@@ -12,6 +12,7 @@
 <section class="about-ban-sec">
     <div class="container">
         <div class="row">
+
             <div class="col-md-8">
                 <h5 class="sub-head">Placements & Career Support at INSD Kolkata</h5>
                 <h2 class="title">100% Placement Assistance |
@@ -64,121 +65,133 @@
 
 
 
-<section class="insd-placement-wrap">
-    <div class="container">
-        <div class="insd-placement-container">
-            <div class="insd-placement-grid">
 
-                <!-- Left Content -->
-                <div class="insd-placement-text">
-                    <h2 class="title">Recruiters & Industry
-                        <br> <span>Brand Partners</span>
-                    </h2>
+<section class="career-zone">
+    <div class="career-wrapper">
 
-                    <p class="insd-placement-desc">
-                        Students of <strong>INSD Kolkata</strong> have secured placements and
-                        internships across leading brands, design studios, agencies, and
-                        professional organisations within the design industry.
-                    </p>
-
+        <!-- LEFT -->
+        <div class="career-info">
+            <h2 class="title">
+                Recruiters & Industry <br>
+                <span>Brand Partners</span>
+            </h2>
+            <p class="para">
+                Students of <strong>INSD Kolkata</strong> have secured placements and
+                internships across leading brands, design studios, agencies, and
+                professional organisations within the design industry.
+            </p>
 
 
-                    <ul class="feature-list mt-3">
-                        <li>
-                            <i class="fa-solid fa-circle-check"></i>
-                            Interior Design Placements
-                        </li>
-                        <li>
-                            <i class="fa-solid fa-circle-check"></i>
-                            Fashion Design Placements
-                        </li>
-                        <li>
-                            <i class="fa-solid fa-circle-check"></i>
-                            Graphic Design Placements
-                        </li>
+            <ul class="feature-list mt-3">
+                <li>
+                    <i class="fa-solid fa-circle-check"></i>
+                    Interior Design Placements
+                </li>
+                <li>
+                    <i class="fa-solid fa-circle-check"></i>
+                    Fashion Design Placements
+                </li>
+                <li>
+                    <i class="fa-solid fa-circle-check"></i>
+                    Graphic Design Placements
+                </li>
 
-                    </ul>
-                </div>
-
-                <!-- Right Content -->
-                <div class="insd-placement-cards">
-
-                    <div class="insd-partner-card">
+            </ul>
 
 
-                        <p class="insd-partner-desc">
-                            <strong>200+</strong> brands associated with
-                            <strong>INSD Kolkata</strong>, including fashion houses, interior
-                            design studios, creative agencies, retail brands, and lifestyle
-                            organisations.
-                        </p>
+            <div class="insd-placement-cards">
+
+                <div class="insd-stats-card mt-3">
+                    <div class="insd-stat-item">
+                        <h4>200+</h4>
+                        <span>Industry Brands</span>
                     </div>
-
-                    <div class="insd-stats-card mt-3">
-                        <div class="insd-stat-item">
-                            <h4>200+</h4>
-                            <span>Industry Brands</span>
-                        </div>
-                        <div class="insd-stat-item">
-                            <h4>3+</h4>
-                            <span>Design Domains</span>
-                        </div>
-                        <div class="insd-stat-item">
-                            <h4>100%</h4>
-                            <span>Career Support</span>
-                        </div>
+                    <div class="insd-stat-item">
+                        <h4>3+</h4>
+                        <span>Design Domains</span>
                     </div>
-
+                    <div class="insd-stat-item">
+                        <h4>100%</h4>
+                        <span>Career Support</span>
+                    </div>
                 </div>
 
             </div>
         </div>
-    </div>
-</section>
+
+        <!-- RIGHT -->
+        <div class="career-brands">
+            <!-- <h4 class="title text-center mb-3">Our Hiring <span>Partners</span></h4> -->
+
+            <div class="insd-partner-card mt-4">
 
 
-<!-- <section class="final-cta-section">
-    <div class="cta-container">
-        <h2 class="title">Final
-            <br> <span>Conversion</span>
-        </h2>
-        <p class="para w-75 m-auto text-center">
-            Explore detailed placement insights, recruiter associations, and the complete career support structure.
-        </p>
-        <div class="ban-btn mt-5 justify-content-center">
+                <p class="insd-partner-desc">
+                    <strong>200+</strong> brands associated with
+                    <strong>INSD Kolkata</strong>, including fashion houses, interior
+                    design studios, creative agencies, retail brands, and lifestyle
+                    organisations.
+                </p>
+            </div>
 
-            <a href="#" class="btn-animated btn-light">
-                <div class="btn-text-wrap">
-                    <div class="btn-text"> Download Placement Brochure</div>
-                    <div class="btn-text-hover"> Download Placement Brochure</div>
+
+            <div class="brand-grid mt-4">
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt="Accenture">
                 </div>
-                <div class="btn-icon-wrap">
-                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                        alt="Arrow" class="btn-icon">
-                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                        alt="Arrow" class="btn-icon-hover">
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt="Accenture">
                 </div>
-            </a>
-
-            <a href="#" class="btn-animated btn-light1">
-                <div class="btn-text-wrap">
-                    <div class="btn-text"> Apply Now</div>
-                    <div class="btn-text-hover"> Apply Now</div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt="Accenture">
                 </div>
-                <div class="btn-icon-wrap">
-                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
-                        alt="Arrow" class="btn-icon">
-                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                        alt="Arrow" class="btn-icon-hover">
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt="Accenture">
                 </div>
-            </a>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-5.png" alt="Accenture">
+                </div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-4.png" alt="Accenture">
+                </div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-3.png" alt="Accenture">
+                </div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-2.png" alt="Accenture">
+                </div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-1.png" alt="Accenture">
+                </div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt="Accenture">
+                </div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt="Accenture">
+                </div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-5.png" alt="Accenture">
+                </div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-4.png" alt="Accenture">
+                </div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-3.png" alt="Accenture">
+                </div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-2.png" alt="Accenture">
+                </div>
+                <div class="brand-tile">
+                    <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-1.png" alt="Accenture">
+                </div>
 
 
+            </div>
 
         </div>
-    </div>
-</section> -->
 
+    </div>
+</section>
 
 
 
