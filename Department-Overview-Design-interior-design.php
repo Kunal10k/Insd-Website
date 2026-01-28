@@ -415,7 +415,10 @@
 
 <section class="video-testimonial-section">
     <div class="container">
-        <h2 class="title text-center">Client Video <span>Testimonials</span></h2>
+        <h2 class="title text-center">LIFE AT <span>INSD</span></h2>
+        <p class="para w-50 m-auto text-center">
+            A professional learning environment with studios, workshops, exhibitions, site visits, and industry-led activities.
+        </p>
 
         <div class="owl-carousel video-testimonial-slider mt-4">
 

@@ -58,46 +58,46 @@
 <body>
 
 
-<button id="backToTop">
-  <i class="fa-solid fa-arrow-up"></i>
-</button>
+  <button id="backToTop">
+    <i class="fa-solid fa-arrow-up"></i>
+  </button>
 
-<!-- ----- MOBILE FLOTING OCON ---------------  -->
+  <!-- ----- MOBILE FLOTING OCON ---------------  -->
 
-<div class="icn-box mobile-bottom-bar d-md-none">
-  <ul class="icn-bx-ul">
-    <li>
-      <a href="#">
-        <i class="fa-brands fa-whatsapp"></i>
-      </a>
-    </li>
+  <div class="icn-box mobile-bottom-bar d-md-none">
+    <ul class="icn-bx-ul">
+      <li>
+        <a href="#">
+          <i class="fa-brands fa-whatsapp"></i>
+        </a>
+      </li>
 
-    <span class="bord"></span>
+      <span class="bord"></span>
 
-    <li>
-      <a href="#enqui">
-        <i class="fa-solid fa-message"></i>
-      </a>
-    </li>
+      <li>
+        <a href="#enqui">
+          <i class="fa-solid fa-message"></i>
+        </a>
+      </li>
 
-    <span class="bord"></span>
+      <span class="bord"></span>
 
-    <li>
-      <a href="tel:">
-        <i class="fa-solid fa-phone"></i>
-      </a>
-    </li>
+      <li>
+        <a href="tel:">
+          <i class="fa-solid fa-phone"></i>
+        </a>
+      </li>
 
-    <span class="bord"></span>
+      <span class="bord"></span>
 
-    <li>
-      <a href="#enqui">
-        <i class="fa-regular fa-file-pdf"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-<!-- ----- MOBILE FLOTING OCON ---------------  -->
+      <li>
+        <a href="#enqui">
+          <i class="fa-regular fa-file-pdf"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <!-- ----- MOBILE FLOTING OCON ---------------  -->
 
 
 
@@ -165,7 +165,7 @@
                     <li class="dropdown-submenu">
                       <a class="dropdown-item dropdown-toggle" href="#">Interior Design </a>
                       <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="landing-page.php">Department Overview
+                        <li><a class="dropdown-item" href="Department-Overview-Design-interior-design.php">Department Overview
                             Design</a></li>
                         <li><a class="dropdown-item" href="B.Des-in-Interior-Design-intern.php">B.Des in Interior
                             Design</a></li>
@@ -195,7 +195,7 @@
                     <li class="dropdown-submenu">
                       <a class="dropdown-item dropdown-toggle" href="#">Graphic Design </a>
                       <ul class="dropdown-menu">
-                         <li><a class="dropdown-item" href="landing-page.php">Department Overview
+                        <li><a class="dropdown-item" href="landing-page.php">Department Overview
                             Design</a></li>
                         <li><a class="dropdown-item" href="B.DES-in-Graphic-Design.php">B.DES in Graphic Design</a></li>
                         <li><a class="dropdown-item" href="MBA-in-Graphic-Design.php">MBA in Graphic Design</a></li>
@@ -287,7 +287,7 @@
 
               </ul>
 
-         
+
 
 
 
@@ -339,156 +339,156 @@
                 <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
 
                   <li class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
 
-                    <span class="nav-btn-spacer">About</span>
+                      <span class="nav-btn-spacer">About</span>
 
-                    <span class="nav-btn-text">About</span>
-                    <span class="nav-btn-text-hover">About</span>
-                  </a>
+                      <span class="nav-btn-text">About</span>
+                      <span class="nav-btn-text-hover">About</span>
+                    </a>
 
-                  <ul class="dropdown-menu custom-dropdown">
-                    <li><a class="dropdown-item" href="about2.php">About INSD in Kolkata</a></li>
-                    <li><a class="dropdown-item" href="accreditation.php">Affiliation & Industry Accreditations</a></li>
-                    <li><a class="dropdown-item" href="faculty.php">Industry Mentors & Experts</a></li>
-                    <li><a class="dropdown-item" href="industry.php">Industry & Academic Collaborations</a></li>
-                  </ul>
-                </li>
-
-
-
-                <li class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
-                    <span class="nav-btn-spacer">Courses</span>
-                    <span class="nav-btn-text">Courses</span>
-                    <span class="nav-btn-text-hover">Courses</span>
-                  </a>
-
-                  <ul class="dropdown-menu">
-
-                    <!-- Interior Design -->
-                    <li class="dropdown-submenu">
-                      <a class="dropdown-item dropdown-toggle" href="#">Interior Design </a>
-                      <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="landing-page.php">Department Overview
-                            Design</a></li>
-                        <li><a class="dropdown-item" href="B.Des-in-Interior-Design-intern.php">B.Des in Interior
-                            Design</a></li>
-                        <li><a class="dropdown-item" href="MBA-in-Interior-Design.php">MBA in Interior Design</a></li>
-                        <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Interior-Design.php">Diploma &
-                            Advanced Diploma in <br class="d-md-none d-block"> Interior
-                            Design</a></li>
-                      </ul>
-                    </li>
-
-                    <!-- Fashion Design -->
-                    <li class="dropdown-submenu">
-                      <a class="dropdown-item dropdown-toggle" href="#">Fashion Design </a>
-                      <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="landing-page.php">Department Overview
-                            Design</a></li>
-                        <li><a class="dropdown-item" href="B.Des-in-Fashion-Design.php">B.Des in Fashion Design</a></li>
-                        <li><a class="dropdown-item" href="MBA-in-Fashion-Design.php">MBA in Fashion Design</a></li>
-                        <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Fashion-Design.php">Diploma &
-                            Advanced Diploma in <br class="d-md-none  d-block"> Fashion
-                            Design</a></li>
-
-                      </ul>
-                    </li>
-
-                    <!-- Graphic Design -->
-                    <li class="dropdown-submenu">
-                      <a class="dropdown-item dropdown-toggle" href="#">Graphic Design </a>
-                      <ul class="dropdown-menu">
-                         <li><a class="dropdown-item" href="landing-page.php">Department Overview
-                            Design</a></li>
-                        <li><a class="dropdown-item" href="B.DES-in-Graphic-Design.php">B.DES in Graphic Design</a></li>
-                        <li><a class="dropdown-item" href="MBA-in-Graphic-Design.php">MBA in Graphic Design</a></li>
-                        <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Graphic-Design.php">Diploma &
-                            Advanced Diploma in <br class="d-md-none d-block"> Graphic Design</a>
-                        </li>
-
-                      </ul>
-                    </li>
-
-                  </ul>
-                </li>
-
-                <li class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-
-                    <span class="nav-btn-spacer">Admission</span>
-
-                    <span class="nav-btn-text">Admission</span>
-                    <span class="nav-btn-text-hover">Admission</span>
-                  </a>
-
-                  <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="admission_new_page.php">Admission Process</a></li>
-
-                    <!-- <li><a class="dropdown-item" href="Eligibity-Criteria.php">Eligibity Criteria</a></li> -->
-                    <li><a class="dropdown-item" href="admission-faq.php">Admission FAQ</a></li>
-                    <li><a class="dropdown-item" href="fees-payemt.php">FEES PAYMENT</a></li>
-                    <li><a class="dropdown-item" href="Book-Your-Counceling.php">Admissions Form 2026</a></li>
-                  </ul>
-                </li>
+                    <ul class="dropdown-menu custom-dropdown">
+                      <li><a class="dropdown-item" href="about2.php">About INSD in Kolkata</a></li>
+                      <li><a class="dropdown-item" href="accreditation.php">Affiliation & Industry Accreditations</a></li>
+                      <li><a class="dropdown-item" href="faculty.php">Industry Mentors & Experts</a></li>
+                      <li><a class="dropdown-item" href="industry.php">Industry & Academic Collaborations</a></li>
+                    </ul>
+                  </li>
 
 
+
+                  <li class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
+                      <span class="nav-btn-spacer">Courses</span>
+                      <span class="nav-btn-text">Courses</span>
+                      <span class="nav-btn-text-hover">Courses</span>
+                    </a>
+
+                    <ul class="dropdown-menu">
+
+                      <!-- Interior Design -->
+                      <li class="dropdown-submenu">
+                        <a class="dropdown-item dropdown-toggle" href="#">Interior Design </a>
+                        <ul class="dropdown-menu">
+                          <li><a class="dropdown-item" href="Department-Overview-Design-interior-design.php">Department Overview
+                              Design</a></li>
+                          <li><a class="dropdown-item" href="B.Des-in-Interior-Design-intern.php">B.Des in Interior
+                              Design</a></li>
+                          <li><a class="dropdown-item" href="MBA-in-Interior-Design.php">MBA in Interior Design</a></li>
+                          <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Interior-Design.php">Diploma &
+                              Advanced Diploma in <br class="d-md-none d-block"> Interior
+                              Design</a></li>
+                        </ul>
+                      </li>
+
+                      <!-- Fashion Design -->
+                      <li class="dropdown-submenu">
+                        <a class="dropdown-item dropdown-toggle" href="#">Fashion Design </a>
+                        <ul class="dropdown-menu">
+                          <li><a class="dropdown-item" href="landing-page.php">Department Overview
+                              Design</a></li>
+                          <li><a class="dropdown-item" href="B.Des-in-Fashion-Design.php">B.Des in Fashion Design</a></li>
+                          <li><a class="dropdown-item" href="MBA-in-Fashion-Design.php">MBA in Fashion Design</a></li>
+                          <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Fashion-Design.php">Diploma &
+                              Advanced Diploma in <br class="d-md-none  d-block"> Fashion
+                              Design</a></li>
+
+                        </ul>
+                      </li>
+
+                      <!-- Graphic Design -->
+                      <li class="dropdown-submenu">
+                        <a class="dropdown-item dropdown-toggle" href="#">Graphic Design </a>
+                        <ul class="dropdown-menu">
+                          <li><a class="dropdown-item" href="landing-page.php">Department Overview
+                              Design</a></li>
+                          <li><a class="dropdown-item" href="B.DES-in-Graphic-Design.php">B.DES in Graphic Design</a></li>
+                          <li><a class="dropdown-item" href="MBA-in-Graphic-Design.php">MBA in Graphic Design</a></li>
+                          <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Graphic-Design.php">Diploma &
+                              Advanced Diploma in <br class="d-md-none d-block"> Graphic Design</a>
+                          </li>
+
+                        </ul>
+                      </li>
+
+                    </ul>
+                  </li>
+
+                  <li class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+
+                      <span class="nav-btn-spacer">Admission</span>
+
+                      <span class="nav-btn-text">Admission</span>
+                      <span class="nav-btn-text-hover">Admission</span>
+                    </a>
+
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="admission_new_page.php">Admission Process</a></li>
+
+                      <!-- <li><a class="dropdown-item" href="Eligibity-Criteria.php">Eligibity Criteria</a></li> -->
+                      <li><a class="dropdown-item" href="admission-faq.php">Admission FAQ</a></li>
+                      <li><a class="dropdown-item" href="fees-payemt.php">FEES PAYMENT</a></li>
+                      <li><a class="dropdown-item" href="Book-Your-Counceling.php">Admissions Form 2026</a></li>
+                    </ul>
+                  </li>
 
 
 
 
 
 
-                <li class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-
-                    <span class="nav-btn-spacer">CAMPUS LIFE</span>
-
-                    <span class="nav-btn-text">CAMPUS LIFE</span>
-                    <span class="nav-btn-text-hover">CAMPUS LIFE</span>
-                  </a>
-
-                  <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="campus-tour.php">Campus Tour</a></li>
-                    <li><a class="dropdown-item" href="event-&-workshop.php">Events & Workshops</a></li>
-                    <li><a class="dropdown-item" href="blog.php">Blog & Resources</a></li>
 
 
-                  </ul>
-                </li>
+                  <li class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+
+                      <span class="nav-btn-spacer">CAMPUS LIFE</span>
+
+                      <span class="nav-btn-text">CAMPUS LIFE</span>
+                      <span class="nav-btn-text-hover">CAMPUS LIFE</span>
+                    </a>
+
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="campus-tour.php">Campus Tour</a></li>
+                      <li><a class="dropdown-item" href="event-&-workshop.php">Events & Workshops</a></li>
+                      <li><a class="dropdown-item" href="blog.php">Blog & Resources</a></li>
 
 
-
-                <li class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-
-                    <span class="nav-btn-spacer">Placements</span>
-
-                    <span class="nav-btn-text">Placements</span>
-                    <span class="nav-btn-text-hover">Placements</span>
-                  </a>
-
-                  <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="placement-&-carrier-support.php">Placements Overview</a></li>
-                    <li><a class="dropdown-item" href="aluminu.php">Alumni Success Stories</a></li>
-                    <!-- <li><a class="dropdown-item" href="interior.php">Student Placed</a></li> -->
-
-                  </ul>
-                </li>
+                    </ul>
+                  </li>
 
 
 
+                  <li class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
 
-                <li class="nav-item">
-                  <a href="contact.php" class="nav-link">
+                      <span class="nav-btn-spacer">Placements</span>
 
-                    <span class="nav-btn-spacer">Apply Now</span>
+                      <span class="nav-btn-text">Placements</span>
+                      <span class="nav-btn-text-hover">Placements</span>
+                    </a>
 
-                    <span class="nav-btn-text">Apply Now</span>
-                    <span class="nav-btn-text-hover">Apply Now</span>
-                  </a>
-                </li>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="placement-&-carrier-support.php">Placements Overview</a></li>
+                      <li><a class="dropdown-item" href="aluminu.php">Alumni Success Stories</a></li>
+                      <!-- <li><a class="dropdown-item" href="interior.php">Student Placed</a></li> -->
+
+                    </ul>
+                  </li>
+
+
+
+
+                  <li class="nav-item">
+                    <a href="contact.php" class="nav-link">
+
+                      <span class="nav-btn-spacer">Apply Now</span>
+
+                      <span class="nav-btn-text">Apply Now</span>
+                      <span class="nav-btn-text-hover">Apply Now</span>
+                    </a>
+                  </li>
 
                 </ul>
 
