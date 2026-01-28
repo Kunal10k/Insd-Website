@@ -503,17 +503,14 @@
 
 <section class="alumni-container p-0">
     <div class="row">
-        <div class="col-md-4 content">
+        <div class="col-md-5 content">
 
-            <h6 class="title ">Industry Partnerships & <br>Recruitment</h6>
-            <!-- <p class="para ">Debut your collections at international showcases and Times Fashion Week
-                alongside renowned designers
-                and
-                celebrities</p> -->
+            <h6 class="title ">RECOGNISED & <br>FEATURED BY</h6>
+            <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies, industry platforms, and media <br class="d-none d-md-block"> organisations.</p>
 
 
         </div>
-        <div class="col-md-8">
+        <div class="col-md-7">
             <!-- MARQUEE LEFT -->
             <div class="marquee-container">
                 <div class="marquee marquee-left">
@@ -570,8 +567,15 @@
 
 <section class="histudy-features ">
     <div class="container text-center">
-        <span class="sub-head text-center cen ">Strategic Learning</span>
-        <h2 class="title">Bridging the Gap Between <br> <span> Concept and Creation</span></h2>
+        <span class="sub-head text-center cen "> INTERIOR DESIGN AS A CAREER</span>
+        <h2 class="title"> INTERIOR DESIGN AS <br> <span> A CAREER</span></h2>
+
+        <p class="para w-75 m-auto text-center">
+            Interior design today is a professional career, not just a creative course.
+            It involves design thinking, execution, coordination, client handling, and real project responsibility.
+            INSD focuses on how the industry actually works—through studio learning, site exposure, live projects, and on-the-job training—so students graduate ready for professional roles, not just certificates.
+
+        </p>
 
         <div class="row mt-5">
 
