@@ -180,7 +180,7 @@
                     <li class="dropdown-submenu">
                       <a class="dropdown-item dropdown-toggle" href="#">Fashion Design </a>
                       <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="landing-page.php">Department Overview
+                        <li><a class="dropdown-item" href="Department-Overview-Design-fashion-design.php">Department Overview
                             Design</a></li>
                         <li><a class="dropdown-item" href="B.Des-in-Fashion-Design.php">B.Des in Fashion Design</a></li>
                         <li><a class="dropdown-item" href="MBA-in-Fashion-Design.php">MBA in Fashion Design</a></li>
@@ -385,7 +385,7 @@
                       <li class="dropdown-submenu">
                         <a class="dropdown-item dropdown-toggle" href="#">Fashion Design </a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="landing-page.php">Department Overview
+                          <li><a class="dropdown-item" href="Department-Overview-Design-fashion-design.php">Department Overview
                               Design</a></li>
                           <li><a class="dropdown-item" href="B.Des-in-Fashion-Design.php">B.Des in Fashion Design</a></li>
                           <li><a class="dropdown-item" href="MBA-in-Fashion-Design.php">MBA in Fashion Design</a></li>

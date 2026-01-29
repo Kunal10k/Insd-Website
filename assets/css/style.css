@@ -1786,6 +1786,7 @@ ul#autoTab {
   position: relative;
   overflow: hidden;
   z-index: 2;
+  text-align: left;
 
 }
 

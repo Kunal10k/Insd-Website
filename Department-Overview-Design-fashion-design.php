@@ -8,32 +8,15 @@
             <div class="row">
                 <div class="col-md-8 col-sm-12">
                     <div class="landing_content">
-                        <h5>Admissions Open | 2026 </h5>
-                        <h1 class="w-75">Launch Your Interior Design Career with INSD Kolkata and get hired
+                        <h5>Admissions Open | 2026</h5>
+                        <h1 class="w-75">Build a Career in Fashion Design with Industry-Focused Training
 
                             ​</h1>
-                        <h6 class="mt-3">Diploma | Advanced Diploma | B.Sc | B.Des | MBA</h6>
-                        <!-- <ul class="feature-list">
-                            <li>
-                                <i class="fa-solid fa-circle-check"></i>
-                                Industry-aligned, trend-forward curriculum
+                        <h6 class="mt-3">Diploma • Advanced Diploma • B.Des • B.Sc • MBA</h6>
 
-                            </li>
-                            <li>
-                                <i class="fa-solid fa-circle-check"></i>
-                                Hands-on learning in professional design studios
-
-                            </li>
-                            <li>
-                                <i class="fa-solid fa-circle-check"></i>
-                                Expert guidance from experienced fashion mentors
-
-                            </li>
-                        </ul> -->
 
                         <p class="para">
-                            Career-focused interior design education with on-the-job training, live projects, and placement support.
-                            At INSD, students learn from practicing interior designers and entrepreneurs, gaining real exposure to studio work, site execution, and professional workflows.
+                            Practical fashion education with strong industry exposure, career guidance, and placement support.
 
                         </p>
 
@@ -80,9 +63,7 @@
                                 </h6>
                                 <h5>Connect With Us</h5>
                             </div>
-                            <!-- <div class="content2">
-                                <img src="assets/img/form.png" alt="" class="img-fluid">
-                            </div> -->
+
                         </div>
 
                         <form action="" method="post" class="landing_form">
@@ -311,17 +292,16 @@
 <section class="histudy-courses ">
     <div class="container text-center">
         <!-- <p class="sub-head text-center cen ">Admission</p> -->
-        <h2 class="title text-center mb-4">INTERIOR DESIGN PROGRAMS <br><span class="histudy-highlight">AT INSD </span></h2>
+        <h2 class="title text-center mb-4">Programs Offered in Fashion <br><span class="histudy-highlight">Design & Technology</span></h2>
 
         <div class="row g-4 mt-5">
 
 
-
-            <!-- Diploma / Advanced Diploma -->
+            <!-- Diploma / Advanced Diploma in Fashion Design -->
             <div class="col-md-4">
                 <div class="course-card">
                     <div class="card-header">
-                        <h2>Diploma / Advanced Diploma in Interior Design</h2>
+                        <h2>Diploma / Advanced Diploma in Fashion Design</h2>
                         <a href="#form" class="apply-btn">View Course</a>
                     </div>
 
@@ -331,26 +311,24 @@
                     </div>
 
                     <div class="card-row">
-                        <span class="label">ELIGIBILITY:</span>
-                        <span class="value">10 Pass (Any Stream)</span>
+                        <span class="label">IDEAL FOR:</span>
+                        <span class="value">Beginners & Skill-Focused Learners</span>
                     </div>
 
                     <p class="course-desc">
-                        A progressive, skill-focused pathway that builds strong design fundamentals
-                        and advances into industry-ready training with live projects and on-the-job exposure.
+                        Hands-on programs focused on core fashion skills, studio practice,
+                        and early industry exposure to build a strong foundation.
                     </p>
-
-
                 </div>
             </div>
 
-            <!-- B.Des -->
+
+            <!-- B.Des in Fashion Design & Technology -->
             <div class="col-md-4">
                 <div class="course-card">
                     <div class="card-header">
-                        <h2>B.Des in Interior Design</h2>
+                        <h2>B.Des in Fashion Design & Technology</h2>
                         <a href="#form" class="apply-btn">View Course</a>
-
                     </div>
 
                     <div class="card-row">
@@ -359,26 +337,24 @@
                     </div>
 
                     <div class="card-row">
-                        <span class="label">ELIGIBILITY:</span>
-                        <span class="value">10+2 Pass</span>
+                        <span class="label">IDEAL FOR:</span>
+                        <span class="value">Professional Fashion Design Career</span>
                     </div>
 
                     <p class="course-desc">
-                        A full professional design degree with studio-based learning, extensive
-                        industry exposure, and portfolio development for long-term career growth.
+                        A comprehensive undergraduate degree combining fashion design,
+                        technology, live projects, and strong portfolio development.
                     </p>
-
-
                 </div>
             </div>
 
-            <!-- MBA -->
+
+            <!-- MBA in Fashion Design & Technology -->
             <div class="col-md-4">
                 <div class="course-card">
                     <div class="card-header">
-                        <h2>MBA in Interior Designing & Technology</h2>
+                        <h2>MBA in Fashion Design & Technology</h2>
                         <a href="#form" class="apply-btn">View Course</a>
-
                     </div>
 
                     <div class="card-row">
@@ -387,18 +363,18 @@
                     </div>
 
                     <div class="card-row">
-                        <span class="label">ELIGIBILITY:</span>
-                        <span class="value">Graduation (Any Stream)</span>
+                        <span class="label">IDEAL FOR:</span>
+                        <span class="value">Leadership, Management & Business Roles</span>
                     </div>
 
                     <p class="course-desc">
-                        A postgraduate program designed to prepare students for leadership,
-                        management, and business roles within the interior design industry.
+                        A postgraduate program integrating fashion, technology, and
+                        management for senior roles and entrepreneurship.
                     </p>
-
-
                 </div>
             </div>
+
+
 
 
 

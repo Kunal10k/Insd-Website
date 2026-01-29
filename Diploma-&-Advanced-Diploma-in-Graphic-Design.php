@@ -5,20 +5,49 @@
 
 
 
-<section class="inner_Section"     style="background-image: url('./assets/img/inner_banner/Diploma\ &\ Advanced\ Diploma\ in\ Graphic\ Design\ \(1\).jpg');">
+
+
+
+
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/Diploma\ &\ Advanced\ Diploma\ in\ Graphic\ Design\ \(1\).jpg');">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h6>Diploma & Advanced Diploma in Graphic Design
+                <div class="banner-top  ">
+                    <div class="banner-badge-top  ">
+                        <i class="fa-solid fa-calendar-days"></i>
+                        <span class="subtitle">1 Year | 2 Years</span>
+                    </div>
+
+                    <div class="banner-badge-top m-0">
+                        <i class="fa-solid fa-building-columns"></i>
+                        <span class="subtitle">Full-Time | On-Campus</span>
+                    </div>
+
+                    <div class="banner-badge-top mx-3">
+                        <i class="fa-solid fa-graduation-cap"></i>
+                        <span class="subtitle">10th Pass</span>
+                    </div>
+                    <div class="banner-badge-top mx-3">
+                        <i class="fa-solid fa-calendar-days"></i>
+                        <span class="subtitle">2026</span>
+                    </div>
+
+                </div>
+
+                <h6>Diploma & Advanced Diploma in Graphic Design & Technology
                 </h6>
-                <h1 class="title">Diploma & Advanced Diploma <br class="d-md-block d-none"><span>in Graphic Design  </span></h1>
+                <h1 class="title">Diploma & Advanced Diploma in <br class="d-none d-md-block"> <span>Graphic Design & Technology</span></h1>
+                <p class="para  w-50 w-sm-100    ">
+                    Practical, industry-focused graphic design programs to build creative, digital, and job-ready skills.
+                </p>
 
                 <div class="ban-btn mt-4">
 
                     <a href="#" class="btn-animated btn-light">
                         <div class="btn-text-wrap">
-                            <div class="btn-text">Apply to Join</div>
-                            <div class="btn-text-hover">Apply to Join</div>
+                            <div class="btn-text">Apply Now</div>
+                            <div class="btn-text-hover">Apply Now</div>
                         </div>
                         <div class="btn-icon-wrap">
                             <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
@@ -30,8 +59,8 @@
 
                     <a href="#" class="btn-animated btn-light1">
                         <div class="btn-text-wrap">
-                            <div class="btn-text">Download Brochure</div>
-                            <div class="btn-text-hover">Download Brochure</div>
+                            <div class="btn-text">Book Free Counselling</div>
+                            <div class="btn-text-hover">Book Free Counselling</div>
                         </div>
                         <div class="btn-icon-wrap">
                             <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
@@ -48,6 +77,9 @@
         </div>
     </div>
 </section>
+
+
+
 
 <section class="course">
     <div class="container">
@@ -122,61 +154,30 @@
                         id="overview">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
                             <div class="section-title">
-                                <h4 class="title-sm">What you'll learn</h4>
+                                <h4 class="title-sm">Program Overview</h4>
                             </div>
-                            <p class="para pb-4">Are you new to PHP or need a refresher? Then this course will help you
-                                get
-                                all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi and
-                                ending the course by building a CMS system similar to WordPress, Joomla or
-                                Drupal. Knowing PHP has allowed me to make enough money to stay home and
-                                make courses like this one for students all over the world. </p>
+                            <p class="para pb-4">
+                                The Diploma & Advanced Diploma in Graphic Design & Technology at INSD is a skill-driven program designed for students who want to build strong creative, digital, and professional design capabilities. <br><br>
+                                The program focuses on visual communication, branding, digital design, UI basics, motion graphics, and industry workflows, ensuring students learn through hands-on practice rather than theory-heavy methods. <br><br>
+                                Learning is studio-based and industry-aligned, supported by live projects, masterclasses by industry professionals, and continuous portfolio development, helping students become job-ready for agencies, studios, digital companies, and freelance careers.
 
-                            <div class="row g-5">
-                                <!-- Start Feature Box -->
-                                <div class="col-lg-6">
-                                    <ul class="rbt-list-style-1">
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Become an advanced, confident,
-                                            and
-                                            modern JavaScript developer from scratch.</li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Have an intermediate skill
-                                            level of Python
-                                            programming.</li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Have a portfolio of various
-                                            data analysis projects.
-                                        </li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Use the numpy library to create
-                                            and manipulate
-                                            arrays.</li>
-                                    </ul>
+
+                            </p>
+
+
+
+                            <a href="#" class="btn-animated btn-light mt-3">
+                                <div class="btn-text-wrap">
+                                    <div class="btn-text">Download Brochure</div>
+                                    <div class="btn-text-hover">Download Brochure</div>
                                 </div>
-                                <!-- End Feature Box -->
-
-                                <!-- Start Feature Box -->
-                                <div class="col-lg-6">
-                                    <ul class="rbt-list-style-1">
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Use the Jupyter Notebook
-                                            Environment. JavaScript
-                                            developer from scratch.</li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Use the pandas module with
-                                            Python
-                                            to create and structure data.</li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Have a portfolio of various
-                                            data analysis projects.
-                                        </li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Create data visualizations
-                                            using
-                                            matplotlib and seaborn.</li>
-                                    </ul>
+                                <div class="btn-icon-wrap">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
                                 </div>
-                                <!-- End Feature Box -->
-                            </div>
-
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, aliquam
-                                voluptas laudantium incidunt architecto nam excepturi provident rem laborum
-                                repellendus placeat neque aut doloremque ut ullam, veritatis nesciunt iusto
-                                officia alias, non est vitae.</p>
+                            </a>
                         </div>
-                        <div class="rbt-show-more-btn">Show More</div>
+
                     </div>
                     <!-- End Course Feature Box  -->
 
@@ -184,362 +185,207 @@
                     <div class="course-content rbt-shadow-box coursecontent-wrapper mt--30" id="coursecontent">
                         <div class="rbt-course-feature-inner">
                             <div class="section-title">
-                                <h4 class="title-sm pb-4">Course Content</h4>
+                                <h4 class="title-sm pb-4">Who Should Choose This Program</h4>
                             </div>
-                            <div class="rbt-accordion-style rbt-accordion-02 accordion">
-                                <div class="accordion" id="accordionExampleb2">
+                            <div class="row g-5">
+                                <!-- <h4 class="title-sm"></h4> -->
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header card-header" id="headingTwo1">
-                                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                                data-bs-target="#collapseTwo1" aria-expanded="true"
-                                                aria-controls="collapseTwo1">
-                                                Intro to Course and Histudy <span class="rbt-badge-5 ml--10">1hr
-                                                    30min</span>
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo1" class="accordion-collapse collapse show"
-                                            aria-labelledby="headingTwo1" data-bs-parent="#accordionExampleb2">
-                                            <div class="accordion-body card-body pr--0">
-                                                <ul class="rbt-course-main-content liststyle">
-                                                    <li>
-                                                        <a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Course Intro</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="min-lable">30 min</span>
-                                                                <span
-                                                                    class="rbt-badge variation-03 bg-primary-opacity"><i
-                                                                        class="feather-eye"></i>
-                                                                    Preview</span>
-                                                            </div>
-                                                        </a>
-                                                    </li>
+                                <div class="col-lg-12">
+                                    <ul class="rbt-list-style-1">
+                                        <li>
+                                            <i class="fa-solid fa-check-circle me-2"></i>
+                                            Students interested in graphic design, visual communication, and digital media
+                                        </li>
+                                        <li>
+                                            <i class="fa-solid fa-check-circle me-2"></i>
+                                            Beginners looking for a professional entry into creative and digital careers
+                                        </li>
+                                        <li>
+                                            <i class="fa-solid fa-check-circle me-2"></i>
+                                            Learners who prefer practical, skill-focused programs
+                                        </li>
+                                        <li>
+                                            <i class="fa-solid fa-check-circle me-2"></i>
+                                            Students aiming to work in design studios, agencies, startups, or freelance roles
+                                        </li>
+                                    </ul>
 
-                                                    <li>
-                                                        <a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Watch Before Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="min-lable">0.5 min</span>
-                                                                <span
-                                                                    class="rbt-badge variation-03 bg-primary-opacity"><i
-                                                                        class="feather-eye"></i>
-                                                                    Preview</span>
-                                                            </div>
-                                                        </a>
-                                                    </li>
+                                    <div class="ban-btn2">
 
-                                                    <li>
-                                                        <a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a>
-                                                    </li>
-
-                                                </ul>
+                                        <a href="#" class="btn-animated btn-light mt-4">
+                                            <div class="btn-text-wrap">
+                                                <div class="btn-text">Talk to a Course Counsellor</div>
+                                                <div class="btn-text-hover">Talk to a Course Counsellor</div>
                                             </div>
-                                        </div>
+                                            <div class="btn-icon-wrap">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                            </div>
+                                        </a>
+                                        <a href="#" class="btn-animated btn-light mt-4">
+                                            <div class="btn-text-wrap">
+                                                <div class="btn-text">Get Career Guidance</div>
+                                                <div class="btn-text-hover">Get Career Guidance</div>
+                                            </div>
+                                            <div class="btn-icon-wrap">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                            </div>
+                                        </a>
+
+
+
                                     </div>
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header card-header" id="headingTwo2">
-                                            <button class="accordion-button collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo2"
-                                                aria-expanded="false" aria-controls="collapseTwo2">
-                                                Course Fundamentals <span class="rbt-badge-5 ml--10"> 2hr
-                                                    30min</span>
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo2" class="accordion-collapse collapse"
-                                            aria-labelledby="headingTwo2" data-bs-parent="#accordionExampleb2">
-                                            <div class="accordion-body card-body pr--0">
-                                                <ul class="rbt-course-main-content liststyle">
-                                                    <li><a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Course Intro</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-                                                    <li><a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
 
-                                                    <li><a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Why You Should Not Go To
-                                                                    Education.</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-                                                    <li><a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
+                                </div>
 
 
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Ten Factors That Affect
-                                                                    Education's
-                                                                    Longevity.</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- <div class="cta-sec my-2" style="background: url(./assets/img/n1.jpg);">
+                        <div class="container">
+                            <div class="cta-content">
+                                <h5 class="sub-head text-center cen text-white">Career Guidance Support</h5>
+                                <h2 class="title text-center text-white">Unsure about career scope or professional opportunities in Fashion design?</h2>
 
 
-                                                </ul>
-                                            </div>
+                                <div class="ban-btn2">
+
+                                    <a href="#" class="btn-animated btn-light mt-4">
+                                        <div class="btn-text-wrap">
+                                            <div class="btn-text">Talk to a Course Counsellor</div>
+                                            <div class="btn-text-hover">Talk to a Course Counsellor</div>
                                         </div>
-                                    </div>
-
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header card-header" id="headingTwo3">
-                                            <button class="accordion-button collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo3"
-                                                aria-expanded="false" aria-controls="collapseTwo3">
-                                                You can develop skill and setup <span class="rbt-badge-5 ml--10">1hr
-                                                    50min</span>
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo3" class="accordion-collapse collapse"
-                                            aria-labelledby="headingTwo3" data-bs-parent="#accordionExampleb2">
-                                            <div class="accordion-body card-body pr--0">
-                                                <ul class="rbt-course-main-content liststyle">
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Course Intro</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-
-                                                </ul>
-                                            </div>
+                                        <div class="btn-icon-wrap">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
                                         </div>
-                                    </div>
-
-                                    <div class="accordion-item ">
-                                        <h2 class="accordion-header card-header" id="headingTwo4">
-                                            <button class="accordion-button collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo4"
-                                                aria-expanded="false" aria-controls="collapseTwo4">
-                                                15 Things To Know About Education? <span class="rbt-badge-5 ml--10">2hr
-                                                    60min</span>
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo4" class="accordion-collapse collapse"
-                                            aria-labelledby="headingTwo4" data-bs-parent="#accordionExampleb2">
-                                            <div class="accordion-body card-body pr--0">
-                                                <ul class="rbt-course-main-content liststyle">
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Course Intro</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-
-
-
-
-                                                </ul>
-                                            </div>
+                                    </a>
+                                    <a href="#" class="btn-animated btn-light mt-4">
+                                        <div class="btn-text-wrap">
+                                            <div class="btn-text">Get Career Guidance</div>
+                                            <div class="btn-text-hover">Get Career Guidance</div>
                                         </div>
-                                    </div>
-
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header card-header" id="headingTwo5">
-                                            <button class="accordion-button collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo5"
-                                                aria-expanded="false" aria-controls="collapseTwo5">
-                                                Course Description <span class="rbt-badge-5 ml--10">2hr 20min</span>
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo5" class="accordion-collapse collapse"
-                                            aria-labelledby="headingTwo5" data-bs-parent="#accordionExampleb2">
-                                            <div class="accordion-body card-body pr--0">
-                                                <ul class="rbt-course-main-content liststyle">
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Course Intro</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Why You Should Not Go To
-                                                                    Education.</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Ten Factors That Affect
-                                                                    Education's
-                                                                    Longevity.</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-                                                </ul>
-                                            </div>
+                                        <div class="btn-icon-wrap">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
                                         </div>
-                                    </div>
+                                    </a>
+
+
 
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- End Course Content  -->
+                    </div> -->
 
-                    <!-- Start Course Feature Box  -->
                     <div class="rbt-course-feature-box rbt-shadow-box details-wrapper mt--30" id="details">
                         <div class="row g-5">
 
-                            <!-- Start Feature Box -->
-                            <div class="col-lg-6">
-                                <div class="section-title">
-                                    <h4 class="title-sm pb-4">Requirements</h4>
-                                </div>
-                                <ul class="rbt-list-style-1">
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Become an advanced, confident, and
-                                        modern
-                                        JavaScript developer from scratch.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Have an intermediate skill level of
-                                        Python
-                                        programming.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Have a portfolio of various data
-                                        analysis
-                                        projects.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Use the numpy library to create and
-                                        manipulate
-                                        arrays.</li>
-                                </ul>
-                            </div>
-                            <!-- End Feature Box -->
+                            <h4 class="title-sm pb-4">Curriculum Overview</h4>
 
-                            <!-- Start Feature Box -->
-                            <div class="col-lg-6">
+
+
+
+
+                            <!-- LEFT COLUMN -->
+                            <div class="col-md-6">
                                 <div class="section-title">
-                                    <h4 class="title-sm pb-4">Description</h4>
+                                    <h4 class="title-sm pb-3">Core Design & Creative Skills</h4>
                                 </div>
                                 <ul class="rbt-list-style-1">
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Use the Jupyter Notebook
-                                        Environment.
-                                        JavaScript developer from scratch.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Use the pandas module with Python
-                                        to create and
-                                        structure data.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Have a portfolio of various data
-                                        analysis
-                                        projects.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Create data visualizations using
-                                        matplotlib and
-                                        seaborn.</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Fundamentals of design and visual communication</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Design principles, layout composition, colour theory, and typography</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Illustration concepts, creative thinking, and visual storytelling</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Branding, advertising creatives, and print design execution</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Motion graphics and animation fundamentals</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Video editing, audio-visual communication, and multimedia content creation</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>UI/UX fundamentals and design thinking approach</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Wireframing, prototyping, and interface design basics</li>
                                 </ul>
                             </div>
-                            <!-- End Feature Box -->
+
+                            <!-- RIGHT COLUMN -->
+                            <div class="col-md-6">
+                                <div class="section-title">
+                                    <h4 class="title-sm pb-3">Professional Practice & Industry Exposure</h4>
+                                </div>
+                                <ul class="rbt-list-style-1">
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Graphic design using Adobe Photoshop, Illustrator, CorelDRAW & InDesign</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Responsive digital layouts and interactive design concepts</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Portfolio development and professional presentation</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Communication skills, grooming, and client interaction</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Understanding real-world industry workflows</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Getting clients, pitching projects, and managing briefs</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Live projects with top brands every semester</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Masterclasses by industry professionals and entrepreneurs</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Studio-based practical assignments with continuous portfolio building</li>
+                                </ul>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="section-title">
+                                    <h4 class="title-sm pb-3">Learning Experience & Practical Training</h4>
+                                </div>
+                                <ul class="rbt-list-style-1">
+                                    <!-- OLD DATA -->
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Studio-based, hands-on learning environment</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Real-world creative briefs and design assignments</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Industry-oriented tools, workflows, and processes</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Workshops, exhibitions, competitions, and presentations</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Continuous mentor feedback and portfolio reviews</li>
+
+
+                                </ul>
+
+                                <div class="ban-btn2">
+
+                                    <a href="#" class="btn-animated btn-light mt-4">
+                                        <div class="btn-text-wrap">
+                                            <div class="btn-text">Book Free Counselling</div>
+                                            <div class="btn-text-hover">Book Free Counselling</div>
+                                        </div>
+                                        <div class="btn-icon-wrap">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                        </div>
+                                    </a>
+                                    <a href="#" class="btn-animated btn-light mt-4">
+                                        <div class="btn-text-wrap">
+                                            <div class="btn-text">Speak to an Academic Advisor</div>
+                                            <div class="btn-text-hover">Speak to an Academic Advisor</div>
+                                        </div>
+                                        <div class="btn-icon-wrap">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                        </div>
+                                    </a>
+
+
+
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="section-title">
+                                    <h4 class="title-sm pb-3">Infrastructure & Design Facilities</h4>
+                                </div>
+                                <ul class="rbt-list-style-1">
+                                    <!-- OLD DATA -->
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>High-performance computer labs</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Industry-standard graphic design software</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Dedicated digital and creative design studios</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Presentation, critique, and review spaces</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Resource-rich, professional learning environment</li>
+
+
+                                </ul>
+                            </div>
+
+
 
                         </div>
                     </div>
@@ -550,35 +396,35 @@
                     <div class="rbt-instructor rbt-shadow-box intructor-wrapper mt--30" id="intructor">
                         <div class="about-author border-0 pb--0 pt--0">
                             <div class="section-title mb--30">
-                                <h4 class="title-sm">Instructor</h4>
-                            </div>
+                                <h4 class="title-sm">Industry Mentors & Instructors</h4>
+                                <p class="para">
+                                    Students learn from experienced faculty, practicing graphic designers, digital creators, and industry professionals. <br><br>
+                                    Learning is enhanced through masterclasses, design reviews, live projects, and industry interactions, giving students real-world exposure beyond the classroom.
 
+                                </p>
+                                <div class="student-grid mt-4">
 
-                            <div class="instructor-carousel owl-carousel">
-                                <div class="instructor-card">
-                                    <img src="assets/img/7-insd.jpg" alt="">
-                                    <h4>John Carter</h4>
-                                    <p>Senior Web Developer</p>
-                                </div>
+                                    <div class="student-box">
+                                        <img src="assets/img/fashion/place-1.jpg" alt="">
+                                        <h5>Rishita Sengupta</h5>
+                                        <p>Interior Design Faculty</p>
+                                    </div>
 
-                                <div class="instructor-card">
-                                    <img src="assets/img/8-insd.jpg" alt="">
-                                    <h4>Priya Verma</h4>
-                                    <p>Data Science Expert</p>
-                                </div>
+                                    <div class="student-box">
+                                        <img src="assets/img/fashion/place-2.jpg" alt="">
+                                        <h5>Damini Bhattacharya</h5>
+                                        <p>Senior Interior Designer</p>
+                                    </div>
 
-                                <div class="instructor-card">
-                                    <img src="assets/img/9-insd.jpg" alt="">
-                                    <h4>David Brown</h4>
-                                    <p>UI/UX Designer</p>
-                                </div>
-
-                                <div class="instructor-card">
-                                    <img src="assets/img/1 (2).jpg" alt="">
-                                    <h4>Angela White</h4>
-                                    <p>Marketing Mentor</p>
+                                    <div class="student-box">
+                                        <img src="assets/img/fashion/place-3.jpg" alt="">
+                                        <h5>Sneha Singh</h5>
+                                        <p>Design Professional – Space Planning & Visualization</p>
+                                    </div>
                                 </div>
                             </div>
+
+
 
 
                         </div>
@@ -593,228 +439,210 @@
 
                         <div class="has-show-more-inner-content">
 
-                            <div class="section-title">
-                                <h4 class="title-sm pb-4">Student Placement</h4>
+
+
+                            <div class="row">
+
+
+                                <div class="col-lg-12">
+
+                                    <!-- Career Opportunities & Placements -->
+                                    <div class="section-title mt-5">
+                                        <h4 class="title-sm pb-3">Career Opportunities & Placements</h4>
+                                    </div>
+
+                                    <h6 class="mb-2">Career Roles</h6>
+                                    <ul class="rbt-list-style-1">
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>Graphic Designer</li>
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>Visual / Creative Designer</li>
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>Branding & Advertising Executive</li>
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>Digital Media Designer</li>
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>Junior UI / Creative Designer</li>
+                                    </ul>
+
+                                    <h6 class="mt-4 mb-2">Placement Support</h6>
+                                    <ul class="rbt-list-style-1">
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>100% Placement Assistance</li>
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>Exposure to design studios, agencies, startups & digital companies</li>
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>Career guidance, portfolio preparation & interview support</li>
+                                    </ul>
+
+                                    <a href="#" class="btn-animated btn-light mt-3">
+                                        <div class="btn-text-wrap">
+                                            <div class="btn-text">Get Placement Details</div>
+                                            <div class="btn-text-hover">Get Placement Details</div>
+                                        </div>
+                                        <div class="btn-icon-wrap">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+                                        </div>
+                                    </a>
+
+                                    <hr class="my-5">
+
+                                    <!-- Eligibility & Admission -->
+                                    <div class="section-title">
+                                        <h4 class="title-sm pb-3">Eligibility & Admission Snapshot</h4>
+                                    </div>
+
+                                    <ul class="rbt-list-style-1">
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>Diploma: 10th Pass</li>
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>Advanced Diploma: 10th Pass</li>
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>No prior design background required</li>
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>Creativity and interest in design encouraged</li>
+                                    </ul>
+
+                                    <div class="btn-group mt-3">
+                                        <a href="#" class="btn-animated btn-light me-3">
+                                            <div class="btn-text-wrap">
+                                                <div class="btn-text">Check Eligibility</div>
+                                                <div class="btn-text-hover">Check Eligibility</div>
+                                            </div>
+                                            <div class="btn-icon-wrap">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+                                            </div>
+                                        </a>
+
+                                        <a href="#" class="btn-animated btn-light">
+                                            <div class="btn-text-wrap">
+                                                <div class="btn-text">Apply Now</div>
+                                                <div class="btn-text-hover">Apply Now</div>
+                                            </div>
+                                            <div class="btn-icon-wrap">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <hr class="my-5">
+
+                                    <!-- Scholarships -->
+                                    <div class="section-title">
+                                        <h4 class="title-sm pb-3">Scholarships</h4>
+                                    </div>
+
+                                    <ul class="rbt-list-style-1">
+                                        <li><i class="fa-solid fa-circle-check me-2"></i>Scholarship and financial assistance options available for eligible students</li>
+                                    </ul>
+
+                                    <div class="btn-group mt-3">
+                                        <a href="#" class="btn-animated btn-light me-3">
+                                            <div class="btn-text-wrap">
+                                                <div class="btn-text">Get Fee Details</div>
+                                                <div class="btn-text-hover">Get Fee Details</div>
+                                            </div>
+                                            <div class="btn-icon-wrap">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+                                            </div>
+                                        </a>
+
+                                        <a href="#" class="btn-animated btn-light">
+                                            <div class="btn-text-wrap">
+                                                <div class="btn-text">Talk to a Counsellor</div>
+                                                <div class="btn-text-hover">Talk to a Counsellor</div>
+                                            </div>
+                                            <div class="btn-icon-wrap">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+                                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                </div>
+
+
+
+
                             </div>
-
-                            <div class="student-grid">
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-1.jpg" alt="">
-                                    <h5>Rishita Sengupta</h5>
-                                    <p>Placed at: <span>H&M</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-2.jpg" alt="">
-                                    <h5>Damini Bhattacharya</h5>
-                                    <p>Placed at: <span>Jaipur Rugs</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-3.jpg" alt="">
-                                    <h5>Sneha Singh</h5>
-                                    <p>Placed at: <span>Ritu Kumar</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-4.jpg" alt="">
-                                    <h5>Abhishek Mishra</h5>
-                                    <p>Placed at: <span>Levi’s</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-5.jpg" alt="">
-                                    <h5>Prity Dutta</h5>
-                                    <p>Placed at: <span>Manish</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-6.jpg" alt="">
-                                    <h5>Muskan Agarwal</h5>
-                                    <p>Placed at: <span>Anandadhara Line</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-2.jpg" alt="">
-                                    <h5>Naziya Khan</h5>
-                                    <p>Placed at: <span>Puma</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-1.jpg" alt="">
-                                    <h5>Ritika Sharma</h5>
-                                    <p>Placed at: <span>Puma</span></p>
-                                </div>
-
-                            </div>
-
-                            <div class="recruiter-section">
-                                <h3 class="title-sm pb-4">Our Recruiters</h3>
-
-                                <div class="recruiter-carousel owl-carousel">
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/Aditya_Birla_Group_Logo.svg-300x184.png"
-                                            alt="Recruiter Logo">
-                                    </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/gap-logo-png_seeklogo-59170-300x300.png"
-                                            alt="Recruiter Logo">
-                                    </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/images-4-300x158.png" alt="Recruiter Logo">
-                                    </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/images-5-300x104.png" alt="Recruiter Logo">
-                                    </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/LVMH-logo-300x87.png" alt="Recruiter Logo">
-                                    </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/puma-logo-design-history-and-evolution-kreafolk_a042e2da-4ee1-4b78-a7be-c7c2e6acf65a-300x180.webp"
-                                            alt="Recruiter Logo">
-                                    </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/RedressLogo-10-300x157.png" alt="Recruiter Logo">
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
-
-                        <div class="rbt-show-more-btn">Show More</div>
                     </div>
 
 
-                    <!-- End placement Area  -->
-
-
                 </div>
 
             </div>
         </div>
 </section>
 
-
-<section class="student-work">
+<section class="video-testimonial-section">
     <div class="container">
-        <h5 class="sub-head text-center cen">Student work</h5>
-        <h2 class="title text-center">WALK THE STAGE <span>AS A DESIGNER</span></h2>
+        <h2 class="title text-center">Student <span>Testimonials</span></h2>
 
-        <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+        <div class="owl-carousel video-testimonial-slider mt-4 owl-loaded owl-drag">
 
-        <div class="student-work-grid">
 
-            <div class="work-item">
-                <a href="assets/img/1 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/1 (2).jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Fashion Design</h4>
+
+
+
+
+
+            <div class="owl-stage-outer">
+                <div class="owl-stage" style="transform: translate3d(-1514px, 0px, 0px); transition: 0.25s; width: 3409px;">
+                    <div class="owl-item cloned" style="width: 358.667px; margin-right: 20px;">
+                        <div class="video-testimonial-item">
+                            <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen=""></iframe>
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 358.667px; margin-right: 20px;">
+                        <div class="video-testimonial-item">
+                            <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen=""></iframe>
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 358.667px; margin-right: 20px;">
+                        <div class="video-testimonial-item">
+                            <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen=""></iframe>
+
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 358.667px; margin-right: 20px;">
+                        <div class="video-testimonial-item">
+                            <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen=""></iframe>
+
+                        </div>
+                    </div>
+                    <div class="owl-item active" style="width: 358.667px; margin-right: 20px;">
+                        <div class="video-testimonial-item">
+                            <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen=""></iframe>
+
+                        </div>
+                    </div>
+                    <div class="owl-item active" style="width: 358.667px; margin-right: 20px;">
+                        <div class="video-testimonial-item">
+                            <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen=""></iframe>
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned active" style="width: 358.667px; margin-right: 20px;">
+                        <div class="video-testimonial-item">
+                            <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen=""></iframe>
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 358.667px; margin-right: 20px;">
+                        <div class="video-testimonial-item">
+                            <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen=""></iframe>
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 358.667px; margin-right: 20px;">
+                        <div class="video-testimonial-item">
+                            <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen=""></iframe>
+
+                        </div>
+                    </div>
                 </div>
             </div>
-
-            <div class="work-item">
-                <a href="assets/img/2 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/2 (2).jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Illustration</h4>
-                </div>
-            </div>
-
-            <div class="work-item">
-                <a href="assets/img/6-insd.jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/6-insd.jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Garment Construction</h4>
-                </div>
-            </div>
-
-            <div class="work-item">
-                <a href="assets/img/3 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/3 (2).jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Portfolio Work</h4>
-                </div>
-            </div>
-
+            <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
+            <div class="owl-dots disabled"><button role="button" class="owl-dot active"><span></span></button></div>
         </div>
     </div>
 </section>
 
-
-
-<section class="related-courses">
-    <div class="container">
-        <h5 class="sub-head text-center cen">Related Courses</h5>
-        <h2 class="title text-center">Our Related <span>Course</span></h2>
-
-        <div class="related-course-grid">
-
-            <!-- <div class="course-card">
-        <div class="course-img">
-          <img src="assets/img/fashion.jpg" alt="Course">
-        </div>
-        <div class="course-info">
-          <h4>Fashion Designing Course</h4>
-          <p>Beginner to Advanced</p>
-        </div>
-      </div> -->
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/graph.webp" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>Graphic Designing Course</h4>
-                    <p>Photoshop • Illustrator • CorelDraw</p>
-                </div>
-            </div>
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/INTERIOR.jpg" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>Interior Designing Course</h4>
-                    <p>AutoCAD • 3Ds Max • V-Ray</p>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- newslater start -->
 
 <section class="newsletter-section">
     <div class="newsletter-left-wrapper">
@@ -869,18 +697,22 @@
     </div>
 
     <div class="newsletter-content">
-        <p class="sub-head text-center text-white">Explore your creative potential with expert-led programs in</p>
-        <h2 class="title text-white">Start your <br>creative journey in</h2>
+        <!-- <p class="sub-head text-center text-white">Start Your Interior Design Journey at INSD Kolkata</p> -->
+        <h2 class="title text-white">Start Your Graphic Design Career with INSD</h2>
         <!-- <p class="search-line">
       Get found on search <span class="google-pill"><i class="fa-brands fa-google"></i> Find best Marketing Course</span> without pay for every click.
     </p> -->
         <div class="buttons">
-            <a href="#" class="btn-outline"><i class="fa-solid fa-download"></i> Download Course Outline</a>
-            <!-- <a href="#" class="btn-fill">Reserve My Spot <i class="fa-solid fa-arrow-right"></i></a> -->
+
+
+            <a href="#" class="btn-outline"><i class="fa-solid fa-download"></i> Download Brochure</a>
+
+
             <a href="#" class="btn-animated btn-light mt-0">
                 <div class="btn-text-wrap">
-                    <div class="btn-text">Reserve My Spot</div>
-                    <div class="btn-text-hover">Reserve My Spot</div>
+                    <div class="btn-text">Apply Now Book Counselling
+                    </div>
+                    <div class="btn-text-hover">Apply Now Book Counselling</div>
                 </div>
                 <div class="btn-icon-wrap">
                     <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
@@ -943,10 +775,6 @@
         </div>
     </div>
 </section>
-
-<!-- newslater End -->
-
-
 
 
 <?php include 'inside/footer.php' ?>
