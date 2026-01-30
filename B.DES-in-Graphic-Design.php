@@ -34,13 +34,10 @@
                 <h6>Bachelor of Design (B.Des) in Graphic Design & Technology
                 </h6>
                 <h1 class="title">Bachelor of Design (B.Des) in <br class="d-none d-md-block"> <span>Graphic Design & Technology</span> </h1>
-                <p class="para  w-50 w-sm-100    ">
-
-
-
-
+                <p class="para w-100 w-lg-50">
                     Industry-driven graphic design education combining creativity, digital tools, technology, and real-world practice to build industry-ready designers.
                 </p>
+
 
                 <div class="ban-btn mt-4">
 
@@ -127,7 +124,7 @@
             <div class="col-lg-8 col-md-12">
                 <div class="course-details-content">
 
-                    <!-- <div class="rbt-inner-onepage-navigation sticky-top mt--30">
+                    <div class="rbt-inner-onepage-navigation sticky-top mt--30">
                         <nav class="mainmenu-nav onepagenav">
                             <ul class="mainmenu">
                                 <li class="current">
@@ -147,7 +144,7 @@
                                 </li>
                             </ul>
                         </nav>
-                    </div> -->
+                    </div>
 
                     <!-- Start Course Feature Box  -->
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more"
