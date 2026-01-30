@@ -210,15 +210,14 @@
 
             <!-- Right Content -->
             <div class="col-lg-8 edu-content">
-                <span class="sub-head text-center  ">WHY CHOOSE US</span>
+                <span class="sub-head text-center  ">About Fashion Design & Technology</span>
                 <h2 class="edu-heading title ">
-                    Where Your Creative Vision Gets a
-                    <span>Professional Edge </span>
+                    About Fashion Design <span>& Technology</span>
                 </h2>
-                <div class="custom-info-section py-5">
+                <!-- <div class="custom-info-section py-5">
                     <div class="row row-cols-1 row-cols-md-2 g-5 position-relative">
 
-                        <!-- Feature 1 -->
+                    
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
                                 <i class="fa-solid fa-trophy fa-2x text-warning-custom"></i>
@@ -232,7 +231,7 @@
                             </div>
                         </div>
 
-                        <!-- Feature 2 -->
+                     
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
                                 <i class="fa-solid fa-briefcase fa-2x text-warning-custom"></i>
@@ -246,7 +245,7 @@
                             </div>
                         </div>
 
-                        <!-- Feature 3 -->
+                     
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
                                 <i class="fa-solid fa-person-walking-luggage fa-2x text-warning-custom"></i>
@@ -260,7 +259,7 @@
                             </div>
                         </div>
 
-                        <!-- Feature 4 -->
+                     
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
                                 <i class="fa-solid fa-scissors fa-2x text-warning-custom"></i>
@@ -275,9 +274,13 @@
                         </div>
 
                     </div>
-                </div>
+                </div> -->
 
+                <p class="para">
+                    Fashion Design & Technology is a career-driven field that blends creativity, technical skills, and industry execution. It goes beyond designing garments to understanding materials, production processes, technology tools, branding, and market demands. <br><br>
+                    With the fashion industry evolving rapidly, professionals who combine design sensibility with practical training and industry exposure are in high demand across studios, brands, export houses, retail, and entrepreneurial ventures.
 
+                </p>
 
             </div>
 
@@ -391,9 +394,9 @@
 
 <section class="video-testimonial-section">
     <div class="container">
-        <h2 class="title text-center">LIFE AT <span>INSD</span></h2>
+        <h2 class="title text-center">Student Life <span>at INSD</span></h2>
         <p class="para w-50 m-auto text-center">
-            A professional learning environment with studios, workshops, exhibitions, site visits, and industry-led activities.
+            From fashion shows and student collections to workshops, exhibitions, and campus events, student life at INSD is vibrant, creative, and industry-facing.
         </p>
 
         <div class="owl-carousel video-testimonial-slider mt-4">
@@ -428,8 +431,12 @@
 
 <section class="mentor-area">
     <div class="container">
-        <p class="sub-head text-center cen ">QUALIFIED TEACHERS</p>
-        <h2 class="title text-center ">Meet the teacher who <br> teaches you online</h2>
+        <!-- <p class="sub-head text-center cen ">QUALIFIED TEACHERS</p> -->
+        <h2 class="title text-center ">Industry Mentors & <br> <span>Masterclasses</span></h2>
+
+        <p class="w-75 m-auto text-center">Learn from practicing fashion designers, entrepreneurs, and industry professionals.
+            Students regularly interact with industry experts through masterclasses, workshops, live projects, design reviews, and industry sessions, gaining real-world insights beyond the classroom.
+        </p>
 
         <div class="owl-carousel mentor-owl mt-5">
 
@@ -482,7 +489,7 @@
         <div class="col-md-5 content">
 
             <h6 class="title ">RECOGNISED & <br>FEATURED BY</h6>
-            <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies, industry platforms, and media <br class="d-none d-md-block"> organisations.</p>
+            <!-- <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies, industry platforms, and media <br class="d-none d-md-block"> organisations.</p> -->
 
 
         </div>
@@ -735,103 +742,44 @@
 <section class="place">
     <img src="assets/img/girl.webp" alt="" class="img-fluid place_set_img">
     <div class="container">
-        <h6 class="title text-center mb-5">CAREERS & <span>PLACEMENTS</span></h6>
+        <h6 class="title text-center mb-5">Career Opportunities <br> <span>& Placements</span></h6>
 
         <div class="place-wrap ">
 
-            <!-- CARD 1 -->
+
             <div class="place-card card-geo">
                 <div class="place-head">
-
-                    <span class="sub-head   ">Career Roles</span>
+                    <span class="sub-head">Career Roles</span>
                     <div class="place-icon"><i class="fas fa-chart-line"></i></div>
                 </div>
 
                 <h2 class="place-title">Career Roles</h2>
-                <!-- <div class="place-sub">Standard</div> -->
-
-                <!-- <div class="place-stat">
-                    <span class="stat-name">Highest CTC</span>
-                    <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
-                </div>
-
-                <div class="place-stat">
-                    <span class="stat-name">Average CTC</span>
-                    <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
-                </div> -->
-
-                <!-- <div class="place-foot">*Placement statistics 2023–24</div> -->
 
                 <ul class="course-features mt-3">
-                    <li><i class="fa-solid fa-check-circle"></i>Interior Designer</li>
-                    <li><i class="fa-solid fa-check-circle"></i>Design Consultant</li>
-                    <li><i class="fa-solid fa-check-circle"></i> Space Planner</li>
-                    <li><i class="fa-solid fa-check-circle"></i>Project Coordinator</li>
-                    <li><i class="fa-solid fa-check-circle"></i>Design Manager (MBA)</li>
+                    <li><i class="fa-solid fa-check-circle"></i>Fashion Designer</li>
+                    <li><i class="fa-solid fa-check-circle"></i>Apparel Designer</li>
+                    <li><i class="fa-solid fa-check-circle"></i>Fashion Stylist</li>
+                    <li><i class="fa-solid fa-check-circle"></i>Fashion Merchandiser</li>
+                    <li><i class="fa-solid fa-check-circle"></i>Fashion Consultant</li>
+                    <li><i class="fa-solid fa-check-circle"></i>Entrepreneur / Fashion Brand Owner</li>
                 </ul>
             </div>
 
-            <!-- CARD 2 (DEFAULT ACTIVE) -->
             <div class="place-card card-premium is-active">
                 <div class="place-head">
-                    <span class="sub-head  ">Placement Support</span>
-
+                    <span class="sub-head">Placement Highlights</span>
                     <div class="place-icon"><i class="fas fa-star"></i></div>
                 </div>
 
-                <h2 class="place-title">Placement Support</h2>
-                <!-- <div class="place-sub">Premium</div> -->
-                <!-- 
-                <div class="place-stat">
-                    <span class="stat-name">Highest CTC</span>
-                    <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
-                </div>
-
-                <div class="place-stat">
-                    <span class="stat-name">Average CTC</span>
-                    <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
-                </div>
-
-                <div class="place-foot">*Placement statistics 2023–24</div> -->
-
+                <h2 class="place-title">Placement Highlights</h2>
 
                 <ul class="course-features mt-3">
                     <li><i class="fa-solid fa-check-circle"></i>100% Placement Assistance</li>
-                    <li><i class="fa-solid fa-check-circle"></i> Opportunities across studios, real estate firms, and design companies</li>
-
+                    <li><i class="fa-solid fa-check-circle"></i>Opportunities across fashion brands, studios, export houses, and retail organisations</li>
                 </ul>
             </div>
 
-            <!-- CARD 3 -->
-            <div class="place-card card-dots">
-                <div class="place-head">
-                    <span class="sub-head  ">STUDENT EXPERIENCES</span>
 
-                    <div class="place-icon"><i class="fas fa-brain"></i></div>
-                </div>
-
-                <h2 class="place-title">STUDENT EXPERIENCES</h2>
-                <!-- <div class="place-sub">Advanced</div> -->
-
-                <!-- <div class="place-stat">
-                    <span class="stat-name">Highest CTC</span>
-                    <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
-                </div>
-
-                <div class="place-stat">
-                    <span class="stat-name">Average CTC</span>
-                    <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
-                </div>
-
-                <div class="place-foot">*Placement statistics 2023–24</div> -->
-
-
-                <ul class="course-features mt-3">
-                    <li><i class="fa-solid fa-check-circle"></i>Real stories from students on learning, projects, and career growth.</li>
-
-
-                </ul>
-            </div>
 
         </div>
     </div>
@@ -845,7 +793,7 @@
             <div class="career-left">
                 <!-- <span class="career-label">Get Involved</span> -->
                 <h1 class="career-title">
-                    Start Your Interior Design Career with INSD
+                    Start Your Fashion Design Career at INSD
                 </h1>
                 <div class="mt-4">
                     <a href="#form" class="btn-animated btn-light">
