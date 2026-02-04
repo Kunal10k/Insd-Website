@@ -66,50 +66,49 @@
 
                         </div>
 
-                        <form action="" method="post" class="landing_form">
+
+                        <form action="landing.php" method="post" class="landing_form">
 
                             <!-- Name -->
-                            <div>
+                            <div class="mb-3">
                                 <label class="form-label">Full Name</label>
-                                <input type="text" class="form-control" name="name" placeholder="Enter your name"
-                                    required>
+                                <input type="text" class="form-control" name="name"
+                                    placeholder="Enter your name" required>
                             </div>
 
                             <!-- Email -->
-                            <div>
+                            <div class="mb-3">
                                 <label class="form-label">Email Address</label>
-                                <input type="email" class="form-control" name="email" placeholder="Enter your email"
-                                    required>
+                                <input type="email" class="form-control" name="email"
+                                    placeholder="Enter your email" required>
                             </div>
 
                             <!-- Phone -->
-                            <div>
+                            <div class="mb-3">
                                 <label class="form-label">Mobile Number</label>
                                 <div class="input-group">
                                     <span class="input-group-text">+91</span>
                                     <input type="tel" class="form-control" name="phone"
-                                        placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
+                                        placeholder="Enter mobile number"
+                                        pattern="[0-9]{10}" maxlength="10" required>
                                 </div>
                             </div>
 
 
 
-                            <!-- Submit -->
-                            <button type="submit" class="btn-animated btn-light ">
+
+                            <button type="submit" name="submit" class="btn-animated btn-light ">
                                 <div class="btn-text-wrap">
                                     <div class="btn-text">Apply to Join</div>
                                     <div class="btn-text-hover">Apply to Join</div>
                                 </div>
                                 <div class="btn-icon-wrap">
-                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                        alt="Arrow" class="btn-icon">
-                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                        alt="Arrow" class="btn-icon-hover">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
                                 </div>
                             </button>
 
                         </form>
-
                     </div>
 
                 </div>

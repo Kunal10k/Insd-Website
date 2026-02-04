@@ -30,9 +30,12 @@
                 <h6>Bachelor of Design (B.Des) in Fashion Design & Technology
                 </h6>
                 <h1 class="title">Bachelor of Design (B.Des) <br class="d-none d-md-block">in Fashion <span>Design & Technology</span> </h1>
-                <p class="para  w-50 w-sm-100    ">
-                    Industry-driven fashion design education with hands-on studio <br class="d-none d-md-block"> training, technology integration, and strong career focus.
+                <p class="para w-100 w-md-50 mx-auto">
+                    Industry-driven fashion design education with hands-on studio
+                    <br class="d-none d-md-block">
+                    training, technology integration, and strong career focus.
                 </p>
+
 
                 <div class="ban-btn mt-4">
 

@@ -24,6 +24,11 @@
 
     }
 
+    .icn-bx-ul a {
+        color: #fff;
+    }
+
+
 
     .enquery {
         display: none !important;
@@ -869,6 +874,23 @@
     .sticky-menu {
         padding: 14px;
 
+    }
+
+    .form-label {
+        font-size: 85%;
+
+    }
+
+    .inner_Section .para {
+        display: none;
+    }
+
+    .alumni-container .para {
+        text-align: center !important;
+    }
+
+    .landing_banner .btn-animated {
+        margin-top: 11px;
     }
 
     .cta-content h2 {

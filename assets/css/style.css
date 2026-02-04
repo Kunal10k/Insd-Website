@@ -529,7 +529,7 @@ header.sticky .dropdown-toggle::after {
 .ban-sec {
   position: relative;
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 30px;
   z-index: 2;
   overflow: hidden;
   display: flex;
@@ -564,7 +564,7 @@ header.sticky .dropdown-toggle::after {
   z-index: 2;
 }
 
-.bg-zoom::before {
+/* .bg-zoom::before {
   content: "";
   position: absolute;
   bottom: 0px;
@@ -576,7 +576,7 @@ header.sticky .dropdown-toggle::after {
   width: 100%;
   height: 116px;
   z-index: 9;
-}
+} */
 
 .ban-sec>*:not(.bg-zoom) {
   position: relative;
@@ -5661,7 +5661,7 @@ img.img-mg2 {
   background: #fff;
   padding: 15px;
   border-radius: 15px !important;
-  min-height: 372px;
+  min-height: 250px !important;
 }
 
 .card-header {
@@ -9442,4 +9442,108 @@ textarea {
 
 .modal_form {
   border-radius: 30px;
+}
+
+/* ******** Home page counter *******  */
+.stats-wrap {
+  padding: var(--global_padding);
+  /* background: #0f172a; */
+}
+
+.stats-container {
+  max-width: 1200px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 22px;
+}
+
+.stat-card {
+  position: relative;
+  padding: 30px;
+  border-radius: 18px;
+  color: #fff;
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  overflow: hidden;
+  transition: 0.4s ease;
+}
+
+.stat-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(120deg, rgba(255, 255, 255, 0.18), transparent);
+  opacity: 0;
+  transition: 0.4s;
+}
+
+.stat-card:hover::after {
+  opacity: 1;
+}
+
+.stat-card:hover {
+  transform: translateY(-10px) scale(1.02);
+}
+
+.stat-icon {
+  min-width: 64px;
+  height: 64px;
+  border-radius: 16px;
+  display: grid;
+  place-items: center;
+  font-size: 30px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.stat-number {
+  display: block;
+  font-size: 28px;
+  font-weight: 800;
+}
+
+.stat-text {
+  font-size: 15px;
+  opacity: 0.9;
+}
+
+/* Light / Soft Color Variants */
+
+.stat-yellow {
+  background: linear-gradient(135deg,
+      #f5e9ff 0%,
+      #fde2f3 100%);
+}
+
+.stat-blue {
+  background: linear-gradient(135deg,
+      #eef2ff 0%,
+      #e0e7ff 100%);
+}
+
+.stat-dark {
+  background: linear-gradient(135deg,
+      #fff1f2 0%,
+      #ffe4e6 100%);
+}
+
+.stat-red {
+  background: linear-gradient(135deg,
+      #e0f2fe 0%,
+      #bae6fd 100%);
+}
+
+
+/* Responsive */
+@media (max-width: 992px) {
+  .stats-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 576px) {
+  .stats-container {
+    grid-template-columns: 1fr;
+  }
 }

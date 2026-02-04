@@ -1,357 +1,2040 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php include 'inside/header.php' ?>
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Application Form</title>
+<section class="ban">
 
-<!-- Font Awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <div class="enquery" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+    <i class="fa-solid fa-pen-to-square"></i>
+    <span>Enquery Now</span>
+  </div>
 
-<style>
 
-/* Main Content */
-.appinform-main {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 40px 0;
-  gap: 40px;
-}
 
-/* Career Counselling Section */
-.appinform-counselling {
-  flex: 1;
-  min-width: 300px;
-  background-color: white;
-  border-radius: 8px;
-  padding: 30px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
-}
 
-.appinform-counselling h2 {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
-  color: #0c2340;
-  font-size: 1.8rem;
-  margin-bottom: 25px;
-  padding-bottom: 15px;
-  border-bottom: 2px solid #e31e24;
-}
+  <div class="item">
+    <div class="ban-sec">
 
-.appinform-counselling-list {
-  list-style: none;
-  padding: 0;
-}
+      <div class="bg-zoom" style="background-image: url('./assets/img/sliderbg.jpg');"></div>
 
-.appinform-counselling-list li {
-  padding: 15px 0;
-  border-bottom: 1px solid #eee;
-  display: flex;
-  align-items: center;
-  font-size: 1.1rem;
-}
+      <div class="container">
 
-.appinform-counselling-list li:last-child {
-  border-bottom: none;
-}
+        <div class="row">
+          <div class="col-md-6">
+            <div class="ban-cont">
 
-.appinform-counselling-list i {
-  color: #e31e24;
-  margin-right: 15px;
-  font-size: 1.2rem;
-  width: 24px;
-}
+              <div class="banner-top">
+                <div class="banner-badge-top">
+                  <div class="icon">
+                    <div class="rating">
+                      <a href="#"><i class="fa fa-star"></i></a>
+                      <a href="#"><i class="fa fa-star"></i></a>
+                      <a href="#"><i class="fa fa-star"></i></a>
+                      <a href="#"><i class="fa fa-star"></i></a>
+                      <a href="#"><i class="fa fa-star"></i></a>
+                    </div>
+                  </div>
+                  <span class="subtitle">100% Placement Assistance</span>
+                </div>
 
-/* Application Form Section */
-.appinform-form-section {
-  flex: 2;
-  min-width: 300px;
-  background-color: white;
-  border-radius: 8px;
-  padding: 30px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
-}
+                <div class="banner-badge-top">
+                  <div class="icon">
+                    <svg width="25" height="25" viewBox="0 0 24 24" fill="none" stroke="#ec008c" stroke-width="2"
+                      stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M12 2l7 4v6c0 5-3.5 9-7 10-3.5-1-7-5-7-10V6l7-4z"></path>
+                      <path d="M9 12l3 3 4-5"></path>
+                    </svg>
+                  </div>
+                  <span class="subtitle">200+ Brands Associated</span>
+                </div>
 
-.appinform-form-header {
-  margin-bottom: 30px;
-}
 
-.appinform-form-header h2 {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
-  color: #0c2340;
-  font-size: 2.2rem;
-  margin-bottom: 5px;
-}
+              </div>
 
-.appinform-form-header p {
-  color: #666;
-  font-size: 1.1rem;
-}
+              <h1 class="title-ban">
+                Have your dream design career in
+                <span class="cd-headline slide">
+                  <span id="words-wrapper" class="cd-words-wrapper">
+                    <b class="theme-gradient is-visible">Fashion Designing</b>
+                    <b class="theme-gradient is-hidden">Interior Designing</b>
+                    <b class="theme-gradient is-hidden">Graphic Designing</b>
+                  </span>
+                </span>
+              </h1>
 
-.appinform-form-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  margin-bottom: 25px;
-}
 
-.appinform-form-group {
-  flex: 1;
-  min-width: 250px;
-}
+              <h5 class="hero-subheading pb-3">Industry-driven design education focused on practical learning and career
+                outcomes. </h5>
 
-.appinform-form-group label {
-  display: block;
-  margin-bottom: 8px;
-  font-weight: 600;
-  color: #444;
-}
+              <div>
+                <ul class="feature-list mt-2 d-flex gap-5">
 
-.appinform-form-control {
-  width: 100%;
-  padding: 12px 15px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 1rem;
-  transition: border 0.3s;
-}
+                  <li><i class="fa-solid fa-briefcase"></i> <strong>Industry-Led Learning</strong></li>
+                  <li><i class="fa-solid fa-location-dot"></i> <strong>Salt Lake Campus, Kolkata</strong></li>
+                </ul>
+              </div>
 
-.appinform-form-control:focus {
-  outline: none;
-  border-color: #00a0df;
-  box-shadow: 0 0 0 2px rgba(0, 160, 223, 0.2);
-}
+              <div class="ban-btn">
 
-/* Radio */
-.appinform-radio-group {
-  display: flex;
-  gap: 20px;
-  margin-top: 8px;
-}
+                <a href="#" class="btn-animated btn-light">
+                  <div class="btn-text-wrap">
+                    <div class="btn-text">Apply to Join</div>
+                    <div class="btn-text-hover">Apply to Join</div>
+                  </div>
+                  <div class="btn-icon-wrap">
+                    <img
+                      src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                      alt="Arrow" class="btn-icon">
+                    <img
+                      src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                      alt="Arrow" class="btn-icon-hover">
+                  </div>
+                </a>
 
-.appinform-radio-option {
-  display: flex;
-  align-items: center;
-}
+                <a href="#" class="btn-animated btn-light1">
+                  <div class="btn-text-wrap">
+                    <div class="btn-text">Explore our Courses</div>
+                    <div class="btn-text-hover">Explore our Courses</div>
+                  </div>
+                  <div class="btn-icon-wrap">
+                    <img
+                      src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
+                      alt="Arrow" class="btn-icon">
+                    <img
+                      src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                      alt="Arrow" class="btn-icon-hover">
+                  </div>
+                </a>
 
-.appinform-radio-option input {
-  margin-right: 8px;
-}
 
-/* Checkbox */
-.appinform-checkbox-group {
-  display: flex;
-  align-items: flex-start;
-  margin-top: 25px;
-}
 
-.appinform-checkbox-group input {
-  margin-top: 5px;
-  margin-right: 10px;
-}
+              </div>
 
-/* Submit Button */
-.appinform-submit-btn {
-  background-color: #e31e24;
-  color: white;
-  border: none;
-  padding: 15px 40px;
-  font-size: 1.2rem;
-  font-weight: 600;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: background-color 0.3s;
-  margin-top: 20px;
-  display: block;
-  width: 100%;
-}
 
-.appinform-submit-btn:hover {
-  background-color: #c4171d;
-}
 
-/* Note */
-.appinform-note {
-  margin-top: 25px;
-  padding: 15px;
-  background-color: #f0f8ff;
-  border-left: 4px solid #00a0df;
-  font-size: 0.95rem;
-  color: #555;
-}
+            </div>
+          </div>
+          <div class="col-md-6">
+            <img src="assets/img/insd (1).png" alt="" class="ban-img">
+          </div>
+        </div>
 
-/* Phone Input */
-.appinform-phone-input {
-  display: flex;
-}
 
-.appinform-country-code {
-  background-color: #f5f5f5;
-  padding: 12px 15px;
-  border: 1px solid #ccc;
-  border-right: none;
-  border-radius: 4px 0 0 4px;
-  font-weight: 600;
-}
 
-.appinform-phone-input .appinform-form-control {
-  border-radius: 0 4px 4px 0;
-}
+      </div>
+    </div>
+  </div>
 
-/* Responsive */
-@media (max-width: 992px) {
-  .appinform-main {
-    flex-direction: column;
-  }
-}
 
-@media (max-width: 576px) {
-  .appinform-form-row {
-    flex-direction: column;
-  }
-}
+</section>
 
-</style>
-</head>
 
-<body>
 
-<div class="appinform-main">
+<!-- About start -->
 
-  <!-- Counselling Section -->
-  <section class="appinform-counselling">
-    <h2>Career Counselling</h2>
-    <ul class="appinform-counselling-list">
-      <li><i class="fas fa-chalkboard-teacher"></i> Expert Career Guidance</li>
-      <li><i class="fas fa-road"></i> Personalized Career Path Mapping</li>
-      <li><i class="fas fa-handshake"></i> Industry Connect & Networking</li>
-      <li><i class="fas fa-chart-line"></i> Skill Gap Analysis</li>
-      <li><i class="fas fa-id-card"></i> Portfolio Development Assistance</li>
-      <li><i class="fas fa-globe-asia"></i> Global Design Opportunities</li>
-    </ul>
-  </section>
+<section class="about-sec">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <h2 class="title">We are <span>#insdians</span> <br> by design.</h2>
+      </div>
+      <div class="col-md-7">
+        <h4 class="about-para">INSD Kolkata stands at the forefront of design education in Eastern India, combining
+          visionary academics with hands-on industry exposure. As a nationally recognized institution, we offer a
+          dynamic learning environment where innovation, creativity, and professionalism converge.
+        </h4>
 
-  <!-- Form Section -->
-  <section class="appinform-form-section">
-    <div class="appinform-form-header">
-      <h2>ONLINE APPLICATION FORM</h2>
-      <p>APPLICATION FORM (2026)</p>
+        <div class="mt-4">
+          <a href="#" class="btn-animated btn-light">
+            <div class="btn-text-wrap">
+              <div class="btn-text">Discover More</div>
+              <div class="btn-text-hover">Discover More</div>
+            </div>
+            <div class="btn-icon-wrap">
+              <img
+                src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                alt="Arrow" class="btn-icon">
+              <img
+                src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                alt="Arrow" class="btn-icon-hover">
+            </div>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <div class="top-circle-shape"></div>
+</section>
+
+
+<section class="gallery-wrap">
+  <div class="container">
+    <h2 class="title text-center">INSD <span>Kolkata</span> <br></h2>
+    <p class="para text-center">Explore our studios, classrooms, and creative campus.</p>
+
+    <div class="gallery mt-4" id="gallery">
+
+      <div class="item">
+        <img src="<?php echo get_template_directory_uri(); ?>/assets/img/INTERIOR DESIGN FACULTY.jpg"
+          class="img-card img-left" id="leftImg">
+      </div>
+
+      <div class="item">
+        <div class="video-card" id="centerVideo">
+          <video muted autoplay loop playsinline poster="assets/img/you-vf.jpeg">
+            <source src="assets/img/Welcome to INSD Kolkata!.mp4" type="video/mp4">
+          </video>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="assets/img/career.jpg" class="img-card img-right" id="rightImg">
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+<section class="course-sec">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <h2 class="title">Our <span>Courses</span></h2>
+      </div>
+      <div class="col-md-7">
+        <p class="para">Our University provides world-class education, drives innovation, and prepares future leaders.
+          With modern facilities and a vibrant community, we empower students to succeed and make lasting impact.</p>
+
+        <a href="#" class="btn-animated btn-light mt-4 mb-5">
+          <div class="btn-text-wrap">
+            <div class="btn-text">Talk to our Counsellor</div>
+            <div class="btn-text-hover">Talk to our Counsellor</div>
+          </div>
+          <div class="btn-icon-wrap ">
+            <img
+              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+              alt="Arrow" class="btn-icon">
+            <img
+              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+              alt="Arrow" class="btn-icon-hover">
+          </div>
+        </a>
+      </div>
     </div>
 
-    <form>
+    <div class="tab-sec">
+      <!-- Tabs -->
+      <ul class="nav nav-pills justify-content-center mb-4" id="libraryTabs" role="tablist">
+        <li class="nav-item" role="presentation">
+          <button class="nav-link active" id="research-tab" data-bs-toggle="pill" data-bs-target="#research"
+            type="button" role="tab">Fashion</button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="innovation-tab" data-bs-toggle="pill" data-bs-target="#innovation" type="button"
+            role="tab">Interior</button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="community-tab" data-bs-toggle="pill" data-bs-target="#community" type="button"
+            role="tab">Graphic</button>
+        </li>
+      </ul>
 
-      <div class="appinform-form-row">
-        <div class="appinform-form-group">
-          <label>Full Name</label>
-          <input type="text" class="appinform-form-control" placeholder="Enter your full name" required>
-        </div>
-        <div class="appinform-form-group">
-          <label>Email Address</label>
-          <input type="email" class="appinform-form-control" placeholder="Enter your email address" required>
-        </div>
-      </div>
+      <!-- Tab Content -->
+      <div class="tab-content" id="libraryTabsContent">
+        <!-- Research -->
+        <div class="tab-pane show active" id="research" role="tabpanel">
 
-      <div class="appinform-form-row">
-        <div class="appinform-form-group">
-          <label>Choose a Stream</label>
-          <select class="appinform-form-control" required>
-            <option selected disabled>Select your stream</option>
-            <option>Fashion Design</option>
-            <option>Interior Design</option>
-            <option>Graphic Design</option>
-            <option>Product Design</option>
-            <option>Animation & VFX</option>
-          </select>
-        </div>
-        <div class="appinform-form-group">
-          <label>Preferred Course</label>
-          <select class="appinform-form-control" required>
-            <option selected disabled>Select your preferred course</option>
-            <option>Bachelor of Design (B.Des)</option>
-            <option>Diploma in Design</option>
-            <option>Master of Design (M.Des)</option>
-            <option>Certificate Course</option>
-          </select>
-        </div>
-      </div>
+          <div class="course-card-grid">
 
-      <div class="appinform-form-row">
-        <div class="appinform-form-group">
-          <label>Mobile Number</label>
-          <div class="appinform-phone-input">
-            <div class="appinform-country-code">+91</div>
-            <input type="tel" class="appinform-form-control" placeholder="9912345678" required>
+            <!-- Interior Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
+                <h2>Interior Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Studio-based interior design learning</li>
+                <li><i class="fa-solid fa-check-circle"></i> Live projects & site exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light ">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Interior Design</div>
+                  <div class="btn-text-hover">Explore Interior Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+            </div>
+
+            <!-- Fashion Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
+
+                <h2>Fashion Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Design development & technical training</li>
+                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light ">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Fashion Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+
+
+            </div>
+
+            <!-- Graphic Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
+
+                <h2>Graphic Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Visual communication & branding skills</li>
+                <li><i class="fa-solid fa-check-circle"></i> Digital tools & real-world briefs</li>
+                <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light ">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Graphic Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+
+
+            </div>
+
           </div>
         </div>
-        <div class="appinform-form-group">
-          <label>City</label>
-          <input type="text" class="appinform-form-control" placeholder="Enter your city" required>
-        </div>
-      </div>
 
-      <div class="appinform-form-row">
-        <div class="appinform-form-group">
-          <label>Highest Qualification</label>
-          <select class="appinform-form-control" required>
-            <option selected disabled>Select qualification</option>
-            <option>12th Standard</option>
-            <option>Diploma</option>
-            <option>Bachelor's Degree</option>
-            <option>Master's Degree</option>
-          </select>
-        </div>
 
-        <div class="appinform-form-group">
-          <label>Select Campus</label>
-          <select class="appinform-form-control" required>
-            <option>Kolkata</option>
-            <option>Seoul Campus</option>
-          </select>
-        </div>
-      </div>
+        <!-- Innovation -->
+        <div class="tab-pane fade" id="innovation" role="tabpanel">
+          <div class="course-card-grid">
 
-      <div class="appinform-form-row">
-        <div class="appinform-form-group">
-          <label>Mode of Study</label>
-          <div class="appinform-radio-group">
-            <div class="appinform-radio-option">
-              <input type="radio" name="mode" checked> Full Time
+            <!-- Interior Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
+                <h2>Interior Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Studio-based interior design learning</li>
+                <li><i class="fa-solid fa-check-circle"></i> Live projects & site exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Interior Design</div>
+                  <div class="btn-text-hover">Explore Interior Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
             </div>
-            <div class="appinform-radio-option">
-              <input type="radio" name="mode"> Part Time
+
+            <!-- Fashion Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
+
+                <h2>Fashion Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Design development & technical training</li>
+                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Fashion Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+
+
+            </div>
+
+            <!-- Graphic Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
+
+                <h2>Graphic Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Visual communication & branding skills</li>
+                <li><i class="fa-solid fa-check-circle"></i> Digital tools & real-world briefs</li>
+                <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Graphic Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <!-- Community -->
+        <div class="tab-pane fade" id="community" role="tabpanel">
+
+          <div class="course-card-grid">
+
+            <!-- Interior Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
+                <h2>Interior Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Studio-based interior design learning</li>
+                <li><i class="fa-solid fa-check-circle"></i> Live projects & site exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Interior Design</div>
+                  <div class="btn-text-hover">Explore Interior Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+            </div>
+
+            <!-- Fashion Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
+
+                <h2>Fashion Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Design development & technical training</li>
+                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Fashion Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+
+
+            </div>
+
+            <!-- Graphic Design -->
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
+
+                <h2>Graphic Designing</h2>
+
+                <ul class="btn_xzz">
+                  <li>Bachelor’s</li>
+                  <li>Master’s</li>
+                  <li>Diploma</li>
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i> Visual communication & branding skills</li>
+                <li><i class="fa-solid fa-check-circle"></i> Digital tools & real-world briefs</li>
+                <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
+              </ul>
+
+              <a href="#" class="btn-animated btn-light mt-4">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Graphic Design</div>
+                  <div class="btn-text-hover">Explore Graphic Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- tab start -->
+<section class="course mb-0">
+  <div class="container">
+
+    <h5 class="sub-head text-center cen">Our Vision</h5>
+    <h2 class="title text-center">Empowering the Next <span>Generation of Designers</span></h2>
+    <p class="para text-center">Our University provides world-class education, drives innovation, and prepares future
+      leaders. <br> With modern facilities and a vibrant community, we empower students to succeed and make lasting
+      impact.</p>
+
+    <div class="tab-section">
+      <div class="row g-5">
+        <div class="col-lg-4 col-md-12 order-2 order-lg-1">
+          <h4 class="mb-4 fw-bold"></h4>
+          <ul class="nav nav-tabs tab-button-list mt-5" id="autoTab" role="tablist">
+            <li class="nav-item"><a class="nav-link tab-button active" data-bs-toggle="tab" href="#content1">Inspiring
+                Surroundings</a></li>
+            <li class="nav-item"><a class="nav-link tab-button" data-bs-toggle="tab" href="#content2">
+                Endless Opportunities</a></li>
+            <li class="nav-item"><a class="nav-link tab-button" data-bs-toggle="tab" href="#content3">Fashion Shows &
+                Events</a></li>
+            <li class="nav-item"><a class="nav-link tab-button" data-bs-toggle="tab" href="#content4">The Creative
+                Bug</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-8 col-md-12 order-1 order-lg-2">
+          <div class="tab-content">
+            <div class="tab-pane fade show active" id="content1"><img src="assets/img/new-photo/01.jpeg"
+                alt="Courses Layout"></div>
+            <div class="tab-pane fade" id="content2"><img src="assets/img/new-photo/02- (1).jpeg" alt="Header Layout">
+            </div>
+            <div class="tab-pane fade" id="content3"><img src="assets/img/new-photo/02- (2).jpeg" alt="Toolkit"></div>
+            <div class="tab-pane fade" id="content4"><img src="assets/img/new-photo/04.jpeg" alt="Flexible"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="why-choose">
+  <div class="container">
+    <div class="row align-items-center">
+
+      <div class="col-md-7">
+        <h5 class="sub-head">Why Choose INSD Kolkata</h5>
+        <h2 class="title">
+          Excellence That <br>
+          <span>Builds Your Creative Career</span>
+        </h2>
+
+        <p class="para">
+          INSD Kolkata offers an industry-driven curriculum designed to transform creativity into
+          real-world success. With hands-on studio learning, expert mentorship, and a strong
+          career-focused approach, we prepare students to lead in the design industry.
+        </p>
+
+        <div class="benifit-wraps">
+
+          <div class="benefit-item">
+            <div class="icon-circle">
+              <i class="bi bi-patch-check-fill"></i>
+            </div>
+            <div class="benefit-text">
+              <h5>Industry-Driven Curriculum</h5>
+              <p>Courses designed as per current industry standards and trends.</p>
+            </div>
+          </div>
+
+          <div class="benefit-item">
+            <div class="icon-circle">
+              <i class="bi bi-patch-check-fill"></i>
+            </div>
+            <div class="benefit-text">
+              <h5>Studio-Based Practical Learning</h5>
+              <p>Hands-on training through live projects and real design studios.</p>
+            </div>
+          </div>
+
+          <div class="benefit-item">
+            <div class="icon-circle">
+              <i class="bi bi-patch-check-fill"></i>
+            </div>
+            <div class="benefit-text">
+              <h5>Expert-Led Masterclasses</h5>
+              <p>Learn directly from industry professionals and creative leaders.</p>
+            </div>
+          </div>
+
+          <div class="benefit-item">
+            <div class="icon-circle">
+              <i class="bi bi-patch-check-fill"></i>
+            </div>
+            <div class="benefit-text">
+              <h5>Affordable Quality Education</h5>
+              <p>Premium design education that remains accessible and cost-effective.</p>
+            </div>
+          </div>
+
+          <div class="benefit-item">
+            <div class="icon-circle">
+              <i class="bi bi-patch-check-fill"></i>
+            </div>
+            <div class="benefit-text">
+              <h5>Career-Focused Approach</h5>
+              <p>Strong placement support, portfolio building, and career guidance.</p>
+            </div>
+          </div>
+
+        </div>
+
+
+
+      </div>
+
+      <div class="col-md-5">
+        <img src="assets/img/insdimage.jpeg" alt="INSD Kolkata Campus" class="img-fluid rounded">
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="marquee-container tab-sec ws">
+
+  <!-- <h5 class="sub-head text-center">Beyond the Classroom</h5> -->
+  <h2 class="title text-center">Life at <span>INSD</span></h2>
+  <p class="para text-center">
+    Our University provides world-class education, drives innovation, and prepares future leaders.
+  </p>
+
+  <!-- Tabs -->
+  <ul class="nav nav-pills justify-content-center gap-3 mb-4 mt-4" id="lifeTabs">
+    <li class="nav-item">
+      <button class="nav-link active" data-bs-toggle="pill" data-bs-target="#workshops">Workshops</button>
+    </li>
+    <li class="nav-item">
+      <button class="nav-link" data-bs-toggle="pill" data-bs-target="#exhibitions">Exhibitions</button>
+    </li>
+    <li class="nav-item">
+      <button class="nav-link" data-bs-toggle="pill" data-bs-target="#fashion">Fashion Shows</button>
+    </li>
+    <li class="nav-item">
+      <button class="nav-link" data-bs-toggle="pill" data-bs-target="#student">Student Life</button>
+    </li>
+  </ul>
+
+  <!-- Tab Content -->
+  <div class="tab-content">
+
+    <!-- WORKSHOPS -->
+    <div class="tab-pane fade show active pt-0" id="workshops">
+      <div class="marquee-wrapper">
+        <!-- <div class="marquee-track run"> -->
+        <div class="marquee-track1 marquee-left overflow-hidden">
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (1).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (1).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (2).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (3).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (3).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (4).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (4).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (5).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (5).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+
+
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (1).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (1).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (2).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (3).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (3).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (4).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (4).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/05- (5).jpg" data-fancybox="workshops">
+              <img class="bg-img" src="assets/img/new-photo/05- (5).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Creative workshops with industry mentors.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=11">
+                <span>Design Lab<br><small>Hands-on Learning</small></span>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+      </div>
+    </div>
+
+    <!-- EXHIBITIONS -->
+    <div class="tab-pane fade" id="fashion">
+      <div class="marquee-wrapper">
+        <div class="marquee-track">
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (1).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/06- (1).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (8).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/06- (8).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (9).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/06- (9).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (10).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/06- (10).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (11).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/06- (11).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+
+
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (1).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/new-photo/06- (1).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (8).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/new-photo/06- (8).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (9).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/new-photo/06- (9).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (10).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/new-photo/06- (10).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/06- (11).jpg" data-fancybox="fashion">
+              <img class="bg-img" src="assets/img/new-photo/06- (11).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Annual exhibitions showcasing student creativity.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=22">
+                <span>Design Expo<br><small>Student Work</small></span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- FASHION -->
+    <div class="tab-pane fade" id="exhibitions">
+      <div class="marquee-wrapper">
+        <div class="marquee-track">
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/07- (1).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (1).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/07- (2).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/07- (3).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (3).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/07- (4).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (4).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/07- (5).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (5).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/07- (6).jpg" data-fancybox="exhibitions">
+              <img class="bg-img" src="assets/img/new-photo/07- (6).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>Live fashion shows with professional ramp walks.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=33">
+                <span>Fashion Week<br><small>Runway Show</small></span>
+              </div>
+            </div>
+          </div>
+
+
+
+
+        </div>
+      </div>
+    </div>
+
+    <!-- STUDENT LIFE -->
+    <div class="tab-pane fade" id="student">
+      <div class="marquee-wrapper">
+        <div class="marquee-track">
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/p1- (1).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (1).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/p1- (2).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/p1- (3).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (3).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/p1- (4).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (4).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/p1- (1).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (1).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/p1- (2).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (2).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/p1- (3).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (3).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <a href="assets/img/new-photo/p1- (4).jpg" data-fancybox="student-life">
+              <img class="bg-img" src="assets/img/new-photo/p1- (4).jpg">
+            </a>
+            <div class="testimonial-content">
+              <p>A vibrant campus filled with creativity & fun.</p>
+              <div class="author">
+                <img class="avatar" src="https://picsum.photos/30/30?random=44">
+                <span>Campus Life<br><small>Events & Culture</small></span>
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</section>
+
+
+<section class="cta-sec">
+  <div class="container">
+    <div class="cta-content">
+      <h5 class="sub-head text-center cen text-white">Not sure which design course is right for you?</h5>
+      <h2 class="title text-center text-white">Not sure which design course is right for you?</h2>
+      <p class="para text-center text-white">Join us today and take the first step toward a successful and
+        creative future.</p>
+
+      <div class="ban-btn2">
+
+        <a href="#" class="btn-animated btn-light mt-4">
+          <div class="btn-text-wrap">
+            <div class="btn-text">Talk to a Counsellor | Book Free Counselling</div>
+            <div class="btn-text-hover">Talk to a Counsellor | Book Free Counselling</div>
+          </div>
+          <div class="btn-icon-wrap">
+            <img
+              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+              alt="Arrow" class="btn-icon">
+            <img
+              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+              alt="Arrow" class="btn-icon-hover">
+          </div>
+        </a>
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="career-zone">
+  <div class="career-wrapper">
+
+    <!-- LEFT -->
+    <div class="career-info">
+      <h2 class="title">
+        PLACEMENTS & <br>
+        <span>RECRUITERS</span>
+      </h2>
+      <p class="para">Where talent meets industry</p>
+      <div class="career-metrics mt-3">
+
+        <div class="metric-box">
+          <div class="metric-icon">
+            <i class="fa-solid fa-check"></i>
+          </div>
+          <div class="e21">
+            <h3>100%</h3>
+            <p>Placement Assistance</p>
+          </div>
+        </div>
+
+        <div class="metric-box">
+          <div class="metric-icon">
+            <i class="fa-solid fa-users"></i>
+          </div>
+          <div class="e21">
+
+            <h3>200+</h3>
+            <p>Industry Partners</p>
+          </div>
+        </div>
+
+        <div class="metric-box">
+          <div class="metric-icon">
+            <i class="fa-solid fa-briefcase"></i>
+          </div>
+          <div class="e21">
+
+            <h3>850+</h3>
+            <p>Students Placed</p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- RIGHT -->
+    <div class="career-brands">
+      <h4 class="title text-center mb-3">Our Hiring <span>Partners</span></h4>
+
+      <div class="brand-grid">
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-5.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-4.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-3.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-2.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-1.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-5.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-4.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-3.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-2.png" alt="Accenture">
+        </div>
+        <div class="brand-tile">
+          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-1.png" alt="Accenture">
+        </div>
+
+
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+
+
+
+
+
+<section class="student-test">
+  <div class="">
+    <div class="container">
+      <h5 class="sub-head text-center cen">Testimonial</h5>
+      <h2 class="title text-center">Experiences That Reflect <br> <span>Our Impact</span></h2>
+
+      <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
+    </div>
+    <div class="marquee-container1">
+      <div class="marquee-track1 marquee-right">
+        <div class="card">
+          <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=1" alt="Student">
+            <div>
+              <div class="name">Harsh Tiwari</div>
+              <div class="role">B.Tech, Bangalore</div>
             </div>
           </div>
         </div>
 
-        <div class="appinform-form-group">
-          <label>Source of Inquiry</label>
-          <select class="appinform-form-control">
-            <option selected disabled>How did you hear about us?</option>
-            <option>Friend</option>
-            <option>Social Media</option>
-            <option>Website</option>
-            <option>Newspaper</option>
-          </select>
+        <div class="card bg-blue">
+          <p>“The projects and hands-on tasks made learning fun and practical. I feel confident now.”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=2" alt="Student">
+            <div>
+              <div class="name">Sneha Mehra</div>
+              <div class="role">MCA, Mumbai</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=3" alt="Student">
+            <div>
+              <div class="name">Aditya Joshi</div>
+              <div class="role">B.Sc CS, Pune</div>
+            </div>
+          </div>
+        </div>
+        <div class="card bg-blue">
+          <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=3" alt="Student">
+            <div>
+              <div class="name">Aditya Joshi</div>
+              <div class="role">B.Sc CS, Pune</div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=3" alt="Student">
+            <div>
+              <div class="name">Aditya Joshi</div>
+              <div class="role">B.Sc CS, Pune</div>
+            </div>
+          </div>
+        </div>
+        <!-- Duplicate cards for smooth loop -->
+        <div class="card">
+          <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=1" alt="Student">
+            <div>
+              <div class="name">Harsh Tiwari</div>
+              <div class="role">B.Tech, Bangalore</div>
+            </div>
+          </div>
+        </div>
+        <div class="card bg-blue">
+          <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=1" alt="Student">
+            <div>
+              <div class="name">Harsh Tiwari</div>
+              <div class="role">B.Tech, Bangalore</div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=1" alt="Student">
+            <div>
+              <div class="name">Harsh Tiwari</div>
+              <div class="role">B.Tech, Bangalore</div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=1" alt="Student">
+            <div>
+              <div class="name">Harsh Tiwari</div>
+              <div class="role">B.Tech, Bangalore</div>
+            </div>
+          </div>
+        </div>
+        <div class="card bg-blue">
+          <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=1" alt="Student">
+            <div>
+              <div class="name">Harsh Tiwari</div>
+              <div class="role">B.Tech, Bangalore</div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=1" alt="Student">
+            <div>
+              <div class="name">Harsh Tiwari</div>
+              <div class="role">B.Tech, Bangalore</div>
+            </div>
+          </div>
         </div>
       </div>
+    </div>
 
-      <div class="appinform-checkbox-group">
-        <input type="checkbox" required>
-        <label>I agree to be contacted via phone, SMS & email</label>
+    <div class="marquee-container1">
+      <div class="marquee-track1 marquee-left">
+        <div class="card">
+          <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=4" alt="Student">
+            <div>
+              <div class="name">Arjun Mehra</div>
+              <div class="role">MBA, Gurgaon</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <p>“The community and mentors made me stay motivated throughout. Fantastic learning experience.”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=5" alt="Student">
+            <div>
+              <div class="name">Sanya Verma</div>
+              <div class="role">BBA, Delhi NCR</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card bg-blue">
+          <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=6" alt="Student">
+            <div>
+              <div class="name">Rohit Patel</div>
+              <div class="role">B.Tech, Ahmedabad</div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=6" alt="Student">
+            <div>
+              <div class="name">Rohit Patel</div>
+              <div class="role">B.Tech, Ahmedabad</div>
+            </div>
+          </div>
+        </div>
+        <div class="card bg-blue">
+          <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=6" alt="Student">
+            <div>
+              <div class="name">Rohit Patel</div>
+              <div class="role">B.Tech, Ahmedabad</div>
+            </div>
+          </div>
+        </div>
+        <!-- Duplicate cards -->
+        <div class="card">
+          <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=4" alt="Student">
+            <div>
+              <div class="name">Arjun Mehra</div>
+              <div class="role">MBA, Gurgaon</div>
+            </div>
+          </div>
+        </div>
+        <div class="card bg-blue">
+          <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=4" alt="Student">
+            <div>
+              <div class="name">Arjun Mehra</div>
+              <div class="role">MBA, Gurgaon</div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=4" alt="Student">
+            <div>
+              <div class="name">Arjun Mehra</div>
+              <div class="role">MBA, Gurgaon</div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=4" alt="Student">
+            <div>
+              <div class="name">Arjun Mehra</div>
+              <div class="role">MBA, Gurgaon</div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=4" alt="Student">
+            <div>
+              <div class="name">Arjun Mehra</div>
+              <div class="role">MBA, Gurgaon</div>
+            </div>
+          </div>
+        </div>
+        <div class="card bg-blue">
+          <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+          <div class="rating">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+          </div>
+          <div class="profile">
+            <img src="https://picsum.photos/50?random=4" alt="Student">
+            <div>
+              <div class="name">Arjun Mehra</div>
+              <div class="role">MBA, Gurgaon</div>
+            </div>
+          </div>
+        </div>
       </div>
+    </div>
 
-      <button class="appinform-submit-btn">Submit Application</button>
+  </div>
+</section>
 
-      <div class="appinform-note">
-        <strong>Note:</strong> Documents required only at admission confirmation.
+
+
+
+
+
+
+
+
+<section class="cta">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-lg-7"></div>
+      <div class="col-md-12 col-lg-5">
+        <div class="contact-form">
+          <h2> Your Next Step <span>Starts Here</span> </h2>
+
+          <form>
+            <label for="name">Full name*</label>
+            <input type="text" id="name" name="name" placeholder="Mason Ethan" required>
+
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email" placeholder="yourmail@email.com">
+
+            <label for="phone">Phone Number*</label>
+            <input type="tel" id="phone" name="phone" placeholder="+91 98765 43210" pattern="[0-9+ ]{10,15}" required>
+
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Example Text"></textarea>
+
+            <a href="#" class="btn-animated btn-light">
+              <div class="btn-text-wrap">
+                <div class="btn-text">Submit</div>
+                <div class="btn-text-hover">Submit</div>
+              </div>
+              <div class="btn-icon-wrap">
+                <img
+                  src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                  alt="Arrow" class="btn-icon">
+                <img
+                  src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                  alt="Arrow" class="btn-icon-hover">
+              </div>
+            </a>
+          </form>
+
+        </div>
       </div>
+    </div>
 
-    </form>
-  </section>
 
+  </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+<section class="newsletter-section">
+  <div class="newsletter-left-wrapper">
+    <div class="newsletter-left-image-div">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be64d1c2819da190063_newsletter-image-left1.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="4b9dde6d-dbc7-7693-7b8f-ea03fcd00ba9" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be5815fd0bdca4f1748_newsletter-image-left2.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="99926619-004e-9283-51f2-7b861e14d06f" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6867537dc41f6f206_newsletter-image-left3.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="18fecd25-17fa-6655-6756-30ed05f3c108" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be67c712ee92ad86809_newsletter-image-left4.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="8da9a065-14c9-de25-6c22-e91783b8e630" alt="" class="newsletter-left-image">
+    </div>
+    <div class="newsletter-left-image-div">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be79670f43a10527d61_newsletter-image-left5.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="8014587a-3644-7c15-f91f-49f6182c4a53" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be74d1c2819da19015f_newsletter-image-left6.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="8014587a-3644-7c15-f91f-49f6182c4a54" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be99085694b727def7a_newsletter-image-left7.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="8014587a-3644-7c15-f91f-49f6182c4a55" alt="" class="newsletter-left-image blending-effect">
+    </div>
+    <div class="newsletter-left-image-div">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beac732184ccd633b83_newsletter-image-left8.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcb" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beb94c68e37e28172f3_newsletter-image-left9.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcc" alt="" class="newsletter-left-image">
+    </div>
+    <div class="newsletter-left-image-div">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec1e6f2d8016ef8e11_newsletter-image-left10.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="bf77ee2c-682f-0f3d-c5c0-cc01d432d90b" alt="" class="newsletter-left-image blending-effect">
+    </div>
+  </div>
+
+  <div class="newsletter-content">
+    <p class="sub-head text-center text-white">Explore your creative potential with expert-led programs in</p>
+    <h2 class="title text-white">Start your design journey <br>at INSD Kolkata</h2>
+    <!-- <p class="search-line">
+      Get found on search <span class="google-pill"><i class="fa-brands fa-google"></i> Find best Marketing Course</span> without pay for every click.
+    </p> -->
+    <div class="buttons">
+      <a href="#" class="btn-outline"><i class="fa-solid fa-download"></i> Apply Now | Book Counselling </a>
+      <!-- <a href="#" class="btn-fill">Reserve My Spot <i class="fa-solid fa-arrow-right"></i></a> -->
+      <a href="#" class="btn-animated btn-light mt-0">
+        <div class="btn-text-wrap">
+          <div class="btn-text"> Download Brochure</div>
+          <div class="btn-text-hover"> Download Brochure</div>
+        </div>
+        <div class="btn-icon-wrap">
+          <img
+            src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+            alt="Arrow" class="btn-icon">
+          <img
+            src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+            alt="Arrow" class="btn-icon-hover">
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="newsletter-right-wrapper">
+    <div class="newsletter-right-image-div">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be66594d3d3bb3cf7f5_newsletter-image-right10.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258d1" alt="" class="newsletter-left-image blending-effect">
+    </div>
+    <div class="newsletter-right-image-div">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf225be3aabcd407616_newsletter-image-right8.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258ce" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6c59f64210bb9a996_newsletter-image-right9.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258cf" alt="" class="newsletter-left-image">
+    </div>
+    <div class="newsletter-right-image-div">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef071e66fe0b7aaa33_newsletter-image-right5.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258ca" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf073081d734817875c_newsletter-image-right6.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258cb" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf0ab2ec63aa8541de6_newsletter-image-right7.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258cc" alt="" class="newsletter-left-image blending-effect">
+    </div>
+    <div class="newsletter-right-image-div">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637c4b7ccb0ab128c31ed6_newsletter-image-right1.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c5" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bee8ea2ed5d5905120c_newsletter-image-right2.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c6" alt="" class="newsletter-left-image blending-effect">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef47df0be4638364d4_newsletter-image-right3.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c7" alt="" class="newsletter-left-image">
+      <img
+        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec8b32069242907e7a_newsletter-image-right4.jpg"
+        loading="lazy"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c8" alt="" class="newsletter-left-image">
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="modal fade" id="enquiryModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-sm">
+    <div class="modal-content p-0"> <!-- REQUIRED -->
+
+      <div class="modal-body p-0">
+
+        <div class="landing_wrapper position-relative">
+
+          <!-- Close Button -->
+          <button type="button" class="btn-close position-absolute top-0 end-0 m-3" data-bs-dismiss="modal"
+            aria-label="Close">
+          </button>
+
+          <!-- Heading -->
+          <div class="form_content p-2 text-center">
+            <h5>Connect With Us</h5>
+          </div>
+
+          <!-- Form -->
+          <form action="landing.php" method="post" class="landing_form pb-4">
+
+            <!-- Name -->
+            <div class="mb-1">
+              <label class="form-label">Full Name</label>
+              <input type="text" class="form-control" name="name" placeholder="Enter your name" required>
+            </div>
+
+            <!-- Email -->
+            <div class="mb-1">
+              <label class="form-label">Email Address</label>
+              <input type="email" class="form-control" name="email" placeholder="Enter your email" required>
+            </div>
+
+            <!-- Phone -->
+            <div class="mb-1">
+              <label class="form-label">Mobile Number</label>
+              <div class="input-group">
+                <span class="input-group-text">+91</span>
+                <input type="tel" class="form-control" name="phone" placeholder="Enter mobile number"
+                  pattern="[0-9]{10}" maxlength="10" required>
+              </div>
+            </div>
+
+            <!-- Course -->
+            <div class="mb-4">
+              <label class="form-label">Select Course</label>
+              <select class="form-select modal_form" name="course" required>
+                <option value="" disabled selected>Select Course</option>
+                <option value="fashion_design">Fashion Designing</option>
+                <option value="interior_design">Interior Designing</option>
+                <option value="graphic_design">Graphic Designing</option>
+                <option value="ui_ux_design">UI / UX Design</option>
+              </select>
+            </div>
+
+            <div class="ban-btn">
+              <button type="submit" name="apply_now" class="btn-animated btn-light">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Apply to Join</div>
+                  <div class="btn-text-hover">Apply to Join</div>
+                </div>
+                <div class="btn-icon-wrap">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    class="btn-icon-hover">
+                </div>
+              </button>
+            </div>
+
+          </form>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
-</body>
-</html>
+
+
+
+<script>
+  const counters = document.querySelectorAll('.counter');
+
+  counters.forEach(counter => {
+    const target = +counter.getAttribute('data-target');
+    let count = 0;
+    const speed = target / 100;
+
+    const updateCounter = () => {
+      if (count < target) {
+        count += speed;
+        counter.innerText = Math.ceil(count);
+        requestAnimationFrame(updateCounter);
+      } else {
+        counter.innerText = target;
+      }
+    };
+
+    updateCounter();
+  });
+</script>
+
+
+<?php include 'inside/footer.php' ?>

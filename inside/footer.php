@@ -2,85 +2,85 @@
   <div class="container">
     <div class="row">
       <div class="col-md-3">
-           <div class="footer-column">
-        <h2 class="footer-logo">
-          <img src="assets/img/cropped-logo-1-1-2.png" alt="" width="150">
-        </h2>
-        <p class=" footer-para">
-          Industry-driven design education focused on practical learning and career outcomes
-        </p>
-      </div>
+        <div class="footer-column">
+          <h2 class="footer-logo">
+            <img src="assets/img/cropped-logo-1-1-2.png" alt="" width="150">
+          </h2>
+          <p class=" footer-para">
+            Industry-driven design education focused on practical learning and career outcomes
+          </p>
+        </div>
       </div>
       <div class="col-md-9">
-            <div class="footer-container">
+        <div class="footer-container">
 
-      <div class="footer-column">
-        <h3>Main Pages</h3>
-        <ul>
-          <li><a href="index.php">Home</a></li>
-          <li><a href="about2.php">About</a></li>
-          <li><a href="contact-us.php">Contact us</a></li>
-          <li><a href="#">Privacy Policy</a></li>
+          <div class="footer-column">
+            <h3>Main Pages</h3>
+            <ul>
+              <li><a href="index.php">Home</a></li>
+              <li><a href="about2.php">About</a></li>
+              <li><a href="contact-us.php">Contact us</a></li>
+              <li><a href="#">Privacy Policy</a></li>
 
-        </ul>
-      </div>
+            </ul>
+          </div>
 
-      <!-- Utility Pages -->
-      <div class="footer-column">
-        <h3>Utility Pages</h3>
-        <ul>
-          <li><a href="#">Terms & Conditions</a></li>
-          <li><a href="admission_new_page.php">Admission Process</a></li>
-          <li><a href="landing-page.php">Department Overview
-              Design</a></li>
-          <li><a href="event-&-workshop.php">
-              Event & Workshop
-            </a></li>
-        </ul>
-      </div>
+          <!-- Utility Pages -->
+          <div class="footer-column">
+            <h3>Utility Pages</h3>
+            <ul>
+              <li><a href="#">Terms & Conditions</a></li>
+              <li><a href="admission_new_page.php">Admission Process</a></li>
+              <li><a href="landing-page.php">Department Overview
+                  Design</a></li>
+              <li><a href="event-&-workshop.php">
+                  Event & Workshop
+                </a></li>
+            </ul>
+          </div>
 
-      <!-- Support -->
-      <div class="footer-column">
-        <h3>Support</h3>
-        <ul>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact Us</a></li>
-        </ul>
-      </div>
+          <!-- Support -->
+          <div class="footer-column">
+            <h3>Support</h3>
+            <ul>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Contact Us</a></li>
+            </ul>
+          </div>
 
-      <!-- Programs -->
-      <div class="footer-column">
-        <h3>Office Address</h3>
+          <!-- Programs -->
+          <div class="footer-column">
+            <h3>Office Address</h3>
 
-        <ul class="contact-info-list mt-2  gap-2">
-          <li class="contact-info-item">
-            <i class="fa-solid fa-envelope contact-info-icon"></i>
-            <strong class="contact-info-text">enquiry@insdkolkata.com</strong>
-          </li>
+            <ul class="contact-info-list mt-2  gap-2">
+              <li class="contact-info-item">
+                <i class="fa-solid fa-envelope contact-info-icon"></i>
+                <strong class="contact-info-text">enquiry@insdkolkata.com</strong>
+              </li>
 
-          <li class="contact-info-item">
-            <i class="fa-solid fa-envelope-open-text contact-info-icon"></i>
-            <strong class="contact-info-text">info@insdkolkata.com</strong>
-          </li>
+              <li class="contact-info-item">
+                <i class="fa-solid fa-envelope-open-text contact-info-icon"></i>
+                <strong class="contact-info-text">info@insdkolkata.com</strong>
+              </li>
 
-          <li class="contact-info-item">
-            <i class="fa-solid fa-phone contact-info-icon"></i>
-            <strong class="contact-info-text">+916290905125/+916291065177</strong>
-          </li>
-          <li class="contact-info-item">
-            <i class="fa-solid fa-location-dot contact-info-icon"></i>
-            <strong class="contact-info-text">
-              1st Floor, Plot No, JL-9, EP Block, Sector V, Kolkata, West Bengal 700091
-            </strong>
-          </li>
-
-
-
-        </ul>
+              <li class="contact-info-item">
+                <i class="fa-solid fa-phone contact-info-icon"></i>
+                <strong class="contact-info-text">+916290905125/+916291065177</strong>
+              </li>
+              <li class="contact-info-item">
+                <i class="fa-solid fa-location-dot contact-info-icon"></i>
+                <strong class="contact-info-text">
+                  1st Floor, Plot No, JL-9, EP Block, Sector V, Kolkata, West Bengal 700091
+                </strong>
+              </li>
 
 
-      </div>
-    </div>
+
+            </ul>
+
+
+          </div>
+        </div>
       </div>
     </div>
 
@@ -116,6 +116,13 @@
 <!-- AOS JS -->
 <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
 
+<script src="assets/js/main.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
+<!-- GLightbox JS -->
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
 
 <script>
   AOS.init({
@@ -126,12 +133,7 @@
 </script>
 
 
-<script src="assets/js/main.js"></script>
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
-<!-- GLightbox JS -->
-<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 
 <script>
   const lightbox = GLightbox({
@@ -144,10 +146,10 @@
 
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
+  document.addEventListener("DOMContentLoaded", function() {
     // Enable submenu toggle on click
-    document.querySelectorAll('.dropdown-submenu > a').forEach(function (element) {
-      element.addEventListener('click', function (e) {
+    document.querySelectorAll('.dropdown-submenu > a').forEach(function(element) {
+      element.addEventListener('click', function(e) {
         e.preventDefault();
         e.stopPropagation();
         let nextMenu = this.nextElementSibling;
@@ -158,8 +160,8 @@
     });
 
     // Close submenu when clicking outside
-    document.addEventListener('click', function () {
-      document.querySelectorAll('.dropdown-submenu .dropdown-menu.show').forEach(function (menu) {
+    document.addEventListener('click', function() {
+      document.querySelectorAll('.dropdown-submenu .dropdown-menu.show').forEach(function(menu) {
         menu.classList.remove('show');
       });
     });
@@ -364,7 +366,7 @@
 
 
 <script>
-  $(document).ready(function () {
+  $(document).ready(function() {
     var owl = $("#e1");
     owl.owlCarousel({
       // animateOut: 'fadeOut',
@@ -379,7 +381,7 @@
       autoplay: true,
       autoplayTimeout: 3500,
       autoplayHoverPause: true,
-      onInitialized: function () {
+      onInitialized: function() {
         // Enable autoplay after init
         owl.trigger('play.owl.autoplay', [3000]);
         window.scrollTo(0, 0); // Force scroll to top if needed
@@ -420,7 +422,7 @@
 
 
 <script>
-  window.addEventListener('scroll', function () {
+  window.addEventListener('scroll', function() {
     const header = document.querySelector('header');
     header.classList.toggle('sticky', window.scrollY > 50);
   });
@@ -571,7 +573,7 @@
 
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
+  document.addEventListener("DOMContentLoaded", function() {
 
     let items = document.querySelectorAll(".process-item");
     let img = document.getElementById("processImage");
@@ -631,7 +633,7 @@
 
     // Manual click
     items.forEach((item, i) => {
-      item.addEventListener("click", function () {
+      item.addEventListener("click", function() {
         clearInterval(timer);
         index = i;
         activateSlide(index);
@@ -644,7 +646,7 @@
 
 
 <script>
-  $(document).ready(function () {
+  $(document).ready(function() {
     $(".client-carousel").owlCarousel({
       loop: true,
       margin: 30,
@@ -734,7 +736,7 @@
 
 <script>
   // Prevent closing the first item unless another item is opened
-  document.querySelector('#headingOne button').addEventListener('click', function (e) {
+  document.querySelector('#headingOne button').addEventListener('click', function(e) {
     let item2 = document.getElementById('collapseTwo');
     let item3 = document.getElementById('collapseThree');
 
@@ -794,7 +796,6 @@
 
 
 <script>
-  
   const btn = document.getElementById("backToTop");
 
   window.addEventListener("scroll", () => {
@@ -807,8 +808,6 @@
       behavior: "smooth"
     });
   });
-
-
 </script>
 
 

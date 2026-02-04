@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-md-8 col-sm-12">
                     <div class="landing_content">
-                        <h5>Admissions Open | 2026 </h5>
+                        <h5>Admissions Open | 2026 Intake </h5>
                         <h1 class="w-75">Launch Your Interior Design Career with INSD Kolkata and get hired
 
                             ​</h1>
@@ -33,7 +33,7 @@
 
                         <p class="para">
                             Career-focused interior design education with on-the-job training, live projects, and placement support.
-                            At INSD, students learn from practicing interior designers and entrepreneurs, gaining real exposure to studio work, site execution, and professional workflows.
+
 
                         </p>
 
@@ -218,16 +218,16 @@
 
 
 
-<section class="edu-benefits py-5">
+<!-- <section class="edu-benefits py-5">
     <div class="container">
         <div class="row align-items-center g-5">
 
-            <!-- Left Image -->
+           
             <div class="col-lg-4 text-center text-lg-start">
                 <img src="assets/img/fashion png-min.png" alt="Student" class="img-fluid edu-image">
             </div>
 
-            <!-- Right Content -->
+            
             <div class="col-lg-8 edu-content">
                 <span class="sub-head text-center  ">WHY CHOOSE US</span>
                 <h2 class="edu-heading title ">
@@ -237,7 +237,7 @@
                 <div class="custom-info-section py-5">
                     <div class="row row-cols-1 row-cols-md-2 g-5 position-relative">
 
-                        <!-- Feature 1 -->
+                       
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
                                 <i class="fa-solid fa-trophy fa-2x text-warning-custom"></i>
@@ -251,7 +251,7 @@
                             </div>
                         </div>
 
-                        <!-- Feature 2 -->
+                      
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
                                 <i class="fa-solid fa-briefcase fa-2x text-warning-custom"></i>
@@ -265,7 +265,7 @@
                             </div>
                         </div>
 
-                        <!-- Feature 3 -->
+                      
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
                                 <i class="fa-solid fa-person-walking-luggage fa-2x text-warning-custom"></i>
@@ -279,7 +279,7 @@
                             </div>
                         </div>
 
-                        <!-- Feature 4 -->
+                       
                         <div class="col d-flex align-items-start">
                             <div class="icon-container me-3">
                                 <i class="fa-solid fa-scissors fa-2x text-warning-custom"></i>
@@ -302,7 +302,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
 
 
@@ -322,7 +322,7 @@
                 <div class="course-card">
                     <div class="card-header">
                         <h2>Diploma / Advanced Diploma in Interior Design</h2>
-                        <a href="#form" class="apply-btn">View Course</a>
+
                     </div>
 
                     <div class="card-row">
@@ -335,11 +335,8 @@
                         <span class="value">10 Pass (Any Stream)</span>
                     </div>
 
-                    <p class="course-desc">
-                        A progressive, skill-focused pathway that builds strong design fundamentals
-                        and advances into industry-ready training with live projects and on-the-job exposure.
-                    </p>
 
+                    <a href="#form" class="apply-btn">Apply Now</a>
 
                 </div>
             </div>
@@ -349,7 +346,7 @@
                 <div class="course-card">
                     <div class="card-header">
                         <h2>B.Des in Interior Design</h2>
-                        <a href="#form" class="apply-btn">View Course</a>
+
 
                     </div>
 
@@ -362,11 +359,7 @@
                         <span class="label">ELIGIBILITY:</span>
                         <span class="value">10+2 Pass</span>
                     </div>
-
-                    <p class="course-desc">
-                        A full professional design degree with studio-based learning, extensive
-                        industry exposure, and portfolio development for long-term career growth.
-                    </p>
+                    <a href="#form" class="apply-btn">Apply Now</a>
 
 
                 </div>
@@ -377,7 +370,7 @@
                 <div class="course-card">
                     <div class="card-header">
                         <h2>MBA in Interior Designing & Technology</h2>
-                        <a href="#form" class="apply-btn">View Course</a>
+
 
                     </div>
 
@@ -391,10 +384,7 @@
                         <span class="value">Graduation (Any Stream)</span>
                     </div>
 
-                    <p class="course-desc">
-                        A postgraduate program designed to prepare students for leadership,
-                        management, and business roles within the interior design industry.
-                    </p>
+                    <a href="#form" class="apply-btn">Apply Now</a>
 
 
                 </div>
@@ -416,9 +406,10 @@
 <section class="video-testimonial-section">
     <div class="container">
         <h2 class="title text-center">LIFE AT <span>INSD</span></h2>
-        <p class="para w-50 m-auto text-center">
+        <p class="para w-100 w-md-50 mx-auto text-center">
             A professional learning environment with studios, workshops, exhibitions, site visits, and industry-led activities.
         </p>
+
 
         <div class="owl-carousel video-testimonial-slider mt-4">
 
@@ -671,12 +662,12 @@
 
 
 
-<section class="v-stats-wrapper">
+<!-- <section class="v-stats-wrapper">
     <div class="container">
 
         <div class="v-stats-grid mt-4">
 
-            <!-- Stat 1 -->
+            
             <div class="v-stats-card">
                 <div class="v-number-box">
                     <span class="v-count-number" data-goal="300">0</span><span class="v-plus">+</span>
@@ -684,7 +675,7 @@
                 <p class="v-stats-label">TRAINING & PLACEMENT COMPANIES</p>
             </div>
 
-            <!-- Stat 2 -->
+          
             <div class="v-stats-card">
                 <div class="v-number-box">
                     <span class="v-count-number" data-goal="11">0</span><span class="v-plus">L</span>
@@ -692,7 +683,7 @@
                 <p class="v-stats-label">HIGHEST PACKAGE</p>
             </div>
 
-            <!-- Stat 3 -->
+           
             <div class="v-stats-card">
                 <div class="v-number-box">
                     <span class="v-count-number" data-goal="100">0</span><span class="v-plus">%</span>
@@ -700,7 +691,7 @@
                 <p class="v-stats-label">PLACEMENT ASSISTANCE</p>
             </div>
 
-            <!-- Stat 4 -->
+          
             <div class="v-stats-card">
                 <div class="v-number-box">
                     <span class="v-count-number" data-goal="15000">0</span><span class="v-plus">+</span>
@@ -711,29 +702,26 @@
         </div>
 
     </div>
-</section>
+</section> -->
 
 
 
-<section class="scholarship">
+<!-- <section class="scholarship">
     <div class="container">
         <div class="row">
 
             <div class="col-md-3 image-side">
                 <div class="image-side">
                     <img src="assets/img/high.jpeg" alt="Students">
-                    <!-- <div class="image-overlay">
-                            <small>PM-Vidyalaxmi Scheme</small>
-                          
-                        </div> -->
+                
                 </div>
             </div>
 
             <div class="col-md-9">
                 <div class="content-side">
-                    <!-- <span class="badge">Merit Based</span> -->
+                
                     <h2 class="title">PM-Vidyalaxmi <span>Scheme</span> </h2>
-                    <!-- <span class="sub-title">Global Tech Institute, Toronto</span> -->
+                    
 
 
                     <p class="description">
@@ -751,19 +739,19 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
 
 
 
-<section class="place">
+<!-- <section class="place">
     <img src="assets/img/girl.webp" alt="" class="img-fluid place_set_img">
     <div class="container">
         <h6 class="title text-center mb-5">CAREERS & <span>PLACEMENTS</span></h6>
 
         <div class="place-wrap ">
 
-            <!-- CARD 1 -->
+          
             <div class="place-card card-geo">
                 <div class="place-head">
 
@@ -772,19 +760,7 @@
                 </div>
 
                 <h2 class="place-title">Career Roles</h2>
-                <!-- <div class="place-sub">Standard</div> -->
-
-                <!-- <div class="place-stat">
-                    <span class="stat-name">Highest CTC</span>
-                    <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
-                </div>
-
-                <div class="place-stat">
-                    <span class="stat-name">Average CTC</span>
-                    <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
-                </div> -->
-
-                <!-- <div class="place-foot">*Placement statistics 2023–24</div> -->
+             
 
                 <ul class="course-features mt-3">
                     <li><i class="fa-solid fa-check-circle"></i>Interior Designer</li>
@@ -795,7 +771,6 @@
                 </ul>
             </div>
 
-            <!-- CARD 2 (DEFAULT ACTIVE) -->
             <div class="place-card card-premium is-active">
                 <div class="place-head">
                     <span class="sub-head  ">Placement Support</span>
@@ -804,19 +779,7 @@
                 </div>
 
                 <h2 class="place-title">Placement Support</h2>
-                <!-- <div class="place-sub">Premium</div> -->
-                <!-- 
-                <div class="place-stat">
-                    <span class="stat-name">Highest CTC</span>
-                    <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
-                </div>
-
-                <div class="place-stat">
-                    <span class="stat-name">Average CTC</span>
-                    <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
-                </div>
-
-                <div class="place-foot">*Placement statistics 2023–24</div> -->
+               
 
 
                 <ul class="course-features mt-3">
@@ -826,7 +789,7 @@
                 </ul>
             </div>
 
-            <!-- CARD 3 -->
+       
             <div class="place-card card-dots">
                 <div class="place-head">
                     <span class="sub-head  ">STUDENT EXPERIENCES</span>
@@ -835,20 +798,7 @@
                 </div>
 
                 <h2 class="place-title">STUDENT EXPERIENCES</h2>
-                <!-- <div class="place-sub">Advanced</div> -->
-
-                <!-- <div class="place-stat">
-                    <span class="stat-name">Highest CTC</span>
-                    <span class="stat-num">21.33<span class="stat-unit"> LPA</span></span>
-                </div>
-
-                <div class="place-stat">
-                    <span class="stat-name">Average CTC</span>
-                    <span class="stat-num">14.74<span class="stat-unit"> LPA</span></span>
-                </div>
-
-                <div class="place-foot">*Placement statistics 2023–24</div> -->
-
+             
 
                 <ul class="course-features mt-3">
                     <li><i class="fa-solid fa-check-circle"></i>Real stories from students on learning, projects, and career growth.</li>
@@ -859,7 +809,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="career-hero">
     <div class="career-container">
