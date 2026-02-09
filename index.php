@@ -1,11 +1,11 @@
 <?php include 'inside/header.php' ?>
 
 <section class="ban">
-
+<!-- 
   <div class="enquery" data-bs-toggle="modal" data-bs-target="#enquiryModal">
     <i class="fa-solid fa-pen-to-square"></i>
     <span>Enquery Now</span>
-  </div>
+  </div> -->
 
 
 
@@ -175,6 +175,17 @@
 
 
 
+
+<section class="set_marquee">
+  <div class="marquee">
+    <div class="marquee-content">
+      Placement Assistance • Interview Preparation • Career Guidance • 100% Job Support • Placement Assistance • Interview Preparation • Career Guidance • 100% Job Support
+    </div>
+  </div>
+</section>
+
+
+
 <section class="gallery-wrap">
   <div class="container">
     <h2 class="title text-center">INSD <span>Kolkata</span> <br></h2>
@@ -234,14 +245,15 @@
     <div class="tab-sec">
       <!-- Tabs -->
       <ul class="nav nav-pills justify-content-center mb-4" id="libraryTabs" role="tablist">
-        <li class="nav-item" role="presentation">
-          <button class="nav-link active" id="research-tab" data-bs-toggle="pill" data-bs-target="#research"
-            type="button" role="tab">Fashion</button>
-        </li>
-        <li class="nav-item" role="presentation">
-          <button class="nav-link" id="innovation-tab" data-bs-toggle="pill" data-bs-target="#innovation" type="button"
+         <li class="nav-item" role="presentation">
+          <button class="nav-link active" id="innovation-tab" data-bs-toggle="pill" data-bs-target="#innovation" type="button"
             role="tab">Interior</button>
         </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link " id="research-tab" data-bs-toggle="pill" data-bs-target="#research"
+            type="button" role="tab">Fashion</button>
+        </li>
+       
         <li class="nav-item" role="presentation">
           <button class="nav-link" id="community-tab" data-bs-toggle="pill" data-bs-target="#community" type="button"
             role="tab">Graphic</button>
@@ -259,13 +271,14 @@
             <div class="course-card">
               <div class="course-header">
                 <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
-                <h2>Interior Designing</h2>
+                <h2>B.Des in Interior
+                              Design</h2>
 
-                <ul class="btn_xzz">
+                <!-- <ul class="btn_xzz">
                   <li>Bachelor’s</li>
                   <li>Master’s</li>
                   <li>Diploma</li>
-                </ul>
+                </ul> -->
               </div>
 
               <ul class="course-features">
@@ -274,7 +287,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light ">
+              <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Interior Design</div>
                   <div class="btn-text-hover">Explore Interior Design</div>
@@ -295,13 +308,13 @@
               <div class="course-header">
                 <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
 
-                <h2>Fashion Designing</h2>
+                <h2>MBA in Interior Design</h2>
 
-                <ul class="btn_xzz">
+                <!-- <ul class="btn_xzz">
                   <li>Bachelor’s</li>
                   <li>Master’s</li>
                   <li>Diploma</li>
-                </ul>
+                </ul> -->
               </div>
 
               <ul class="course-features">
@@ -310,7 +323,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light ">
+              <a href="MBA-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Fashion Design</div>
@@ -333,13 +346,13 @@
               <div class="course-header">
                 <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
 
-                <h2>Graphic Designing</h2>
-
+                <h2>Diploma & Advanced Diploma in Interior Design</h2>
+<!-- 
                 <ul class="btn_xzz">
                   <li>Bachelor’s</li>
                   <li>Master’s</li>
                   <li>Diploma</li>
-                </ul>
+                </ul> -->
               </div>
 
               <ul class="course-features">
@@ -348,7 +361,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light ">
+              <a href="Diploma-&-Advanced-Diploma-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Graphic Design</div>
@@ -378,7 +391,8 @@
             <div class="course-card">
               <div class="course-header">
                 <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
-                <h2>Interior Designing</h2>
+                <h2>B.Des in Interior
+                              Design</h2>
 
                 <ul class="btn_xzz">
                   <li>Bachelor’s</li>
@@ -393,7 +407,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light mt-4">
+              <a href="B.Des-in-Interior-Design-intern.php" class="btn-animated btn-light mt-4">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Interior Design</div>
                   <div class="btn-text-hover">Explore Interior Design</div>
@@ -414,7 +428,7 @@
               <div class="course-header">
                 <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
 
-                <h2>Fashion Designing</h2>
+                <h2>MBA in Interior Design</h2>
 
                 <ul class="btn_xzz">
                   <li>Bachelor’s</li>
@@ -429,7 +443,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light mt-4">
+              <a href="MBA-in-Interior-Design.php" class="btn-animated btn-light mt-4">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Fashion Design</div>
@@ -452,7 +466,9 @@
               <div class="course-header">
                 <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
 
-                <h2>Graphic Designing</h2>
+                <h2>Diploma &
+                              Advanced Diploma in Interior
+                              Design</h2>
 
                 <ul class="btn_xzz">
                   <li>Bachelor’s</li>
@@ -467,7 +483,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light mt-4">
+              <a href="Diploma-&-Advanced-Diploma-in-Interior-Design.php" class="btn-animated btn-light mt-4">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Graphic Design</div>
@@ -498,7 +514,8 @@
             <div class="course-card">
               <div class="course-header">
                 <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
-                <h2>Interior Designing</h2>
+                <h2>B.Des in Interior
+                              Design</h2>
 
                 <ul class="btn_xzz">
                   <li>Bachelor’s</li>
@@ -513,7 +530,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light mt-4">
+              <a href="B.DES-in-Graphic-Design.php" class="btn-animated btn-light mt-4">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Interior Design</div>
                   <div class="btn-text-hover">Explore Interior Design</div>
@@ -534,7 +551,7 @@
               <div class="course-header">
                 <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
 
-                <h2>Fashion Designing</h2>
+                <h2>MBA in Interior Design</h2>
 
                 <ul class="btn_xzz">
                   <li>Bachelor’s</li>
@@ -549,7 +566,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light mt-4">
+              <a href="MBA-in-Fashion-Design.php" class="btn-animated btn-light mt-4">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Fashion Design</div>
@@ -572,7 +589,7 @@
               <div class="course-header">
                 <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
 
-                <h2>Graphic Designing</h2>
+                <h2>Diploma & Advanced Diploma in Interior Design</h2>
 
                 <ul class="btn_xzz">
                   <li>Bachelor’s</li>
@@ -587,7 +604,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
               </ul>
 
-              <a href="#" class="btn-animated btn-light mt-4">
+              <a href="Diploma-&-Advanced-Diploma-in-Graphic-Design.php" class="btn-animated btn-light mt-4">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Graphic Design</div>
@@ -649,6 +666,38 @@
             <div class="tab-pane fade" id="content4"><img src="assets/img/new-photo/04.jpeg" alt="Flexible"></div>
           </div>
         </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-sec">
+  <div class="container">
+    <div class="cta-content">
+      <!-- <h5 class="sub-head text-center cen text-white">Not sure which design course is right for you?</h5> -->
+      <h2 class="title text-center text-white">Not sure which design course is right for you?</h2>
+      <p class="para text-center text-white">Join us today and take the first step toward a successful and
+        creative future.</p>
+
+      <div class="ban-btn2">
+
+        <a href="#" class="btn-animated btn-light mt-4">
+          <div class="btn-text-wrap">
+            <div class="btn-text">Talk to a Counsellor | Book Free Counselling</div>
+            <div class="btn-text-hover">Talk to a Counsellor | Book Free Counselling</div>
+          </div>
+          <div class="btn-icon-wrap">
+            <img
+              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+              alt="Arrow" class="btn-icon">
+            <img
+              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+              alt="Arrow" class="btn-icon-hover">
+          </div>
+        </a>
+
+
+
       </div>
     </div>
   </div>
@@ -736,6 +785,8 @@
     </div>
   </div>
 </section>
+
+
 
 
 <section class="marquee-container tab-sec ws">
@@ -886,37 +937,7 @@
 </section>
 
 
-<section class="cta-sec">
-  <div class="container">
-    <div class="cta-content">
-      <h5 class="sub-head text-center cen text-white">Not sure which design course is right for you?</h5>
-      <h2 class="title text-center text-white">Not sure which design course is right for you?</h2>
-      <p class="para text-center text-white">Join us today and take the first step toward a successful and
-        creative future.</p>
 
-      <div class="ban-btn2">
-
-        <a href="#" class="btn-animated btn-light mt-4">
-          <div class="btn-text-wrap">
-            <div class="btn-text">Talk to a Counsellor | Book Free Counselling</div>
-            <div class="btn-text-hover">Talk to a Counsellor | Book Free Counselling</div>
-          </div>
-          <div class="btn-icon-wrap">
-            <img
-              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-              alt="Arrow" class="btn-icon">
-            <img
-              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-              alt="Arrow" class="btn-icon-hover">
-          </div>
-        </a>
-
-
-
-      </div>
-    </div>
-  </div>
-</section>
 
 
 
@@ -991,123 +1012,255 @@
 
 
 
+<section class="alumni-container p-0">
+    <div class="row">
+        <div class="col-md-5 content">
+
+            <h6 class="title ">Academic and industry collaborations <br> supporting practical learning</h6>
+            
 
 
+        </div>
+        <div class="col-md-7">
+            <!-- MARQUEE LEFT -->
+            <div class="marquee-container">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+
+                    <!-- duplicate for infinite loop -->
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                </div>
+            </div>
+
+            <!-- MARQUEE RIGHT -->
+            <div class="marquee-container ">
+                <div class="marquee marquee-right">
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+
+                    <!-- duplicate -->
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                </div>
+            </div>
+
+        <div class="mt-3 mb-5">
+      <a href="#" class="btn-animated btn-light">
+                                <div class="btn-text-wrap">
+                                    <div class="btn-text">Industry Collaborations</div>
+                                    <div class="btn-text-hover">Industry Collaborations</div>
+                                </div>
+                                <div class="btn-icon-wrap">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                </div>
+                            </a>
+</div>
+
+        </div>
+    </div>
+
+
+
+
+</section>
 
 
 
 
 
 <section class="career-zone">
-  <div class="career-wrapper">
+  <div class="container">
+    <div class="row align-items-center">
 
-    <!-- LEFT -->
-    <div class="career-info">
-      <h2 class="title">
-        PLACEMENTS & <br>
-        <span>RECRUITERS</span>
-      </h2>
-      <p class="para">Where talent meets industry</p>
-      <div class="career-metrics mt-3">
+      <!-- LEFT COLUMN -->
+      <div class="col-md-7">
+        <div class="career-wrapper">
+          <div class="career-info">
+            <h2 class="title">
+              PLACEMENTS & <br>
+              <span>RECRUITERS</span>
+            </h2>
+            <p class="para">Where talent meets industry</p>
 
-        <div class="metric-box">
-          <div class="metric-icon">
-            <i class="fa-solid fa-check"></i>
-          </div>
-          <div class="e21">
-            <h3>100%</h3>
-            <p>Placement Assistance</p>
+            <div class="career-metrics mt-3">
+
+              <div class="metric-box">
+                <div class="metric-icon">
+                  <i class="fa-solid fa-check"></i>
+                </div>
+                <div>
+                  <h3>100%</h3>
+                  <p>Placement Assistance</p>
+                </div>
+              </div>
+
+              <div class="metric-box">
+                <div class="metric-icon">
+                  <i class="fa-solid fa-users"></i>
+                </div>
+                <div>
+                  <h3>200+</h3>
+                  <p>Industry Partners</p>
+                </div>
+              </div>
+
+              <div class="metric-box">
+                <div class="metric-icon">
+                  <i class="fa-solid fa-briefcase"></i>
+                </div>
+                <div>
+                  <h3>850+</h3>
+                  <p>Students Placed</p>
+                </div>
+              </div>
+
+            </div>
+
+            <a href="#" class="btn-animated btn-light mt-4">
+              <div class="btn-text-wrap">
+                <div class="btn-text">View Placements</div>
+                <div class="btn-text-hover">View Placements</div>
+              </div>
+              <div class="btn-icon-wrap">
+                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+              </div>
+            </a>
+
           </div>
         </div>
+      </div>
 
-        <div class="metric-box">
-          <div class="metric-icon">
-            <i class="fa-solid fa-users"></i>
-          </div>
-          <div class="e21">
+      <!-- RIGHT COLUMN -->
+      <div class="col-md-5">
+        <div class="career-brands">
+          <h4 class="title text-center mb-3">
+            Our Hiring <span>Partners</span>
+          </h4>
 
-            <h3>200+</h3>
-            <p>Industry Partners</p>
+          <div class="hight_marquee">
+
+            <!-- LEFT MARQUEE -->
+            <div class="brand-grid left-marquee">
+              <div class="brand-track">
+
+                <!-- Original Items -->
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+
+                <!-- Duplicate for Smooth Loop -->
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+
+              </div>
+            </div>
+
+            <!-- RIGHT MARQUEE -->
+            <div class="brand-grid right-marquee mt-3">
+              <div class="brand-track">
+
+                <!-- Original -->
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+
+                <!-- Duplicate -->
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+
+              </div>
+            </div>
+
+            
+            <!-- LEFT MARQUEE -->
+            <div class="brand-grid left-marquee mt-3">
+              <div class="brand-track">
+
+                <!-- Original Items -->
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+
+                <!-- Duplicate for Smooth Loop -->
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
+                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+
+              </div>
+            </div>
+
           </div>
         </div>
-
-        <div class="metric-box">
-          <div class="metric-icon">
-            <i class="fa-solid fa-briefcase"></i>
-          </div>
-          <div class="e21">
-
-            <h3>850+</h3>
-            <p>Students Placed</p>
-          </div>
-        </div>
-
       </div>
 
     </div>
-
-    <!-- RIGHT -->
-    <div class="career-brands">
-      <h4 class="title text-center mb-3">Our Hiring <span>Partners</span></h4>
-
-      <div class="brand-grid">
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-5.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-4.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-3.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-2.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-1.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-5.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-4.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-3.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-2.png" alt="Accenture">
-        </div>
-        <div class="brand-tile">
-          <img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-1.png" alt="Accenture">
-        </div>
-
-
-      </div>
-
-    </div>
-
   </div>
 </section>
 
+
+<section class="placement-cta">
+  <div class="cta-container">
+    <h2>Want to know more about placements and career opportunities?</h2>
+    <div class="ban-btn ">
+
+<div class="mt-4">
+    <!-- Apply Button -->
+  <a href="#" class="btn-animated btn-light">
+    <span class="btn-text-wrap">
+      <span class="btn-text">Apply to Join</span>
+      <span class="btn-text-hover">Apply to Join</span>
+    </span>
+    <span class="btn-icon-wrap">
+      <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+        alt="Arrow" class="btn-icon">
+      <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+        alt="Arrow" class="btn-icon-hover">
+    </span>
+  </a>
+
+  <!-- Explore Button -->
+  <a href="#" class="btn-animated btn-light1">
+    <span class="btn-text-wrap">
+      <span class="btn-text">Explore our Courses</span>
+      <span class="btn-text-hover">Explore our Courses</span>
+    </span>
+    <span class="btn-icon-wrap">
+      <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e2f3e5162cf992203b2b45_icon-dark-arrow-up.svg"
+        alt="Arrow" class="btn-icon">
+      <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+        alt="Arrow" class="btn-icon-hover">
+    </span>
+  </a>
+</div>
+
+</div>
+
+  </div>
+</section>
 
 
 
