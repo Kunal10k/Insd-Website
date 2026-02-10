@@ -5,13 +5,13 @@
 
 
 
-<section class="inner_Section"   style="background-image: url('./assets/img/inner_banner/MBA\ in\ Graphic\ Design\ \(1\).jpg');">
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/MBA\ in\ Graphic\ Design\ \(1\).jpg');">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h6>MBA in Graphic Design
-                </h6>
-                <h1 class="title">MBA in Graphic  <br class="d-md-block d-none"><span>Design  </span></h1>
+                <!-- <h6>MBA in Graphic Design
+                </h6> -->
+                <h1 class="title">MBA in Graphic <br class="d-md-block d-none"><span>Design </span></h1>
 
                 <div class="ban-btn mt-4">
 
@@ -49,6 +49,11 @@
     </div>
 </section>
 
+
+
+
+
+
 <section class="course">
     <div class="container">
         <div class="row">
@@ -71,8 +76,7 @@
                         </div>
                         <div class="">
                             <label for="" class="form-label">Phone <span style="color: #a78e59;">*</span></label>
-                            <input type="tel" class="form-control" id="phone" placeholder="Enter Phone number"
-                                name="phone">
+                            <input type="tel" class="form-control" id="phone" placeholder="Enter Phone number" name="phone">
                         </div>
                         <!-- Blob Button -->
                         <a href="#" class="btn-animated btn-light">
@@ -81,10 +85,8 @@
                                 <div class="btn-text-hover">Submit</div>
                             </div>
                             <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                    alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                    alt="Arrow" class="btn-icon-hover">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
                             </div>
                         </a>
                     </form>
@@ -105,588 +107,321 @@
                                     <a href="#coursecontent">Course Content</a>
                                 </li>
                                 <li class="">
-                                    <a href="#details">Details</a>
+                                    <a href="#details">Carrier opportunities</a>
                                 </li>
                                 <li class="">
-                                    <a href="#intructor">Intructor</a>
+                                    <a href="#Eligibility">Eligibility</a>
                                 </li>
-                                <li class="">
-                                    <a href="#placement">Placement</a>
-                                </li>
+
                             </ul>
                         </nav>
                     </div>
 
                     <!-- Start Course Feature Box  -->
-                    <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more"
-                        id="overview">
+                    <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="overview">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
                             <div class="section-title">
-                                <h4 class="title-sm">What you'll learn</h4>
+                                <h4 class="title-sm">Course Overview</h4>
                             </div>
-                            <p class="para pb-4">Are you new to PHP or need a refresher? Then this course will help you
-                                get
-                                all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi and
-                                ending the course by building a CMS system similar to WordPress, Joomla or
-                                Drupal. Knowing PHP has allowed me to make enough money to stay home and
-                                make courses like this one for students all over the world. </p>
+                            <p class="para pb-4">
+                                The MBA in Interior Designing & Technology is structured to go beyond traditional design or management programs. It equips students with the ability to manage design projects, lead teams, interact with clients, understand technology-driven workflows, and run design-centric businesses.
+                                The program is ideal for graduates who want to combine creative thinking with strategic planning, operational control, and professional execution. Learning is studio-driven, case-based, and industry-connected, ensuring strong alignment with real-world practices.
 
-                            <div class="row g-5">
-                                <!-- Start Feature Box -->
-                                <div class="col-lg-6">
-                                    <ul class="rbt-list-style-1">
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Become an advanced, confident,
-                                            and
-                                            modern JavaScript developer from scratch.</li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Have an intermediate skill
-                                            level of Python
-                                            programming.</li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Have a portfolio of various
-                                            data analysis projects.
-                                        </li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Use the numpy library to create
-                                            and manipulate
-                                            arrays.</li>
-                                    </ul>
-                                </div>
-                                <!-- End Feature Box -->
+                            </p>
+                            <div class="ban-btn">
 
-                                <!-- Start Feature Box -->
-                                <div class="col-lg-6">
-                                    <ul class="rbt-list-style-1">
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Use the Jupyter Notebook
-                                            Environment. JavaScript
-                                            developer from scratch.</li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Use the pandas module with
-                                            Python
-                                            to create and structure data.</li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Have a portfolio of various
-                                            data analysis projects.
-                                        </li>
-                                        <li><i class="fa-solid fa-check-circle me-2"></i>Create data visualizations
-                                            using
-                                            matplotlib and seaborn.</li>
-                                    </ul>
-                                </div>
-                                <!-- End Feature Box -->
+                                <a href="#" class="btn-animated btn-light">
+                                    <div class="btn-text-wrap">
+                                        <div class="btn-text">Download Brochure</div>
+                                        <div class="btn-text-hover">Download Brochure</div>
+                                    </div>
+                                    <div class="btn-icon-wrap">
+                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                    </div>
+                                </a>
                             </div>
 
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, aliquam
-                                voluptas laudantium incidunt architecto nam excepturi provident rem laborum
-                                repellendus placeat neque aut doloremque ut ullam, veritatis nesciunt iusto
-                                officia alias, non est vitae.</p>
+                            <h4 class="mt-4">Why MBA in Interior Designing & Technology at INSD Kolkata</h4>
+
+                            <ul class="program-features">
+                                <li>Integrated design, management & technology curriculum</li>
+                                <li>Strong focus on execution, strategy & professional practice</li>
+                                <li>Live projects, case studies & industry exposure</li>
+                                <li>Mentorship from industry experts & professionals</li>
+                                <li>Career & placement support for leadership roles</li>
+                            </ul>
+
+
                         </div>
                         <div class="rbt-show-more-btn">Show More</div>
                     </div>
-                    <!-- End Course Feature Box  -->
+                    <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="coursecontent">
+                        <div class="rbt-accordion-style rbt-accordion-02 accordion">
+                            <h4 class="mt-3 title">Curriculum <span>Structure</span> </h4>
 
-                    <!-- Start Course Content  -->
-                    <div class="course-content rbt-shadow-box coursecontent-wrapper mt--30" id="coursecontent">
-                        <div class="rbt-course-feature-inner">
-                            <div class="section-title">
-                                <h4 class="title-sm pb-4">Course Content</h4>
-                            </div>
-                            <div class="rbt-accordion-style rbt-accordion-02 accordion">
-                                <div class="accordion" id="accordionExampleb2">
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header card-header" id="headingTwo1">
-                                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                                data-bs-target="#collapseTwo1" aria-expanded="true"
-                                                aria-controls="collapseTwo1">
-                                                Intro to Course and Histudy <span class="rbt-badge-5 ml--10">1hr
-                                                    30min</span>
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo1" class="accordion-collapse collapse show"
-                                            aria-labelledby="headingTwo1" data-bs-parent="#accordionExampleb2">
-                                            <div class="accordion-body card-body pr--0">
-                                                <ul class="rbt-course-main-content liststyle">
-                                                    <li>
-                                                        <a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Course Intro</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="min-lable">30 min</span>
-                                                                <span
-                                                                    class="rbt-badge variation-03 bg-primary-opacity"><i
-                                                                        class="feather-eye"></i>
-                                                                    Preview</span>
-                                                            </div>
-                                                        </a>
-                                                    </li>
 
-                                                    <li>
-                                                        <a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Watch Before Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="min-lable">0.5 min</span>
-                                                                <span
-                                                                    class="rbt-badge variation-03 bg-primary-opacity"><i
-                                                                        class="feather-eye"></i>
-                                                                    Preview</span>
-                                                            </div>
-                                                        </a>
-                                                    </li>
+                            <div class="accordion mt-3" id="curriculumAccordion">
 
-                                                    <li>
-                                                        <a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a>
-                                                    </li>
+                                <!-- Semester 1 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="semOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#semesterOne" aria-expanded="true">
+                                            <i class="fa-solid fa-calendar-days me-2"></i> Semester 1
+                                        </button>
+                                    </h2>
+                                    <div id="semesterOne" class="accordion-collapse collapse "
+                                        data-bs-parent="#curriculumAccordion">
+                                        <div class="accordion-body">
+                                            <ul class="rbt-course-main-content liststyle">
+                                                <li>Fundamentals of Construction & Building Systems</li>
+                                                <li>Design Fundamentals</li>
+                                                <li>Management Process & Organisational Behaviour</li>
+                                                <li>Building Services & Construction Sequencing</li>
+                                                <li>Interior Design Studio Practice</li>
+                                                <li>Project Proposal & Concept Development</li>
+                                                <li>Foundations of Design Business</li>
+                                                <li>Live Projects / Site Visits</li>
+                                                <li>Industry Practitioner Masterclasses</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
 
-                                                </ul>
-                                            </div>
+                                <!-- Semester 2 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="semTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#semesterTwo">
+                                            <i class="fa-solid fa-calendar-days me-2"></i> Semester 2
+                                        </button>
+                                    </h2>
+                                    <div id="semesterTwo" class="accordion-collapse collapse"
+                                        data-bs-parent="#curriculumAccordion">
+                                        <div class="accordion-body">
+                                            <ul class="rbt-course-main-content liststyle">
+                                                <li>Business Environment & Business Law</li>
+                                                <li>Urban Design & Planning</li>
+                                                <li>Furniture Design Studio</li>
+                                                <li>Furniture Styles & Periodic Design</li>
+                                                <li>Specification & Valuation</li>
+                                                <li>Interior Design Studio Practice</li>
+                                                <li>Financial & Operational Mastery</li>
+                                                <li>Live Projects / Site Visits</li>
+                                                <li>Industry Practitioner Masterclasses</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Semester 3 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="semThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#semesterThree">
+                                            <i class="fa-solid fa-calendar-days me-2"></i> Semester 3
+                                        </button>
+                                    </h2>
+                                    <div id="semesterThree" class="accordion-collapse collapse"
+                                        data-bs-parent="#curriculumAccordion">
+                                        <div class="accordion-body">
+                                            <ul class="rbt-course-main-content liststyle">
+                                                <li>Human Resource Management for Design Organisations</li>
+                                                <li>Fundamentals of Aesthetics & Space Description</li>
+                                                <li>Architectural Eras & Style Analysis</li>
+                                                <li>Multi-View Drawing & Advanced Visualisation</li>
+                                                <li>Modern Exterior & Interior Architecture</li>
+                                                <li>Advanced Interior Design Studio</li>
+                                                <li>Marketing & Client Experience</li>
+                                                <li>Live Projects / Site Visits</li>
+                                                <li>Industry Practitioner Masterclasses</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Semester 4 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="semFour">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#semesterFour">
+                                            <i class="fa-solid fa-calendar-days me-2"></i> Semester 4
+                                        </button>
+                                    </h2>
+                                    <div id="semesterFour" class="accordion-collapse collapse"
+                                        data-bs-parent="#curriculumAccordion">
+                                        <div class="accordion-body">
+                                            <ul class="rbt-course-main-content liststyle">
+                                                <li>Strategy & Entrepreneurship Development</li>
+                                                <li>Quantity & Cost Estimation</li>
+                                                <li>Professional Practice & Code of Conduct</li>
+                                                <li>Methods of Construction (Ancient & Modern)</li>
+                                                <li>Product Development</li>
+                                                <li>Industrial Skill Project</li>
+                                                <li>Industry Internship / Skill Project</li>
+                                                <li>Industry Practitioner Masterclasses</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Learning Experience & Technology Integration -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="learningTech">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#learningTechCollapse">
+                                            <i class="fa-solid fa-laptop-code me-2"></i>
+                                            Learning Experience & Technology Integration
+                                        </button>
+                                    </h2>
+
+                                    <div id="learningTechCollapse" class="accordion-collapse collapse"
+                                        data-bs-parent="#curriculumAccordion">
+                                        <div class="accordion-body">
+                                            <p class="para mb-3">
+                                                Students learn through a practice-driven and technology-enabled environment, supported by:
+                                            </p>
+                                            <ul class="rbt-course-main-content liststyle">
+                                                <li>Advanced design studios and specialised labs</li>
+                                                <li>Digital tools for visualisation, planning, and execution</li>
+                                                <li>Industry workshops, site exposure, and real-world case studies</li>
+                                                <li>Continuous studio work combined with business application</li>
+                                                <li>Live projects and professional critiques</li>
+                                            </ul>
+                                        </div>
+
+                                        <div>
+
+                                            <!-- Book Free Counselling -->
+                                            <a href="#" class="btn-animated btn-light">
+                                                <div class="btn-text-wrap">
+                                                    <div class="btn-text">Book Free Counselling</div>
+                                                    <div class="btn-text-hover">Book Free Counselling</div>
+                                                </div>
+                                                <div class="btn-icon-wrap">
+                                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                                </div>
+                                            </a>
+
+                                            <!-- Book Free Counselling -->
+                                            <a href="#" class="btn-animated btn-light">
+                                                <div class="btn-text-wrap">
+                                                    <div class="btn-text"> Speak to an Academic Advisor</div>
+                                                    <div class="btn-text-hover"> Speak to an Academic Advisor</div>
+                                                </div>
+                                                <div class="btn-icon-wrap">
+                                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                                </div>
+                                            </a>
+
                                         </div>
                                     </div>
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header card-header" id="headingTwo2">
-                                            <button class="accordion-button collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo2"
-                                                aria-expanded="false" aria-controls="collapseTwo2">
-                                                Course Fundamentals <span class="rbt-badge-5 ml--10"> 2hr
-                                                    30min</span>
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo2" class="accordion-collapse collapse"
-                                            aria-labelledby="headingTwo2" data-bs-parent="#accordionExampleb2">
-                                            <div class="accordion-body card-body pr--0">
-                                                <ul class="rbt-course-main-content liststyle">
-                                                    <li><a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Course Intro</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-                                                    <li><a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-                                                    <li><a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Why You Should Not Go To
-                                                                    Education.</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-                                                    <li><a href="#">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Ten Factors That Affect
-                                                                    Education's
-                                                                    Longevity.</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header card-header" id="headingTwo3">
-                                            <button class="accordion-button collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo3"
-                                                aria-expanded="false" aria-controls="collapseTwo3">
-                                                You can develop skill and setup <span class="rbt-badge-5 ml--10">1hr
-                                                    50min</span>
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo3" class="accordion-collapse collapse"
-                                            aria-labelledby="headingTwo3" data-bs-parent="#accordionExampleb2">
-                                            <div class="accordion-body card-body pr--0">
-                                                <ul class="rbt-course-main-content liststyle">
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Course Intro</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="accordion-item ">
-                                        <h2 class="accordion-header card-header" id="headingTwo4">
-                                            <button class="accordion-button collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo4"
-                                                aria-expanded="false" aria-controls="collapseTwo4">
-                                                15 Things To Know About Education? <span class="rbt-badge-5 ml--10">2hr
-                                                    60min</span>
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo4" class="accordion-collapse collapse"
-                                            aria-labelledby="headingTwo4" data-bs-parent="#accordionExampleb2">
-                                            <div class="accordion-body card-body pr--0">
-                                                <ul class="rbt-course-main-content liststyle">
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Course Intro</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-
-
-
-
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header card-header" id="headingTwo5">
-                                            <button class="accordion-button collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo5"
-                                                aria-expanded="false" aria-controls="collapseTwo5">
-                                                Course Description <span class="rbt-badge-5 ml--10">2hr 20min</span>
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo5" class="accordion-collapse collapse"
-                                            aria-labelledby="headingTwo5" data-bs-parent="#accordionExampleb2">
-                                            <div class="accordion-body card-body pr--0">
-                                                <ul class="rbt-course-main-content liststyle">
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Course Intro</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Why You Should Not Go To
-                                                                    Education.</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-file-text"></i> <span
-                                                                    class="text">Read Before You Start</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-
-                                                    <li><a href="lesson.html">
-                                                            <div class="course-content-left">
-                                                                <i class="feather-play-circle"></i> <span
-                                                                    class="text">Ten Factors That Affect
-                                                                    Education's
-                                                                    Longevity.</span>
-                                                            </div>
-                                                            <div class="course-content-right">
-                                                                <span class="course-lock"><i
-                                                                        class="feather-lock"></i></span>
-                                                            </div>
-                                                        </a></li>
-
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
 
                                 </div>
+
+
                             </div>
+
+
+
                         </div>
                     </div>
-                    <!-- End Course Content  -->
 
-                    <!-- Start Course Feature Box  -->
-                    <div class="rbt-course-feature-box rbt-shadow-box details-wrapper mt--30" id="details">
-                        <div class="row g-5">
 
-                            <!-- Start Feature Box -->
-                            <div class="col-lg-6">
-                                <div class="section-title">
-                                    <h4 class="title-sm pb-4">Requirements</h4>
+                    <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="details">
+                        <div class="rbt-course-feature-inner has-show-more-inner-content">
+
+
+
+
+                            <h6 class="py-2">Career Opportunities & Placements</h6>
+                            <p class="para ">
+                                Graduates of the MBA in Interior Designing & Technology can pursue leadership and
+                                managerial roles across the design, execution, and real estate ecosystem.
+                            </p>
+
+                            <ul class="rbt-list-style-1 mt-2">
+                                <li><i class="fa-solid fa-circle-check me-2"></i>Design Manager</li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i>Interior Design Consultant</li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i>Project Manager (Interiors)</li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i>Design & Execution Lead</li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i>Business Development Manager (Design Firms)</li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i>Entrepreneur / Design Studio Owner</li>
+                            </ul>
+
+                            <h6 class="py-2">Placement Highlights</h6>
+                            <ul class="rbt-list-style-1">
+                                <li><i class="fa-solid fa-circle-check me-2"></i>100% Placement Assistance for eligible students</li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i>Opportunities across design studios, corporates, real estate firms, and execution companies</li>
+                            </ul>
+
+
+
+
+                            <a href="#" class="btn-animated btn-light">
+                                <div class="btn-text-wrap">
+                                    <div class="btn-text"> Get Placement Details</div>
+                                    <div class="btn-text-hover"> Get Placement Details</div>
                                 </div>
+                                <div class="btn-icon-wrap">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                </div>
+                            </a>
+
+                        </div>
+
+
+
+
+
+
+                    </div>
+                    <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="Eligibility">
+                        <div class="rbt-course-feature-inner has-show-more-inner-content">
+
+
+                            <div class="fees-section">
+                                <h6 class="py-2">Fees & Scholarships (Overview)</h6>
                                 <ul class="rbt-list-style-1">
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Become an advanced, confident, and
-                                        modern
-                                        JavaScript developer from scratch.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Have an intermediate skill level of
-                                        Python
-                                        programming.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Have a portfolio of various data
-                                        analysis
-                                        projects.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Use the numpy library to create and
-                                        manipulate
-                                        arrays.</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Fee structure details are shared during counselling</li>
+                                    <li><i class="fa-solid fa-circle-check me-2"></i>Scholarship and financial assistance options available for eligible students</li>
                                 </ul>
                             </div>
-                            <!-- End Feature Box -->
 
-                            <!-- Start Feature Box -->
-                            <div class="col-lg-6">
-                                <div class="section-title">
-                                    <h4 class="title-sm pb-4">Description</h4>
-                                </div>
-                                <ul class="rbt-list-style-1">
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Use the Jupyter Notebook
-                                        Environment.
-                                        JavaScript developer from scratch.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Use the pandas module with Python
-                                        to create and
-                                        structure data.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Have a portfolio of various data
-                                        analysis
-                                        projects.</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Create data visualizations using
-                                        matplotlib and
-                                        seaborn.</li>
-                                </ul>
-                            </div>
-                            <!-- End Feature Box -->
-
-                        </div>
-                    </div>
-
-                    <!-- End Course Feature Box  -->
-
-                    <!-- Start Intructor Area  -->
-                    <div class="rbt-instructor rbt-shadow-box intructor-wrapper mt--30" id="intructor">
-                        <div class="about-author border-0 pb--0 pt--0">
-                            <div class="section-title mb--30">
-                                <h4 class="title-sm">Instructor</h4>
-                            </div>
-
-
-                            <div class="instructor-carousel owl-carousel">
-                                <div class="instructor-card">
-                                    <img src="assets/img/7-insd.jpg" alt="">
-                                    <h4>John Carter</h4>
-                                    <p>Senior Web Developer</p>
-                                </div>
-
-                                <div class="instructor-card">
-                                    <img src="assets/img/8-insd.jpg" alt="">
-                                    <h4>Priya Verma</h4>
-                                    <p>Data Science Expert</p>
-                                </div>
-
-                                <div class="instructor-card">
-                                    <img src="assets/img/9-insd.jpg" alt="">
-                                    <h4>David Brown</h4>
-                                    <p>UI/UX Designer</p>
-                                </div>
-
-                                <div class="instructor-card">
-                                    <img src="assets/img/1 (2).jpg" alt="">
-                                    <h4>Angela White</h4>
-                                    <p>Marketing Mentor</p>
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-                    <!-- End Intructor Area  -->
-
-
-
-                    <!-- Start placement Area  -->
-
-                    <div class="about-author-list rbt-shadow-box featured-wrapper mt--30 has-show-more" id="placement">
-
-                        <div class="has-show-more-inner-content">
-
-                            <div class="section-title">
-                                <h4 class="title-sm pb-4">Student Placement</h4>
-                            </div>
-
-                            <div class="student-grid">
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-1.jpg" alt="">
-                                    <h5>Rishita Sengupta</h5>
-                                    <p>Placed at: <span>H&M</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-2.jpg" alt="">
-                                    <h5>Damini Bhattacharya</h5>
-                                    <p>Placed at: <span>Jaipur Rugs</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-3.jpg" alt="">
-                                    <h5>Sneha Singh</h5>
-                                    <p>Placed at: <span>Ritu Kumar</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-4.jpg" alt="">
-                                    <h5>Abhishek Mishra</h5>
-                                    <p>Placed at: <span>Levi’s</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-5.jpg" alt="">
-                                    <h5>Prity Dutta</h5>
-                                    <p>Placed at: <span>Manish</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-6.jpg" alt="">
-                                    <h5>Muskan Agarwal</h5>
-                                    <p>Placed at: <span>Anandadhara Line</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-2.jpg" alt="">
-                                    <h5>Naziya Khan</h5>
-                                    <p>Placed at: <span>Puma</span></p>
-                                </div>
-
-                                <div class="student-box">
-                                    <img src="assets/img/fashion/place-1.jpg" alt="">
-                                    <h5>Ritika Sharma</h5>
-                                    <p>Placed at: <span>Puma</span></p>
-                                </div>
-
-                            </div>
-
-                            <div class="recruiter-section">
-                                <h3 class="title-sm pb-4">Our Recruiters</h3>
-
-                                <div class="recruiter-carousel owl-carousel">
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/Aditya_Birla_Group_Logo.svg-300x184.png"
-                                            alt="Recruiter Logo">
+                            <div class="btn">
+                                <a href="#" class="btn-animated btn-light">
+                                    <div class="btn-text-wrap">
+                                        <div class="btn-text">Get Fee Details</div>
+                                        <div class="btn-text-hover">Get Fee Details</div>
                                     </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/gap-logo-png_seeklogo-59170-300x300.png"
-                                            alt="Recruiter Logo">
+                                    <div class="btn-icon-wrap">
+                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
                                     </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/images-4-300x158.png" alt="Recruiter Logo">
+                                </a>
+
+                                <a href="#" class="btn-animated btn-light">
+                                    <div class="btn-text-wrap">
+                                        <div class="btn-text">Talk to a Counsellor</div>
+                                        <div class="btn-text-hover">Talk to a Counsellor</div>
                                     </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/images-5-300x104.png" alt="Recruiter Logo">
+                                    <div class="btn-icon-wrap">
+                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
                                     </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/LVMH-logo-300x87.png" alt="Recruiter Logo">
-                                    </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/puma-logo-design-history-and-evolution-kreafolk_a042e2da-4ee1-4b78-a7be-c7c2e6acf65a-300x180.webp"
-                                            alt="Recruiter Logo">
-                                    </div>
-                                    <div class="recruiter-item">
-                                        <img src="assets/img/fashion/RedressLogo-10-300x157.png" alt="Recruiter Logo">
-                                    </div>
-                                </div>
+                                </a>
                             </div>
 
                         </div>
 
-                        <div class="rbt-show-more-btn">Show More</div>
+
                     </div>
-
-
-                    <!-- End placement Area  -->
 
 
                 </div>
@@ -694,6 +429,67 @@
             </div>
         </div>
 </section>
+
+<section class="related-courses">
+    <div class="container">
+        <!-- <h5 class="sub-head text-center cen">Related Courses</h5> -->
+        <h2 class="title text-center">Our Related <span>Course</span></h2>
+
+        <div class="related-course-grid">
+
+            <div class="course-card1">
+                <div class="course-img">
+                    <img src="assets/img/graph.webp" alt="Course">
+                </div>
+                <div class="course-info">
+                    <h4>MBA in Interior Design</h4>
+                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
+                </div>
+            </div>
+
+            <div class="course-card1">
+                <div class="course-img">
+                    <img src="assets/img/INTERIOR.jpg" alt="Course">
+                </div>
+                <div class="course-info">
+                    <h4>Diploma &
+                        Advanced Diploma in Interior
+                        Design</h4>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="career-cta">
+    <div class="container text-center">
+
+        <h3 class="cta-title">
+            Unsure about your career in Interior Design?
+        </h3>
+
+        <p class="cta-text mb-3">
+            Get expert guidance on career scope, courses, and professional opportunities.
+        </p>
+
+        <a href="#" class="btn-animated btn-light ">
+            <div class="btn-text-wrap">
+                <div class="btn-text">Talk to a Counsellor</div>
+                <div class="btn-text-hover">Talk to a Counsellor</div>
+            </div>
+            <div class="btn-icon-wrap">
+                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+            </div>
+        </a>
+
+    </div>
+</section>
+
+
+
 
 
 <section class="student-work">
@@ -745,46 +541,390 @@
     </div>
 </section>
 
-
-
-<section class="related-courses">
+<section>
     <div class="container">
-        <h5 class="sub-head text-center cen">Related Courses</h5>
-        <h2 class="title text-center">Our Related <span>Course</span></h2>
 
-        <div class="related-course-grid">
 
-            <!-- <div class="course-card">
-        <div class="course-img">
-          <img src="assets/img/fashion.jpg" alt="Course">
-        </div>
-        <div class="course-info">
-          <h4>Fashion Designing Course</h4>
-          <p>Beginner to Advanced</p>
-        </div>
-      </div> -->
 
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/graph.webp" alt="Course">
+
+
+        <div class="about-author-list rbt-shadow-box featured-wrapper mt--30 has-show-more">
+
+            <h4 class="title pb-4">Instructor</h4>
+            <p class="para w-100 mb-4">Learn Under the Guidance of Industry-Active Professionals
+                The B.Des in Interior Design program is guided by instructors who are actively engaged in professional design practice. These instructors bring real-world perspective into studio learning, design critiques, and project execution, ensuring that academic learning remains aligned with current industry standard
+            </p>
+
+            <div class="student-carousel owl-carousel">
+
+                <div class="student-box">
+                    <img src="assets/img/fashion/place-1.jpg" alt="">
+                    <h5>Rishita Sengupta</h5>
+                    <p>Placed at: <span>H&M</span></p>
                 </div>
-                <div class="course-info">
-                    <h4>Graphic Designing Course</h4>
-                    <p>Photoshop • Illustrator • CorelDraw</p>
+
+                <div class="student-box">
+                    <img src="assets/img/fashion/place-2.jpg" alt="">
+                    <h5>Damini Bhattacharya</h5>
+                    <p>Placed at: <span>Jaipur Rugs</span></p>
                 </div>
+
+                <div class="student-box">
+                    <img src="assets/img/fashion/place-3.jpg" alt="">
+                    <h5>Sneha Singh</h5>
+                    <p>Placed at: <span>Ritu Kumar</span></p>
+                </div>
+
+                <div class="student-box">
+                    <img src="assets/img/fashion/place-4.jpg" alt="">
+                    <h5>Abhishek Mishra</h5>
+                    <p>Placed at: <span>Levi’s</span></p>
+                </div>
+
+                <div class="student-box">
+                    <img src="assets/img/fashion/place-5.jpg" alt="">
+                    <h5>Prity Dutta</h5>
+                    <p>Placed at: <span>Manish</span></p>
+                </div>
+
+                <div class="student-box">
+                    <img src="assets/img/fashion/place-6.jpg" alt="">
+                    <h5>Muskan Agarwal</h5>
+                    <p>Placed at: <span>Anandadhara Line</span></p>
+                </div>
+
+                <div class="student-box">
+                    <img src="assets/img/fashion/place-2.jpg" alt="">
+                    <h5>Naziya Khan</h5>
+                    <p>Placed at: <span>Puma</span></p>
+                </div>
+
+                <div class="student-box">
+                    <img src="assets/img/fashion/place-1.jpg" alt="">
+                    <h5>Ritika Sharma</h5>
+                    <p>Placed at: <span>Puma</span></p>
+                </div>
+
             </div>
 
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/INTERIOR.jpg" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>Interior Designing Course</h4>
-                    <p>AutoCAD • 3Ds Max • V-Ray</p>
-                </div>
-            </div>
+
+
+
 
         </div>
+    </div>
+</section>
+
+<section class="student-test">
+    <div class="">
+        <div class="container">
+            <h5 class="sub-head text-center cen">Testimonial</h5>
+            <h2 class="title text-center">Experiences That Reflect <br> <span>Our Impact</span></h2>
+
+            <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
+        </div>
+        <div class="marquee-container1">
+            <div class="marquee-track1 marquee-right">
+                <div class="card">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card bg-blue">
+                    <p>“The projects and hands-on tasks made learning fun and practical. I feel confident now.”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=2" alt="Student">
+                        <div>
+                            <div class="name">Sneha Mehra</div>
+                            <div class="role">MCA, Mumbai</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <div>
+                            <div class="name">Aditya Joshi</div>
+                            <div class="role">B.Sc CS, Pune</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card bg-blue">
+                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <div>
+                            <div class="name">Aditya Joshi</div>
+                            <div class="role">B.Sc CS, Pune</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <div>
+                            <div class="name">Aditya Joshi</div>
+                            <div class="role">B.Sc CS, Pune</div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Duplicate cards for smooth loop -->
+                <div class="card">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card bg-blue">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card bg-blue">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="marquee-container1">
+            <div class="marquee-track1 marquee-left">
+                <div class="card">
+                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=4" alt="Student">
+                        <div>
+                            <div class="name">Arjun Mehra</div>
+                            <div class="role">MBA, Gurgaon</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <p>“The community and mentors made me stay motivated throughout. Fantastic learning experience.”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=5" alt="Student">
+                        <div>
+                            <div class="name">Sanya Verma</div>
+                            <div class="role">BBA, Delhi NCR</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card bg-blue">
+                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=6" alt="Student">
+                        <div>
+                            <div class="name">Rohit Patel</div>
+                            <div class="role">B.Tech, Ahmedabad</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=6" alt="Student">
+                        <div>
+                            <div class="name">Rohit Patel</div>
+                            <div class="role">B.Tech, Ahmedabad</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card bg-blue">
+                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=6" alt="Student">
+                        <div>
+                            <div class="name">Rohit Patel</div>
+                            <div class="role">B.Tech, Ahmedabad</div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Duplicate cards -->
+                <div class="card">
+                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=4" alt="Student">
+                        <div>
+                            <div class="name">Arjun Mehra</div>
+                            <div class="role">MBA, Gurgaon</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card bg-blue">
+                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=4" alt="Student">
+                        <div>
+                            <div class="name">Arjun Mehra</div>
+                            <div class="role">MBA, Gurgaon</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=4" alt="Student">
+                        <div>
+                            <div class="name">Arjun Mehra</div>
+                            <div class="role">MBA, Gurgaon</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=4" alt="Student">
+                        <div>
+                            <div class="name">Arjun Mehra</div>
+                            <div class="role">MBA, Gurgaon</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=4" alt="Student">
+                        <div>
+                            <div class="name">Arjun Mehra</div>
+                            <div class="role">MBA, Gurgaon</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card bg-blue">
+                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=4" alt="Student">
+                        <div>
+                            <div class="name">Arjun Mehra</div>
+                            <div class="role">MBA, Gurgaon</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 </section>
 
@@ -794,6 +934,77 @@
 
 
 
+
+
+
+<?php include 'inside/footer.php' ?>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+
+        const COLLAPSED_HEIGHT = 120;
+
+        document.querySelectorAll(".has-show-more").forEach(container => {
+
+            const content = container.querySelector(".has-show-more-inner-content");
+            const btn = container.querySelector(".rbt-show-more-btn");
+
+            if (!content || !btn) return;
+
+            // Initial state
+            content.style.maxHeight = COLLAPSED_HEIGHT + "px";
+            btn.textContent = "Show More";
+
+            btn.addEventListener("click", function() {
+
+                const isExpanded = container.classList.contains("expanded");
+
+                if (!isExpanded) {
+                    container.classList.add("expanded");
+
+                    // Wait for accordion / layout to expand
+                    setTimeout(() => {
+                        content.style.maxHeight = content.scrollHeight + "px";
+                    }, 50);
+
+                    btn.textContent = "Show Less";
+                } else {
+                    container.classList.remove("expanded");
+                    content.style.maxHeight = COLLAPSED_HEIGHT + "px";
+                    btn.textContent = "Show More";
+                }
+            });
+
+        });
+
+    });
+</script>
+
+
+<script>
+    $('.student-carousel').owlCarousel({
+        loop: true,
+        margin: 20,
+        nav: false,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 2
+            },
+            992: {
+                items: 3
+            },
+            1200: {
+                items: 4
+            }
+        }
+    });
+</script>
 
 
 

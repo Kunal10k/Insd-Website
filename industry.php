@@ -8,10 +8,10 @@
 
     <div class="container">
         <h1 class="title ">
-        Industry Alliances & <br> Professional Platforms
-       
+            Industry Alliances & <br> Professional Platforms
+
         </h1>
-         <p class="w-50">Industry exposure integrated into design education through active professional ecosystems.</p>
+        <p class="w-50">Industry exposure integrated into design education through active professional ecosystems.</p>
     </div>
 </section>
 <!-- about-sec Start -->

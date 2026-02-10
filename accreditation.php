@@ -8,8 +8,11 @@
 
     <div class="container">
         <h1 class="title ">
-          Affiliation & Industry  <br>Accreditations
+            Affiliation & Global <br>Academic Alliance
         </h1>
+        <p class="w-50">
+            Academic credibility supported by recognised institutional affiliation and international academic collaborations.
+        </p>
     </div>
 </section>
 
@@ -273,8 +276,8 @@
         <div class="row">
             <div class="col-lg-5">
 
-                <h5 class="sub-head ">Affiliations</h5>
-                <h2 class="title ">Affiliations & Global <span> Accreditations</span></h2>
+                <!-- <h5 class="sub-head ">Affiliations</h5> -->
+                <h2 class="title ">Institutional <span> Affiliation</span></h2>
 
 
 
@@ -282,11 +285,7 @@
             </div>
             <div class="col-md-7">
                 <p class="para">
-                    International School of Design Kolkata operates within a recognised academic and industry ecosystem
-                    that connects structured education with real-world design practice.
-                    The institute’s academic affiliations, industry alliances, and global associations support credible
-                    learning across Interior Design, Fashion Design, and Graphic Design, ensuring that education remains
-                    professionally relevant, industry-aligned, and academically structured.
+                    Academic credibility supported by recognised institutional affiliation and international academic collaborations.
 
                 </p>
             </div>
@@ -307,22 +306,298 @@
             </div>
 
             <div class="col-md-5 en">
-                <h2 class="title mt-md-5 mt-0 ">Academic <span> Affiliations</span></h2>
+                <h2 class="title mt-md-5 mt-0 ">Institutional <span> Affiliation</span></h2>
 
             </div>
             <div class="col-md-7 mt-md-5 mt-0">
                 <p class="para">
-                    INSD Kolkata is academically affiliated with Maharaja Agrasen Himalayan Garhwal University,
-                    supporting recognised undergraduate, postgraduate, diploma, and advanced diploma programs within an
-                    established higher education framework. <br>
-                    The institute also maintains an academic alliance with Sikkim Professional University, contributing
-                    to curriculum alignment and academic guidance within professionally oriented and skill-based
-                    education models.<br>
-                    Together, these affiliations provide academic structure while allowing flexibility for studio-based
-                    learning and practical design education.
+                    INSD Kolkata functions within a recognised academic structure through its institutional affiliation with
+
+                </p>
+                <h6 class="mt-2">Himalayan Garhwal University.</h6>
+                <p class="para">This affiliation provides an established higher-education framework for undergraduate, postgraduate, diploma, and advanced diploma programs, ensuring academic structure, compliance, and long-term validity — while allowing INSD Kolkata to retain its focus on studio-based, practice-led, and industry-oriented design education.</p>
+
+            </div>
+
+            <div class="hight_marquee">
+
+                <!-- LEFT MARQUEE -->
+                <div class="brand-grid left-marquee">
+                    <div class="brand-track">
+
+                        <!-- Original Items -->
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+
+                        <!-- Duplicate for Smooth Loop -->
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+
+                    </div>
+                </div>
+
+                <!-- RIGHT MARQUEE -->
+                <div class="brand-grid right-marquee mt-3">
+                    <div class="brand-track">
+
+                        <!-- Original -->
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+
+                        <!-- Duplicate -->
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
+                        <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+
+                    </div>
+                </div>
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="global_Section_ready">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h2 class="title">
+                    Global Academic <span>Alliances</span>
+                </h2>
+                <p class="para">
+                    INSD Kolkata maintains academic collaborations with international institutions to support global design perspectives, cross-cultural academic exposure, and alignment with international learning practices. International Academic Partners Include:
+
+                <ul class="campus-features mt-3">
+                    <li>University for the Creative Arts</li>
+                    <li>École Supérieure de Relooking</li>
+                    <li>International Business School Washington</li>
+                    <li>College de Paris</li>
+                    <li>ESG Paris</li>
+                </ul>
 
 
                 </p>
+            </div>
+            <div class="col-md-6">
+                <img src="assets/img/inner_banner/f1.jpg" alt="" class="img-fluid">
+            </div>
+        </div>
+
+        <!-- <h4 class="title">International Academic <br> <span>Partners</span></h4> -->
+
+        <div class="container mt-5">
+            <div class="owl-carousel client-carousel owl-loaded owl-drag">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="owl-stage-outer">
+                    <div class="owl-stage" style="transform: translate3d(-1923px, 0px, 0px); transition: 0.25s; width: 3367px;">
+                        <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-1.png" alt="Client 1">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-2.png" alt="Client 2">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-3.png" alt="Client 3">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-4.png" alt="Client 4">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-5.png" alt="Client 5">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-6.png" alt="Client 6">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej.png" alt="Client 7">
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-1.png" alt="Client 1">
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-2.png" alt="Client 2">
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-3.png" alt="Client 3">
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-4.png" alt="Client 4">
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-5.png" alt="Client 5">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-6.png" alt="Client 6">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej.png" alt="Client 7">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned active" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-1.png" alt="Client 1">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned active" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-2.png" alt="Client 2">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned active" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-3.png" alt="Client 3">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned active" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-4.png" alt="Client 4">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned active" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-5.png" alt="Client 5">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej-6.png" alt="Client 6">
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 130.286px; margin-right: 30px;">
+                            <div class="item">
+                                <img src="assets/img/goodrej.png" alt="Client 7">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
+                <div class="owl-dots disabled"><button role="button" class="owl-dot active"><span></span></button></div>
+            </div>
+        </div>
+
+        <p class="para">
+            Global academic collaborations add an international perspective to design education at INSD Kolkata, supporting curriculum relevance and alignment with global learning practices — while core education remains grounded in practical, industry-focused training.
+        </p>
+
+        <div class="ban-btn mt-4 ">
+
+            <a href="#" class="btn-animated btn-light">
+                <div class="btn-text-wrap">
+                    <div class="btn-text"> EXPLORE COURSES</div>
+                    <div class="btn-text-hover"> EXPLORE COURSES</div>
+                </div>
+                <div class="btn-icon-wrap">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                </div>
+            </a>
+            <a href="#" class="btn-animated btn-light">
+                <div class="btn-text-wrap">
+                    <div class="btn-text"> Download Brochure</div>
+                    <div class="btn-text-hover"> Download Brochure</div>
+                </div>
+                <div class="btn-icon-wrap">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                </div>
+            </a>
+
+
+
+
+        </div>
+
+    </div>
+    <div class="banner_ing">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2 class="title">
+                        International Academic <span>Exposure</span>
+                    </h2>
+                    <p class="para">
+                        Through these global academic collaborations, students at INSD Kolkata have the opportunity to
+                        participate in international academic exposure programmes, including short-term study modules
+                        conducted at partner institutions abroad. <br> <br>
+                        These experiences allow students to engage with international faculty, understand global design
+                        perspectives, and experience academic environments beyond their home country, contributing to
+                        creative growth and global awareness.
+
+
+                    </p>
+
+                    <div class="ban-btn mt-4 ">
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text"> EXPLORE COURSES</div>
+                                <div class="btn-text-hover"> EXPLORE COURSES</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+
+
+
+
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
@@ -332,7 +607,7 @@
 <?php include 'inside/footer.php' ?>
 
 <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
         $('.affiliation-carousel').owlCarousel({
             loop: true,
             margin: 20,

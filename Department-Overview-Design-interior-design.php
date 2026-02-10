@@ -138,79 +138,51 @@
     </div>
 
 
-    <div class="cardbox">
-        <div class="container">
-            <div class="row g-3">
+    <section class="stats-wrap">
+        <div class="stats-container">
 
-                <!-- Card 1 -->
-                <div class="col-md-3">
-                    <div class="program-card">
-                        <div class="programs_flex">
-                            <div class="icon pink">
-                                <i class="bi bi-briefcase"></i>
-                            </div>
-                            <h5>100% Placement Assistance</h5>
-                        </div>
-                        <p>
-                            Career guidance, interview preparation, and dedicated placement support
-                            for eligible students to help launch successful professional careers.
-                        </p>
-                    </div>
+            <div class="stat-card stat-yellow">
+                <div class="stat-icon">
+                    <i class="fa-solid fa-briefcase"></i>
                 </div>
-
-                <!-- Card 2 -->
-                <div class="col-md-3">
-                    <div class="program-card">
-                        <div class="programs_flex">
-                            <div class="icon blue">
-                                <i class="bi bi-award"></i>
-                            </div>
-                            <h5>Scholarship Support Available</h5>
-                        </div>
-                        <p>
-                            Merit-based and need-based scholarships are available for deserving students,
-                            making quality design education more accessible.
-                        </p>
-                    </div>
+                <div class="stat-data">
+                    <span class="stat-number">100%</span>
+                    <span class="stat-text">Placement Assistance</span>
                 </div>
-
-                <!-- Card 3 -->
-                <div class="col-md-3">
-                    <div class="program-card">
-                        <div class="programs_flex">
-                            <div class="icon purple">
-                                <i class="bi bi-people"></i>
-                            </div>
-                            <h5>Industry-Active Faculty</h5>
-                        </div>
-                        <p>
-                            Learn directly from practicing designers and entrepreneurs who bring
-                            real-world insights and current industry experience into the classroom.
-                        </p>
-                    </div>
-                </div>
-
-                <!-- Card 4 -->
-                <div class="col-md-3">
-                    <div class="program-card">
-                        <div class="programs_flex">
-                            <div class="icon green">
-                                <i class="bi bi-tools"></i>
-                            </div>
-                            <h5>Live Projects & On-the-Job Training</h5>
-                        </div>
-                        <p>
-                            Gain hands-on exposure through real projects, site visits, and execution-based
-                            training that prepares you for professional practice.
-                        </p>
-                    </div>
-                </div>
-
             </div>
 
+            <div class="stat-card stat-blue">
+                <div class="stat-icon">
+                    <i class="fa-solid fa-award"></i>
+                </div>
+                <div class="stat-data">
+                    <span class="stat-number">Scholarship</span>
+                    <span class="stat-text">Support Available</span>
+                </div>
+            </div>
+
+            <div class="stat-card stat-dark">
+                <div class="stat-icon">
+                    <i class="fa-solid fa-users"></i>
+                </div>
+                <div class="stat-data">
+                    <span class="stat-number">Industry</span>
+                    <span class="stat-text">Active Faculty</span>
+                </div>
+            </div>
+
+            <div class="stat-card stat-red">
+                <div class="stat-icon">
+                    <i class="fa-solid fa-tools"></i>
+                </div>
+                <div class="stat-data">
+                    <span class="stat-number">Live</span>
+                    <span class="stat-text">Projects & Training</span>
+                </div>
+            </div>
 
         </div>
-    </div>
+    </section>
 
 
 </section>
@@ -218,91 +190,6 @@
 
 
 
-<!-- <section class="edu-benefits py-5">
-    <div class="container">
-        <div class="row align-items-center g-5">
-
-           
-            <div class="col-lg-4 text-center text-lg-start">
-                <img src="assets/img/fashion png-min.png" alt="Student" class="img-fluid edu-image">
-            </div>
-
-            
-            <div class="col-lg-8 edu-content">
-                <span class="sub-head text-center  ">WHY CHOOSE US</span>
-                <h2 class="edu-heading title ">
-                    Where Your Creative Vision Gets a
-                    <span>Professional Edge </span>
-                </h2>
-                <div class="custom-info-section py-5">
-                    <div class="row row-cols-1 row-cols-md-2 g-5 position-relative">
-
-                       
-                        <div class="col d-flex align-items-start">
-                            <div class="icon-container me-3">
-                                <i class="fa-solid fa-trophy fa-2x text-warning-custom"></i>
-                            </div>
-                            <div>
-                                <h5 class="feature-heading">Record-Breaking Excellence</h5>
-                                <p class="feature-description">
-                                    Learn at an award-winning institution recognized by the India Book of Records
-                                    for redefining modern fashion and design education standards.
-                                </p>
-                            </div>
-                        </div>
-
-                      
-                        <div class="col d-flex align-items-start">
-                            <div class="icon-container me-3">
-                                <i class="fa-solid fa-briefcase fa-2x text-warning-custom"></i>
-                            </div>
-                            <div>
-                                <h5 class="feature-heading">Direct Industry Pipelines</h5>
-                                <p class="feature-description">
-                                    Secure your future with 100% placement support and access to global fashion
-                                    giants like Marks & Spencer, Benetton, and JJ Valaya.
-                                </p>
-                            </div>
-                        </div>
-
-                      
-                        <div class="col d-flex align-items-start">
-                            <div class="icon-container me-3">
-                                <i class="fa-solid fa-person-walking-luggage fa-2x text-warning-custom"></i>
-                            </div>
-                            <div>
-                                <h5 class="feature-heading">Global Runway Stages</h5>
-                                <p class="feature-description">
-                                    Debut your collections at international showcases and Times Fashion Week
-                                    alongside renowned designers and celebrities.
-                                </p>
-                            </div>
-                        </div>
-
-                       
-                        <div class="col d-flex align-items-start">
-                            <div class="icon-container me-3">
-                                <i class="fa-solid fa-scissors fa-2x text-warning-custom"></i>
-                            </div>
-                            <div>
-                                <h5 class="feature-heading">Advanced Studio Training</h5>
-                                <p class="feature-description">
-                                    Master your craft through intensive hands-on workshops in state-of-the-art
-                                    studios led by experienced fashion industry veterans.
-                                </p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-
-
-
-            </div>
-
-        </div>
-    </div>
-</section> -->
 
 
 
@@ -549,6 +436,96 @@
 
 
 
+<section class="edu-career-section py-5">
+    <div class="container">
+
+        <!-- LEARNING EXPERIENCE -->
+        <div class="edu-block mb-5">
+            <h3 class="edu-title text-center mb-4">Learning Experience</h3>
+            <div class="edu-cards">
+
+                <div class="edu-card">
+                    <div class="edu-icon">🏢</div>
+                    <p class="edu-text">Professional Design Studios</p>
+                </div>
+
+                <div class="edu-card">
+                    <div class="edu-icon">🛠️</div>
+                    <p class="edu-text">Industry Tools & Software</p>
+                </div>
+
+                <div class="edu-card">
+                    <div class="edu-icon">🎓</div>
+                    <p class="edu-text">Workshops, Site Visits & Exhibitions</p>
+                </div>
+
+                <div class="edu-card">
+                    <div class="edu-icon">💼</div>
+                    <p class="edu-text">Live Projects & On-the-Job Training</p>
+                </div>
+
+                <div class="edu-card">
+                    <div class="edu-icon">📝</div>
+                    <p class="edu-text">Continuous Feedback from Professionals</p>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- CAREERS & PLACEMENTS -->
+        <div class="career-block">
+            <h3 class="career-title text-center mb-4">Careers & Placements</h3>
+            <div class="career-grid">
+
+                <div class="career-column">
+                    <h5 class="career-subtitle">Career Roles</h5>
+                    <ul class="career-list mt-2">
+                        <li>Interior Designer</li>
+                        <li>Design Consultant</li>
+                        <li>Space Planner</li>
+                        <li>Project Coordinator</li>
+                        <li>Design Manager (MBA)</li>
+                    </ul>
+                </div>
+
+                <div class="career-column">
+                    <h5 class="career-subtitle">Placement Support</h5>
+                    <ul class="career-list mt-3">
+                        <li>100% Placement Assistance</li>
+                        <li>Opportunities across studios, real estate firms, and design companies</li>
+                    </ul>
+
+
+                    <div class="mt-4">
+                        <a href="#form" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Get Placement Details</div>
+                                <div class="btn-text-hover">Get Placement Details</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+                        <a href="#form" class="btn-animated btn-light mt-4">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Speak to Placement Team</div>
+                                <div class="btn-text-hover">Speak to Placement Team</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</section>
 
 
 
@@ -558,13 +535,11 @@
 
 <section class="histudy-features ">
     <div class="container text-center">
-        <span class="sub-head text-center cen "> INTERIOR DESIGN AS A CAREER</span>
+        <!-- <span class="sub-head text-center cen "> INTERIOR DESIGN AS A CAREER</span> -->
         <h2 class="title"> INTERIOR DESIGN AS <br> <span> A CAREER</span></h2>
 
         <p class="para w-75 m-auto text-center">
-            Interior design today is a professional career, not just a creative course.
-            It involves design thinking, execution, coordination, client handling, and real project responsibility.
-            INSD focuses on how the industry actually works—through studio learning, site exposure, live projects, and on-the-job training—so students graduate ready for professional roles, not just certificates.
+            Interior design is a professional career involving design, execution, and client handling. INSD prepares students through studio learning, site exposure, live projects, and on-the-job training.
 
         </p>
 
@@ -817,8 +792,8 @@
 
             <!-- Left Content -->
             <div class="career-left">
-                <!-- <span class="career-label">Get Involved</span> -->
-                <h1 class="career-title">
+
+                <h1 class="career-title" style="color: #fff;">
                     Start Your Interior Design Career with INSD
                 </h1>
                 <div class="mt-4">

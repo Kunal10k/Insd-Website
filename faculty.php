@@ -14,8 +14,11 @@
 
   <div class="container">
     <h1 class="title ">
-      Industry Mentors & Experts
+      Industry Mentors
     </h1>
+    <p class="w-50">
+      Learn from practicing professionals, not just academics.
+    </p>
   </div>
 </section>
 
@@ -345,24 +348,16 @@
     <div class="row">
       <div class="col-md-4">
         <div class="mentor-title text-center">
-          <h2 class="title">Industry <span>Mentors</span></h2>
+          <h2 class="title">Industry Mentorship at<span> INSD</span></h2>
 
-          <p class="para">
-            Learning from Professionals Shaping the Design Industry
-          </p>
 
         </div>
       </div>
       <div class="col-md-8">
 
         <p class="para">
-          International School of Design Kolkata is supported by a network of industry professionals,
-          entrepreneurs, designers, and creative leaders who actively engage with students through mentorship,
-          expert sessions, masterclasses, and industry interactions.
-          These mentors bring perspectives drawn from active professional practice across fashion, interior
-          design, luxury, branding, retail, and creative entrepreneurship. Their association reflects INSD
-          Kolkata’s strong connection with the industry and its focus on keeping learning aligned with
-          contemporary professional practice.
+          Industry mentors at INSD Kolkata are active professionals who bring real-world perspective into the learning environment. Their involvement ensures that education remains aligned with current industry practices, expectations, and professional standards.
+          Mentorship is integrated through select academic touchpoints rather than classroom-heavy instruction.
 
         </p>
 
@@ -423,17 +418,149 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h5 class="sub-head ">Faculty Members</h5>
+        <!-- <h5 class="sub-head ">Faculty Members</h5> -->
         <h2 class="title ">Faculty <span> Members</span></h2>
         <p class="para">
-          International School of Design Kolkata is supported by a team of faculty members who bring
-          professional experience, academic grounding, and practical insight into the learning environment.
-          Faculty members at INSD Kolkata are closely connected to the design industry through active
-          practice, professional engagement, and entrepreneurial work. Their approach to teaching is informed
-          by real-world exposure, current industry standards, and an understanding of how the design
-          profession is evolving.
-          This alignment ensures that academic delivery remains relevant, structured, and closely connected to
-          professional practice across Interior Design, Fashion Design, and Graphic Design.
+          Academic leadership grounded in practice, discipline, and design relevance.
+        </p>
+
+        <div class="mentor-carousel owl-carousel mt-4 owl-loaded owl-drag">
+
+
+
+
+
+
+
+          <div class="owl-stage-outer">
+            <div class="owl-stage" style="transform: translate3d(-1580px, 0px, 0px); transition: 0.7s; width: 3555px;">
+              <div class="owl-item cloned" style="width: 370px; margin-right: 25px;">
+                <div class="mentor-box">
+                  <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
+                  </div>
+                  <div class="mentor-text">
+                    <h4>Rahul Mehta</h4>
+                    <span class="mentor-post">Creative Director</span>
+                    <p class="mentor-org">Studio RM</p>
+                    <span class="mentor-field">Fashion &amp; Luxury Design</span>
+                  </div>
+                </div>
+              </div>
+              <div class="owl-item cloned" style="width: 370px; margin-right: 25px;">
+                <div class="mentor-box">
+                  <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
+                  </div>
+                  <div class="mentor-text">
+                    <h4>Ananya Sen</h4>
+                    <span class="mentor-post">Interior Consultant</span>
+                    <p class="mentor-org">Urban Space</p>
+                    <span class="mentor-field">Interior &amp; Retail Design</span>
+                  </div>
+                </div>
+              </div>
+              <div class="owl-item cloned" style="width: 370px; margin-right: 25px;">
+                <div class="mentor-box">
+                  <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
+                  </div>
+                  <div class="mentor-text">
+                    <h4>Arjun Kapoor</h4>
+                    <span class="mentor-post">Brand Strategist</span>
+                    <p class="mentor-org">BrandLab India</p>
+                    <span class="mentor-field">Branding &amp; Entrepreneurship</span>
+                  </div>
+                </div>
+              </div>
+              <div class="owl-item" style="width: 370px; margin-right: 25px;">
+                <div class="mentor-box">
+                  <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
+                  </div>
+                  <div class="mentor-text">
+                    <h4>Rahul Mehta</h4>
+                    <span class="mentor-post">Creative Director</span>
+                    <p class="mentor-org">Studio RM</p>
+                    <span class="mentor-field">Fashion &amp; Luxury Design</span>
+                  </div>
+                </div>
+              </div>
+              <div class="owl-item active" style="width: 370px; margin-right: 25px;">
+                <div class="mentor-box">
+                  <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
+                  </div>
+                  <div class="mentor-text">
+                    <h4>Ananya Sen</h4>
+                    <span class="mentor-post">Interior Consultant</span>
+                    <p class="mentor-org">Urban Space</p>
+                    <span class="mentor-field">Interior &amp; Retail Design</span>
+                  </div>
+                </div>
+              </div>
+              <div class="owl-item active" style="width: 370px; margin-right: 25px;">
+                <div class="mentor-box">
+                  <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
+                  </div>
+                  <div class="mentor-text">
+                    <h4>Arjun Kapoor</h4>
+                    <span class="mentor-post">Brand Strategist</span>
+                    <p class="mentor-org">BrandLab India</p>
+                    <span class="mentor-field">Branding &amp; Entrepreneurship</span>
+                  </div>
+                </div>
+              </div>
+              <div class="owl-item cloned active" style="width: 370px; margin-right: 25px;">
+                <div class="mentor-box">
+                  <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
+                  </div>
+                  <div class="mentor-text">
+                    <h4>Rahul Mehta</h4>
+                    <span class="mentor-post">Creative Director</span>
+                    <p class="mentor-org">Studio RM</p>
+                    <span class="mentor-field">Fashion &amp; Luxury Design</span>
+                  </div>
+                </div>
+              </div>
+              <div class="owl-item cloned" style="width: 370px; margin-right: 25px;">
+                <div class="mentor-box">
+                  <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
+                  </div>
+                  <div class="mentor-text">
+                    <h4>Ananya Sen</h4>
+                    <span class="mentor-post">Interior Consultant</span>
+                    <p class="mentor-org">Urban Space</p>
+                    <span class="mentor-field">Interior &amp; Retail Design</span>
+                  </div>
+                </div>
+              </div>
+              <div class="owl-item cloned" style="width: 370px; margin-right: 25px;">
+                <div class="mentor-box">
+                  <div class="mentor-photo">
+                    <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
+                  </div>
+                  <div class="mentor-text">
+                    <h4>Arjun Kapoor</h4>
+                    <span class="mentor-post">Brand Strategist</span>
+                    <p class="mentor-org">BrandLab India</p>
+                    <span class="mentor-field">Branding &amp; Entrepreneurship</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><i class="fa-solid fa-chevron-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa-solid fa-chevron-right"></i></button></div>
+          <div class="owl-dots disabled"></div>
+        </div>
+
+        <p class="w-100 para mt-4">
+          Faculty at INSD Kolkata form the academic backbone of the institute. Teaching is built on a structured blend of conceptual understanding, studio practice, and contemporary industry awareness, ensuring students develop clarity of thought, technical competence, and professional discipline.
+          The academic approach emphasises learning by doing, critical evaluation, and continuous guidance, allowing students to translate ideas into execution while maintaining academic rigour.
+
         </p>
       </div>
       <div class="faculty-section nds mt-4">
@@ -463,14 +590,14 @@
 
       <div class="row mt-5">
         <div class="col-md-5">
-          <h2 class="title ">Academic Guidance <span> <br>at INSD Kolkata</span></h2>
+          <h2 class="title ">Academic Mentorship & <span> Guidance</span></h2>
 
           <div class="ban-btn   mt-4">
 
             <a href="#" class="btn-animated btn-light">
               <div class="btn-text-wrap">
-                <div class="btn-text">Explore Academic Programs</div>
-                <div class="btn-text-hover">Explore Academic Programs</div>
+                <div class="btn-text"> Explore Departments</div>
+                <div class="btn-text-hover">Explore Departments</div>
               </div>
               <div class="btn-icon-wrap">
                 <img
@@ -489,14 +616,9 @@
         </div>
         <div class="col-md-7">
           <p class="para">
-            Faculty members play a central role in guiding students through studio work, practical
-            execution, and
-            portfolio development. Their engagement supports structured learning while integrating
-            professional
-            discipline, creative thinking, and applied skills.
-            This approach helps ensure that students receive academic guidance that is informed by both
-            educational
-            frameworks and real industry practice.
+            Beyond classroom instruction, faculty members actively support students through studio mentoring, project reviews, academic evaluations, and portfolio guidance. This ensures consistency in learning outcomes and clarity in academic progression across all programs.
+            Faculty engagement focuses on academic integrity, professional preparedness, and long-term skill development, supporting students throughout their educational journey.
+
 
           </p>
         </div>
