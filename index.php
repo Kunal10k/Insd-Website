@@ -74,7 +74,7 @@
 
               <div class="ban-btn">
 
-                <a href="#" class="btn-animated btn-light">
+                <a href="#" class="btn-animated btn-light" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                   <div class="btn-text-wrap">
                     <div class="btn-text">Apply to Join</div>
                     <div class="btn-text-hover">Apply to Join</div>
@@ -681,7 +681,7 @@
 
       <div class="ban-btn2">
 
-        <a href="#" class="btn-animated btn-light mt-4">
+        <a href="#" class="btn-animated btn-light mt-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
           <div class="btn-text-wrap">
             <div class="btn-text">Talk to a Counsellor | Book Free Counselling</div>
             <div class="btn-text-hover">Talk to a Counsellor | Book Free Counselling</div>
@@ -1229,7 +1229,7 @@
 
       <div class="mt-4">
         <!-- Apply Button -->
-        <a href="#" class="btn-animated btn-light">
+        <a href="#" class="btn-animated btn-light" data-bs-toggle="modal" data-bs-target="#enquiryModal">
           <span class="btn-text-wrap">
             <span class="btn-text">Apply to Join</span>
             <span class="btn-text-hover">Apply to Join</span>
@@ -1893,6 +1893,61 @@
   </div>
 </div>
 
+
+
+<!-- Modal -->
+<div class="modal fade" id="connectModal" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <h5 class="modal-title">Connect With Us</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+
+      <div class="modal-body">
+        <form>
+
+          <div class="mb-3">
+            <label class="form-label">Full Name</label>
+            <input type="text" class="form-control" placeholder="Enter your name">
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label">Email Address</label>
+            <input type="email" class="form-control" placeholder="Enter your email">
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label">Mobile Number</label>
+            <div class="input-group">
+              <span class="input-group-text">+91</span>
+              <input type="tel" class="form-control" placeholder="Enter mobile number">
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label">Select Course</label>
+            <select class="form-select">
+              <option selected disabled>Select Course</option>
+              <option>Web Development</option>
+              <option>Digital Marketing</option>
+              <option>Graphic Design</option>
+            </select>
+          </div>
+
+          <div class="d-grid">
+            <button type="submit" class="btn btn-primary">
+              Apply to Join
+            </button>
+          </div>
+
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div>
 
 
 

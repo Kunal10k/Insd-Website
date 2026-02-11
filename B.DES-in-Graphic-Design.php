@@ -343,15 +343,7 @@
                                     <li><i class="fa-solid fa-circle-check me-2"></i>Creativity, interest, and commitment encouraged</li>
                                 </ul>
 
-                                <h6 class="py-2">Scholarships & Financial Support</h6>
-                                <p class="para">
-                                    INSD Kolkata offers scholarship support to eligible students as part of its commitment to encouraging academic merit,
-                                    creative potential, and inclusive access to professional design education.
-                                </p>
-                                <p class="para">
-                                    Scholarship opportunities are evaluated based on institutional criteria. Details regarding eligibility,
-                                    scholarship categories, and the application process are communicated transparently during the counselling interaction.
-                                </p>
+
 
 
                             </div>
@@ -391,38 +383,83 @@
         </div>
 </section>
 
-<section class="related-courses">
+<section class="why-study-section py-5">
     <div class="container">
-        <!-- <h5 class="sub-head text-center cen">Related Courses</h5> -->
-        <h2 class="title text-center">Our Related <span>Course</span></h2>
+        <div class="row">
 
-        <div class="related-course-grid">
+            <!-- LEFT CONTENT -->
+            <div class="col-lg-8 mb-4 mb-lg-0">
+                <h2 class="mb-3 title">
+                    Why Study <span>B.Des in Graphic Design & Technology</span> <br>
+                    at INSD Kolkata
+                </h2>
 
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/graph.webp" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>MBA in Interior Design</h4>
-                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
-                </div>
+                <ul class="list-unstyled mt-4">
+                    <li class="mb-3 d-flex align-items-start">
+                        <span class="me-2">✔</span>
+                        Industry-aligned curriculum built for real design careers
+                    </li>
+                    <li class="mb-3 d-flex align-items-start">
+                        <span class="me-2">✔</span>
+                        Strong focus on digital, visual, and interactive design
+                    </li>
+                    <li class="mb-3 d-flex align-items-start">
+                        <span class="me-2">✔</span>
+                        Studio-based, hands-on learning approach
+                    </li>
+                    <li class="mb-3 d-flex align-items-start">
+                        <span class="me-2">✔</span>
+                        Mentorship from practicing designers, entrepreneurs, and industry experts
+                    </li>
+                    <li class="mb-3 d-flex align-items-start">
+                        <span class="me-2">✔</span>
+                        Structured career guidance with 100% placement assistance
+                    </li>
+                </ul>
             </div>
 
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/INTERIOR.jpg" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>Diploma &
-                        Advanced Diploma in Interior
-                        Design</h4>
-
-                </div>
+            <!-- RIGHT IMAGE -->
+            <div class="col-lg-4 text-center">
+                <img src="assets/img/p1.png" alt="B.Des Graphic Design & Technology INSD Kolkata" class="img-fluid rounded shadow">
             </div>
 
         </div>
     </div>
 </section>
+
+
+
+<section class="scholarship-section py-5">
+    <div class="container">
+        <div class="row">
+
+            <!-- RIGHT IMAGE -->
+            <div class="col-lg-4 text-center">
+                <img src="assets/img/p.png" alt="Scholarships at INSD Kolkata" class="img-fluid rounded shadow">
+            </div>
+
+            <!-- LEFT CONTENT -->
+            <div class="col-lg-8 mb-4 mb-lg-0">
+                <h2 class="mb-3 title">
+                    Scholarships & <span>Financial Support</span>
+                </h2>
+
+                <p class="para mb-3">
+                    INSD Kolkata offers scholarship support to eligible students as part of its commitment to encouraging academic merit,
+                    creative potential, and inclusive access to professional design education.
+                </p>
+                <p class="para">
+                    Scholarship opportunities are evaluated based on institutional criteria. Details regarding eligibility,
+                    scholarship categories, and the application process are communicated transparently during the counselling interaction.
+                </p>
+            </div>
+
+
+
+        </div>
+    </div>
+</section>
+
 
 <section class="career-cta">
     <div class="container text-center">
@@ -502,76 +539,155 @@
     </div>
 </section>
 
-<section>
+<section class="instructor-section py-5">
     <div class="container">
 
+        <div class="instructor-wrapper shadow-sm p-4 rounded">
 
-
-
-
-        <div class="about-author-list rbt-shadow-box featured-wrapper mt--30 has-show-more">
-
-            <h4 class="title pb-4">Instructor</h4>
-            <p class="para w-100 mb-4">Learn Under the Guidance of Industry-Active Professionals
-                The B.Des in Interior Design program is guided by instructors who are actively engaged in professional design practice. These instructors bring real-world perspective into studio learning, design critiques, and project execution, ensuring that academic learning remains aligned with current industry standard
+            <h4 class="instructor-title mb-3">Instructor</h4>
+            <p class="instructor-description mb-5">
+                Learn Under the Guidance of Industry-Active Professionals.
+                The B.Des in Interior Design program is guided by instructors actively engaged in professional design practice.
+                They bring real-world perspective into studio learning, design critiques, and project execution, ensuring that academic learning aligns with current industry standards.
             </p>
 
-            <div class="student-carousel owl-carousel">
+            <div class="instructor-carousel owl-carousel owl-loaded owl-drag">
 
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-1.jpg" alt="">
-                    <h5>Rishita Sengupta</h5>
-                    <p>Placed at: <span>H&M</span></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="owl-stage-outer">
+                    <div class="owl-stage" style="transform: translate3d(-1632px, 0px, 0px); transition: 0.7s; width: 4352px;">
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Prity Dutta</h5>
+                                <p class="instructor-placement">Placed at: <span>Manish</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Muskan Agarwal</h5>
+                                <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Naziya Khan</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Ritika Sharma</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Rishita Sengupta</h5>
+                                <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Damini Bhattacharya</h5>
+                                <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Sneha Singh</h5>
+                                <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Abhishek Mishra</h5>
+                                <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Prity Dutta</h5>
+                                <p class="instructor-placement">Placed at: <span>Manish</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Muskan Agarwal</h5>
+                                <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Naziya Khan</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Ritika Sharma</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Rishita Sengupta</h5>
+                                <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Damini Bhattacharya</h5>
+                                <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Sneha Singh</h5>
+                                <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Abhishek Mishra</h5>
+                                <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-2.jpg" alt="">
-                    <h5>Damini Bhattacharya</h5>
-                    <p>Placed at: <span>Jaipur Rugs</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-3.jpg" alt="">
-                    <h5>Sneha Singh</h5>
-                    <p>Placed at: <span>Ritu Kumar</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-4.jpg" alt="">
-                    <h5>Abhishek Mishra</h5>
-                    <p>Placed at: <span>Levi’s</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-5.jpg" alt="">
-                    <h5>Prity Dutta</h5>
-                    <p>Placed at: <span>Manish</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-6.jpg" alt="">
-                    <h5>Muskan Agarwal</h5>
-                    <p>Placed at: <span>Anandadhara Line</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-2.jpg" alt="">
-                    <h5>Naziya Khan</h5>
-                    <p>Placed at: <span>Puma</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-1.jpg" alt="">
-                    <h5>Ritika Sharma</h5>
-                    <p>Placed at: <span>Puma</span></p>
-                </div>
-
+                <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
+                <div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button></div>
             </div>
-
-
-
-
-
         </div>
     </div>
 </section>
@@ -895,7 +1011,46 @@
 
 
 
+<section class="related-courses">
+    <div class="container">
+        <!-- <h5 class="sub-head text-center cen">Related Courses</h5> -->
+        <h2 class="title text-center">Our Related <span>Course</span></h2>
 
+        <div class="related-course-grid">
+
+            <div class="course-card1">
+                <div class="course-img">
+                    <img src="https://cmr.edu.in/blog/wp-content/uploads/2024/11/Bachelor-Of-Design-And-Career-Opportunities.webp" alt="Course">
+                </div>
+                <div class="course-info">
+                    <h4>B.DES in Graphic Design</h4>
+                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
+                </div>
+            </div>
+            <div class="course-card1">
+                <div class="course-img">
+                    <img src="assets/img/graph.webp" alt="Course">
+                </div>
+                <div class="course-info">
+                    <h4>MBA in Graphic Design</h4>
+                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
+                </div>
+            </div>
+
+            <div class="course-card1">
+                <div class="course-img">
+                    <img src="assets/img/INTERIOR.jpg" alt="Course">
+                </div>
+                <div class="course-info">
+                    <h4>Diploma &
+                        Advanced Diploma in Graphic Design</h4>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
 
 
 <?php include 'inside/footer.php' ?>

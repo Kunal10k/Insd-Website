@@ -3,7 +3,7 @@
 
 
 <section class="landing_banner" id="form">
-    <div class="banner" style="background-image: url('./assets/img/insd-banner1.jpg');">
+    <div class="banner" style="background-image: url('./assets/img/gra.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-12">

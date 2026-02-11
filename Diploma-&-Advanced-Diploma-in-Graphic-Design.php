@@ -169,52 +169,7 @@
                                 </a>
                             </div>
 
-                            <!-- Program Features -->
-                            <ul class="program-features">
-                                <li>Integrated curriculum combining fashion, technology, and management</li>
-                                <li>Strong focus on execution, strategy, and leadership development</li>
-                                <li>Live projects, industry case studies, and professional exposure</li>
-                                <li>Mentorship from experienced faculty and industry professionals</li>
-                                <li>Structured career guidance and placement assistance</li>
-                            </ul>
 
-                            <!-- Who Should Choose -->
-                            <div class="who-should-choose mt-4">
-                                <h3>Who Should Choose This Program</h3>
-                                <ul class="program-features">
-                                    <li>Students interested in graphic design, visual communication, and digital media</li>
-                                    <li>Beginners looking for a professional entry into creative and digital careers</li>
-                                    <li>Learners who prefer practical, skill-focused programs</li>
-                                    <li>Students aiming to work in design studios, agencies, startups, or freelance roles</li>
-                                </ul>
-
-                                <!-- CTA Buttons -->
-                                <div class="program-cta mt-3">
-
-                                    <a href="#" class="btn-animated btn-light">
-                                        <div class="btn-text-wrap">
-                                            <div class="btn-text">Talk to a Course Counsellor</div>
-                                            <div class="btn-text-hover">Talk to a Course Counsellor</div>
-                                        </div>
-                                        <div class="btn-icon-wrap">
-                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                                        </div>
-                                    </a>
-
-                                    <a href="#" class="btn-animated btn-light">
-                                        <div class="btn-text-wrap">
-                                            <div class="btn-text">Get Career Guidance</div>
-                                            <div class="btn-text-hover">Get Career Guidance</div>
-                                        </div>
-                                        <div class="btn-icon-wrap">
-                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                                        </div>
-                                    </a>
-
-                                </div>
-                            </div>
 
 
                         </div>
@@ -399,11 +354,7 @@
 
                             <hr class="my-4">
 
-                            <h6 class="py-2">Scholarships & Financial Support</h6>
-                            <p>
-                                INSD Kolkata offers scholarship support to eligible students to encourage creative potential and provide access
-                                to professional design education. Scholarship details and eligibility criteria are shared transparently during counselling.
-                            </p>
+
 
                             <div class="d-flex gap-3 flex-wrap mt-3">
                                 <a href="#talk-to-counsellor" class="btn-animated btn-light">
@@ -441,34 +392,140 @@
         </div>
 </section>
 
-<section class="related-courses">
+
+
+
+<section class="why-study-section py-5">
     <div class="container">
-        <!-- <h5 class="sub-head text-center cen">Related Courses</h5> -->
-        <h2 class="title text-center">Our Related <span>Course</span></h2>
+        <div class="row">
 
-        <div class="related-course-grid">
+            <!-- LEFT CONTENT -->
+            <div class="col-lg-8 mb-4 mb-lg-0">
+                <h2 class="mb-3 title">
+                    Who Should Choose <span>This Program</span> <br>
 
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/graph.webp" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>MBA in Interior Design</h4>
-                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
+                </h2>
+
+
+
+                <!-- Who Should Choose This Program -->
+                <div class="who-should mt-5">
+
+                    <ul class="list-unstyled">
+                        <li class="mb-2 d-flex align-items-start">
+                            <span class="me-2">✔</span>
+
+                            Students interested in graphic design, visual communication, and digital media
+                        </li>
+                        <li class="mb-2 d-flex align-items-start">
+                            <span class="me-2">✔</span>
+
+                            Beginners looking for a professional entry into creative and digital careers
+                        </li>
+                        <li class="mb-2 d-flex align-items-start">
+                            <span class="me-2">✔</span>
+
+                            Learners who prefer practical, skill-focused programs
+                        </li>
+                        <li class="mb-2 d-flex align-items-start">
+                            <span class="me-2">✔</span>
+
+                            Students aiming to work in design studios, agencies, startups, or freelance roles
+                        </li>
+                    </ul>
+
+                    <!-- Call-to-action links -->
+                    <div class="mt-3">
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Talk to a Course Counsellor</div>
+                                <div class="btn-text-hover">Talk to a Course Counsellor</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Get Career Guidance</div>
+                                <div class="btn-text-hover">Get Career Guidance</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
 
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/INTERIOR.jpg" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>Diploma &
-                        Advanced Diploma in Interior
-                        Design</h4>
+            <!-- RIGHT IMAGE -->
+            <div class="col-lg-4 text-center">
+                <img src="assets/img/p1.png" alt="B.Des Graphic Design & Technology INSD Kolkata" class="img-fluid rounded shadow">
+            </div>
 
+        </div>
+    </div>
+</section>
+
+
+<section class="why-study-section py-5">
+    <div class="container">
+        <div class="row">
+
+            <!-- RIGHT IMAGE -->
+            <div class="col-lg-5 text-center">
+                <img src="assets/img/p1.png" alt="B.Des Graphic Design &amp; Technology INSD Kolkata" class="img-fluid rounded shadow">
+            </div>
+
+            <!-- LEFT CONTENT -->
+            <div class="col-lg-7 mb-4 mb-lg-0">
+                <h2 class="mb-3 title">
+                    Scholarships
+
+                </h2>
+
+
+
+                <!-- Who Should Choose This Program -->
+                <div class="who-should mt-5">
+
+                    <p class="para">
+                        INSD Kolkata offers a range of scholarship and financial assistance options to support talented and deserving students in pursuing their design education. Merit-based scholarships recognize students with outstanding academic performance, exceptional creative portfolios, or top results in entrance assessments. Need-based financial assistance ensures that students with genuine financial constraints can access professional education without barriers. The institute also provides special category scholarships for early applicants, high achievers in national or state-level competitions, and underrepresented communities. Additionally, flexible installment plans, educational loans, and guidance on applying for government or external funding make it easier for students to manage tuition fees while focusing on their creative development.
+                    </p>
+
+                    <!-- Call-to-action links -->
+                    <div class="mt-3">
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Get Fee Details</div>
+                                <div class="btn-text-hover">Get Fee Details</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+
+                        <a href="#" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Talk to a Counsellor</div>
+                                <div class="btn-text-hover">Talk to a Counsellor</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
+
+
 
         </div>
     </div>
@@ -552,79 +609,7 @@
     </div>
 </section>
 
-<section>
-    <div class="container">
 
-
-
-
-
-        <div class="about-author-list rbt-shadow-box featured-wrapper mt--30 has-show-more">
-
-            <h4 class="title pb-4">Instructor</h4>
-            <p class="para w-100 mb-4">Learn Under the Guidance of Industry-Active Professionals
-                The B.Des in Interior Design program is guided by instructors who are actively engaged in professional design practice. These instructors bring real-world perspective into studio learning, design critiques, and project execution, ensuring that academic learning remains aligned with current industry standard
-            </p>
-
-            <div class="student-carousel owl-carousel">
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-1.jpg" alt="">
-                    <h5>Rishita Sengupta</h5>
-                    <p>Placed at: <span>H&M</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-2.jpg" alt="">
-                    <h5>Damini Bhattacharya</h5>
-                    <p>Placed at: <span>Jaipur Rugs</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-3.jpg" alt="">
-                    <h5>Sneha Singh</h5>
-                    <p>Placed at: <span>Ritu Kumar</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-4.jpg" alt="">
-                    <h5>Abhishek Mishra</h5>
-                    <p>Placed at: <span>Levi’s</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-5.jpg" alt="">
-                    <h5>Prity Dutta</h5>
-                    <p>Placed at: <span>Manish</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-6.jpg" alt="">
-                    <h5>Muskan Agarwal</h5>
-                    <p>Placed at: <span>Anandadhara Line</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-2.jpg" alt="">
-                    <h5>Naziya Khan</h5>
-                    <p>Placed at: <span>Puma</span></p>
-                </div>
-
-                <div class="student-box">
-                    <img src="assets/img/fashion/place-1.jpg" alt="">
-                    <h5>Ritika Sharma</h5>
-                    <p>Placed at: <span>Puma</span></p>
-                </div>
-
-            </div>
-
-
-
-
-
-        </div>
-    </div>
-</section>
 
 <section class="student-test">
     <div class="">
@@ -943,7 +928,47 @@
 
 
 
+<section class="related-courses">
+    <div class="container">
+        <!-- <h5 class="sub-head text-center cen">Related Courses</h5> -->
+        <h2 class="title text-center">Our Related <span>Course</span></h2>
 
+        <div class="related-course-grid">
+
+            <div class="course-card1">
+                <div class="course-img">
+                    <img src="https://cmr.edu.in/blog/wp-content/uploads/2024/11/Bachelor-Of-Design-And-Career-Opportunities.webp" alt="Course">
+                </div>
+                <div class="course-info">
+                    <h4>B.DES in Graphic Design</h4>
+                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
+                </div>
+            </div>
+            <div class="course-card1">
+                <div class="course-img">
+                    <img src="assets/img/graph.webp" alt="Course">
+                </div>
+                <div class="course-info">
+                    <h4>MBA in Graphic Design</h4>
+                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
+                </div>
+            </div>
+
+            <div class="course-card1">
+                <div class="course-img">
+                    <img src="assets/img/INTERIOR.jpg" alt="Course">
+                </div>
+                <div class="course-info">
+                    <h4>Diploma &
+                        Advanced Diploma in
+                        Graphic Design</h4>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
 
 
 
