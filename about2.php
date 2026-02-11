@@ -20,7 +20,7 @@
 
         <div class="hero-block__visual">
             <div class="hero-block__image-card">
-                <img src="assets/img/about/insd 2nd image (1).jpg" alt="Student" class="hero-block__img">
+                <img src="assets/img/a1.png" alt="Student" class="hero-block__img">
             </div>
         </div>
 
@@ -163,20 +163,20 @@
 
         <div class="hero-block__visual">
             <div class="hero-block__image-card">
-                <img src="assets/img/about/insd 2nd image (1).jpg" alt="Student" class="hero-block__img">
+                <img src="assets/img/a2.png" alt="Student" class="hero-block__img">
             </div>
         </div>
 
         <div class="hero-block__content">
             <!-- <span class="sub-head">Who We Are</span> -->
-            <h1 class=" title ">What Makes INSD  <span> Kolkata Different</span></h1>
-         <ul class="campus-features mt-3">
-    <li>Industry-driven curriculum aligned with professional design practices</li>
-    <li>Studio-based learning with continuous hands-on training</li>
-    <li>Mentorship by practicing designers, industry professionals, and entrepreneurs</li>
-    <li>Exposure to live projects, workshops, and industry interactions</li>
-    <li>Structured career guidance with placement assistance</li>
-</ul>
+            <h1 class=" title ">What Makes INSD <span> Kolkata Different</span></h1>
+            <ul class="campus-features mt-3">
+                <li>Industry-driven curriculum aligned with professional design practices</li>
+                <li>Studio-based learning with continuous hands-on training</li>
+                <li>Mentorship by practicing designers, industry professionals, and entrepreneurs</li>
+                <li>Exposure to live projects, workshops, and industry interactions</li>
+                <li>Structured career guidance with placement assistance</li>
+            </ul>
 
         </div>
 
@@ -184,49 +184,49 @@
 </section>
 
 <section class="stats-wrap pb-0">
-  <div class="stats-container">
+    <div class="stats-container">
 
-    <div class="stat-card stat-yellow">
-      <!-- <div class="stat-icon">
+        <div class="stat-card stat-yellow">
+            <!-- <div class="stat-icon">
         <i class="fa-solid fa-calendar-check"></i>
       </div> -->
-      <div class="stat-data">
-        <span class="stat-number">2011</span>
-        <span class="stat-text">Established</span>
-      </div>
-    </div>
+            <div class="stat-data">
+                <span class="stat-number">2011</span>
+                <span class="stat-text">Established</span>
+            </div>
+        </div>
 
-    <div class="stat-card stat-blue">
-      <!-- <div class="stat-icon">
+        <div class="stat-card stat-blue">
+            <!-- <div class="stat-icon">
         <i class="fa-solid fa-layer-group"></i>
       </div> -->
-      <div class="stat-data">
-        <span class="stat-number">3</span>
-        <span class="stat-text">Core Design Disciplines</span>
-      </div>
-    </div>
+            <div class="stat-data">
+                <span class="stat-number">3</span>
+                <span class="stat-text">Core Design Disciplines</span>
+            </div>
+        </div>
 
-    <div class="stat-card stat-dark">
-      <!-- <div class="stat-icon">
+        <div class="stat-card stat-dark">
+            <!-- <div class="stat-icon">
         <i class="fa-solid fa-user-graduate"></i>
       </div> -->
-      <div class="stat-data">
-        <span class="stat-number">15,000+</span>
-        <span class="stat-text">Students Trained & Graduated</span>
-      </div>
-    </div>
+            <div class="stat-data">
+                <span class="stat-number">15,000+</span>
+                <span class="stat-text">Students Trained & Graduated</span>
+            </div>
+        </div>
 
-    <div class="stat-card stat-red">
-      <!-- <div class="stat-icon">
+        <div class="stat-card stat-red">
+            <!-- <div class="stat-icon">
         <i class="fa-solid fa-handshake-angle"></i>
       </div> -->
-      <div class="stat-data">
-        <span class="stat-number">300+</span>
-        <span class="stat-text">Industry & Professional Associations</span>
-      </div>
-    </div>
+            <div class="stat-data">
+                <span class="stat-number">300+</span>
+                <span class="stat-text">Industry & Professional Associations</span>
+            </div>
+        </div>
 
-  </div>
+    </div>
 </section>
 
 
@@ -272,7 +272,7 @@
 <section class="client">
     <div class="container">
 
-        <h2 class="title text-center">Explore INSD  <span>Kolkata</span></h2>
+        <h2 class="title text-center">Explore INSD <span>Kolkata</span></h2>
 
         <p class="para text-center pb-5 w-75 m-auto">Explore programs designed to build real careers in design and creativity.</p>
 

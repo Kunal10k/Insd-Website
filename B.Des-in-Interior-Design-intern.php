@@ -294,15 +294,7 @@
                                     <li><i class="fa-solid fa-circle-check me-2"></i>Creativity, interest, and commitment encouraged</li>
                                 </ul>
 
-                                <h6 class="py-2">Scholarships & Financial Support</h6>
-                                <p class="para">
-                                    INSD Kolkata offers scholarship support to eligible students as part of its commitment to encouraging academic merit,
-                                    creative potential, and inclusive access to professional design education.
-                                </p>
-                                <p class="para">
-                                    Scholarship opportunities are evaluated based on institutional criteria. Details regarding eligibility,
-                                    scholarship categories, and the application process are communicated transparently during the counselling interaction.
-                                </p>
+
 
 
                             </div>
@@ -894,9 +886,11 @@
                     <img src="https://cmr.edu.in/blog/wp-content/uploads/2024/11/Bachelor-Of-Design-And-Career-Opportunities.webp" alt="Course">
                 </div>
                 <div class="course-info">
-                    <h4>Bachelor of Design in
-                        Interior Design</h4>
-                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
+                    <a href="B.Des-in-Interior-Design-intern.php">
+                        <h4>Bachelor of Design in
+                            Interior Design</h4>
+                    </a>
+
                 </div>
             </div>
             <div class="course-card1">
@@ -904,8 +898,9 @@
                     <img src="assets/img/graph.webp" alt="Course">
                 </div>
                 <div class="course-info">
-                    <h4>MBA in Interior Design</h4>
-                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
+                    <a href="MBA-in-Interior-Design.php">
+                        <h4>MBA in Interior Design</h4>
+                    </a>
                 </div>
             </div>
 
@@ -914,10 +909,11 @@
                     <img src="assets/img/INTERIOR.jpg" alt="Course">
                 </div>
                 <div class="course-info">
-                    <h4>Diploma &
-                        Advanced Diploma in Interior
-                        Design</h4>
-
+                    <a href="Diploma-&-Advanced-Diploma-in-Interior-Design.php">
+                        <h4>Diploma &
+                            Advanced Diploma in Interior
+                            Design</h4>
+                    </a>
                 </div>
             </div>
 

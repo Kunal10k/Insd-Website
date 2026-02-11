@@ -6464,7 +6464,7 @@ alumni-carousel .item img {
 .hero-block__image-card {
   border-radius: 40px;
   overflow: hidden;
-  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.12);
+  /* box-shadow: 0 30px 60px rgba(0, 0, 0, 0.12); */
 }
 
 .hero-block__img {
@@ -10332,7 +10332,7 @@ textarea {
   position: relative;
 }
 
-.edu-title::after,
+/* .edu-title::after,
 .career-title::after {
   content: '';
   display: block;
@@ -10341,7 +10341,7 @@ textarea {
   background-color: #ffbf00;
   margin: 10px auto 0;
   border-radius: 2px;
-}
+} */
 
 /* ==========================
    Learning Experience Cards
@@ -10532,4 +10532,12 @@ textarea {
   border-radius: 10px;
   background: #fafafa;
   font-size: 15px;
+}
+
+
+.career-hero .career-title {
+  font-size: 32px;
+  font-weight: 700;
+  color: #fff !important;
+  position: relative;
 }

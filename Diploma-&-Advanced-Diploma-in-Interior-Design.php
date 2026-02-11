@@ -937,6 +937,7 @@
 
 
 
+
 <section class="related-courses">
     <div class="container">
         <!-- <h5 class="sub-head text-center cen">Related Courses</h5> -->
@@ -949,9 +950,10 @@
                     <img src="https://cmr.edu.in/blog/wp-content/uploads/2024/11/Bachelor-Of-Design-And-Career-Opportunities.webp" alt="Course">
                 </div>
                 <div class="course-info">
-                    <h4>Bachelor of Design in
-                        Interior Design</h4>
-                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
+                    <a href="B.DES-in-Graphic-Design.php">
+                        <h4>B.DES in Graphic Design</h4>
+                    </a>
+
                 </div>
             </div>
             <div class="course-card1">
@@ -959,8 +961,10 @@
                     <img src="assets/img/graph.webp" alt="Course">
                 </div>
                 <div class="course-info">
-                    <h4>MBA in Interior Design</h4>
-                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
+                    <a href="#">
+                        <h4>MBA in Graphic Design</h4>
+                    </a>
+
                 </div>
             </div>
 
@@ -969,9 +973,10 @@
                     <img src="assets/img/INTERIOR.jpg" alt="Course">
                 </div>
                 <div class="course-info">
-                    <h4>Diploma &
-                        Advanced Diploma in Interior
-                        Design</h4>
+                    <a href="Diploma-&-Advanced-Diploma-in-Graphic-Design.php">
+                        <h4>Diploma &
+                            Advanced Diploma in Graphic Design</h4>
+                    </a>
 
                 </div>
             </div>
@@ -979,7 +984,6 @@
         </div>
     </div>
 </section>
-
 
 
 

@@ -876,6 +876,29 @@
 
     }
 
+    .career-hero .career-title {
+        font-size: 24px;
+        font-weight: 700;
+        color: #fff !important;
+        position: relative;
+    }
+
+    .edu-cards {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 13px;
+        justify-content: center;
+        margin-top: 25px;
+    }
+
+    .career-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 21px;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
     .form-label {
         font-size: 85%;
 

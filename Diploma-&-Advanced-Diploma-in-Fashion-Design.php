@@ -992,6 +992,53 @@
 
 
 
+<section class="related-courses">
+    <div class="container">
+        <!-- <h5 class="sub-head text-center cen">Related Courses</h5> -->
+        <h2 class="title text-center">Our Related <span>Course</span></h2>
+
+        <div class="related-course-grid">
+
+            <div class="course-card1">
+                <div class="course-img">
+                    <img src="https://cmr.edu.in/blog/wp-content/uploads/2024/11/Bachelor-Of-Design-And-Career-Opportunities.webp" alt="Course">
+                </div>
+                <div class="course-info">
+
+                    <a href="B.Des-in-Fashion-Design.php">
+                        <h4>B.Des in Fashion Design</h4>
+                    </a>
+                </div>
+            </div>
+            <div class="course-card1">
+                <div class="course-img">
+                    <img src="assets/img/graph.webp" alt="Course">
+                </div>
+                <div class="course-info">
+                    <a href="MBA-in-Fashion-Design.php">
+                        <h4>MBA in Fashion Design</h4>
+                    </a>
+
+                </div>
+            </div>
+
+            <div class="course-card1">
+                <div class="course-img">
+                    <img src="assets/img/INTERIOR.jpg" alt="Course">
+                </div>
+                <div class="course-info">
+                    <a href="Diploma-&-Advanced-Diploma-in-Fashion-Design.php">
+                        <h4>Diploma &
+                            Advanced Diploma in Fashion
+                            Design</h4>
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
 
 
 

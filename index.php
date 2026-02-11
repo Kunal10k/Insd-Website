@@ -1223,44 +1223,46 @@
 
 
 <section class="placement-cta">
-  <div class="cta-container">
-    <h2>Want to know more about placements and career opportunities?</h2>
-    <div class="ban-btn ">
+  <div class="container">
+    <div class="cta-container">
+      <h2>Want to know more about placements and career opportunities?</h2>
+      <div class="ban-btn ">
 
-      <div class="mt-4">
-        <!-- Apply Button -->
-        <a href="#" class="btn-animated btn-light" data-bs-toggle="modal" data-bs-target="#enquiryModal">
-          <span class="btn-text-wrap">
-            <span class="btn-text">Apply to Join</span>
-            <span class="btn-text-hover">Apply to Join</span>
-          </span>
-          <span class="btn-icon-wrap">
-            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-              alt="Arrow" class="btn-icon">
-            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-              alt="Arrow" class="btn-icon-hover">
-          </span>
-        </a>
+        <div class="mt-4">
+          <!-- Apply Button -->
+          <a href="#" class="btn-animated btn-light" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+            <span class="btn-text-wrap">
+              <span class="btn-text">Apply to Join</span>
+              <span class="btn-text-hover">Apply to Join</span>
+            </span>
+            <span class="btn-icon-wrap">
+              <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                alt="Arrow" class="btn-icon">
+              <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                alt="Arrow" class="btn-icon-hover">
+            </span>
+          </a>
 
-        <a href="#" class="btn-animated btn-light">
-          <span class="btn-text-wrap">
-            <span class="btn-text">Explore our Courses</span>
-            <span class="btn-text-hover">Explore our Courses</span>
-          </span>
-          <span class="btn-icon-wrap">
-            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-              alt="Arrow" class="btn-icon">
-            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-              alt="Arrow" class="btn-icon-hover">
-          </span>
-        </a>
+          <a href="#" class="btn-animated btn-light">
+            <span class="btn-text-wrap">
+              <span class="btn-text">Explore our Courses</span>
+              <span class="btn-text-hover">Explore our Courses</span>
+            </span>
+            <span class="btn-icon-wrap">
+              <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                alt="Arrow" class="btn-icon">
+              <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                alt="Arrow" class="btn-icon-hover">
+            </span>
+          </a>
 
 
+
+        </div>
 
       </div>
 
     </div>
-
   </div>
 </section>
 

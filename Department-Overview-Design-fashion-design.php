@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-md-8 col-sm-12">
                     <div class="landing_content">
-                        <h5>Admissions Open | 2026</h5>
+                        <h5>Admissions Open | 2026 Intaka </h5>
                         <h1 class="w-75">Build a Career in Fashion Design with Industry-Focused Training
 
                             ​</h1>
@@ -118,162 +118,74 @@
     </div>
 
 
-    <div class="cardbox">
-        <div class="container">
-            <div class="row g-3">
-
-                <!-- Card 1 -->
-                <div class="col-md-3">
-                    <div class="program-card">
-                        <div class="programs_flex">
-                            <div class="icon pink">
-                                <i class="bi bi-briefcase"></i>
-                            </div>
-                            <h5>100% Placement Assistance</h5>
-                        </div>
-                        <p>
-                            Career guidance, interview preparation, and dedicated placement support
-                            for eligible students to help launch successful professional careers.
-                        </p>
-                    </div>
-                </div>
-
-                <!-- Card 2 -->
-                <div class="col-md-3">
-                    <div class="program-card">
-                        <div class="programs_flex">
-                            <div class="icon blue">
-                                <i class="bi bi-award"></i>
-                            </div>
-                            <h5>Scholarship Support Available</h5>
-                        </div>
-                        <p>
-                            Merit-based and need-based scholarships are available for deserving students,
-                            making quality design education more accessible.
-                        </p>
-                    </div>
-                </div>
-
-                <!-- Card 3 -->
-                <div class="col-md-3">
-                    <div class="program-card">
-                        <div class="programs_flex">
-                            <div class="icon purple">
-                                <i class="bi bi-people"></i>
-                            </div>
-                            <h5>Industry-Active Faculty</h5>
-                        </div>
-                        <p>
-                            Learn directly from practicing designers and entrepreneurs who bring
-                            real-world insights and current industry experience into the classroom.
-                        </p>
-                    </div>
-                </div>
-
-                <!-- Card 4 -->
-                <div class="col-md-3">
-                    <div class="program-card">
-                        <div class="programs_flex">
-                            <div class="icon green">
-                                <i class="bi bi-tools"></i>
-                            </div>
-                            <h5>Live Projects & On-the-Job Training</h5>
-                        </div>
-                        <p>
-                            Gain hands-on exposure through real projects, site visits, and execution-based
-                            training that prepares you for professional practice.
-                        </p>
-                    </div>
-                </div>
-
-            </div>
-
-
-        </div>
-    </div>
 
 
 </section>
 
 
+<section class="stats-wrap">
+    <div class="stats-container">
 
+        <div class="stat-card stat-yellow">
+            <div class="stat-icon">
+                <i class="fa-solid fa-briefcase"></i>
+            </div>
+            <div class="stat-data">
+                <span class="stat-number">100%</span>
+                <span class="stat-text">Placement Assistance</span>
+            </div>
+        </div>
 
+        <div class="stat-card stat-blue">
+            <div class="stat-icon">
+                <i class="fa-solid fa-award"></i>
+            </div>
+            <div class="stat-data">
+                <span class="stat-number">Scholarship</span>
+                <span class="stat-text">Support Available</span>
+            </div>
+        </div>
+
+        <div class="stat-card stat-dark">
+            <div class="stat-icon">
+                <i class="fa-solid fa-users"></i>
+            </div>
+            <div class="stat-data">
+                <span class="stat-number">Industry</span>
+                <span class="stat-text">Active Faculty</span>
+            </div>
+        </div>
+
+        <div class="stat-card stat-red">
+            <div class="stat-icon">
+                <i class="fa-solid fa-tools"></i>
+            </div>
+            <div class="stat-data">
+                <span class="stat-number">Live</span>
+                <span class="stat-text">Projects &amp; Training</span>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- 
 <section class="edu-benefits py-5">
     <div class="container">
         <div class="row align-items-center g-5">
 
-            <!-- Left Image -->
+          
             <div class="col-lg-4 text-center text-lg-start">
                 <img src="assets/img/fashion png-min.png" alt="Student" class="img-fluid edu-image">
             </div>
 
-            <!-- Right Content -->
+         
             <div class="col-lg-8 edu-content">
                 <span class="sub-head text-center  ">About Fashion Design & Technology</span>
                 <h2 class="edu-heading title ">
                     About Fashion Design <span>& Technology</span>
                 </h2>
-                <!-- <div class="custom-info-section py-5">
-                    <div class="row row-cols-1 row-cols-md-2 g-5 position-relative">
-
-                    
-                        <div class="col d-flex align-items-start">
-                            <div class="icon-container me-3">
-                                <i class="fa-solid fa-trophy fa-2x text-warning-custom"></i>
-                            </div>
-                            <div>
-                                <h5 class="feature-heading">Record-Breaking Excellence</h5>
-                                <p class="feature-description">
-                                    Learn at an award-winning institution recognized by the India Book of Records
-                                    for redefining modern fashion and design education standards.
-                                </p>
-                            </div>
-                        </div>
-
-                     
-                        <div class="col d-flex align-items-start">
-                            <div class="icon-container me-3">
-                                <i class="fa-solid fa-briefcase fa-2x text-warning-custom"></i>
-                            </div>
-                            <div>
-                                <h5 class="feature-heading">Direct Industry Pipelines</h5>
-                                <p class="feature-description">
-                                    Secure your future with 100% placement support and access to global fashion
-                                    giants like Marks & Spencer, Benetton, and JJ Valaya.
-                                </p>
-                            </div>
-                        </div>
-
-                     
-                        <div class="col d-flex align-items-start">
-                            <div class="icon-container me-3">
-                                <i class="fa-solid fa-person-walking-luggage fa-2x text-warning-custom"></i>
-                            </div>
-                            <div>
-                                <h5 class="feature-heading">Global Runway Stages</h5>
-                                <p class="feature-description">
-                                    Debut your collections at international showcases and Times Fashion Week
-                                    alongside renowned designers and celebrities.
-                                </p>
-                            </div>
-                        </div>
-
-                     
-                        <div class="col d-flex align-items-start">
-                            <div class="icon-container me-3">
-                                <i class="fa-solid fa-scissors fa-2x text-warning-custom"></i>
-                            </div>
-                            <div>
-                                <h5 class="feature-heading">Advanced Studio Training</h5>
-                                <p class="feature-description">
-                                    Master your craft through intensive hands-on workshops in state-of-the-art
-                                    studios led by experienced fashion industry veterans.
-                                </p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div> -->
+               
 
                 <p class="para">
                     Fashion Design & Technology is a career-driven field that blends creativity, technical skills, and industry execution. It goes beyond designing garments to understanding materials, production processes, technology tools, branding, and market demands. <br><br>
@@ -285,7 +197,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
 
 
@@ -304,7 +216,7 @@
                 <div class="course-card">
                     <div class="card-header">
                         <h2>Diploma / Advanced Diploma in Fashion Design</h2>
-                        <a href="#form" class="apply-btn">View Course</a>
+
                     </div>
 
                     <div class="card-row">
@@ -316,11 +228,8 @@
                         <span class="label">IDEAL FOR:</span>
                         <span class="value">Beginners & Skill-Focused Learners</span>
                     </div>
+                    <a href="#form" class="apply-btn">View Course</a>
 
-                    <p class="course-desc">
-                        Hands-on programs focused on core fashion skills, studio practice,
-                        and early industry exposure to build a strong foundation.
-                    </p>
                 </div>
             </div>
 
@@ -330,7 +239,7 @@
                 <div class="course-card">
                     <div class="card-header">
                         <h2>B.Des in Fashion Design & Technology</h2>
-                        <a href="#form" class="apply-btn">View Course</a>
+
                     </div>
 
                     <div class="card-row">
@@ -343,10 +252,7 @@
                         <span class="value">Professional Fashion Design Career</span>
                     </div>
 
-                    <p class="course-desc">
-                        A comprehensive undergraduate degree combining fashion design,
-                        technology, live projects, and strong portfolio development.
-                    </p>
+                    <a href="#form" class="apply-btn">View Course</a>
                 </div>
             </div>
 
@@ -356,7 +262,7 @@
                 <div class="course-card">
                     <div class="card-header">
                         <h2>MBA in Fashion Design & Technology</h2>
-                        <a href="#form" class="apply-btn">View Course</a>
+
                     </div>
 
                     <div class="card-row">
@@ -369,10 +275,7 @@
                         <span class="value">Leadership, Management & Business Roles</span>
                     </div>
 
-                    <p class="course-desc">
-                        A postgraduate program integrating fashion, technology, and
-                        management for senior roles and entrepreneurship.
-                    </p>
+                    <a href="#form" class="apply-btn">View Course</a>
                 </div>
             </div>
 
@@ -433,8 +336,7 @@
         <!-- <p class="sub-head text-center cen ">QUALIFIED TEACHERS</p> -->
         <h2 class="title text-center ">Industry Mentors & <br> <span>Masterclasses</span></h2>
 
-        <p class="w-75 m-auto text-center">Learn from practicing fashion designers, entrepreneurs, and industry professionals.
-            Students regularly interact with industry experts through masterclasses, workshops, live projects, design reviews, and industry sessions, gaining real-world insights beyond the classroom.
+        <p class="w-75 m-auto text-center">Learn directly from practicing designers, entrepreneurs, and industry experts through masterclasses, workshops, live projects, and design reviews — gaining real-world insights beyond the classroom.
         </p>
 
         <div class="owl-carousel mentor-owl mt-5">
@@ -488,7 +390,7 @@
         <div class="col-md-5 content">
 
             <h6 class="title ">RECOGNISED & <br>FEATURED BY</h6>
-            <!-- <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies, industry platforms, and media <br class="d-none d-md-block"> organisations.</p> -->
+            <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies, industry platforms, and media <br class="d-none d-md-block"> organisations.</p>
 
 
         </div>
@@ -540,6 +442,94 @@
 
 
 
+<section class="edu-career-section py-5">
+    <div class="container">
+
+        <!-- INFRASTRUCTURE & FACILITIES -->
+        <div class="edu-block mb-5">
+            <h3 class="title text-center">Infrastructure & <span>Facilities</span></h3>
+
+            <div class="edu-cards">
+
+                <div class="edu-card">
+                    <div class="edu-icon">🏢</div>
+                    <p class="edu-text">Professional Fashion Design Studios</p>
+                </div>
+
+                <div class="edu-card">
+                    <div class="edu-icon">✂️</div>
+                    <p class="edu-text">Pattern Making & Garment Construction Units</p>
+                </div>
+
+                <div class="edu-card">
+                    <div class="edu-icon">📚</div>
+                    <p class="edu-text">Textile & Material Resource Library</p>
+                </div>
+
+                <div class="edu-card">
+                    <div class="edu-icon">💻</div>
+                    <p class="edu-text">CAD & Technology-Enabled Classrooms</p>
+                </div>
+
+                <div class="edu-card">
+                    <div class="edu-icon">🎨</div>
+                    <p class="edu-text">Exhibition & Student Showcase Spaces</p>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- CAREER OPPORTUNITIES & PLACEMENTS -->
+        <div class="career-block">
+            <h3 class="title text-center">Career Opportunities & <span>Placements</span></h3>
+
+            <div class="career-grid">
+
+                <div class="career-column">
+                    <h5 class="career-subtitle">Career Roles</h5>
+
+                    <ul class="career-list mt-2">
+                        <li>Fashion Designer</li>
+                        <li>Apparel Designer</li>
+                        <li>Fashion Stylist</li>
+                        <li>Fashion Merchandiser</li>
+                        <li>Fashion Consultant</li>
+                        <li>Entrepreneur / Fashion Brand Owner</li>
+                    </ul>
+                </div>
+
+                <div class="career-column">
+                    <h5 class="career-subtitle">Placement Highlights</h5>
+
+                    <ul class="career-list mt-3">
+                        <li>100% Placement Assistance</li>
+                        <li>Opportunities across fashion brands, studios, export houses & retail organisations</li>
+                    </ul>
+
+                    <div class="mt-4">
+
+                        <a href="#form" class="btn-animated btn-light">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Get Placement Details</div>
+                                <div class="btn-text-hover">Get Placement Details</div>
+                            </div>
+                        </a>
+
+                        <a href="#form" class="btn-animated btn-light mt-4">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">Speak to Our Placement Team</div>
+                                <div class="btn-text-hover">Speak to Our Placement Team</div>
+                            </div>
+                        </a>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</section>
 
 
 
@@ -549,13 +539,12 @@
 
 <section class="histudy-features ">
     <div class="container text-center">
-        <span class="sub-head text-center cen "> INTERIOR DESIGN AS A CAREER</span>
+        <!-- <span class="sub-head text-center cen "> INTERIOR DESIGN AS A CAREER</span> -->
         <h2 class="title"> INTERIOR DESIGN AS <br> <span> A CAREER</span></h2>
 
         <p class="para w-75 m-auto text-center">
-            Interior design today is a professional career, not just a creative course.
-            It involves design thinking, execution, coordination, client handling, and real project responsibility.
-            INSD focuses on how the industry actually works—through studio learning, site exposure, live projects, and on-the-job training—so students graduate ready for professional roles, not just certificates.
+            Interior design is a professional career combining creativity, execution, coordination, and client responsibility. INSD prepares students through studio learning, site exposure, live projects, and practical training for real industry roles.
+
 
         </p>
 
@@ -653,12 +642,12 @@
 
 
 
-<section class="v-stats-wrapper">
+<!-- <section class="v-stats-wrapper">
     <div class="container">
 
         <div class="v-stats-grid mt-4">
 
-            <!-- Stat 1 -->
+            
             <div class="v-stats-card">
                 <div class="v-number-box">
                     <span class="v-count-number" data-goal="300">0</span><span class="v-plus">+</span>
@@ -666,7 +655,7 @@
                 <p class="v-stats-label">TRAINING & PLACEMENT COMPANIES</p>
             </div>
 
-            <!-- Stat 2 -->
+         
             <div class="v-stats-card">
                 <div class="v-number-box">
                     <span class="v-count-number" data-goal="11">0</span><span class="v-plus">L</span>
@@ -674,7 +663,7 @@
                 <p class="v-stats-label">HIGHEST PACKAGE</p>
             </div>
 
-            <!-- Stat 3 -->
+            
             <div class="v-stats-card">
                 <div class="v-number-box">
                     <span class="v-count-number" data-goal="100">0</span><span class="v-plus">%</span>
@@ -682,7 +671,7 @@
                 <p class="v-stats-label">PLACEMENT ASSISTANCE</p>
             </div>
 
-            <!-- Stat 4 -->
+      
             <div class="v-stats-card">
                 <div class="v-number-box">
                     <span class="v-count-number" data-goal="15000">0</span><span class="v-plus">+</span>
@@ -693,29 +682,26 @@
         </div>
 
     </div>
-</section>
+</section> -->
 
 
 
-<section class="scholarship">
+<!-- <section class="scholarship">
     <div class="container">
         <div class="row">
 
             <div class="col-md-3 image-side">
                 <div class="image-side">
                     <img src="assets/img/high.jpeg" alt="Students">
-                    <!-- <div class="image-overlay">
-                            <small>PM-Vidyalaxmi Scheme</small>
-                          
-                        </div> -->
+                  
                 </div>
             </div>
 
             <div class="col-md-9">
                 <div class="content-side">
-                    <!-- <span class="badge">Merit Based</span> -->
+                    
                     <h2 class="title">PM-Vidyalaxmi <span>Scheme</span> </h2>
-                    <!-- <span class="sub-title">Global Tech Institute, Toronto</span> -->
+                   
 
 
                     <p class="description">
@@ -733,12 +719,12 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
 
 
 
-<section class="place">
+<!-- <section class="place">
     <img src="assets/img/girl.webp" alt="" class="img-fluid place_set_img">
     <div class="container">
         <h6 class="title text-center mb-5">Career Opportunities <br> <span>& Placements</span></h6>
@@ -782,7 +768,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="career-hero">
     <div class="career-container">
