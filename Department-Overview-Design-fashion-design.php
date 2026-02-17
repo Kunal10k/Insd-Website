@@ -367,41 +367,94 @@
 
             <div class="mentor-item">
                 <div class="mentor-img">
-                    <img src="https://randomuser.me/api/portraits/men/32.jpg" />
-                    <div class="mentor-share">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-whatsapp"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
+                    <img src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg" />
+
                 </div>
-                <h4>Edward Norton</h4>
-                <span>Musician</span>
+                <h4>Aparajita Toor</h4>
+                <!-- <span>Musician</span> -->
             </div>
 
             <div class="mentor-item">
                 <div class="mentor-img">
-                    <img src="https://randomuser.me/api/portraits/women/44.jpg" />
-                    <div class="mentor-share">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-whatsapp"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
+                    <img src="assets/img/INDUSTRY-SPEAKER/Azad Adham.jpg" />
+
+
                 </div>
-                <h4>Sarah Parker</h4>
-                <span>Designer</span>
+                <h4>Azad Adham</h4>
+                <!-- <span>Designer</span> -->
             </div>
 
             <div class="mentor-item">
                 <div class="mentor-img">
-                    <img src="https://randomuser.me/api/portraits/men/46.jpg" />
-                    <div class="mentor-share">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-whatsapp"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
+                    <img src="assets/img/INDUSTRY-SPEAKER/Bhavana Jasra (Owner,First Impression.).jpg" />
+
                 </div>
-                <h4>David Miller</h4>
-                <span>Developer</span>
+                <h4>Bhavana Jasra</h4>
+                <span>Owner,First Impression</span>
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Biren Vaidya(MD, Rose Group.).jpg" />
+
+                </div>
+                <h4>Biren Vaidya</h4>
+                <span>MD, Rose Group</span>
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg" />
+
+                </div>
+                <h4>Neha Lulla</h4>
+                <span>Jewellery Designer</span>
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg" />
+
+                </div>
+                <h4>Olivier Nicolay</h4>
+                <!-- <span>Jewellery Designer</span> -->
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Payal Singhal.jpg" />
+
+                </div>
+                <h4>Payal Singhal</h4>
+                <!-- <span>Jewellery Designer</span> -->
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Rishab Suresh.jpg" />
+
+                </div>
+                <h4>Rishab Suresh</h4>
+                <!-- <span>Jewellery Designer</span> -->
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation & MASH).jpg" />
+
+                </div>
+                <h4>Shalini Passi</h4>
+                <span>Founder,Art Foundation & MASH</span>
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Sophie Pereira.jpg" />
+
+                </div>
+                <h4>Sophie Pereira</h4>
+                <!-- <span>Founder,Art Foundation & MASH</span> -->
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg" />
+
+                </div>
+                <h4>Yogesh Chaudary</h4>
+                <span>Director, Jaipur Rugs</span>
             </div>
 
         </div>
@@ -413,40 +466,93 @@
 
 <section class="alumni-container p-0">
     <div class="row">
-        <div class="col-md-4 content">
+        <div class="col-md-3 content">
 
-            <h6 class="title">Top Recruiters</h6>
+            <h6 class="title">Top <br> Recruiters</h6>
 
 
 
         </div>
-        <div class="col-md-8">
+        <div class="col-md-9">
 
 
             <!-- MARQUEE RIGHT -->
             <div class="marquee-container ">
                 <div class="marquee marquee-right">
                     <div class="item"><img
-                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/7bc094219406037.67b1f28c97260-300x235.png">
+                            src="assets/img/logo/VOGUE_LOGO.svg">
                     </div>
                     <div class="item"><img
-                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/markdecor_logo.jpeg"></div>
+                            src="assets/img/logo/hm.png"></div>
                     <div class="item"><img
-                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/LVMH-logo-300x87.png"></div>
-                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/images-3.png">
+                            src="assets/img/logo/burberry.png"></div>
+                    <div class="item"><img src="assets/img/logo/arrow.png">
                     </div>
-                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/puma-logo-design-history-and-evolution-kreafolk_a042e2da-4ee1-4b78-a7be-c7c2e6acf65a-300x180.webp">
+                    <div class="item"><img src="assets/img/logo/nike.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/nykaa.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/blackberrys.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/manayavar.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/louisphisls.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/juniors.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/puma.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/zara.jpg">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/arvind.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/gap.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/rederss.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/leviees.jpg">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/sabasachi.jpg">
                     </div>
 
-                    <!-- duplicate -->
+
                     <div class="item"><img
-                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/images-4-300x158.png">
+                            src="assets/img/logo/VOGUE_LOGO.svg">
                     </div>
-                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/images-5-300x104.png">
+                    <div class="item"><img
+                            src="assets/img/logo/hm.png"></div>
+                    <div class="item"><img
+                            src="assets/img/logo/burberry.png"></div>
+                    <div class="item"><img src="assets/img/logo/arrow.png">
                     </div>
-                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/gap-logo-png_seeklogo-59170-300x300.png">
+                    <div class="item"><img src="assets/img/logo/nike.png">
                     </div>
-                   
+                    <div class="item"><img src="assets/img/logo/nykaa.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/blackberrys.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/manayavar.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/louisphisls.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/juniors.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/puma.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/zara.jpg">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/arvind.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/gap.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/rederss.png">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/leviees.jpg">
+                    </div>
+                    <div class="item"><img src="assets/img/logo/sabasachi.jpg">
+                    </div>
+
+
                 </div>
             </div>
 
@@ -459,177 +565,30 @@
 </section>
 
 
+
 <section class="student-achievers py-5">
     <div class="container">
 
-        <!-- Heading -->
         <div class="text-center mb-3">
-            <h2 class="title">
-                STUDENT <span>ACHIEVER’S</span>
-            </h2>
+            <h2 class="title">STUDENT <span>ACHIEVER’S</span></h2>
         </div>
 
-        <!-- Carousel -->
-        <div class="owl-carousel achiever-carousel owl-loaded owl-drag">
+        <div class="owl-carousel achiever-carousel">
 
-            <!-- Item -->
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (1).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (2).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (3).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (4).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (5).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (6).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (7).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (8).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (9).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (10).jpg"></div>
 
 
-
-
-
-
-
-            <div class="owl-stage-outer">
-                <div class="owl-stage"
-                    style="transform: translate3d(-1817px, 0px, 0px); transition: 0.25s; width: 3408px;">
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (1).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (2).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (3).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (4).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (5).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (1).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (2).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (3).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item active" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (4).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item active" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (5).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned active" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (1).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned active" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (2).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned active" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (3).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (4).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (5).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (6).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (7).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (8).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (9).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
-                        <div class="achiever-card">
-                            <img src="assets/img/logo/n1- (10).png" alt="">
-                            <!-- <h5>Rishita Sengupta</h5> -->
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span
-                        aria-label="Previous">‹</span></button><button type="button" role="presentation"
-                    class="owl-next"><span aria-label="Next">›</span></button></div>
-            <div class="owl-dots disabled"></div>
         </div>
+
     </div>
 </section>
 
@@ -642,7 +601,7 @@
             <!-- Left Content -->
             <div class="career-left">
                 <!-- <span class="career-label">Get Involved</span> -->
-                <h1 class="career-title">
+                <h1 class="title" style="color: #fff;">
                     Start Your Fashion Design Career at INSD
                 </h1>
                 <div class="mt-4">
@@ -687,7 +646,7 @@
 
             <!-- Right Image -->
             <div class="career-right">
-                <img src="https://cdn.prod.website-files.com/68b824698be8e7c047a5da51/68d36e1ef7e7d18265801ff9_461bbddae587805361cc0e11ef717658_koursio-cta-one-image-p-500.webp"
+                <img src="assets/img/logo/e.jpg"
                     alt="Person working on laptop" class="career-img">
             </div>
 
@@ -709,36 +668,49 @@
             <!-- MARQUEE LEFT -->
             <div class="marquee-container">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
+
 
                     <!-- duplicate for infinite loop -->
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
+
+
+
                 </div>
             </div>
 
             <!-- MARQUEE RIGHT -->
             <div class="marquee-container ">
                 <div class="marquee marquee-right">
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
 
-                    <!-- duplicate -->
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+
+
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
+
                 </div>
             </div>
 
@@ -773,7 +745,7 @@
                             <a class="nav-link tab-button active" data-bs-toggle="tab" href="#content1"
                                 aria-selected="true" role="tab">
                                 <i class="fa-solid fa-compass-drafting me-2"></i>
-Professional Fashion Design Studios
+                                Professional Fashion Design Studios
                             </a>
                         </li>
 
@@ -781,7 +753,7 @@ Professional Fashion Design Studios
                             <a class="nav-link tab-button" data-bs-toggle="tab" href="#content2" aria-selected="false"
                                 tabindex="-1" role="tab">
                                 <i class="fa-solid fa-laptop-code me-2"></i>
-                               Pattern Making & Garment Construction Units
+                                Pattern Making & Garment Construction Units
 
                             </a>
                         </li>
@@ -790,7 +762,7 @@ Professional Fashion Design Studios
                             <a class="nav-link tab-button" data-bs-toggle="tab" href="#content3" aria-selected="false"
                                 tabindex="-1" role="tab">
                                 <i class="fa-solid fa-users-viewfinder me-2"></i>
-Textile & Material Resource Library
+                                Textile & Material Resource Library
                             </a>
                         </li>
 
@@ -798,7 +770,7 @@ Textile & Material Resource Library
                             <a class="nav-link tab-button" data-bs-toggle="tab" href="#content4" aria-selected="false"
                                 tabindex="-1" role="tab">
                                 <i class="fa-solid fa-briefcase me-2"></i>
-CAD & Technology-Enabled Classrooms
+                                CAD & Technology-Enabled Classrooms
                             </a>
                         </li>
 
@@ -806,7 +778,7 @@ CAD & Technology-Enabled Classrooms
                             <a class="nav-link tab-button" data-bs-toggle="tab" href="#content5" aria-selected="false"
                                 tabindex="-1" role="tab">
                                 <i class="fa-solid fa-comments me-2"></i>
-CAD & Technology-Enabled Classrooms
+                                CAD & Technology-Enabled Classrooms
                             </a>
                         </li>
 
@@ -914,7 +886,8 @@ CAD & Technology-Enabled Classrooms
     <div class="row">
         <div class="col-md-3 content">
 
-            <h6 class="title  m-0">Our Clients</h6>
+            <h6 class="title  m-0">TOP
+                ALLIANCES</h6>
 
 
         </div>
@@ -922,18 +895,21 @@ CAD & Technology-Enabled Classrooms
             <!-- MARQUEE LEFT -->
             <div class="marquee-container e44">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
 
-                    <!-- duplicate for infinite loop -->
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
                 </div>
             </div>
 
@@ -1124,49 +1100,49 @@ CAD & Technology-Enabled Classrooms
 <section class="newsletter-section">
     <div class="newsletter-left-wrapper">
         <div class="newsletter-left-image-div">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be64d1c2819da190063_newsletter-image-left1.jpg"
+            <img src="assets/img/international/1- (1).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="4b9dde6d-dbc7-7693-7b8f-ea03fcd00ba9" alt="" class="newsletter-left-image blending-effect">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be5815fd0bdca4f1748_newsletter-image-left2.jpg"
+            <img src="assets/img/international/1- (2).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="99926619-004e-9283-51f2-7b861e14d06f" alt="" class="newsletter-left-image">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6867537dc41f6f206_newsletter-image-left3.jpg"
+            <img src="assets/img/international/1- (3).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="18fecd25-17fa-6655-6756-30ed05f3c108" alt="" class="newsletter-left-image blending-effect">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be67c712ee92ad86809_newsletter-image-left4.jpg"
+            <img src="assets/img/international/1- (4).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="8da9a065-14c9-de25-6c22-e91783b8e630" alt="" class="newsletter-left-image">
         </div>
         <div class="newsletter-left-image-div">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be79670f43a10527d61_newsletter-image-left5.jpg"
+            <img src="assets/img/international/1- (5).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="8014587a-3644-7c15-f91f-49f6182c4a53" alt="" class="newsletter-left-image blending-effect">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be74d1c2819da19015f_newsletter-image-left6.jpg"
+            <img src="assets/img/international/1- (6).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="8014587a-3644-7c15-f91f-49f6182c4a54" alt="" class="newsletter-left-image">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be99085694b727def7a_newsletter-image-left7.jpg"
+            <img src="assets/img/international/1- (7).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="8014587a-3644-7c15-f91f-49f6182c4a55" alt="" class="newsletter-left-image blending-effect">
         </div>
         <div class="newsletter-left-image-div">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beac732184ccd633b83_newsletter-image-left8.jpg"
+            <img src="assets/img/international/1- (8).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcb" alt="" class="newsletter-left-image">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beb94c68e37e28172f3_newsletter-image-left9.jpg"
+            <img src="assets/img/international/1- (9).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcc" alt="" class="newsletter-left-image">
         </div>
         <div class="newsletter-left-image-div">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec1e6f2d8016ef8e11_newsletter-image-left10.jpg"
+            <img src="assets/img/international/1- (10).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="bf77ee2c-682f-0f3d-c5c0-cc01d432d90b" alt="" class="newsletter-left-image blending-effect">
@@ -1174,7 +1150,7 @@ CAD & Technology-Enabled Classrooms
     </div>
 
     <div class="newsletter-content">
-        <p class="sub-head text-center text-white">Explore your creative potential with expert-led programs in</p>
+        <p class="sub-head text-center text-white">INTERNATIONAL STUDY TOUR TO UK, PARIS, UAE USA*</p>
         <h2 class="title text-white">Start your design journey <br>at INSD Kolkata</h2>
         <!-- <p class="search-line">
       Get found on search <span class="google-pill"><i class="fa-brands fa-google"></i> Find best Marketing Course</span> without pay for every click.
@@ -1199,49 +1175,49 @@ CAD & Technology-Enabled Classrooms
 
     <div class="newsletter-right-wrapper">
         <div class="newsletter-right-image-div">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be66594d3d3bb3cf7f5_newsletter-image-right10.jpg"
+            <img src="assets/img/international/1- (1).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258d1" alt="" class="newsletter-left-image blending-effect">
         </div>
         <div class="newsletter-right-image-div">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf225be3aabcd407616_newsletter-image-right8.jpg"
+            <img src="assets/img/international/1- (2).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258ce" alt="" class="newsletter-left-image blending-effect">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6c59f64210bb9a996_newsletter-image-right9.jpg"
+            <img src="assets/img/international/1- (3).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258cf" alt="" class="newsletter-left-image">
         </div>
         <div class="newsletter-right-image-div">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef071e66fe0b7aaa33_newsletter-image-right5.jpg"
+            <img src="assets/img/international/1- (4).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258ca" alt="" class="newsletter-left-image">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf073081d734817875c_newsletter-image-right6.jpg"
+            <img src="assets/img/international/1- (5).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258cb" alt="" class="newsletter-left-image">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf0ab2ec63aa8541de6_newsletter-image-right7.jpg"
+            <img src="assets/img/international/1- (6).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258cc" alt="" class="newsletter-left-image blending-effect">
         </div>
         <div class="newsletter-right-image-div">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637c4b7ccb0ab128c31ed6_newsletter-image-right1.jpg"
+            <img src="assets/img/international/1- (7).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258c5" alt="" class="newsletter-left-image">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bee8ea2ed5d5905120c_newsletter-image-right2.jpg"
+            <img src="assets/img/international/1- (8).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258c6" alt="" class="newsletter-left-image blending-effect">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef47df0be4638364d4_newsletter-image-right3.jpg"
+            <img src="assets/img/international/1- (9).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258c7" alt="" class="newsletter-left-image">
-            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec8b32069242907e7a_newsletter-image-right4.jpg"
+            <img src="assets/img/international/1- (10).jpg"
                 loading="lazy"
                 style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
                 data-w-id="863cd461-4e84-ce2e-1fab-437e358258c8" alt="" class="newsletter-left-image">
@@ -1359,7 +1335,7 @@ CAD & Technology-Enabled Classrooms
 
 
 <script>
-    window.addEventListener('scroll', function () {
+    window.addEventListener('scroll', function() {
         const header = document.querySelector('header');
         header.classList.toggle('sticky', window.scrollY > 50);
     });
@@ -1410,7 +1386,7 @@ CAD & Technology-Enabled Classrooms
 
 
 <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
         $(".mentor-slider").owlCarousel({
             loop: true,
             margin: 20,
@@ -1458,7 +1434,7 @@ CAD & Technology-Enabled Classrooms
 
 
 <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
         $(".feedback-slider").owlCarousel({
             loop: true,
             margin: 10,
@@ -1506,7 +1482,7 @@ CAD & Technology-Enabled Classrooms
 
 
 <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
 
         const slider = $('.video-testimonial-slider');
 
@@ -1532,8 +1508,8 @@ CAD & Technology-Enabled Classrooms
         });
 
         // Slide change হলে video reset হবে
-        slider.on('changed.owl.carousel', function () {
-            $(this).find('iframe.yt-video').each(function () {
+        slider.on('changed.owl.carousel', function() {
+            $(this).find('iframe.yt-video').each(function() {
                 const src = $(this).attr('src');
                 $(this).attr('src', src);
             });

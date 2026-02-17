@@ -342,10 +342,10 @@
 <section class="video-testimonial-section">
     <div class="container">
         <h2 class="title text-center">LIFE AT <span>INSD</span></h2>
-     <p class="para w-100 mx-auto text-center" style="max-width: 50%;">
-    A professional learning environment with studios, workshops, exhibitions, site visits, and industry-led
-    activities.
-</p>
+        <p class="para w-100 mx-auto text-center" style="max-width: 50%;">
+            A professional learning environment with studios, workshops, exhibitions, site visits, and industry-led
+            activities.
+        </p>
 
 
 
@@ -382,29 +382,94 @@
 
             <div class="mentor-item">
                 <div class="mentor-img">
-                    <img src="https://randomuser.me/api/portraits/men/32.jpg" />
+                    <img src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg" />
 
                 </div>
-                <h4>Edward Norton</h4>
-                <span>Musician</span>
+                <h4>Aparajita Toor</h4>
+                <!-- <span>Musician</span> -->
             </div>
 
             <div class="mentor-item">
                 <div class="mentor-img">
-                    <img src="https://randomuser.me/api/portraits/women/44.jpg" />
+                    <img src="assets/img/INDUSTRY-SPEAKER/Azad Adham.jpg" />
+
 
                 </div>
-                <h4>Sarah Parker</h4>
-                <span>Designer</span>
+                <h4>Azad Adham</h4>
+                <!-- <span>Designer</span> -->
             </div>
 
             <div class="mentor-item">
                 <div class="mentor-img">
-                    <img src="https://randomuser.me/api/portraits/men/46.jpg" />
+                    <img src="assets/img/INDUSTRY-SPEAKER/Bhavana Jasra (Owner,First Impression.).jpg" />
 
                 </div>
-                <h4>David Miller</h4>
-                <span>Developer</span>
+                <h4>Bhavana Jasra</h4>
+                <span>Owner,First Impression</span>
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Biren Vaidya(MD, Rose Group.).jpg" />
+
+                </div>
+                <h4>Biren Vaidya</h4>
+                <span>MD, Rose Group</span>
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg" />
+
+                </div>
+                <h4>Neha Lulla</h4>
+                <span>Jewellery Designer</span>
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg" />
+
+                </div>
+                <h4>Olivier Nicolay</h4>
+                <!-- <span>Jewellery Designer</span> -->
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Payal Singhal.jpg" />
+
+                </div>
+                <h4>Payal Singhal</h4>
+                <!-- <span>Jewellery Designer</span> -->
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Rishab Suresh.jpg" />
+
+                </div>
+                <h4>Rishab Suresh</h4>
+                <!-- <span>Jewellery Designer</span> -->
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation & MASH).jpg" />
+
+                </div>
+                <h4>Shalini Passi</h4>
+                <span>Founder,Art Foundation & MASH</span>
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Sophie Pereira.jpg" />
+
+                </div>
+                <h4>Sophie Pereira</h4>
+                <!-- <span>Founder,Art Foundation & MASH</span> -->
+            </div>
+            <div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg" />
+
+                </div>
+                <h4>Yogesh Chaudary</h4>
+                <span>Director, Jaipur Rugs</span>
             </div>
 
         </div>
@@ -428,27 +493,30 @@
             <div class="marquee-container ">
                 <div class="marquee marquee-right">
                     <div class="item"><img
-                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Aditya_Birla_Group_Logo.svg-1-300x184.png">
+                            src="assets/img/logo/asian.png">
                     </div>
                     <div class="item"><img
-                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/markdecor_logo.jpeg"></div>
-                    <div class="item"><img
-                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/homelane-300x300.jpg"></div>
-                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/images-10.png">
+                            src="assets/img/logo/ai-arch.png">
                     </div>
-                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/images-11.png">
+                    <div class="item"><img
+                            src="assets/img/logo/goodreej.jpg">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/mobeel.png">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/narshima.png">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/lotus.png">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/blue.jpg">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/Aditya_Birla_Group_Logo.svg-1-300x184.png">
                     </div>
 
-                    <!-- duplicate -->
-                    <div class="item"><img
-                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/gi_section1top-300x89.jpg">
-                    </div>
-                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/images-13.png">
-                    </div>
-                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/images-13.png">
-                    </div>
-                    <div class="item"><img
-                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/unnamed-file-300x300.jpg"></div>
 
                 </div>
             </div>
@@ -465,47 +533,29 @@
 <section class="student-achievers py-5">
     <div class="container">
 
-        <!-- Heading -->
         <div class="text-center mb-3">
-            <h2 class="title">
-                STUDENT <span>ACHIEVER’S</span>
-            </h2>
+            <h2 class="title">STUDENT <span>ACHIEVER’S</span></h2>
         </div>
 
-        <!-- Carousel -->
         <div class="owl-carousel achiever-carousel">
 
-            <!-- Item -->
-            <div class="achiever-card">
-                <img src="assets/img/logo/n1- (1).png" alt="">
-                <!-- <h5>Rishita Sengupta</h5> -->
-
-            </div>
-            <div class="achiever-card">
-                <img src="assets/img/logo/n1- (2).png" alt="">
-                <!-- <h5>Rishita Sengupta</h5> -->
-
-            </div>
-            <div class="achiever-card">
-                <img src="assets/img/logo/n1- (3).png" alt="">
-                <!-- <h5>Rishita Sengupta</h5> -->
-
-            </div>
-            <div class="achiever-card">
-                <img src="assets/img/logo/n1- (4).png" alt="">
-                <!-- <h5>Rishita Sengupta</h5> -->
-
-            </div>
-            <div class="achiever-card">
-                <img src="assets/img/logo/n1- (5).png" alt="">
-                <!-- <h5>Rishita Sengupta</h5> -->
-
-            </div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (1).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (2).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (3).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (4).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (5).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (6).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (7).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (8).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (9).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (10).jpg"></div>
 
 
         </div>
+
     </div>
 </section>
+
 
 <section class="career-hero">
     <div class="career-container">
@@ -559,7 +609,7 @@
 
             <!-- Right Image -->
             <div class="career-right">
-                <img src="https://cdn.prod.website-files.com/68b824698be8e7c047a5da51/68d36e1ef7e7d18265801ff9_461bbddae587805361cc0e11ef717658_koursio-cta-one-image-p-500.webp"
+                <img src="assets/img/logo/bcaf81487b97b44e9386dcc6cc532e59_5c4bba137c.webp"
                     alt="Person working on laptop" class="career-img">
             </div>
 
@@ -581,36 +631,49 @@
             <!-- MARQUEE LEFT -->
             <div class="marquee-container">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
+
 
                     <!-- duplicate for infinite loop -->
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
+
+
+
                 </div>
             </div>
 
             <!-- MARQUEE RIGHT -->
             <div class="marquee-container ">
                 <div class="marquee marquee-right">
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
 
-                    <!-- duplicate -->
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+
+
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
+
                 </div>
             </div>
 
@@ -792,29 +855,33 @@
     <div class="row">
         <div class="col-md-3 content">
 
-            <h6 class="title  m-0">Our Clients</h6>
+
+            <h6 class="title  m-0">TOP
+                ALLIANCES</h6>
 
 
         </div>
         <div class="col-md-9">
-            <!-- MARQUEE LEFT -->
+
             <div class="marquee-container e44">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
 
-                    <!-- duplicate for infinite loop -->
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
                 </div>
             </div>
-
 
 
         </div>
@@ -1204,7 +1271,7 @@
     </div>
 
     <div class="newsletter-content">
-        <p class="sub-head text-center text-white">Explore your creative potential with expert-led programs in</p>
+        <p class="sub-head text-center text-white">INTERNATIONAL STUDY TOUR TO UK, PARIS, UAE USA</p>
         <h2 class="title text-white">Start your design journey <br>at INSD Kolkata</h2>
         <!-- <p class="search-line">
       Get found on search <span class="google-pill"><i class="fa-brands fa-google"></i> Find best Marketing Course</span> without pay for every click.

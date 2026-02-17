@@ -113,7 +113,7 @@
             </div>
           </div>
           <div class="col-md-6">
-            <img src="assets/img/v.png" alt="" class="ban-img">
+            <img src="assets/img/insd (2).webp" alt="" class="ban-img">
           </div>
         </div>
 

@@ -2074,6 +2074,7 @@ ul#autoTab {
   left: 20px;
   font-weight: bold;
 }
+
 .landing_banner h5 {
   font-size: 14px;
 }
@@ -2282,6 +2283,7 @@ textarea {
   justify-content: flex-start;
   align-items: flex-start;
   display: flex;
+  object-fit: cover;
 }
 
 .newsletter-left-image {
@@ -2315,6 +2317,7 @@ textarea {
   min-width: 80px;
   height: 80px;
   min-height: 80px;
+  object-fit: cover;
 }
 
 .newsletter-content {
@@ -5667,9 +5670,9 @@ img.img-mg2 {
 }
 
 .card-header {
-  display: flex;
+  /* display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: center; */
   margin-bottom: 15px;
 }
 
@@ -5679,12 +5682,12 @@ img.img-mg2 {
   -webkit-text-fill-color: transparent;
   background-clip: text;
   color: transparent;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 600;
   position: relative;
   z-index: 99;
   text-align: left;
-  width: 63%;
+  /* width: 63%; */
 }
 
 .course-desc {
@@ -5782,9 +5785,39 @@ alumni-carousel .item img {
 }
 
 .marquee .item img {
-  height: 60px;
-  width: auto;
+  height: 100px;
+  aspect-ratio: 1 / 1;
+  /* মানে width = height */
   object-fit: contain;
+  /* image পুরো দেখাবে */
+}
+
+.alumni-container .title {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+
+.career-hero .btn-animated {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  border-radius: 50px;
+  overflow: hidden;
+  padding: 13px 25px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 1;
+  margin-top: 0px;
+}
+
+.alumni-container .marquee-container {
+
+
+
+  padding: 20px 0px 0px 0px;
 }
 
 /* LEFT MOVE */
@@ -9570,7 +9603,7 @@ textarea {
 }
 
 .marquee {
-  width: 100%;
+  /* width: 100%; */
   overflow: hidden;
   white-space: nowrap;
   position: relative;
@@ -10602,26 +10635,29 @@ textarea {
 
 /* 1st Card – Pastel Blue */
 .col-md-3:nth-child(1) .stats-card {
-  background: linear-gradient(135deg, #dbeafe, #bfdbfe);
-  color: #1e3a8a;
+  background: linear-gradient(135deg, #f5e9ff 0%, #fde2f3 100%);
+  color: #222;
 }
 
 /* 2nd Card – Pastel Pink */
 .col-md-3:nth-child(2) .stats-card {
-  background: linear-gradient(135deg, #fce7f3, #fbcfe8);
-  color: #9d174d;
+  background: linear-gradient(135deg, #eef2ff 0%, #e0e7ff 100%);
+  color: #222;
+
 }
 
 /* 3rd Card – Pastel Green */
 .col-md-3:nth-child(3) .stats-card {
-  background: linear-gradient(135deg, #dcfce7, #bbf7d0);
-  color: #166534;
+  background: linear-gradient(135deg, #fff1f2 0%, #ffe4e6 100%);
+  color: #222;
+
 }
 
 /* 4th Card – Pastel Yellow */
 .col-md-3:nth-child(4) .stats-card {
-  background: linear-gradient(135deg, #fef9c3, #fde68a);
-  color: #92400e;
+  background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%);
+  color: #222;
+
 }
 
 /* Hover */
@@ -10710,6 +10746,7 @@ textarea {
   padding: 10px 0;
 
 }
+
 .role-card {
   border-radius: 14px;
   padding: 30px;
@@ -10718,12 +10755,29 @@ textarea {
 }
 
 /* Color sequence */
-.role-card:nth-child(1) { background: #eef6ff; }
-.role-card:nth-child(2) { background: #fff5f7; }
-.role-card:nth-child(3) { background: #f7fee7; }
-.role-card:nth-child(4) { background: #f4f3ff; }
-.role-card:nth-child(5) { background: #fff4e6; }
-.role-card:nth-child(6) { background: #f0fdfa; }
+.role-card:nth-child(1) {
+  background: #eef6ff;
+}
+
+.role-card:nth-child(2) {
+  background: #fff5f7;
+}
+
+.role-card:nth-child(3) {
+  background: #f7fee7;
+}
+
+.role-card:nth-child(4) {
+  background: #f4f3ff;
+}
+
+.role-card:nth-child(5) {
+  background: #fff4e6;
+}
+
+.role-card:nth-child(6) {
+  background: #f0fdfa;
+}
 
 
 
@@ -10753,97 +10807,100 @@ textarea {
 /* Mobile Device  */
 
 .mbl-hero-wrap {
-    background: #ffffff;
+  background: #ffffff;
 }
 
 .mbl-hero-img {
   height: 350px;
   object-fit: cover;
 }
-.histudy-courses  {
+
+.histudy-courses {
   padding-top: 0 !important;
 }
+
 /* .alumni-container .para{
   padding: 10px 60px 0 60px;
 } */
-.roles-section .col-md-6{
-  width: 50%;
-}
+
+
 .owl-carousel .owl-dot.active {
-    background-color: #0142b3;
-    display: none;
+  background-color: #0142b3;
+  display: none;
 }
+
 .role-card {
-    padding: 15px;
+  padding: 15px;
 
 }
+
 .role-card h5 {
   font-size: 18px;
 }
 
 /* Content */
 .mbl-hero-body {
-    padding: 26px 20px 30px;
+  padding: 26px 20px 30px;
 }
 
 .mbl-hero-tag {
-    display: inline-block;
-    font-size: 13px;
-    font-weight: 600;
-    color: #c58b2b;
-    margin-bottom: 10px;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 600;
+  color: #c58b2b;
+  margin-bottom: 10px;
 }
 
 .mbl-hero-title {
-    font-size: 26px;
-    font-weight: 700;
-    line-height: 1.25;
-    margin-bottom: 14px;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: 14px;
 }
 
 .mbl-hero-text {
-    font-size: 15px;
-    color: #555;
-    line-height: 1.6;
-    margin-bottom: 24px;
+  font-size: 15px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 24px;
 }
 
 /* Buttons */
 .mbl-hero-actions {
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
 }
 
 .mbl-btn {
-    padding: 14px 18px;
-    text-align: center;
-    font-size: 15px;
-    font-weight: 600;
-    border-radius: 50px;
-    text-decoration: none;
-    transition: all 0.3s ease;
+  padding: 14px 18px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: all 0.3s ease;
 }
 
 /* Primary */
 .mbl-btn-primary {
-    background: #111;
-    color: #fff;
+  background: #111;
+  color: #fff;
 }
 
 /* Outline */
 .mbl-btn-outline {
-    border: 1px solid #111;
-    color: #111;
-    background: transparent;
+  border: 1px solid #111;
+  color: #111;
+  background: transparent;
 }
 
 /* Hover */
 .mbl-btn-primary:hover {
-    background: #000;
+  background: #000;
 }
 
 .mbl-btn-outline:hover {
-    background: #111;
-    color: #fff;
+  background: #111;
+  color: #fff;
 }

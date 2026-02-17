@@ -827,16 +827,21 @@
     font-size: 20px !important;
   }
 
+  .roles-section .col-md-6 {
+    width: 50%;
+  }
+
   .sticky-menu {
     padding: 14px;
   }
+
   .stats-card {
     margin-bottom: 25px;
   }
 
   .alumni-container .para {
     padding: 10px 30px 0 30px;
-}
+  }
 
   .alumni-container .content {
     padding-bottom: 33px;
@@ -1175,14 +1180,15 @@
     padding: 12px 17px !important;
     border: 2px solid var(--secondary-color3) !important;
   }
+
   .stats-card {
     height: 150px;
   }
 
   .landing_content h6 {
     font-size: 14px;
- 
-}
+
+  }
 
   .landing_banner {
     margin-bottom: 0;
@@ -1192,6 +1198,7 @@
     font-size: 32px;
     font-weight: 600;
   }
+
   .stats-area .col-md-3 {
     width: 50%;
     margin-bottom: 0 !important;
