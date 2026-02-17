@@ -2074,6 +2074,9 @@ ul#autoTab {
   left: 20px;
   font-weight: bold;
 }
+.landing_banner h5 {
+  font-size: 14px;
+}
 
 .card p {
   margin-top: 25px;
@@ -3057,7 +3060,7 @@ textarea {
 
 .mentor-card {
   background: #ffffff;
-  border-radius: 18px;
+  /* border-radius: 18px; */
   padding: 20px;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
   transition: 0.3s ease;
@@ -3073,7 +3076,7 @@ textarea {
   width: 100%;
   height: 280px;
   object-fit: cover;
-  border-radius: 16px;
+  /* border-radius: 16px; */
 }
 
 .mentor-card h3 {
@@ -5252,7 +5255,7 @@ img.img-mg2 {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  padding: 150px 0 60px 0;
+  padding: 91px 0 60px 0;
 }
 
 .landing_content h5 {
@@ -5847,9 +5850,20 @@ alumni-carousel .item img {
 .mentor-img img {
   width: 100%;
   height: 100%;
-  border-radius: 50%;
+  border-radius: 10%;
   object-fit: cover;
   border: 4px solid #eef2ff;
+  -webkit-border-radius: 10%;
+  -moz-border-radius: 10%;
+  -ms-border-radius: 10%;
+  -o-border-radius: 10%;
+}
+
+
+.landing_pick {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .mentor-share {
@@ -10556,6 +10570,7 @@ textarea {
   text-align: center;
   color: #000;
   transition: .4s ease;
+  border: 1px solid #0000001f;
 }
 
 .stats-card:hover {
@@ -10573,4 +10588,262 @@ textarea {
   letter-spacing: 1px;
   text-transform: uppercase;
   opacity: .75;
+}
+
+
+/* /// student achivement //////  */
+
+
+.student-achievers {
+  background: #fff;
+  padding: var(--global_padding);
+
+}
+
+/* 1st Card – Pastel Blue */
+.col-md-3:nth-child(1) .stats-card {
+  background: linear-gradient(135deg, #dbeafe, #bfdbfe);
+  color: #1e3a8a;
+}
+
+/* 2nd Card – Pastel Pink */
+.col-md-3:nth-child(2) .stats-card {
+  background: linear-gradient(135deg, #fce7f3, #fbcfe8);
+  color: #9d174d;
+}
+
+/* 3rd Card – Pastel Green */
+.col-md-3:nth-child(3) .stats-card {
+  background: linear-gradient(135deg, #dcfce7, #bbf7d0);
+  color: #166534;
+}
+
+/* 4th Card – Pastel Yellow */
+.col-md-3:nth-child(4) .stats-card {
+  background: linear-gradient(135deg, #fef9c3, #fde68a);
+  color: #92400e;
+}
+
+/* Hover */
+.stats-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stats-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.08);
+}
+
+.e2 .nav-link {
+  font-size: 15px;
+  /* border: 1px solid #000 !important; */
+}
+
+.e2 .nav-link i {
+  color: #222;
+}
+
+
+
+/* Card */
+.achiever-card {
+  text-align: center;
+  padding: 15px;
+}
+
+.achiever-card img {
+  width: 100%;
+  max-width: 200px;
+  height: 160px;
+  object-fit: contain;
+  /*border: 3px solid #1e3a8a;
+    */
+  margin: auto;
+  transition: 0.3s ease;
+  /* border: 1px solid #005aff; */
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.achiever-card:hover img {
+  transform: scale(1.05);
+}
+
+.achiever-card h5 {
+  margin-top: 15px;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.brand {
+  font-size: 14px;
+  font-weight: 500;
+  color: #555;
+}
+
+/* Brand highlights */
+.brand.hm {
+  color: #c0392b;
+  font-weight: 700;
+}
+
+.brand.levis {
+  color: #e10600;
+  font-weight: 700;
+}
+
+
+
+
+
+
+.roles-section {
+  padding: 0 0 40px 0;
+}
+
+
+.e44 {
+  padding: 10px 0;
+
+}
+.role-card {
+  border-radius: 14px;
+  padding: 30px;
+  height: 100%;
+  transition: all 0.3s ease;
+}
+
+/* Color sequence */
+.role-card:nth-child(1) { background: #eef6ff; }
+.role-card:nth-child(2) { background: #fff5f7; }
+.role-card:nth-child(3) { background: #f7fee7; }
+.role-card:nth-child(4) { background: #f4f3ff; }
+.role-card:nth-child(5) { background: #fff4e6; }
+.role-card:nth-child(6) { background: #f0fdfa; }
+
+
+
+/* Hover effect */
+.role-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.1);
+}
+
+
+.role-icon {
+  font-size: 36px;
+  margin-bottom: 15px;
+}
+
+.role-card h5 {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.role-card p {
+  font-size: 14px;
+  opacity: 0.9;
+  margin-bottom: 0;
+}
+
+/* Mobile Device  */
+
+.mbl-hero-wrap {
+    background: #ffffff;
+}
+
+.mbl-hero-img {
+  height: 350px;
+  object-fit: cover;
+}
+.histudy-courses  {
+  padding-top: 0 !important;
+}
+/* .alumni-container .para{
+  padding: 10px 60px 0 60px;
+} */
+.roles-section .col-md-6{
+  width: 50%;
+}
+.owl-carousel .owl-dot.active {
+    background-color: #0142b3;
+    display: none;
+}
+.role-card {
+    padding: 15px;
+
+}
+.role-card h5 {
+  font-size: 18px;
+}
+
+/* Content */
+.mbl-hero-body {
+    padding: 26px 20px 30px;
+}
+
+.mbl-hero-tag {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    color: #c58b2b;
+    margin-bottom: 10px;
+}
+
+.mbl-hero-title {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.25;
+    margin-bottom: 14px;
+}
+
+.mbl-hero-text {
+    font-size: 15px;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 24px;
+}
+
+/* Buttons */
+.mbl-hero-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.mbl-btn {
+    padding: 14px 18px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+/* Primary */
+.mbl-btn-primary {
+    background: #111;
+    color: #fff;
+}
+
+/* Outline */
+.mbl-btn-outline {
+    border: 1px solid #111;
+    color: #111;
+    background: transparent;
+}
+
+/* Hover */
+.mbl-btn-primary:hover {
+    background: #000;
+}
+
+.mbl-btn-outline:hover {
+    background: #111;
+    color: #fff;
 }

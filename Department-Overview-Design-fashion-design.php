@@ -6,17 +6,18 @@
     <div class="banner" style="background-image: url('./assets/img/insd-banner1.jpg');">
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-sm-12">
+                <div class="col-md-8 col-sm-12 landing_pick">
                     <div class="landing_content">
                         <h5>Admissions Open | 2026 Intaka </h5>
-                        <h1 class="w-75">Build a Career in Fashion Design with Industry-Focused Training
+                        <h1 class="w-100 w-md-75">Build a Career in Fashion Design with Industry-Focused Training
 
                             ​</h1>
                         <h6 class="mt-3">Diploma • Advanced Diploma • B.Des • B.Sc • MBA</h6>
 
 
                         <p class="para">
-                            Practical fashion education with strong industry exposure, career guidance, and placement support.
+                            Practical fashion education with strong industry exposure, career guidance, and placement
+                            support.
 
                         </p>
 
@@ -39,8 +40,10 @@
                                     <div class="btn-text-hover">Book Free Counselling</div>
                                 </div>
                                 <div class="btn-icon-wrap">
-                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon-hover">
                                 </div>
                             </a>
                         </div>
@@ -53,7 +56,7 @@
 
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-12  d-md-block mt-5 ">
+                <div class="col-md-4 col-sm-12  d-md-block d-none mt-5 ">
 
                     <div class="landing_wrapper">
 
@@ -72,15 +75,15 @@
                             <!-- Name -->
                             <div class="mb-3">
                                 <label class="form-label">Full Name</label>
-                                <input type="text" class="form-control" name="name"
-                                    placeholder="Enter your name" required>
+                                <input type="text" class="form-control" name="name" placeholder="Enter your name"
+                                    required>
                             </div>
 
                             <!-- Email -->
                             <div class="mb-3">
                                 <label class="form-label">Email Address</label>
-                                <input type="email" class="form-control" name="email"
-                                    placeholder="Enter your email" required>
+                                <input type="email" class="form-control" name="email" placeholder="Enter your email"
+                                    required>
                             </div>
 
                             <!-- Phone -->
@@ -89,8 +92,7 @@
                                 <div class="input-group">
                                     <span class="input-group-text">+91</span>
                                     <input type="tel" class="form-control" name="phone"
-                                        placeholder="Enter mobile number"
-                                        pattern="[0-9]{10}" maxlength="10" required>
+                                        placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
                                 </div>
                             </div>
 
@@ -103,8 +105,10 @@
                                     <div class="btn-text-hover">Apply to Join</div>
                                 </div>
                                 <div class="btn-icon-wrap">
-                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon-hover">
                                 </div>
                             </button>
 
@@ -122,93 +126,118 @@
 
 </section>
 
+<section class="py-2">
+    <div class="container">
+        <div class="col-md-4 col-sm-12  d-md-none d-block mt-5 ">
 
-<section class="stats-wrap">
-    <div class="stats-container">
+            <div class="landing_wrapper">
 
-        <div class="stat-card stat-yellow">
-            <div class="stat-icon">
-                <i class="fa-solid fa-briefcase"></i>
+                <div class="form_content">
+                    <div class="content1">
+                        <h6>Ready to Begin Your Journey in the Global Fashion Industry?
+                        </h6>
+                        <h5>Connect With Us</h5>
+                    </div>
+                    <!-- <div class="content2">
+                                <img src="assets/img/form.png" alt="" class="img-fluid">
+                            </div> -->
+                </div>
+
+                <form action="" method="post" class="landing_form" id="land">
+
+                    <!-- Name -->
+                    <div>
+                        <label class="form-label">Full Name</label>
+                        <input type="text" class="form-control" name="name" placeholder="Enter your name"
+                            required>
+                    </div>
+
+                    <!-- Email -->
+                    <div>
+                        <label class="form-label">Email Address</label>
+                        <input type="email" class="form-control" name="email" placeholder="Enter your email"
+                            required>
+                    </div>
+
+                    <!-- Phone -->
+                    <div>
+                        <label class="form-label">Mobile Number</label>
+                        <div class="input-group">
+                            <span class="input-group-text">+91</span>
+                            <input type="tel" class="form-control" name="phone"
+                                placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
+                        </div>
+                    </div>
+
+
+
+                    <!-- Submit -->
+                    <button type="submit" class="btn-animated btn-light ">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Apply to Join</div>
+                            <div class="btn-text-hover">Apply to Join</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </button>
+
+                </form>
+
             </div>
-            <div class="stat-data">
-                <span class="stat-number">100%</span>
-                <span class="stat-text">Placement Assistance</span>
-            </div>
+
         </div>
-
-        <div class="stat-card stat-blue">
-            <div class="stat-icon">
-                <i class="fa-solid fa-award"></i>
-            </div>
-            <div class="stat-data">
-                <span class="stat-number">Scholarship</span>
-                <span class="stat-text">Support Available</span>
-            </div>
-        </div>
-
-        <div class="stat-card stat-dark">
-            <div class="stat-icon">
-                <i class="fa-solid fa-users"></i>
-            </div>
-            <div class="stat-data">
-                <span class="stat-number">Industry</span>
-                <span class="stat-text">Active Faculty</span>
-            </div>
-        </div>
-
-        <div class="stat-card stat-red">
-            <div class="stat-icon">
-                <i class="fa-solid fa-tools"></i>
-            </div>
-            <div class="stat-data">
-                <span class="stat-number">Live</span>
-                <span class="stat-text">Projects &amp; Training</span>
-            </div>
-        </div>
-
     </div>
 </section>
 
-<!-- 
-<section class="edu-benefits py-5">
+<section class="stats-area">
     <div class="container">
-        <div class="row align-items-center g-5">
+        <div class="row">
 
-          
-            <div class="col-lg-4 text-center text-lg-start">
-                <img src="assets/img/fashion png-min.png" alt="Student" class="img-fluid edu-image">
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <h2><span class="stats-count" data-num="300">0</span>+</h2>
+                    <p>Training & Placement Cos</p>
+                </div>
             </div>
 
-         
-            <div class="col-lg-8 edu-content">
-                <span class="sub-head text-center  ">About Fashion Design & Technology</span>
-                <h2 class="edu-heading title ">
-                    About Fashion Design <span>& Technology</span>
-                </h2>
-               
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <h2>₹<span class="stats-count" data-num="11">0</span>L</h2>
+                    <p>Highest Package</p>
+                </div>
+            </div>
 
-                <p class="para">
-                    Fashion Design & Technology is a career-driven field that blends creativity, technical skills, and industry execution. It goes beyond designing garments to understanding materials, production processes, technology tools, branding, and market demands. <br><br>
-                    With the fashion industry evolving rapidly, professionals who combine design sensibility with practical training and industry exposure are in high demand across studios, brands, export houses, retail, and entrepreneurial ventures.
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <h2><span class="stats-count" data-num="100">0</span>%</h2>
+                    <p>Placement Assistance</p>
+                </div>
+            </div>
 
-                </p>
-
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <h2><span class="stats-count" data-num="15000">0</span>+</h2>
+                    <p>Students Graduated</p>
+                </div>
             </div>
 
         </div>
     </div>
-</section> -->
-
-
+</section>
 
 
 
 <section class="histudy-courses ">
     <div class="container text-center">
         <!-- <p class="sub-head text-center cen ">Admission</p> -->
-        <h2 class="title text-center mb-4">Programs Offered in Fashion <br><span class="histudy-highlight">Design & Technology</span></h2>
+        <h2 class="title text-center mb-4">Programs Offered in Fashion <br><span class="histudy-highlight">Design &
+                Technology</span></h2>
 
-        <div class="row g-4 mt-5">
+        <div class="row g-4 mt-2 mt-md-5">
 
 
             <!-- Diploma / Advanced Diploma in Fashion Design -->
@@ -228,7 +257,7 @@
                         <span class="label">IDEAL FOR:</span>
                         <span class="value">Beginners & Skill-Focused Learners</span>
                     </div>
-                    <a href="#form" class="apply-btn">View Course</a>
+                    <a href="#form" class="apply-btn">Apply Now</a>
 
                 </div>
             </div>
@@ -252,7 +281,7 @@
                         <span class="value">Professional Fashion Design Career</span>
                     </div>
 
-                    <a href="#form" class="apply-btn">View Course</a>
+                    <a href="#form" class="apply-btn">Apply Now</a>
                 </div>
             </div>
 
@@ -275,7 +304,7 @@
                         <span class="value">Leadership, Management & Business Roles</span>
                     </div>
 
-                    <a href="#form" class="apply-btn">View Course</a>
+                    <a href="#form" class="apply-btn">Apply Now</a>
                 </div>
             </div>
 
@@ -297,28 +326,23 @@
 <section class="video-testimonial-section">
     <div class="container">
         <h2 class="title text-center">Student Life <span>at INSD</span></h2>
-        <p class="para w-50 m-auto text-center">
-            From fashion shows and student collections to workshops, exhibitions, and campus events, student life at INSD is vibrant, creative, and industry-facing.
+        <p class="para w-100 m-auto text-center">
+            From fashion shows and student collections to workshops, exhibitions, and campus events, student life at
+            INSD is vibrant, creative, and industry-facing.
         </p>
 
         <div class="owl-carousel video-testimonial-slider mt-4">
 
             <div class="video-testimonial-item">
-                <iframe class="yt-video"
-                    src="https://www.youtube.com/embed/ZcgiigE3cXs"
-                    allowfullscreen></iframe>
+                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
 
             </div>
             <div class="video-testimonial-item">
-                <iframe class="yt-video"
-                    src="https://www.youtube.com/embed/ZcgiigE3cXs"
-                    allowfullscreen></iframe>
+                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
 
             </div>
             <div class="video-testimonial-item">
-                <iframe class="yt-video"
-                    src="https://www.youtube.com/embed/ZcgiigE3cXs"
-                    allowfullscreen></iframe>
+                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
 
             </div>
 
@@ -336,8 +360,8 @@
         <!-- <p class="sub-head text-center cen ">QUALIFIED TEACHERS</p> -->
         <h2 class="title text-center ">Industry Mentors & <br> <span>Masterclasses</span></h2>
 
-        <p class="w-75 m-auto text-center">Learn directly from practicing designers, entrepreneurs, and industry experts through masterclasses, workshops, live projects, and design reviews — gaining real-world insights beyond the classroom.
-        </p>
+        <!-- <p class="w-75 m-auto text-center">Learn directly from practicing designers, entrepreneurs, and industry experts through masterclasses, workshops, live projects, and design reviews — gaining real-world insights beyond the classroom.
+        </p> -->
 
         <div class="owl-carousel mentor-owl mt-5">
 
@@ -385,390 +409,231 @@
 </section>
 
 
+
+
 <section class="alumni-container p-0">
     <div class="row">
-        <div class="col-md-5 content">
+        <div class="col-md-4 content">
 
-            <h6 class="title ">RECOGNISED & <br>FEATURED BY</h6>
-            <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies, industry platforms, and media <br class="d-none d-md-block"> organisations.</p>
+            <h6 class="title">Top Recruiters</h6>
+
 
 
         </div>
-        <div class="col-md-7">
-            <!-- MARQUEE LEFT -->
-            <div class="marquee-container">
-                <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+        <div class="col-md-8">
 
-                    <!-- duplicate for infinite loop -->
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
-                </div>
-            </div>
 
             <!-- MARQUEE RIGHT -->
             <div class="marquee-container ">
                 <div class="marquee marquee-right">
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                    <div class="item"><img
+                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/7bc094219406037.67b1f28c97260-300x235.png">
+                    </div>
+                    <div class="item"><img
+                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/markdecor_logo.jpeg"></div>
+                    <div class="item"><img
+                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/LVMH-logo-300x87.png"></div>
+                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/images-3.png">
+                    </div>
+                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/puma-logo-design-history-and-evolution-kreafolk_a042e2da-4ee1-4b78-a7be-c7c2e6acf65a-300x180.webp">
+                    </div>
 
                     <!-- duplicate -->
-                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
-                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-
-
-
-</section>
-
-
-
-
-<section class="edu-career-section py-5">
-    <div class="container">
-
-        <!-- INFRASTRUCTURE & FACILITIES -->
-        <div class="edu-block mb-5">
-            <h3 class="title text-center">Infrastructure & <span>Facilities</span></h3>
-
-            <div class="edu-cards">
-
-                <div class="edu-card">
-                    <div class="edu-icon">🏢</div>
-                    <p class="edu-text">Professional Fashion Design Studios</p>
-                </div>
-
-                <div class="edu-card">
-                    <div class="edu-icon">✂️</div>
-                    <p class="edu-text">Pattern Making & Garment Construction Units</p>
-                </div>
-
-                <div class="edu-card">
-                    <div class="edu-icon">📚</div>
-                    <p class="edu-text">Textile & Material Resource Library</p>
-                </div>
-
-                <div class="edu-card">
-                    <div class="edu-icon">💻</div>
-                    <p class="edu-text">CAD & Technology-Enabled Classrooms</p>
-                </div>
-
-                <div class="edu-card">
-                    <div class="edu-icon">🎨</div>
-                    <p class="edu-text">Exhibition & Student Showcase Spaces</p>
-                </div>
-
-            </div>
-        </div>
-
-        <!-- CAREER OPPORTUNITIES & PLACEMENTS -->
-        <div class="career-block">
-            <h3 class="title text-center">Career Opportunities & <span>Placements</span></h3>
-
-            <div class="career-grid">
-
-                <div class="career-column">
-                    <h5 class="career-subtitle">Career Roles</h5>
-
-                    <ul class="career-list mt-2">
-                        <li>Fashion Designer</li>
-                        <li>Apparel Designer</li>
-                        <li>Fashion Stylist</li>
-                        <li>Fashion Merchandiser</li>
-                        <li>Fashion Consultant</li>
-                        <li>Entrepreneur / Fashion Brand Owner</li>
-                    </ul>
-                </div>
-
-                <div class="career-column">
-                    <h5 class="career-subtitle">Placement Highlights</h5>
-
-                    <ul class="career-list mt-3">
-                        <li>100% Placement Assistance</li>
-                        <li>Opportunities across fashion brands, studios, export houses & retail organisations</li>
-                    </ul>
-
-                    <div class="mt-4">
-
-                        <a href="#form" class="btn-animated btn-light">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">Get Placement Details</div>
-                                <div class="btn-text-hover">Get Placement Details</div>
-                            </div>
-                        </a>
-
-                        <a href="#form" class="btn-animated btn-light mt-4">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">Speak to Our Placement Team</div>
-                                <div class="btn-text-hover">Speak to Our Placement Team</div>
-                            </div>
-                        </a>
-
+                    <div class="item"><img
+                            src="https://www.insdkolkata.com/wp-content/uploads/2025/05/images-4-300x158.png">
                     </div>
-                </div>
-
-            </div>
-        </div>
-
-    </div>
-</section>
-
-
-
-
-
-
-
-<section class="histudy-features ">
-    <div class="container text-center">
-        <!-- <span class="sub-head text-center cen "> INTERIOR DESIGN AS A CAREER</span> -->
-        <h2 class="title"> INTERIOR DESIGN AS <br> <span> A CAREER</span></h2>
-
-        <p class="para w-75 m-auto text-center">
-            Interior design is a professional career combining creativity, execution, coordination, and client responsibility. INSD prepares students through studio learning, site exposure, live projects, and practical training for real industry roles.
-
-
-        </p>
-
-        <div class="row mt-5">
-
-            <!-- Card 1 -->
-            <div class="col-md-4">
-                <div class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front card-yellow shadow-sm p-4">
-                            <div class="icon-box mb-3 text-warning">
-                                <img src="assets/img/curriculum.png" width="60" alt="icon">
-
-                            </div>
-                            <h5 class="fw-bold">Modern Curriculum</h5>
-                            <p class="text-muted small">
-                                Industry-aligned, trend-forward syllabus designed to meet current market demands.
-                            </p>
-                            <!-- <a href="#" class="btn-link mt-auto">Learn More <i class="fas fa-arrow-right"></i></a> -->
-                        </div>
-
-                        <div class="flip-card-back card-gradient-1 p-4 text-start">
-                            <ul class="list-unstyled text-white">
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Industry Aligned</li>
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Trend Forward</li>
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Market Driven</li>
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Global Standards</li>
-                            </ul>
-                        </div>
+                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/images-5-300x104.png">
                     </div>
-                </div>
-            </div>
-
-            <!-- Card 2 -->
-            <div class="col-md-4">
-                <div class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front card-purple-light shadow-sm p-4">
-                            <div class="icon-box mb-3">
-                                <img src="assets/img/studio.png" width="60" alt="icon">
-                            </div>
-                            <h5 class="fw-bold">Professional Studios</h5>
-                            <p class="text-muted small">
-                                Hands-on learning experience in high-end professional studio environments.
-                            </p>
-                            <!-- <a href="#" class="btn-link mt-auto">Learn More <i class="fas fa-arrow-right"></i></a> -->
-                        </div>
-
-                        <div class="flip-card-back card-gradient-2 p-4 text-start">
-                            <ul class="list-unstyled text-white">
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Hands-on Learning</li>
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Advanced Equipment</li>
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Creative Environment</li>
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Technical Spaces</li>
-                            </ul>
-                        </div>
+                    <div class="item"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/gap-logo-png_seeklogo-59170-300x300.png">
                     </div>
-                </div>
-            </div>
-
-            <!-- Card 3 -->
-            <div class="col-md-4">
-                <div class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front card-pink shadow-sm p-4">
-                            <div class="icon-box mb-3">
-                                <img src="assets/img/leadership-development.png" width="60" alt="icon">
-                            </div>
-                            <h5 class="fw-bold">Expert Mentorship</h5>
-                            <p class="text-muted small">
-                                Personalized guidance from experienced professionals to shape your creative career.
-                            </p>
-                            <!-- <a href="#" class="btn-link mt-auto">Learn More <i class="fas fa-arrow-right"></i></a> -->
-                        </div>
-
-                        <div class="flip-card-back card-gradient-3 p-4 text-start">
-                            <ul class="list-unstyled text-white">
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Professional Guidance</li>
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Industry Veterans</li>
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Personalized Training</li>
-                                <li class="mb-2"><i class="fas fa-check-circle me-2"></i> Expert Insights</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-
-    </div>
-</section>
-
-
-
-
-
-
-<!-- <section class="v-stats-wrapper">
-    <div class="container">
-
-        <div class="v-stats-grid mt-4">
-
-            
-            <div class="v-stats-card">
-                <div class="v-number-box">
-                    <span class="v-count-number" data-goal="300">0</span><span class="v-plus">+</span>
-                </div>
-                <p class="v-stats-label">TRAINING & PLACEMENT COMPANIES</p>
-            </div>
-
-         
-            <div class="v-stats-card">
-                <div class="v-number-box">
-                    <span class="v-count-number" data-goal="11">0</span><span class="v-plus">L</span>
-                </div>
-                <p class="v-stats-label">HIGHEST PACKAGE</p>
-            </div>
-
-            
-            <div class="v-stats-card">
-                <div class="v-number-box">
-                    <span class="v-count-number" data-goal="100">0</span><span class="v-plus">%</span>
-                </div>
-                <p class="v-stats-label">PLACEMENT ASSISTANCE</p>
-            </div>
-
-      
-            <div class="v-stats-card">
-                <div class="v-number-box">
-                    <span class="v-count-number" data-goal="15000">0</span><span class="v-plus">+</span>
-                </div>
-                <p class="v-stats-label">STUDENTS GRADUATED</p>
-            </div>
-
-        </div>
-
-    </div>
-</section> -->
-
-
-
-<!-- <section class="scholarship">
-    <div class="container">
-        <div class="row">
-
-            <div class="col-md-3 image-side">
-                <div class="image-side">
-                    <img src="assets/img/high.jpeg" alt="Students">
-                  
-                </div>
-            </div>
-
-            <div class="col-md-9">
-                <div class="content-side">
-                    
-                    <h2 class="title">PM-Vidyalaxmi <span>Scheme</span> </h2>
                    
-
-
-                    <p class="description">
-                        The PM-Vidyalaxmi Scheme is a Government of India initiative designed to provide financial
-                        assistance to meritorious students pursuing higher education. The scheme ensures that
-                        talented students do not miss out on quality education due to financial constraints. By
-                        offering accessible education loans with transparent and student-friendly terms,
-                        PM-Vidyalaxmi empowers learners to focus on their academic goals and build a brighter,
-                        self-reliant future.
-                    </p>
-
-
                 </div>
             </div>
 
         </div>
     </div>
-</section> -->
 
 
 
 
-<!-- <section class="place">
-    <img src="assets/img/girl.webp" alt="" class="img-fluid place_set_img">
+</section>
+
+
+<section class="student-achievers py-5">
     <div class="container">
-        <h6 class="title text-center mb-5">Career Opportunities <br> <span>& Placements</span></h6>
 
-        <div class="place-wrap ">
+        <!-- Heading -->
+        <div class="text-center mb-3">
+            <h2 class="title">
+                STUDENT <span>ACHIEVER’S</span>
+            </h2>
+        </div>
+
+        <!-- Carousel -->
+        <div class="owl-carousel achiever-carousel owl-loaded owl-drag">
+
+            <!-- Item -->
 
 
-            <div class="place-card card-geo">
-                <div class="place-head">
-                    <span class="sub-head">Career Roles</span>
-                    <div class="place-icon"><i class="fas fa-chart-line"></i></div>
+
+
+
+
+
+            <div class="owl-stage-outer">
+                <div class="owl-stage"
+                    style="transform: translate3d(-1817px, 0px, 0px); transition: 0.25s; width: 3408px;">
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (1).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (2).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (3).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (4).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (5).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (1).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (2).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (3).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item active" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (4).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item active" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (5).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned active" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (1).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned active" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (2).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned active" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (3).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (4).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (5).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (6).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (7).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (8).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (9).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 207.2px; margin-right: 20px;">
+                        <div class="achiever-card">
+                            <img src="assets/img/logo/n1- (10).png" alt="">
+                            <!-- <h5>Rishita Sengupta</h5> -->
+
+                        </div>
+                    </div>
                 </div>
-
-                <h2 class="place-title">Career Roles</h2>
-
-                <ul class="course-features mt-3">
-                    <li><i class="fa-solid fa-check-circle"></i>Fashion Designer</li>
-                    <li><i class="fa-solid fa-check-circle"></i>Apparel Designer</li>
-                    <li><i class="fa-solid fa-check-circle"></i>Fashion Stylist</li>
-                    <li><i class="fa-solid fa-check-circle"></i>Fashion Merchandiser</li>
-                    <li><i class="fa-solid fa-check-circle"></i>Fashion Consultant</li>
-                    <li><i class="fa-solid fa-check-circle"></i>Entrepreneur / Fashion Brand Owner</li>
-                </ul>
             </div>
-
-            <div class="place-card card-premium is-active">
-                <div class="place-head">
-                    <span class="sub-head">Placement Highlights</span>
-                    <div class="place-icon"><i class="fas fa-star"></i></div>
-                </div>
-
-                <h2 class="place-title">Placement Highlights</h2>
-
-                <ul class="course-features mt-3">
-                    <li><i class="fa-solid fa-check-circle"></i>100% Placement Assistance</li>
-                    <li><i class="fa-solid fa-check-circle"></i>Opportunities across fashion brands, studios, export houses, and retail organisations</li>
-                </ul>
-            </div>
-
-
-
+            <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span
+                        aria-label="Previous">‹</span></button><button type="button" role="presentation"
+                    class="owl-next"><span aria-label="Next">›</span></button></div>
+            <div class="owl-dots disabled"></div>
         </div>
     </div>
-</section> -->
+</section>
+
+
 
 <section class="career-hero">
     <div class="career-container">
@@ -830,7 +695,559 @@
     </div>
 </section>
 
+<section class="alumni-container p-0">
+    <div class="row">
+        <div class="col-md-5 content">
 
+            <h6 class="title ">RECOGNISED &amp; <br>FEATURED BY</h6>
+            <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies,
+                industry platforms, and media <br class="d-none d-md-block"> organisations.</p>
+
+
+        </div>
+        <div class="col-md-7">
+            <!-- MARQUEE LEFT -->
+            <div class="marquee-container">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+
+                    <!-- duplicate for infinite loop -->
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                </div>
+            </div>
+
+            <!-- MARQUEE RIGHT -->
+            <div class="marquee-container ">
+                <div class="marquee marquee-right">
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+
+                    <!-- duplicate -->
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+</section>
+
+
+
+<section class="course mb-0">
+    <div class="container">
+
+
+        <h2 class="title text-center">Empowering the Next <br><span>Generation of Designers</span></h2>
+        <p class="para text-center">Our University provides world-class education, drives innovation, and prepares
+            future
+            leaders. <br> With modern facilities and a vibrant community, we empower students to succeed and make
+            lasting
+            impact.</p>
+
+        <div class="tab-section e2">
+            <div class="row g-5">
+                <div class="col-lg-4 col-md-12 order-2 order-lg-1">
+                    <h4 class="mb-4 fw-bold"></h4>
+                    <ul class="nav nav-tabs tab-button-list mt-5" id="autoTab" role="tablist">
+
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link tab-button active" data-bs-toggle="tab" href="#content1"
+                                aria-selected="true" role="tab">
+                                <i class="fa-solid fa-compass-drafting me-2"></i>
+Professional Fashion Design Studios
+                            </a>
+                        </li>
+
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link tab-button" data-bs-toggle="tab" href="#content2" aria-selected="false"
+                                tabindex="-1" role="tab">
+                                <i class="fa-solid fa-laptop-code me-2"></i>
+                               Pattern Making & Garment Construction Units
+
+                            </a>
+                        </li>
+
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link tab-button" data-bs-toggle="tab" href="#content3" aria-selected="false"
+                                tabindex="-1" role="tab">
+                                <i class="fa-solid fa-users-viewfinder me-2"></i>
+Textile & Material Resource Library
+                            </a>
+                        </li>
+
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link tab-button" data-bs-toggle="tab" href="#content4" aria-selected="false"
+                                tabindex="-1" role="tab">
+                                <i class="fa-solid fa-briefcase me-2"></i>
+CAD & Technology-Enabled Classrooms
+                            </a>
+                        </li>
+
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link tab-button" data-bs-toggle="tab" href="#content5" aria-selected="false"
+                                tabindex="-1" role="tab">
+                                <i class="fa-solid fa-comments me-2"></i>
+CAD & Technology-Enabled Classrooms
+                            </a>
+                        </li>
+
+                    </ul>
+
+                </div>
+
+                <div class="col-lg-8 col-md-12 order-1 order-lg-2">
+                    <div class="tab-content">
+                        <div class="tab-pane fade show active" id="content1" role="tabpanel"><img
+                                src="assets/img/new-photo/01.jpeg" alt="Courses Layout"></div>
+                        <div class="tab-pane fade" id="content2" role="tabpanel"><img
+                                src="assets/img/new-photo/02- (1).jpeg" alt="Header Layout"></div>
+                        <div class="tab-pane fade" id="content3" role="tabpanel"><img
+                                src="assets/img/new-photo/02- (2).jpeg" alt="Toolkit"></div>
+                        <div class="tab-pane fade" id="content4" role="tabpanel"><img src="assets/img/new-photo/04.jpeg"
+                                alt="Flexible"></div>
+                        <div class="tab-pane fade" id="content5" role="tabpanel"><img src="assets/img/new-photo/04.jpeg"
+                                alt="Flexible"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<section class="roles-section">
+    <div class="container">
+        <h2 class="title text-center">
+            ROLES THEY CAN <br> <span>TAKE UP</span>
+        </h2>
+
+        <div class="row g-4 mt-4">
+
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon">
+                        <i class="bi bi-scissors"></i>
+                    </div>
+                    <h5>Fashion Designer</h5>
+                    <p>Explore creativity and innovation in designing apparel and accessories.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon">
+                        <i class="bi bi-shop-window"></i>
+                    </div>
+                    <h5>Visual Merchandiser</h5>
+                    <p>Create engaging retail displays that enhance brand identity and sales.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon">
+                        <i class="bi bi-person-badge"></i>
+                    </div>
+                    <h5>Store Manager</h5>
+                    <p>Lead retail operations, manage teams, and drive customer experience.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon">
+                        <i class="bi bi-stars"></i>
+                    </div>
+                    <h5>Fashion Stylist</h5>
+                    <p>Style individuals, photoshoots, and events with professional flair.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon">
+                        <i class="bi bi-brush"></i>
+                    </div>
+                    <h5>Costume Designer</h5>
+                    <p>Design costumes for films, theatre, and live performances.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon">
+                        <i class="bi bi-lightbulb"></i>
+                    </div>
+                    <h5>And More Opportunities</h5>
+                    <p>Unlock diverse career paths across fashion and creative industries.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<section class="alumni-container p-0">
+    <div class="row">
+        <div class="col-md-3 content">
+
+            <h6 class="title  m-0">Our Clients</h6>
+
+
+        </div>
+        <div class="col-md-9">
+            <!-- MARQUEE LEFT -->
+            <div class="marquee-container e44">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+
+                    <!-- duplicate for infinite loop -->
+                    <div class="item"><img src="assets/img/logo/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (2).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/logo/01- (5).png"></div>
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+
+
+
+
+</section>
+
+<section class="student-test mt-4">
+    <div class="">
+        <div class="container">
+            <h5 class="sub-head text-center cen">Testimonial</h5>
+            <h2 class="title text-center">Experiences That Reflect <br> <span>Our Impact</span></h2>
+
+            <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
+        </div>
+        <div class="marquee-container1">
+            <div class="marquee-track1 marquee-right">
+                <div class="card">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
+                        recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card bg-blue">
+                    <p>“The projects and hands-on tasks made learning fun and practical. I feel confident now.”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=2" alt="Student">
+                        <div>
+                            <div class="name">Sneha Mehra</div>
+                            <div class="role">MCA, Mumbai</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”
+                    </p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <div>
+                            <div class="name">Aditya Joshi</div>
+                            <div class="role">B.Sc CS, Pune</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card bg-blue">
+                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”
+                    </p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <div>
+                            <div class="name">Aditya Joshi</div>
+                            <div class="role">B.Sc CS, Pune</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”
+                    </p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <div>
+                            <div class="name">Aditya Joshi</div>
+                            <div class="role">B.Sc CS, Pune</div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Duplicate cards for smooth loop -->
+                <div class="card">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
+                        recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card bg-blue">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
+                        recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
+                        recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
+                        recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card bg-blue">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
+                        recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
+                        recommended!”</p>
+                    <div class="rating">
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                    </div>
+                    <div class="profile">
+                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <div>
+                            <div class="name">Harsh Tiwari</div>
+                            <div class="role">B.Tech, Bangalore</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>
+</section>
+
+<section class="newsletter-section">
+    <div class="newsletter-left-wrapper">
+        <div class="newsletter-left-image-div">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be64d1c2819da190063_newsletter-image-left1.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="4b9dde6d-dbc7-7693-7b8f-ea03fcd00ba9" alt="" class="newsletter-left-image blending-effect">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be5815fd0bdca4f1748_newsletter-image-left2.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="99926619-004e-9283-51f2-7b861e14d06f" alt="" class="newsletter-left-image">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6867537dc41f6f206_newsletter-image-left3.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="18fecd25-17fa-6655-6756-30ed05f3c108" alt="" class="newsletter-left-image blending-effect">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be67c712ee92ad86809_newsletter-image-left4.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="8da9a065-14c9-de25-6c22-e91783b8e630" alt="" class="newsletter-left-image">
+        </div>
+        <div class="newsletter-left-image-div">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be79670f43a10527d61_newsletter-image-left5.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="8014587a-3644-7c15-f91f-49f6182c4a53" alt="" class="newsletter-left-image blending-effect">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be74d1c2819da19015f_newsletter-image-left6.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="8014587a-3644-7c15-f91f-49f6182c4a54" alt="" class="newsletter-left-image">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be99085694b727def7a_newsletter-image-left7.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="8014587a-3644-7c15-f91f-49f6182c4a55" alt="" class="newsletter-left-image blending-effect">
+        </div>
+        <div class="newsletter-left-image-div">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beac732184ccd633b83_newsletter-image-left8.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcb" alt="" class="newsletter-left-image">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beb94c68e37e28172f3_newsletter-image-left9.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcc" alt="" class="newsletter-left-image">
+        </div>
+        <div class="newsletter-left-image-div">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec1e6f2d8016ef8e11_newsletter-image-left10.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="bf77ee2c-682f-0f3d-c5c0-cc01d432d90b" alt="" class="newsletter-left-image blending-effect">
+        </div>
+    </div>
+
+    <div class="newsletter-content">
+        <p class="sub-head text-center text-white">Explore your creative potential with expert-led programs in</p>
+        <h2 class="title text-white">Start your design journey <br>at INSD Kolkata</h2>
+        <!-- <p class="search-line">
+      Get found on search <span class="google-pill"><i class="fa-brands fa-google"></i> Find best Marketing Course</span> without pay for every click.
+    </p> -->
+        <div class="buttons">
+            <a href="#" class="btn-outline"><i class="fa-solid fa-download"></i> Apply Now | Book Counselling </a>
+            <!-- <a href="#" class="btn-fill">Reserve My Spot <i class="fa-solid fa-arrow-right"></i></a> -->
+            <a href="#" class="btn-animated btn-light mt-0">
+                <div class="btn-text-wrap">
+                    <div class="btn-text"> Download Brochure</div>
+                    <div class="btn-text-hover"> Download Brochure</div>
+                </div>
+                <div class="btn-icon-wrap">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                        alt="Arrow" class="btn-icon">
+                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                        alt="Arrow" class="btn-icon-hover">
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div class="newsletter-right-wrapper">
+        <div class="newsletter-right-image-div">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be66594d3d3bb3cf7f5_newsletter-image-right10.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="863cd461-4e84-ce2e-1fab-437e358258d1" alt="" class="newsletter-left-image blending-effect">
+        </div>
+        <div class="newsletter-right-image-div">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf225be3aabcd407616_newsletter-image-right8.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="863cd461-4e84-ce2e-1fab-437e358258ce" alt="" class="newsletter-left-image blending-effect">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6c59f64210bb9a996_newsletter-image-right9.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="863cd461-4e84-ce2e-1fab-437e358258cf" alt="" class="newsletter-left-image">
+        </div>
+        <div class="newsletter-right-image-div">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef071e66fe0b7aaa33_newsletter-image-right5.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="863cd461-4e84-ce2e-1fab-437e358258ca" alt="" class="newsletter-left-image">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf073081d734817875c_newsletter-image-right6.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="863cd461-4e84-ce2e-1fab-437e358258cb" alt="" class="newsletter-left-image">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf0ab2ec63aa8541de6_newsletter-image-right7.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="863cd461-4e84-ce2e-1fab-437e358258cc" alt="" class="newsletter-left-image blending-effect">
+        </div>
+        <div class="newsletter-right-image-div">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637c4b7ccb0ab128c31ed6_newsletter-image-right1.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="863cd461-4e84-ce2e-1fab-437e358258c5" alt="" class="newsletter-left-image">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bee8ea2ed5d5905120c_newsletter-image-right2.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="863cd461-4e84-ce2e-1fab-437e358258c6" alt="" class="newsletter-left-image blending-effect">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef47df0be4638364d4_newsletter-image-right3.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="863cd461-4e84-ce2e-1fab-437e358258c7" alt="" class="newsletter-left-image">
+            <img src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec8b32069242907e7a_newsletter-image-right4.jpg"
+                loading="lazy"
+                style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                data-w-id="863cd461-4e84-ce2e-1fab-437e358258c8" alt="" class="newsletter-left-image">
+        </div>
+    </div>
+</section>
 
 <!-- Footer Section -->
 <footer class="cu-footer">
@@ -942,7 +1359,7 @@
 
 
 <script>
-    window.addEventListener('scroll', function() {
+    window.addEventListener('scroll', function () {
         const header = document.querySelector('header');
         header.classList.toggle('sticky', window.scrollY > 50);
     });
@@ -993,7 +1410,7 @@
 
 
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
         $(".mentor-slider").owlCarousel({
             loop: true,
             margin: 20,
@@ -1041,7 +1458,7 @@
 
 
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
         $(".feedback-slider").owlCarousel({
             loop: true,
             margin: 10,
@@ -1075,10 +1492,10 @@
         autoplayTimeout: 3000,
         responsive: {
             0: {
-                items: 1
+                items: 3
             },
             576: {
-                items: 2
+                items: 3
             },
             992: {
                 items: 5
@@ -1089,7 +1506,7 @@
 
 
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
 
         const slider = $('.video-testimonial-slider');
 
@@ -1115,12 +1532,61 @@
         });
 
         // Slide change হলে video reset হবে
-        slider.on('changed.owl.carousel', function() {
-            $(this).find('iframe.yt-video').each(function() {
+        slider.on('changed.owl.carousel', function () {
+            $(this).find('iframe.yt-video').each(function () {
                 const src = $(this).attr('src');
                 $(this).attr('src', src);
             });
         });
 
+    });
+</script>
+
+
+<script>
+    const stats = document.querySelectorAll(".stats-count");
+
+    stats.forEach(item => {
+        item.innerText = "0";
+
+        const animate = () => {
+            const target = +item.getAttribute("data-num");
+            const current = +item.innerText;
+            const speed = target / 120;
+
+            if (current < target) {
+                item.innerText = Math.ceil(current + speed);
+                setTimeout(animate, 25);
+            } else {
+                item.innerText = target;
+            }
+        };
+
+        animate();
+    });
+</script>
+
+<script>
+    $('.achiever-carousel').owlCarousel({
+        loop: true,
+        margin: 20,
+        nav: false,
+        dots: false,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        responsive: {
+            0: {
+                items: 3
+            },
+            576: {
+                items: 3
+            },
+            768: {
+                items: 3
+            },
+            992: {
+                items: 5
+            }
+        }
     });
 </script>
