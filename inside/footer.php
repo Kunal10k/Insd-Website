@@ -171,7 +171,7 @@
 
 
 
-
+<!-- 
 <script>
   const leftImg = document.getElementById('leftImg');
   const rightImg = document.getElementById('rightImg');
@@ -221,7 +221,7 @@
   }
 
   window.addEventListener('scroll', onScroll);
-</script>
+</script> -->
 
 <!-- tab-animation -->
 <script>
@@ -810,6 +810,65 @@
   });
 </script>
 
+<script>
+  const leftImg = document.getElementById("leftImg");
+  const rightImg = document.getElementById("rightImg");
+  const videoCard = document.getElementById("centerVideo");
+  const galleryWrap = document.querySelector(".gallery-wrap");
+  const container = document.querySelector(".gallery-wrap .container");
+
+  let ticking = false;
+
+  function updateGallery() {
+    const rect = galleryWrap.getBoundingClientRect();
+
+    const start = window.innerHeight;
+    const end = 0;
+
+    let progress = (start - rect.top) / (start - end);
+    progress = Math.min(Math.max(progress, 0), 1);
+
+    const eased = progress * progress * (3 - 2 * progress);
+
+    /* SIDE IMAGES */
+    const fade = 1 - eased * 2.2;
+
+    leftImg.style.opacity = fade;
+    rightImg.style.opacity = fade;
+
+    leftImg.style.transform = `translateX(${-250 * eased}px) scale(${1 - eased * 0.2})`;
+    rightImg.style.transform = `translateX(${250 * eased}px) scale(${1 - eased * 0.2})`;
+
+    /* VIDEO EXPAND */
+    const containerWidth = container.offsetWidth;
+
+    const startWidth = 600;
+    const startHeight = 460;
+
+    const newWidth = startWidth + (containerWidth - startWidth) * eased;
+    const newHeight = startHeight + (window.innerHeight * 0.85 - startHeight) * eased;
+
+    const radius = 30 - 18 * eased;
+    const shadow = 0.3 * (1 - eased);
+
+    videoCard.style.width = `${newWidth}px`;
+    videoCard.style.height = `${newHeight}px`;
+    videoCard.style.borderRadius = `${radius}px`;
+    videoCard.style.boxShadow = `0 15px 40px rgba(0, 0, 0, ${shadow})`;
+  }
+
+  function onScroll() {
+    if (!ticking) {
+      requestAnimationFrame(() => {
+        updateGallery();
+        ticking = false;
+      });
+      ticking = true;
+    }
+  }
+
+  window.addEventListener("scroll", onScroll);
+</script>
 
 
 </body>

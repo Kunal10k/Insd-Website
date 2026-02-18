@@ -150,6 +150,8 @@ body {
   border: 2px solid transparent;
 }
 
+
+
 /* .fade-i {
   opacity: 0;
   animation: fadeIn 1.2s ease-in forwards;
@@ -1357,6 +1359,24 @@ header.sticky .dropdown-toggle::after {
   width: 100%;
   height: auto;
   margin-top: 100px;
+}
+
+
+.col-md-6 {
+  position: relative;
+}
+
+.auto-slider {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0;
+  transition: opacity .5s ease;
+}
+
+.auto-slider:first-child {
+  opacity: 1;
 }
 
 .tab-mg {
@@ -3075,11 +3095,11 @@ textarea {
   box-shadow: 0 12px 35px rgba(0, 0, 0, 0.12);
 }
 
-.mentor-img img {
-  width: 100%;
-  height: 280px;
-  object-fit: cover;
-  /* border-radius: 16px; */
+.mentor-img {
+  position: relative;
+  width: 180px;
+  height: 180px;
+  margin: auto;
 }
 
 .mentor-card h3 {
@@ -3298,7 +3318,7 @@ textarea {
 
 .form-control {
   padding: 0.65rem 0.75rem !important;
-  border-bottom: 2px solid var(--secondary-color3) !important;
+  border-bottom: 2px solid var(--secondary-color3);
   border-left: none !important;
   border-right: none !important;
   border-top: none !important;
@@ -3362,6 +3382,10 @@ img.img-mg2 {
   background: #fff;
   text-align: center;
   margin-top: 60px;
+}
+
+.cxza {
+  border: 1px solid #000;
 }
 
 .grid-box1 {
@@ -6078,7 +6102,7 @@ alumni-carousel .item img {
 
 .career-img {
   width: 100%;
-  /* border-radius: 12px; */
+  height: 250px;
   object-fit: cover;
 }
 
@@ -9697,76 +9721,82 @@ textarea {
 
 
 
-.placement-cta {
-  background-color: #0142b3;
-  padding: 40px 0;
+.placement-cta-new {
+  padding: 20px 0;
 }
 
-.cta-container {
-  max-width: 900px;
+.cta-box {
+  /* max-width: 1000px; */
   margin: auto;
-}
-
-.placement-cta h2 {
-  font-size: 28px;
-  font-weight: 600;
-  margin-bottom: 30px;
-  line-height: 1.5;
-  color: #fff;
-  margin-bottom: 15px;
-}
-
-.placement-cta .btn-text {
-  color: #fff !important;
-}
-
-.cta-buttons {
+  background: rgba(255, 255, 255, .08);
+  backdrop-filter: blur(12px);
+  border-radius: 20px;
+  padding: 50px;
   display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
+  align-items: center;
+  gap: 40px;
+  background: linear-gradient(135deg, #0142b3, #1d6cff);
+
 }
 
-.btn {
-  padding: 14px 28px;
-  font-size: 16px;
-  border-radius: 6px;
+.cta-left h2 {
+  color: #fff;
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.cta-left p {
+  color: #dbe5ff;
+  margin-bottom: 25px;
+}
+
+.cta-btns {
+  display: flex;
+  gap: 15px;
+}
+
+.cta-btn {
+  padding: 14px 30px;
+  border-radius: 40px;
   text-decoration: none;
-  transition: all 0.3s ease;
-  font-weight: 500;
+  font-weight: 600;
+  transition: .3s;
 }
 
-.primary-btn {
-  background-color: #ffb400;
+.cta-btn.primary {
+  background: #ffb400;
   color: #000;
 }
 
-.primary-btn:hover {
-  background-color: #ffaa00;
+.cta-btn.primary:hover {
   transform: translateY(-3px);
 }
 
-.secondary-btn {
-  background-color: transparent;
+.cta-btn.outline {
   border: 2px solid #fff;
   color: #fff;
 }
 
-.secondary-btn:hover {
-  background-color: #fff;
+.cta-btn.outline:hover {
+  background: #fff;
   color: #000;
-  transform: translateY(-3px);
 }
 
-/* Responsive */
-@media (max-width: 600px) {
-  .placement-cta h2 {
-    font-size: 20px;
+.cta-right img {
+  max-width: 260px;
+}
+
+/* Mobile */
+
+@media(max-width:768px) {
+  .cta-box {
+    flex-direction: column;
+    text-align: center;
   }
 
-  .btn {
-    width: 100%;
-    text-align: center;
+  .cta-btns {
+    justify-content: center;
+    flex-wrap: wrap;
   }
 }
 
@@ -10474,9 +10504,17 @@ textarea {
 
 .fashion-platforms {
   padding: 80px 0;
-  background: #f9f9f9;
+  /* background: #f9f9f9; */
   width: 100%;
 }
+
+.fashion-slider .item img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
 
 .section-heading h2 {
   font-size: 36px;
@@ -10489,7 +10527,7 @@ textarea {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 30px;
+  padding: 5px;
   background: #ffffff;
   border-radius: 12px;
   transition: 0.4s ease;
@@ -10497,7 +10535,7 @@ textarea {
 }
 
 .logo-carousel .logo-item img {
-  max-height: 80px;
+  max-height: 100px;
   width: auto;
   opacity: 0.7;
   transition: 0.4s ease;
@@ -10562,6 +10600,7 @@ textarea {
   flex-wrap: wrap;
   align-items: center;
   margin-bottom: 20px;
+  justify-content: center;
 }
 
 /* Student Impact */
@@ -10589,42 +10628,47 @@ textarea {
   position: relative;
 }
 
-/* counter part started  */
 
 .stats-area {
-  padding: var(--global_padding);
-  /* background: linear-gradient(135deg,#141e30,#243b55); */
+  padding: 30px 0;
+  background: linear-gradient(135deg, #0b0620, #1b0f3a);
 }
 
 .stats-card {
-  /* background: rgba(255,255,255,.07); */
-  padding: 35px 20px;
-  border-radius: 14px;
-  text-align: center;
-  color: #000;
-  transition: .4s ease;
-  border: 1px solid #0000001f;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 25px;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, .03);
+  border: 1px solid rgba(255, 255, 255, .15);
+  color: #fff;
+  transition: .4s;
 }
 
 .stats-card:hover {
   transform: translateY(-10px);
+  border-color: #ff0057;
+  box-shadow: 0 10px 30px rgba(255, 0, 87, .3);
 }
 
-.stats-card h2 {
-  font-size: 40px;
-  font-weight: 700;
+.stats-icon img {
+  height: 45px;
 }
 
-.stats-card p {
-  font-size: 14px;
-  margin-top: 8px;
+.stats-content h2 {
+  font-size: 32px;
+  margin: 0;
+  color: #fff;
+}
+
+.stats-content p {
+  font-size: 12px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  opacity: .75;
+  opacity: .7;
+  margin: 0;
 }
-
-
-/* /// student achivement //////  */
 
 
 .student-achievers {
@@ -10633,32 +10677,39 @@ textarea {
 
 }
 
-/* 1st Card – Pastel Blue */
-.col-md-3:nth-child(1) .stats-card {
-  background: linear-gradient(135deg, #f5e9ff 0%, #fde2f3 100%);
+.stats-area {
+  /* background: #005aff; */
+  background: var(--secondary-color1);
+}
+
+.stats-card {
+  color: #fff;
+}
+
+
+/* .col-md-3:nth-child(1) .stats-card {
+  background: linear-gradient(135deg, #c3ecff 0%, #e6ccff 100%);
   color: #222;
 }
 
-/* 2nd Card – Pastel Pink */
+
 .col-md-3:nth-child(2) .stats-card {
-  background: linear-gradient(135deg, #eef2ff 0%, #e0e7ff 100%);
+  background: linear-gradient(135deg, #ffd6a5 0%, #ffb4c6 100%);
   color: #222;
-
 }
 
-/* 3rd Card – Pastel Green */
+
 .col-md-3:nth-child(3) .stats-card {
-  background: linear-gradient(135deg, #fff1f2 0%, #ffe4e6 100%);
+  background: linear-gradient(135deg, #b9fbc0 0%, #98f5e1 100%);
   color: #222;
-
 }
 
-/* 4th Card – Pastel Yellow */
+
 .col-md-3:nth-child(4) .stats-card {
-  background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%);
-  color: #222;
-
+  background: linear-gradient(135deg, #fff3b0 0%, #ffd166 100%);
+  color: #222; */
 }
+
 
 /* Hover */
 .stats-card {

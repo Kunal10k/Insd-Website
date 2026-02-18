@@ -20,7 +20,9 @@
         <div class="row">
           <div class="col-md-6">
             <div class="ban-cont">
-
+              <div class="trust_logo">
+                <img src="assets/img/trust logo-Photoroom.png" alt="" class="w-25 mb-3">
+              </div>
               <div class="banner-top">
                 <div class="banner-badge-top">
                   <div class="icon">
@@ -61,8 +63,8 @@
               </h1>
 
 
-              <h5 class="hero-subheading pb-3">Industry-driven design education focused on practical learning and career
-                outcomes. </h5>
+              <!-- <h5 class="hero-subheading pb-3">Industry-driven design education focused on practical learning and career
+                outcomes. </h5> -->
 
               <div>
                 <ul class="feature-list mt-2 d-flex gap-5">
@@ -113,8 +115,13 @@
             </div>
           </div>
           <div class="col-md-6">
-            <img src="assets/img/insd (2).webp" alt="" class="ban-img">
+
+            <img class="ban-img auto-slider" src="assets/img/insd (2).webp">
+            <img class="ban-img auto-slider" src="assets/img/slider (1).png">
+            <img class="ban-img auto-slider" src="assets/img/v.png">
+
           </div>
+
         </div>
 
 
@@ -133,55 +140,67 @@
   </div>
 </section>
 
-<section class="stats-wrap">
-  <div class="stats-container">
 
-    <div class="stat-card stat-yellow">
-      <div class="stat-icon">
-        <i class="fa-solid fa-graduation-cap"></i>
+
+
+<section class="stats-area">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-3">
+        <div class="stats-card">
+          <div class="stats-icon">
+            <img src="assets/img/icon/1- (1).png">
+          </div>
+          <div class="stats-content">
+            <h2><span class="stats-count" data-num="27">27</span>+</h2>
+            <p>Total Achievement</p>
+          </div>
+        </div>
       </div>
-      <div class="stat-data">
-        <span class="stat-number">100%</span>
-        <span class="stat-text">Placement Assistance</span>
+
+      <div class="col-md-3">
+        <div class="stats-card">
+          <div class="stats-icon">
+            <img src="assets/img/icon/1- (2).png">
+
+          </div>
+          <div class="stats-content">
+            <h2><span class="stats-count" data-num="145">145</span>+</h2>
+            <p>Total Students</p>
+          </div>
+        </div>
       </div>
+
+      <div class="col-md-3">
+        <div class="stats-card">
+          <div class="stats-icon">
+            <img src="assets/img/icon/1- (3).png">
+
+          </div>
+          <div class="stats-content">
+            <h2><span class="stats-count" data-num="10000">10000</span></h2>
+            <p>Total Instructor</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-3">
+        <div class="stats-card">
+          <div class="stats-icon">
+            <img src="assets/img/icon/1- (4).png">
+
+          </div>
+          <div class="stats-content">
+            <h2><span class="stats-count" data-num="214">214</span>+</h2>
+            <p>Over The World</p>
+          </div>
+        </div>
+      </div>
+
     </div>
-
-    <div class="stat-card stat-blue">
-      <div class="stat-icon">
-        <i class="fa-solid fa-handshake"></i>
-      </div>
-      <div class="stat-data">
-        <span class="stat-number">200+</span>
-        <span class="stat-text">Brands Associated</span>
-      </div>
-    </div>
-
-    <div class="stat-card stat-dark">
-      <div class="stat-icon">
-        <i class="fa-solid fa-industry"></i>
-      </div>
-      <div class="stat-data">
-        <span class="stat-number">Industry</span>
-        <span class="stat-text">Led Learning</span>
-      </div>
-    </div>
-
-    <div class="stat-card stat-red">
-      <div class="stat-icon">
-        <i class="fa-solid fa-location-crosshairs"></i>
-      </div>
-      <div class="stat-data">
-        <span class="stat-number">Salt Lake</span>
-        <span class="stat-text">Campus, Kolkata</span>
-      </div>
-    </div>
-
   </div>
 </section>
-
-
-
-
 
 
 
@@ -212,6 +231,8 @@
     </div>
   </div>
 </section>
+
+
 
 
 
@@ -530,7 +551,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
               </ul>
 
-              <a href="B.DES-in-Graphic-Design.php" class="btn-animated btn-light mt-4">
+              <a href="B.Des-in-Interior-Design-intern.php" class="btn-animated btn-light mt-4">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Interior Design</div>
                   <div class="btn-text-hover">Explore Interior Design</div>
@@ -566,7 +587,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
               </ul>
 
-              <a href="MBA-in-Fashion-Design.php" class="btn-animated btn-light mt-4">
+              <a href="MBA-in-Interior-Design.php" class="btn-animated btn-light mt-4">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Fashion Design</div>
@@ -589,7 +610,9 @@
               <div class="course-header">
                 <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
 
-                <h2>Diploma & Advanced Diploma in Interior Design</h2>
+                <h2>Diploma &
+                  Advanced Diploma in Interior
+                  Design</h2>
 
                 <ul class="btn_xzz">
                   <li>Bachelor’s</li>
@@ -604,7 +627,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
               </ul>
 
-              <a href="Diploma-&-Advanced-Diploma-in-Graphic-Design.php" class="btn-animated btn-light mt-4">
+              <a href="Diploma-&-Advanced-Diploma-in-Interior-Design.php" class="btn-animated btn-light mt-4">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Graphic Design</div>
@@ -631,45 +654,7 @@
 
 
 
-<!-- tab start -->
-<section class="course mb-0">
-  <div class="container">
 
-    <h5 class="sub-head text-center cen">Our Vision</h5>
-    <h2 class="title text-center">Empowering the Next <span>Generation of Designers</span></h2>
-    <p class="para text-center">Our University provides world-class education, drives innovation, and prepares future
-      leaders. <br> With modern facilities and a vibrant community, we empower students to succeed and make lasting
-      impact.</p>
-
-    <div class="tab-section">
-      <div class="row g-5">
-        <div class="col-lg-4 col-md-12 order-2 order-lg-1">
-          <h4 class="mb-4 fw-bold"></h4>
-          <ul class="nav nav-tabs tab-button-list mt-5" id="autoTab" role="tablist">
-            <li class="nav-item"><a class="nav-link tab-button active" data-bs-toggle="tab" href="#content1">Inspiring
-                Surroundings</a></li>
-            <li class="nav-item"><a class="nav-link tab-button" data-bs-toggle="tab" href="#content2">
-                Endless Opportunities</a></li>
-            <li class="nav-item"><a class="nav-link tab-button" data-bs-toggle="tab" href="#content3">Fashion Shows &
-                Events</a></li>
-            <li class="nav-item"><a class="nav-link tab-button" data-bs-toggle="tab" href="#content4">The Creative
-                Bug</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-8 col-md-12 order-1 order-lg-2">
-          <div class="tab-content">
-            <div class="tab-pane fade show active" id="content1"><img src="assets/img/new-photo/01.jpeg"
-                alt="Courses Layout"></div>
-            <div class="tab-pane fade" id="content2"><img src="assets/img/new-photo/02- (1).jpeg" alt="Header Layout"></div>
-            <div class="tab-pane fade" id="content3"><img src="assets/img/new-photo/02- (2).jpeg" alt="Toolkit"></div>
-            <div class="tab-pane fade" id="content4"><img src="assets/img/new-photo/04.jpeg" alt="Flexible"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 
 <section class="cta-sec">
   <div class="container">
@@ -714,11 +699,11 @@
           <span>Builds Your Creative Career</span>
         </h2>
 
-        <p class="para">
+        <!-- <p class="para">
           INSD Kolkata offers an industry-driven curriculum designed to transform creativity into
           real-world success. With hands-on studio learning, expert mentorship, and a strong
           career-focused approach, we prepare students to lead in the design industry.
-        </p>
+        </p> -->
 
         <div class="benifit-wraps">
 
@@ -779,8 +764,15 @@
       </div>
 
       <div class="col-md-5">
-        <img src="assets/img/why.png" alt="INSD Kolkata Campus" class="img-fluid rounded">
+        <div class="image_changer">
+          <img src="assets/img/why.png" alt="INSD Kolkata Campus" class="img-fluid rounded">
+        </div>
+
       </div>
+
+
+
+
 
     </div>
   </div>
@@ -807,61 +799,61 @@
         <a href="assets/img/new-photo/05- (1).jpg" data-fancybox="workshops">
           <img class="bg-img" src="assets/img/new-photo/05- (1).jpg">
         </a>
-        <div class="testimonial-content">
+        <!-- <div class="testimonial-content">
           <p>Creative workshops with industry mentors.</p>
           <div class="author">
             <img class="avatar" src="https://picsum.photos/30/30?random=11">
             <span>Design Lab<br><small>Hands-on Learning</small></span>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="testimonial-card">
         <a href="assets/img/new-photo/05- (2).jpg" data-fancybox="workshops">
           <img class="bg-img" src="assets/img/new-photo/05- (2).jpg">
         </a>
-        <div class="testimonial-content">
+        <!-- <div class="testimonial-content">
           <p>Creative workshops with industry mentors.</p>
           <div class="author">
             <img class="avatar" src="https://picsum.photos/30/30?random=11">
             <span>Design Lab<br><small>Hands-on Learning</small></span>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="testimonial-card">
         <a href="assets/img/new-photo/05- (3).jpg" data-fancybox="workshops">
           <img class="bg-img" src="assets/img/new-photo/05- (3).jpg">
         </a>
-        <div class="testimonial-content">
+        <!-- <div class="testimonial-content">
           <p>Creative workshops with industry mentors.</p>
           <div class="author">
             <img class="avatar" src="https://picsum.photos/30/30?random=11">
             <span>Design Lab<br><small>Hands-on Learning</small></span>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="testimonial-card">
         <a href="assets/img/new-photo/05- (4).jpg" data-fancybox="workshops">
           <img class="bg-img" src="assets/img/new-photo/05- (4).jpg">
         </a>
-        <div class="testimonial-content">
+        <!-- <div class="testimonial-content">
           <p>Creative workshops with industry mentors.</p>
           <div class="author">
             <img class="avatar" src="https://picsum.photos/30/30?random=11">
             <span>Design Lab<br><small>Hands-on Learning</small></span>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="testimonial-card">
         <a href="assets/img/new-photo/05- (5).jpg" data-fancybox="workshops">
           <img class="bg-img" src="assets/img/new-photo/05- (5).jpg">
         </a>
-        <div class="testimonial-content">
+        <!-- <div class="testimonial-content">
           <p>Creative workshops with industry mentors.</p>
           <div class="author">
             <img class="avatar" src="https://picsum.photos/30/30?random=11">
             <span>Design Lab<br><small>Hands-on Learning</small></span>
           </div>
-        </div>
+        </div> -->
       </div>
 
 
@@ -870,61 +862,61 @@
         <a href="assets/img/new-photo/05- (1).jpg" data-fancybox="workshops">
           <img class="bg-img" src="assets/img/new-photo/05- (1).jpg">
         </a>
-        <div class="testimonial-content">
+        <!-- <div class="testimonial-content">
           <p>Creative workshops with industry mentors.</p>
           <div class="author">
             <img class="avatar" src="https://picsum.photos/30/30?random=11">
             <span>Design Lab<br><small>Hands-on Learning</small></span>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="testimonial-card">
         <a href="assets/img/new-photo/05- (2).jpg" data-fancybox="workshops">
           <img class="bg-img" src="assets/img/new-photo/05- (2).jpg">
         </a>
-        <div class="testimonial-content">
+        <!-- <div class="testimonial-content">
           <p>Creative workshops with industry mentors.</p>
           <div class="author">
             <img class="avatar" src="https://picsum.photos/30/30?random=11">
             <span>Design Lab<br><small>Hands-on Learning</small></span>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="testimonial-card">
         <a href="assets/img/new-photo/05- (3).jpg" data-fancybox="workshops">
           <img class="bg-img" src="assets/img/new-photo/05- (3).jpg">
         </a>
-        <div class="testimonial-content">
+        <!-- <div class="testimonial-content">
           <p>Creative workshops with industry mentors.</p>
           <div class="author">
             <img class="avatar" src="https://picsum.photos/30/30?random=11">
             <span>Design Lab<br><small>Hands-on Learning</small></span>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="testimonial-card">
         <a href="assets/img/new-photo/05- (4).jpg" data-fancybox="workshops">
           <img class="bg-img" src="assets/img/new-photo/05- (4).jpg">
         </a>
-        <div class="testimonial-content">
+        <!-- <div class="testimonial-content">
           <p>Creative workshops with industry mentors.</p>
           <div class="author">
             <img class="avatar" src="https://picsum.photos/30/30?random=11">
             <span>Design Lab<br><small>Hands-on Learning</small></span>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="testimonial-card">
         <a href="assets/img/new-photo/05- (5).jpg" data-fancybox="workshops">
           <img class="bg-img" src="assets/img/new-photo/05- (5).jpg">
         </a>
-        <div class="testimonial-content">
+        <!-- <div class="testimonial-content">
           <p>Creative workshops with industry mentors.</p>
           <div class="author">
             <img class="avatar" src="https://picsum.photos/30/30?random=11">
             <span>Design Lab<br><small>Hands-on Learning</small></span>
           </div>
-        </div>
+        </div> -->
       </div>
 
 
@@ -1016,7 +1008,7 @@
   <div class="row">
     <div class="col-md-5 content">
 
-      <h6 class="title ">Academic and industry collaborations <br> supporting practical learning</h6>
+      <h6 class="title ">Academic and industry collaborations </h6>
 
 
 
@@ -1222,50 +1214,59 @@
 </section>
 
 
-<section class="placement-cta">
+
+
+<section class="placement-cta-new">
   <div class="container">
-    <div class="cta-container">
-      <h2>Want to know more about placements and career opportunities?</h2>
-      <div class="ban-btn ">
 
-        <div class="mt-4">
-          <!-- Apply Button -->
-          <a href="#" class="btn-animated btn-light" data-bs-toggle="modal" data-bs-target="#enquiryModal">
-            <span class="btn-text-wrap">
-              <span class="btn-text">Apply to Join</span>
-              <span class="btn-text-hover">Apply to Join</span>
-            </span>
-            <span class="btn-icon-wrap">
-              <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                alt="Arrow" class="btn-icon">
-              <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                alt="Arrow" class="btn-icon-hover">
-            </span>
-          </a>
+    <div class="cta-box">
 
-          <a href="#" class="btn-animated btn-light">
-            <span class="btn-text-wrap">
-              <span class="btn-text">Explore our Courses</span>
-              <span class="btn-text-hover">Explore our Courses</span>
-            </span>
-            <span class="btn-icon-wrap">
-              <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                alt="Arrow" class="btn-icon">
-              <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                alt="Arrow" class="btn-icon-hover">
-            </span>
-          </a>
+      <div class="cta-left">
+        <h2>Build Your Career With Guaranteed Placement Support</h2>
+        <p>Explore placements, career guidance & industry-ready courses.</p>
 
+        <div class="ban-btn">
+          <div class="mt-4">
 
+            <!-- Apply Button -->
+            <a href="#" class="btn-animated btn-light" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+              <span class="btn-text-wrap">
+                <span class="btn-text">Apply to Join</span>
+                <span class="btn-text-hover">Apply to Join</span>
+              </span>
 
+              <span class="btn-icon-wrap">
+                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+              </span>
+            </a>
+
+            <!-- Explore Button -->
+            <a href="#" class="btn-animated btn-light">
+              <span class="btn-text-wrap">
+                <span class="btn-text">Explore our Courses</span>
+                <span class="btn-text-hover">Explore our Courses</span>
+              </span>
+
+              <span class="btn-icon-wrap">
+                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+              </span>
+            </a>
+
+          </div>
         </div>
 
       </div>
 
+      <div class="cta-right">
+        <img src="assets/img/p.png" alt="">
+      </div>
+
     </div>
+
   </div>
 </section>
-
 
 
 
@@ -1974,6 +1975,30 @@
     updateCounter();
   });
 </script>
+
+
+
+
+<script>
+  const slides = document.querySelectorAll(".auto-slider");
+  let current = 0;
+
+  setInterval(() => {
+
+    slides[current].style.opacity = 0;
+
+    current = (current + 1) % slides.length;
+
+    slides[current].style.opacity = 1;
+
+  }, 3000);
+</script>
+
+
+
+
+
+
 
 
 <?php include 'inside/footer.php' ?>

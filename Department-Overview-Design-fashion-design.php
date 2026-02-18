@@ -3,23 +3,26 @@
 
 
 <section class="landing_banner" id="form">
-    <div class="banner" style="background-image: url('./assets/img/insd-banner1.jpg');">
+    <div class="banner" style="background-image: url('./assets/img/insd banner (1).jpg.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-12 landing_pick">
                     <div class="landing_content">
-                        <h5>Admissions Open | 2026 Intaka </h5>
+                        <div class="trust_logo">
+                            <img src="assets/img/trust logo-Photoroom.png" alt="" class="w-25 mb-3">
+                        </div>
+                        <h5>Admissions Open | 2026-2027 Intaka </h5>
                         <h1 class="w-100 w-md-75">Build a Career in Fashion Design with Industry-Focused Training
 
                             ​</h1>
-                        <h6 class="mt-3">Diploma • Advanced Diploma • B.Des • B.Sc • MBA</h6>
+                        <h6 class="mt-3">Diploma • B.Des• MBA</h6>
 
-
+                        <!-- 
                         <p class="para">
                             Practical fashion education with strong industry exposure, career guidance, and placement
                             support.
 
-                        </p>
+                        </p> -->
 
                         <div>
                             <a href="#" class="btn-animated btn-light1 btn-light8 mt-4">
@@ -62,9 +65,9 @@
 
                         <div class="form_content">
                             <div class="content1">
-                                <h6>Ready to Begin Your Journey in the Global Fashion Industry?
-                                </h6>
-                                <h5>Connect With Us</h5>
+                                <!-- <h6>Ready to Begin Your Journey in the Global Fashion Industry?
+                                </h6> -->
+                                <!-- <h5>Connect With Us</h5> -->
                             </div>
 
                         </div>
@@ -73,21 +76,39 @@
                         <form action="landing.php" method="post" class="landing_form">
 
                             <!-- Name -->
-                            <div class="mb-3">
+                            <div class="mb-1">
                                 <label class="form-label">Full Name</label>
                                 <input type="text" class="form-control" name="name" placeholder="Enter your name"
                                     required>
                             </div>
 
                             <!-- Email -->
-                            <div class="mb-3">
+                            <div class="mb-1">
                                 <label class="form-label">Email Address</label>
                                 <input type="email" class="form-control" name="email" placeholder="Enter your email"
                                     required>
                             </div>
 
+                            <!-- Course Dropdown -->
+                            <div class="mb-1">
+                                <label class="form-label">Select Course</label>
+                                <select name="course" class="form-control cxza" required>
+                                    <option value="">-- Choose Your Course --</option>
+                                    <option value="Diploma / Advanced Diploma in Fashion Design">
+                                        Diploma / Advanced Diploma in Fashion Design
+                                    </option>
+                                    <option value="B.Des in Fashion Design & Technology">
+                                        B.Des in Fashion Design & Technology
+                                    </option>
+                                    <option value="MBA in Fashion Design & Technology">
+                                        MBA in Fashion Design & Technology
+                                    </option>
+                                </select>
+                            </div>fashion
+
+
                             <!-- Phone -->
-                            <div class="mb-3">
+                            <div class="mb-1">
                                 <label class="form-label">Mobile Number</label>
                                 <div class="input-group">
                                     <span class="input-group-text">+91</span>
@@ -126,9 +147,9 @@
 
 </section>
 
-<section class="py-2">
+<section class="py-2 d-md-none d-block">
     <div class="container">
-        <div class="col-md-4 col-sm-12  d-md-none d-block mt-5 ">
+        <div class="col-md-4 col-sm-12   mt-5 ">
 
             <div class="landing_wrapper">
 
@@ -193,41 +214,67 @@
     </div>
 </section>
 
+
 <section class="stats-area">
     <div class="container">
         <div class="row">
 
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h2><span class="stats-count" data-num="300">0</span>+</h2>
-                    <p>Training & Placement Cos</p>
+                    <div class="stats-icon">
+                        <img src="assets/img/icon/1- (1).png">
+                    </div>
+                    <div class="stats-content">
+                        <h2><span class="stats-count" data-num="27">0</span>+</h2>
+                        <p>Total Achievement</p>
+                    </div>
                 </div>
             </div>
 
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h2>₹<span class="stats-count" data-num="11">0</span>L</h2>
-                    <p>Highest Package</p>
+                    <div class="stats-icon">
+                        <img src="assets/img/icon/1- (2).png">
+
+                    </div>
+                    <div class="stats-content">
+                        <h2><span class="stats-count" data-num="145">0</span>+</h2>
+                        <p>Total Students</p>
+                    </div>
                 </div>
             </div>
 
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h2><span class="stats-count" data-num="100">0</span>%</h2>
-                    <p>Placement Assistance</p>
+                    <div class="stats-icon">
+                        <img src="assets/img/icon/1- (3).png">
+
+                    </div>
+                    <div class="stats-content">
+                        <h2><span class="stats-count" data-num="10000">0</span></h2>
+                        <p>Total Instructor</p>
+                    </div>
                 </div>
             </div>
 
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h2><span class="stats-count" data-num="15000">0</span>+</h2>
-                    <p>Students Graduated</p>
+                    <div class="stats-icon">
+                        <img src="assets/img/icon/1- (4).png">
+
+                    </div>
+                    <div class="stats-content">
+                        <h2><span class="stats-count" data-num="214">0</span>+</h2>
+                        <p>Over The World</p>
+                    </div>
                 </div>
             </div>
 
         </div>
     </div>
 </section>
+
+
 
 
 
@@ -464,6 +511,96 @@
 
 
 
+
+
+<section class="alumni-container p-0">
+
+
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="title text-center " style="color: #222;"> The Grand Runway <span>Showcase</span></h2>
+            <!-- MARQUEE LEFT -->
+            <!-- <div class="marquee-container e44">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+
+
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                </div>
+            </div> -->
+            <div class="marquee-container e44">
+                <div class="owl-carousel fashion-slider">
+
+                    <div class="item">
+                        <img src="assets/img/fashion-slider/01- (1).jpg" alt="">
+                    </div>
+
+                    <div class="item">
+                        <img src="assets/img/fashion-slider/01- (1).png" alt="">
+                    </div>
+
+                    <div class="item">
+                        <img src="assets/img/fashion-slider/01- (2).jpg" alt="">
+                    </div>
+
+                    <div class="item">
+                        <img src="assets/img/fashion-slider/01- (3).jpg" alt="">
+                    </div>
+
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </div>
+
+
+
+
+</section>
+
+
+<section class="student-achievers py-5">
+    <div class="container">
+
+        <div class="text-center mb-3">
+            <h2 class="title">STUDENT <span>ACHIEVER’S</span></h2>
+        </div>
+
+        <div class="owl-carousel achiever-carousel">
+
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (1).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (2).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (3).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (4).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (5).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (6).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (7).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (8).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (9).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (10).jpg"></div>
+
+
+        </div>
+
+    </div>
+</section>
+
+
+
 <section class="alumni-container p-0">
     <div class="row">
         <div class="col-md-3 content">
@@ -566,161 +703,195 @@
 
 
 
-<section class="student-achievers py-5">
+
+<section class="career-zone">
     <div class="container">
+        <div class="row align-items-center">
 
-        <div class="text-center mb-3">
-            <h2 class="title">STUDENT <span>ACHIEVER’S</span></h2>
-        </div>
+            <!-- LEFT COLUMN -->
+            <div class="col-md-7">
+                <div class="career-wrapper">
+                    <div class="career-info">
+                        <h2 class="title">
+                            PLACEMENTS & <br>
+                            <span>RECRUITERS</span>
+                        </h2>
+                        <p class="para">Where talent meets industry</p>
 
-        <div class="owl-carousel achiever-carousel">
+                        <div class="career-metrics mt-3">
 
-            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (1).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (2).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (3).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (4).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (5).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (6).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (7).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (8).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (9).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/fashion-achivers/1- (10).jpg"></div>
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-check"></i>
+                                </div>
+                                <div>
+                                    <h3>100%</h3>
+                                    <p>Placement Assistance</p>
+                                </div>
+                            </div>
 
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-users"></i>
+                                </div>
+                                <div>
+                                    <h3>200+</h3>
+                                    <p>Industry Partners</p>
+                                </div>
+                            </div>
 
-        </div>
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-briefcase"></i>
+                                </div>
+                                <div>
+                                    <h3>850+</h3>
+                                    <p>Students Placed</p>
+                                </div>
+                            </div>
 
-    </div>
-</section>
-
-
-
-<section class="career-hero">
-    <div class="career-container">
-        <div class="career-row">
-
-            <!-- Left Content -->
-            <div class="career-left">
-                <!-- <span class="career-label">Get Involved</span> -->
-                <h1 class="title" style="color: #fff;">
-                    Start Your Fashion Design Career at INSD
-                </h1>
-                <div class="mt-4">
-                    <a href="#form" class="btn-animated btn-light">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Apply Now</div>
-                            <div class="btn-text-hover">Apply Now</div>
                         </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </a>
-                    <a href="#form" class="btn-animated btn-light">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Book Counselling</div>
-                            <div class="btn-text-hover">Book Counselling</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </a>
-                    <a href="#form" class="btn-animated btn-light mt-4">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Download Brochure</div>
-                            <div class="btn-text-hover">Download Brochure</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </a>
+
+                        <!-- <a href="#" class="btn-animated btn-light mt-4">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">View Placements</div>
+                                <div class="btn-text-hover">View Placements</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a> -->
+
+                    </div>
                 </div>
             </div>
 
-            <!-- Right Image -->
-            <div class="career-right">
-                <img src="assets/img/logo/e.jpg"
-                    alt="Person working on laptop" class="career-img">
-            </div>
+            <!-- RIGHT COLUMN -->
+            <div class="col-md-5">
+                <div class="career-brands">
+                    <h4 class="title text-center mb-3">
+                        Our Hiring <span>Partners</span>
+                    </h4>
 
-        </div>
-    </div>
-</section>
+                    <div class="hight_marquee">
 
-<section class="alumni-container p-0">
-    <div class="row">
-        <div class="col-md-5 content">
+                        <!-- LEFT MARQUEE -->
+                        <div class="brand-grid left-marquee">
+                            <div class="brand-track">
 
-            <h6 class="title ">RECOGNISED &amp; <br>FEATURED BY</h6>
-            <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies,
-                industry platforms, and media <br class="d-none d-md-block"> organisations.</p>
-
-
-        </div>
-        <div class="col-md-7">
-            <!-- MARQUEE LEFT -->
-            <div class="marquee-container">
-                <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
+                                <!-- Original Items -->
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (1).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (2).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (4).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (5).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (6).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (7).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (8).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (9).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (10).png" alt=""></div>
 
 
-                    <!-- duplicate for infinite loop -->
+                            </div>
+                        </div>
 
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
-
-
-
-                </div>
-            </div>
-
-            <!-- MARQUEE RIGHT -->
-            <div class="marquee-container ">
-                <div class="marquee marquee-right">
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
+                        <!-- RIGHT MARQUEE -->
+                        <div class="brand-grid right-marquee mt-3">
+                            <div class="brand-track">
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (11).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (12).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (13).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (14).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (15).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (16).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (17).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (18).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (19).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (20).png" alt=""></div>
 
 
+                            </div>
+                        </div>
 
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
 
+                        <!-- LEFT MARQUEE -->
+                        <div class="brand-grid left-marquee mt-3">
+                            <div class="brand-track">
+
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (21).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (22).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (23).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (24).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (25).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (26).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (27).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (28).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (29).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (30).png" alt=""></div>
+
+                            </div>
+                        </div>
+
+                    </div>
                 </div>
             </div>
 
         </div>
     </div>
-
-
-
-
 </section>
+
+
+
+<section class="cta-sec">
+    <div class="container">
+        <div class="cta-content">
+
+            <h2 class="title text-center text-white">Start Your Fashion Design Career at INSD</h2>
+
+            <div class="mt-4">
+                <a href="#form" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Apply Now</div>
+                        <div class="btn-text-hover">Apply Now</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+                <a href="#form" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Book Counselling</div>
+                        <div class="btn-text-hover">Book Counselling</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+                <a href="#form" class="btn-animated btn-light mt-4">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Download Brochure</div>
+                        <div class="btn-text-hover">Download Brochure</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                            alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</section>
+
 
 
 
@@ -744,7 +915,7 @@
                         <li class="nav-item" role="presentation">
                             <a class="nav-link tab-button active" data-bs-toggle="tab" href="#content1"
                                 aria-selected="true" role="tab">
-                                <i class="fa-solid fa-compass-drafting me-2"></i>
+
                                 Professional Fashion Design Studios
                             </a>
                         </li>
@@ -752,7 +923,7 @@
                         <li class="nav-item" role="presentation">
                             <a class="nav-link tab-button" data-bs-toggle="tab" href="#content2" aria-selected="false"
                                 tabindex="-1" role="tab">
-                                <i class="fa-solid fa-laptop-code me-2"></i>
+
                                 Pattern Making & Garment Construction Units
 
                             </a>
@@ -761,7 +932,7 @@
                         <li class="nav-item" role="presentation">
                             <a class="nav-link tab-button" data-bs-toggle="tab" href="#content3" aria-selected="false"
                                 tabindex="-1" role="tab">
-                                <i class="fa-solid fa-users-viewfinder me-2"></i>
+
                                 Textile & Material Resource Library
                             </a>
                         </li>
@@ -769,7 +940,7 @@
                         <li class="nav-item" role="presentation">
                             <a class="nav-link tab-button" data-bs-toggle="tab" href="#content4" aria-selected="false"
                                 tabindex="-1" role="tab">
-                                <i class="fa-solid fa-briefcase me-2"></i>
+
                                 CAD & Technology-Enabled Classrooms
                             </a>
                         </li>
@@ -777,7 +948,7 @@
                         <li class="nav-item" role="presentation">
                             <a class="nav-link tab-button" data-bs-toggle="tab" href="#content5" aria-selected="false"
                                 tabindex="-1" role="tab">
-                                <i class="fa-solid fa-comments me-2"></i>
+
                                 CAD & Technology-Enabled Classrooms
                             </a>
                         </li>
@@ -884,36 +1055,63 @@
 
 <section class="alumni-container p-0">
     <div class="row">
-        <div class="col-md-3 content">
+        <div class="col-md-5 content">
 
-            <h6 class="title  m-0">TOP
-                ALLIANCES</h6>
+            <h6 class="title ">RECOGNISED &amp; <br>FEATURED BY</h6>
+            <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies,
+                industry platforms, and media <br class="d-none d-md-block"> organisations.</p>
 
 
         </div>
-        <div class="col-md-9">
+        <div class="col-md-7">
             <!-- MARQUEE LEFT -->
-            <div class="marquee-container e44">
+            <div class="marquee-container">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
 
 
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                    <!-- duplicate for infinite loop -->
 
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
+
+
+
                 </div>
             </div>
 
+            <!-- MARQUEE RIGHT -->
+            <div class="marquee-container ">
+                <div class="marquee marquee-right">
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
 
+
+
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
+
+                </div>
+            </div>
 
         </div>
     </div>
@@ -922,6 +1120,7 @@
 
 
 </section>
+
 
 <section class="student-test mt-4">
     <div class="">
@@ -1150,7 +1349,7 @@
     </div>
 
     <div class="newsletter-content">
-        <p class="sub-head text-center text-white">INTERNATIONAL STUDY TOUR TO UK, PARIS, UAE USA*</p>
+        <!-- <p class="sub-head text-center text-white">INTERNATIONAL STUDY TOUR TO UK, PARIS, UAE USA*</p> -->
         <h2 class="title text-white">Start your design journey <br>at INSD Kolkata</h2>
         <!-- <p class="search-line">
       Get found on search <span class="google-pill"><i class="fa-brands fa-google"></i> Find best Marketing Course</span> without pay for every click.
@@ -1562,6 +1761,30 @@
             },
             992: {
                 items: 5
+            }
+        }
+    });
+</script>
+
+
+<script>
+    $('.fashion-slider').owlCarousel({
+        loop: true,
+        margin: 10,
+        autoplay: true,
+        autoplayTimeout: 2000,
+        autoplayHoverPause: true,
+        nav: false,
+        dots: false,
+        responsive: {
+            0: {
+                items: 2
+            },
+            600: {
+                items: 3
+            },
+            1000: {
+                items: 4
             }
         }
     });
