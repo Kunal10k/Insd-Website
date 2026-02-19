@@ -28,10 +28,7 @@
                   <div class="icon">
                     <div class="rating">
                       <a href="#"><i class="fa fa-star"></i></a>
-                      <a href="#"><i class="fa fa-star"></i></a>
-                      <a href="#"><i class="fa fa-star"></i></a>
-                      <a href="#"><i class="fa fa-star"></i></a>
-                      <a href="#"><i class="fa fa-star"></i></a>
+
                     </div>
                   </div>
                   <span class="subtitle">100% Placement Assistance</span>
@@ -135,7 +132,9 @@
 <section class="set_marquee">
   <div class="marquee">
     <div class="marquee-content">
-      Placement Assistance • Interview Preparation • Career Guidance • 100% Job Support • Placement Assistance • Interview Preparation • Career Guidance • 100% Job Support
+      <a href="#">
+        Placement Assistance • Interview Preparation • Career Guidance • 100% Job Support • Placement Assistance • Interview Preparation • Career Guidance • 100% Job Support
+      </a>
     </div>
   </div>
 </section>
@@ -153,7 +152,7 @@
             <img src="assets/img/icon/1- (1).png">
           </div>
           <div class="stats-content">
-            <h2><span class="stats-count" data-num="27">27</span>+</h2>
+            <h2><span class="stats-count" data-num="27">27</span></h2>
             <p>Total Achievement</p>
           </div>
         </div>
@@ -166,7 +165,7 @@
 
           </div>
           <div class="stats-content">
-            <h2><span class="stats-count" data-num="145">145</span>+</h2>
+            <h2><span class="stats-count" data-num="145">145</span></h2>
             <p>Total Students</p>
           </div>
         </div>
@@ -192,7 +191,7 @@
 
           </div>
           <div class="stats-content">
-            <h2><span class="stats-count" data-num="214">214</span>+</h2>
+            <h2><span class="stats-count" data-num="214">214</span></h2>
             <p>Over The World</p>
           </div>
         </div>
@@ -236,30 +235,18 @@
 
 
 
-<section class="course-sec">
+<section class="course-sec" style="padding-bottom: 0;">
   <div class="container">
     <div class="row">
-      <div class="col-md-5">
-        <h2 class="title">Our <span>Courses</span></h2>
-      </div>
-      <div class="col-md-7">
-        <p class="para">Our University provides world-class education, drives innovation, and prepares future leaders.
-          With modern facilities and a vibrant community, we empower students to succeed and make lasting impact.</p>
 
-        <a href="#" class="btn-animated btn-light mt-4 mb-5">
-          <div class="btn-text-wrap">
-            <div class="btn-text">Talk to our Counsellor</div>
-            <div class="btn-text-hover">Talk to our Counsellor</div>
-          </div>
-          <div class="btn-icon-wrap ">
-            <img
-              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-              alt="Arrow" class="btn-icon">
-            <img
-              src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-              alt="Arrow" class="btn-icon-hover">
-          </div>
-        </a>
+      <div class="col-md-12 text-center">
+        <h2 class="title">Our <span>Courses</span></h2>
+
+        <!-- 
+        <p class="para">Our University provides world-class education, drives innovation, and prepares future leaders.
+          With modern facilities and a vibrant community, we empower students to succeed and make lasting impact.</p> -->
+
+
       </div>
     </div>
 
@@ -415,11 +402,11 @@
                 <h2>B.Des in Interior
                   Design</h2>
 
-                <ul class="btn_xzz">
+                <!-- <ul class="btn_xzz">
                   <li>Bachelor’s</li>
                   <li>Master’s</li>
                   <li>Diploma</li>
-                </ul>
+                </ul> -->
               </div>
 
               <ul class="course-features">
@@ -428,7 +415,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
               </ul>
 
-              <a href="B.Des-in-Interior-Design-intern.php" class="btn-animated btn-light mt-4">
+              <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Interior Design</div>
                   <div class="btn-text-hover">Explore Interior Design</div>
@@ -451,11 +438,11 @@
 
                 <h2>MBA in Interior Design</h2>
 
-                <ul class="btn_xzz">
+                <!-- <ul class="btn_xzz">
                   <li>Bachelor’s</li>
                   <li>Master’s</li>
                   <li>Diploma</li>
-                </ul>
+                </ul> -->
               </div>
 
               <ul class="course-features">
@@ -464,7 +451,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
               </ul>
 
-              <a href="MBA-in-Interior-Design.php" class="btn-animated btn-light mt-4">
+              <a href="MBA-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Fashion Design</div>
@@ -487,15 +474,13 @@
               <div class="course-header">
                 <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
 
-                <h2>Diploma &
-                  Advanced Diploma in Interior
-                  Design</h2>
-
+                <h2>Diploma & Advanced Diploma in Interior Design</h2>
+                <!-- 
                 <ul class="btn_xzz">
                   <li>Bachelor’s</li>
                   <li>Master’s</li>
                   <li>Diploma</li>
-                </ul>
+                </ul> -->
               </div>
 
               <ul class="course-features">
@@ -504,7 +489,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
               </ul>
 
-              <a href="Diploma-&-Advanced-Diploma-in-Interior-Design.php" class="btn-animated btn-light mt-4">
+              <a href="Diploma-&-Advanced-Diploma-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Graphic Design</div>
@@ -538,11 +523,11 @@
                 <h2>B.Des in Interior
                   Design</h2>
 
-                <ul class="btn_xzz">
+                <!-- <ul class="btn_xzz">
                   <li>Bachelor’s</li>
                   <li>Master’s</li>
                   <li>Diploma</li>
-                </ul>
+                </ul> -->
               </div>
 
               <ul class="course-features">
@@ -551,7 +536,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
               </ul>
 
-              <a href="B.Des-in-Interior-Design-intern.php" class="btn-animated btn-light mt-4">
+              <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Interior Design</div>
                   <div class="btn-text-hover">Explore Interior Design</div>
@@ -574,11 +559,11 @@
 
                 <h2>MBA in Interior Design</h2>
 
-                <ul class="btn_xzz">
+                <!-- <ul class="btn_xzz">
                   <li>Bachelor’s</li>
                   <li>Master’s</li>
                   <li>Diploma</li>
-                </ul>
+                </ul> -->
               </div>
 
               <ul class="course-features">
@@ -587,7 +572,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
               </ul>
 
-              <a href="MBA-in-Interior-Design.php" class="btn-animated btn-light mt-4">
+              <a href="MBA-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Fashion Design</div>
@@ -610,15 +595,13 @@
               <div class="course-header">
                 <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
 
-                <h2>Diploma &
-                  Advanced Diploma in Interior
-                  Design</h2>
-
+                <h2>Diploma & Advanced Diploma in Interior Design</h2>
+                <!-- 
                 <ul class="btn_xzz">
                   <li>Bachelor’s</li>
                   <li>Master’s</li>
                   <li>Diploma</li>
-                </ul>
+                </ul> -->
               </div>
 
               <ul class="course-features">
@@ -627,7 +610,7 @@
                 <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
               </ul>
 
-              <a href="Diploma-&-Advanced-Diploma-in-Interior-Design.php" class="btn-animated btn-light mt-4">
+              <a href="Diploma-&-Advanced-Diploma-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
                   <div class="btn-text">Explore Graphic Design</div>
                   <div class="btn-text-hover">Explore Graphic Design</div>
@@ -648,6 +631,23 @@
           </div>
         </div>
       </div>
+    </div>
+
+    <div class="text-center">
+      <a href="#" class="btn-animated btn-light mt-4 mb-5">
+        <div class="btn-text-wrap">
+          <div class="btn-text">Talk to our Counsellor</div>
+          <div class="btn-text-hover">Talk to our Counsellor</div>
+        </div>
+        <div class="btn-icon-wrap ">
+          <img
+            src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+            alt="Arrow" class="btn-icon">
+          <img
+            src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+            alt="Arrow" class="btn-icon-hover">
+        </div>
+      </a>
     </div>
   </div>
 </section>
@@ -763,12 +763,27 @@
 
       </div>
 
+
+
+
       <div class="col-md-5">
+
         <div class="image_changer">
-          <img src="assets/img/why.png" alt="INSD Kolkata Campus" class="img-fluid rounded">
+
+          <img src="assets/img/why.png" class="active">
+          <img src="assets/img/ALLIN-ONE-min-768x768.png">
+          <img src="assets/img/ALLIN-ONE-2-min-768x768.png">
+
+          <img src="assets/img/fashion-min-768x768.png">
+
         </div>
 
       </div>
+
+
+
+
+
 
 
 
@@ -790,139 +805,206 @@
   </p>
 
 
+  <div class="marquee-track1 marquee-left mt-4">
 
-  <div class="marquee-wrapper mt-4">
-
-    <div class="marquee-track1 marquee-left overflow-hidden">
-
-      <div class="testimonial-card">
-        <a href="assets/img/new-photo/05- (1).jpg" data-fancybox="workshops">
-          <img class="bg-img" src="assets/img/new-photo/05- (1).jpg">
-        </a>
-        <!-- <div class="testimonial-content">
-          <p>Creative workshops with industry mentors.</p>
-          <div class="author">
-            <img class="avatar" src="https://picsum.photos/30/30?random=11">
-            <span>Design Lab<br><small>Hands-on Learning</small></span>
-          </div>
-        </div> -->
+    <!-- Video Card 1 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/5e2ri6Q6B4Q?autoplay=1&mute=1&loop=1&playlist=5e2ri6Q6B4Q"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
       </div>
-      <div class="testimonial-card">
-        <a href="assets/img/new-photo/05- (2).jpg" data-fancybox="workshops">
-          <img class="bg-img" src="assets/img/new-photo/05- (2).jpg">
-        </a>
-        <!-- <div class="testimonial-content">
-          <p>Creative workshops with industry mentors.</p>
-          <div class="author">
-            <img class="avatar" src="https://picsum.photos/30/30?random=11">
-            <span>Design Lab<br><small>Hands-on Learning</small></span>
-          </div>
-        </div> -->
-      </div>
-      <div class="testimonial-card">
-        <a href="assets/img/new-photo/05- (3).jpg" data-fancybox="workshops">
-          <img class="bg-img" src="assets/img/new-photo/05- (3).jpg">
-        </a>
-        <!-- <div class="testimonial-content">
-          <p>Creative workshops with industry mentors.</p>
-          <div class="author">
-            <img class="avatar" src="https://picsum.photos/30/30?random=11">
-            <span>Design Lab<br><small>Hands-on Learning</small></span>
-          </div>
-        </div> -->
-      </div>
-      <div class="testimonial-card">
-        <a href="assets/img/new-photo/05- (4).jpg" data-fancybox="workshops">
-          <img class="bg-img" src="assets/img/new-photo/05- (4).jpg">
-        </a>
-        <!-- <div class="testimonial-content">
-          <p>Creative workshops with industry mentors.</p>
-          <div class="author">
-            <img class="avatar" src="https://picsum.photos/30/30?random=11">
-            <span>Design Lab<br><small>Hands-on Learning</small></span>
-          </div>
-        </div> -->
-      </div>
-      <div class="testimonial-card">
-        <a href="assets/img/new-photo/05- (5).jpg" data-fancybox="workshops">
-          <img class="bg-img" src="assets/img/new-photo/05- (5).jpg">
-        </a>
-        <!-- <div class="testimonial-content">
-          <p>Creative workshops with industry mentors.</p>
-          <div class="author">
-            <img class="avatar" src="https://picsum.photos/30/30?random=11">
-            <span>Design Lab<br><small>Hands-on Learning</small></span>
-          </div>
-        </div> -->
-      </div>
-
-
-
-      <div class="testimonial-card">
-        <a href="assets/img/new-photo/05- (1).jpg" data-fancybox="workshops">
-          <img class="bg-img" src="assets/img/new-photo/05- (1).jpg">
-        </a>
-        <!-- <div class="testimonial-content">
-          <p>Creative workshops with industry mentors.</p>
-          <div class="author">
-            <img class="avatar" src="https://picsum.photos/30/30?random=11">
-            <span>Design Lab<br><small>Hands-on Learning</small></span>
-          </div>
-        </div> -->
-      </div>
-      <div class="testimonial-card">
-        <a href="assets/img/new-photo/05- (2).jpg" data-fancybox="workshops">
-          <img class="bg-img" src="assets/img/new-photo/05- (2).jpg">
-        </a>
-        <!-- <div class="testimonial-content">
-          <p>Creative workshops with industry mentors.</p>
-          <div class="author">
-            <img class="avatar" src="https://picsum.photos/30/30?random=11">
-            <span>Design Lab<br><small>Hands-on Learning</small></span>
-          </div>
-        </div> -->
-      </div>
-      <div class="testimonial-card">
-        <a href="assets/img/new-photo/05- (3).jpg" data-fancybox="workshops">
-          <img class="bg-img" src="assets/img/new-photo/05- (3).jpg">
-        </a>
-        <!-- <div class="testimonial-content">
-          <p>Creative workshops with industry mentors.</p>
-          <div class="author">
-            <img class="avatar" src="https://picsum.photos/30/30?random=11">
-            <span>Design Lab<br><small>Hands-on Learning</small></span>
-          </div>
-        </div> -->
-      </div>
-      <div class="testimonial-card">
-        <a href="assets/img/new-photo/05- (4).jpg" data-fancybox="workshops">
-          <img class="bg-img" src="assets/img/new-photo/05- (4).jpg">
-        </a>
-        <!-- <div class="testimonial-content">
-          <p>Creative workshops with industry mentors.</p>
-          <div class="author">
-            <img class="avatar" src="https://picsum.photos/30/30?random=11">
-            <span>Design Lab<br><small>Hands-on Learning</small></span>
-          </div>
-        </div> -->
-      </div>
-      <div class="testimonial-card">
-        <a href="assets/img/new-photo/05- (5).jpg" data-fancybox="workshops">
-          <img class="bg-img" src="assets/img/new-photo/05- (5).jpg">
-        </a>
-        <!-- <div class="testimonial-content">
-          <p>Creative workshops with industry mentors.</p>
-          <div class="author">
-            <img class="avatar" src="https://picsum.photos/30/30?random=11">
-            <span>Design Lab<br><small>Hands-on Learning</small></span>
-          </div>
-        </div> -->
-      </div>
-
-
-
     </div>
+
+    <!-- Video Card 2 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/ER-vOLSgWRE?autoplay=1&mute=1&loop=1&playlist=ER-vOLSgWRE"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 3 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/8yUqWMUXABQ?autoplay=1&mute=1&loop=1&playlist=8yUqWMUXABQ"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 4 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/u_gYIvN5oQ4?autoplay=1&mute=1&loop=1&playlist=u_gYIvN5oQ4"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 5 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/67CngCQ1tkc?autoplay=1&mute=1&loop=1&playlist=67CngCQ1tkc"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 1 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/5e2ri6Q6B4Q?autoplay=1&mute=1&loop=1&playlist=5e2ri6Q6B4Q"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 2 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/ER-vOLSgWRE?autoplay=1&mute=1&loop=1&playlist=ER-vOLSgWRE"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 3 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/8yUqWMUXABQ?autoplay=1&mute=1&loop=1&playlist=8yUqWMUXABQ"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 4 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/u_gYIvN5oQ4?autoplay=1&mute=1&loop=1&playlist=u_gYIvN5oQ4"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 5 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/67CngCQ1tkc?autoplay=1&mute=1&loop=1&playlist=67CngCQ1tkc"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 1 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/5e2ri6Q6B4Q?autoplay=1&mute=1&loop=1&playlist=5e2ri6Q6B4Q"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 2 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/ER-vOLSgWRE?autoplay=1&mute=1&loop=1&playlist=ER-vOLSgWRE"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 3 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/8yUqWMUXABQ?autoplay=1&mute=1&loop=1&playlist=8yUqWMUXABQ"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 4 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/u_gYIvN5oQ4?autoplay=1&mute=1&loop=1&playlist=u_gYIvN5oQ4"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Card 5 -->
+    <div class="testimonial-card">
+      <div class="video-wrapper">
+        <iframe class="bg-video"
+          src="https://www.youtube.com/embed/67CngCQ1tkc?autoplay=1&mute=1&loop=1&playlist=67CngCQ1tkc"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+        <div class="play-btn-overlay">
+          <span>▶</span>
+        </div>
+      </div>
+    </div>
+
+
   </div>
+
 
 
 
@@ -1123,16 +1205,16 @@
 
             </div>
 
-            <a href="#" class="btn-animated btn-light mt-4">
-              <div class="btn-text-wrap">
-                <div class="btn-text">View Placements</div>
-                <div class="btn-text-hover">View Placements</div>
-              </div>
-              <div class="btn-icon-wrap">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-              </div>
-            </a>
+            <!-- <a href="#" class="btn-animated btn-light mt-4">
+                            <div class="btn-text-wrap">
+                                <div class="btn-text">View Placements</div>
+                                <div class="btn-text-hover">View Placements</div>
+                            </div>
+                            <div class="btn-icon-wrap">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                            </div>
+                        </a> -->
 
           </div>
         </div>
@@ -1152,16 +1234,17 @@
               <div class="brand-track">
 
                 <!-- Original Items -->
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (1).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (2).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (3).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (4).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (5).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (6).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (7).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (8).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (9).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (10).png" alt=""></div>
 
-                <!-- Duplicate for Smooth Loop -->
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
 
               </div>
             </div>
@@ -1169,18 +1252,17 @@
             <!-- RIGHT MARQUEE -->
             <div class="brand-grid right-marquee mt-3">
               <div class="brand-track">
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (11).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (12).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (13).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (14).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (15).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (16).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (17).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (18).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (19).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (20).png" alt=""></div>
 
-                <!-- Original -->
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
-
-                <!-- Duplicate -->
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
 
               </div>
             </div>
@@ -1190,17 +1272,16 @@
             <div class="brand-grid left-marquee mt-3">
               <div class="brand-track">
 
-                <!-- Original Items -->
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
-
-                <!-- Duplicate for Smooth Loop -->
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-28.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-30.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/Untitled-design-32.png" alt=""></div>
-                <div class="brand-tile"><img src="https://www.insdkolkata.com/wp-content/uploads/2025/05/goodrej-6.png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (21).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (22).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (23).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (24).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (25).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (26).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (27).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (28).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (29).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (30).png" alt=""></div>
 
               </div>
             </div>
@@ -1215,14 +1296,13 @@
 
 
 
-
 <section class="placement-cta-new">
   <div class="container">
 
     <div class="cta-box">
 
       <div class="cta-left">
-        <h2>Build Your Career With Guaranteed Placement Support</h2>
+        <h2>Build Your Career With Guaranteed <br>Placement Support</h2>
         <p>Explore placements, career guidance & industry-ready courses.</p>
 
         <div class="ban-btn">
@@ -1259,9 +1339,9 @@
 
       </div>
 
-      <div class="cta-right">
+      <!-- <div class="cta-right">
         <img src="assets/img/p.png" alt="">
-      </div>
+      </div> -->
 
     </div>
 
@@ -1713,8 +1793,7 @@
       Get found on search <span class="google-pill"><i class="fa-brands fa-google"></i> Find best Marketing Course</span> without pay for every click.
     </p> -->
     <div class="buttons">
-      <a href="#" class="btn-outline"><i class="fa-solid fa-download"></i> Apply Now | Book Counselling </a>
-      <!-- <a href="#" class="btn-fill">Reserve My Spot <i class="fa-solid fa-arrow-right"></i></a> -->
+
       <a href="#" class="btn-animated btn-light mt-0">
         <div class="btn-text-wrap">
           <div class="btn-text"> Download Brochure</div>
@@ -1996,9 +2075,72 @@
 
 
 
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+
+    const images = document.querySelectorAll(".image_changer img");
+    let index = 0;
+
+    setInterval(() => {
+
+      images[index].classList.remove("active");
+      index = (index + 1) % images.length;
+      images[index].classList.add("active");
+
+    }, 3000);
+
+  });
+</script>
 
 
 
 
 
 <?php include 'inside/footer.php' ?>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const counters = document.querySelectorAll('.stats-count');
+    const statsSection = document.querySelector('.stats-area');
+    let started = false; // To prevent multiple triggers
+
+    function animateCounter(el, target) {
+      let count = 0;
+      const speed = 200; // lower = faster
+      const step = target / speed;
+
+      function update() {
+        count += step;
+        if (count < target) {
+          el.innerText = Math.ceil(count) + (el.dataset.plus ? '+' : '');
+          requestAnimationFrame(update);
+        } else {
+          el.innerText = target + (el.dataset.plus ? '+' : '');
+        }
+      }
+
+      update();
+    }
+
+    // Intersection Observer to detect scroll
+    const observer = new IntersectionObserver((entries, obs) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting && !started) {
+          counters.forEach(counter => {
+            // Add a data attribute to handle "+" signs if needed
+            counter.dataset.plus = counter.innerText.includes('+') ? true : false;
+            const target = parseInt(counter.getAttribute('data-num'));
+            animateCounter(counter, target);
+          });
+          started = true;
+          obs.unobserve(statsSection);
+        }
+      });
+    }, {
+      threshold: 0.5
+    });
+
+    observer.observe(statsSection);
+  });
+</script>

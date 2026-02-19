@@ -3,7 +3,7 @@
 
 
 <section class="landing_banner" id="form">
-    <div class="banner" style="background-image: url('./assets/img/insd banner (1).jpg.jpg');">
+    <div class="banner" style="background-image: url('./assets/img/banner.jpeg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-12 landing_pick">
@@ -72,27 +72,24 @@
 
                         </div>
 
-
                         <form action="landing.php" method="post" class="landing_form">
 
-                            <!-- Name -->
-                            <div class="mb-1">
-                                <label class="form-label">Full Name</label>
-                                <input type="text" class="form-control" name="name" placeholder="Enter your name"
-                                    required>
+                            <!-- Full Name -->
+                            <div class="form-group">
+                                <label for="name" class="form-label">Full Name</label>
+                                <input type="text" id="name" class="form-control" name="name" placeholder="Enter your name" required>
                             </div>
 
                             <!-- Email -->
-                            <div class="mb-1">
-                                <label class="form-label">Email Address</label>
-                                <input type="email" class="form-control" name="email" placeholder="Enter your email"
-                                    required>
+                            <div class="form-group">
+                                <label for="email" class="form-label">Email Address</label>
+                                <input type="email" id="email" class="form-control" name="email" placeholder="Enter your email" required>
                             </div>
 
                             <!-- Course Dropdown -->
-                            <div class="mb-1">
-                                <label class="form-label">Select Course</label>
-                                <select name="course" class="form-control cxza" required>
+                            <div class="form-group">
+                                <label for="course" class="form-label">Select Course</label>
+                                <select id="course" name="course" class="form-control cxza" required>
                                     <option value="">-- Choose Your Course --</option>
                                     <option value="Diploma / Advanced Diploma in Fashion Design">
                                         Diploma / Advanced Diploma in Fashion Design
@@ -104,23 +101,20 @@
                                         MBA in Fashion Design & Technology
                                     </option>
                                 </select>
-                            </div>fashion
+                            </div>
 
-
-                            <!-- Phone -->
-                            <div class="mb-1">
-                                <label class="form-label">Mobile Number</label>
+                            <!-- Mobile Number -->
+                            <div class="form-group">
+                                <label for="phone" class="form-label">Mobile Number</label>
                                 <div class="input-group">
                                     <span class="input-group-text">+91</span>
-                                    <input type="tel" class="form-control" name="phone"
+                                    <input type="tel" id="phone" class="form-control" name="phone"
                                         placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
                                 </div>
                             </div>
 
-
-
-
-                            <button type="submit" name="submit" class="btn-animated btn-light ">
+                            <!-- Submit Button -->
+                            <button type="submit" name="submit" class="btn-animated btn-light mt-3">
                                 <div class="btn-text-wrap">
                                     <div class="btn-text">Apply to Join</div>
                                     <div class="btn-text-hover">Apply to Join</div>
@@ -134,6 +128,7 @@
                             </button>
 
                         </form>
+
                     </div>
 
                 </div>
@@ -709,7 +704,7 @@
         <div class="row align-items-center">
 
             <!-- LEFT COLUMN -->
-            <div class="col-md-7">
+            <div class="col-md-5">
                 <div class="career-wrapper">
                     <div class="career-info">
                         <h2 class="title">
@@ -768,7 +763,7 @@
             </div>
 
             <!-- RIGHT COLUMN -->
-            <div class="col-md-5">
+            <div class="col-md-7">
                 <div class="career-brands">
                     <h4 class="title text-center mb-3">
                         Our Hiring <span>Partners</span>
@@ -843,7 +838,12 @@
 
 
 
-<section class="cta-sec">
+<section class="cta-sec"
+    style="background-image: url('./assets/img/ctas.jpg'); 
+         background-attachment: fixed; 
+         background-size: cover; 
+         background-position: center;">
+
     <div class="container">
         <div class="cta-content">
 

@@ -14,7 +14,7 @@
                             <img src="assets/img/trust logo-Photoroom.png" alt="" class="w-25 mb-3">
                         </div>
                         <h5>Admissions Open | 2026-27 Intake </h5>
-                        <h1 class="w-100 w-md-75">
+                        <h1 class="w-100">
                             Launch Your Interior Design Career with INSD and get hired
                         </h1>
 
@@ -232,45 +232,64 @@
     </div>
 </section>
 
-
 <section class="stats-area">
     <div class="container">
         <div class="row">
 
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h2><span class="stats-count" data-num="300">0</span>+</h2>
-                    <p>Training & Placement Cos</p>
+                    <div class="stats-icon">
+                        <img src="assets/img/icon/1- (1).png">
+                    </div>
+                    <div class="stats-content">
+                        <h2><span class="stats-count" data-num="27">27</span>+</h2>
+                        <p>Total Achievement</p>
+                    </div>
                 </div>
             </div>
 
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h2>₹<span class="stats-count" data-num="11">0</span>L</h2>
-                    <p>Highest Package</p>
+                    <div class="stats-icon">
+                        <img src="assets/img/icon/1- (2).png">
+
+                    </div>
+                    <div class="stats-content">
+                        <h2><span class="stats-count" data-num="145">145</span>+</h2>
+                        <p>Total Students</p>
+                    </div>
                 </div>
             </div>
 
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h2><span class="stats-count" data-num="100">0</span>%</h2>
-                    <p>Placement Assistance</p>
+                    <div class="stats-icon">
+                        <img src="assets/img/icon/1- (3).png">
+
+                    </div>
+                    <div class="stats-content">
+                        <h2><span class="stats-count" data-num="10000">10000</span></h2>
+                        <p>Total Instructor</p>
+                    </div>
                 </div>
             </div>
 
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h2><span class="stats-count" data-num="15000">0</span>+</h2>
-                    <p>Students Graduated</p>
+                    <div class="stats-icon">
+                        <img src="assets/img/icon/1- (4).png">
+
+                    </div>
+                    <div class="stats-content">
+                        <h2><span class="stats-count" data-num="214">214</span>+</h2>
+                        <p>Over The World</p>
+                    </div>
                 </div>
             </div>
 
         </div>
     </div>
 </section>
-
-
-
 
 
 
@@ -518,103 +537,37 @@
     <div class="row">
         <div class="col-md-12">
             <h2 class="title text-center " style="color: #222;"> The Grand Runway <span>Showcase</span></h2>
-            <!-- MARQUEE LEFT -->
-            <!-- <div class="marquee-container e44">
-                <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
 
-
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-                </div>
-            </div> -->
             <div class="marquee-container e44">
-                <div class="owl-carousel fashion-slider owl-loaded owl-drag">
+                <div class="owl-carousel fashion-slider">
 
-
-
-
-
-
-
-
-
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(-1361px, 0px, 0px); transition: 0.25s; width: 4083px;">
-                            <div class="owl-item cloned" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (1).jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (1).png" alt="">
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (2).jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (3).jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="owl-item active" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (1).jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="owl-item active" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (1).png" alt="">
-                                </div>
-                            </div>
-                            <div class="owl-item active" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (2).jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="owl-item active" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (3).jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (1).jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (1).png" alt="">
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (2).jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 330.25px; margin-right: 10px;">
-                                <div class="item">
-                                    <img src="assets/img/fashion-slider/01- (3).jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
+                    <div class="item">
+                        <img src="assets/img/interior/1- (1).jpeg" alt="">
                     </div>
-                    <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
-                    <div class="owl-dots disabled"></div>
+
+                    <div class="item">
+                        <img src="assets/img/interior/1- (1).png" alt="">
+
+                    </div>
+
+                    <div class="item">
+                        <img src="assets/img/interior/1- (2).jpeg" alt="">
+
+                    </div>
+
+                    <div class="item">
+                        <img src="assets/img/interior/1- (3).jpeg" alt="">
+
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/interior/1- (4).jpeg" alt="">
+
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/interior/1- (5).jpeg" alt="">
+
+                    </div>
+
                 </div>
             </div>
 
@@ -628,6 +581,7 @@
 
 
 </section>
+
 
 
 <section class="student-achievers py-5">
@@ -717,7 +671,7 @@
         <div class="row align-items-center">
 
             <!-- LEFT COLUMN -->
-            <div class="col-md-7">
+            <div class="col-md-5">
                 <div class="career-wrapper">
                     <div class="career-info">
                         <h2 class="title">
@@ -776,7 +730,7 @@
             </div>
 
             <!-- RIGHT COLUMN -->
-            <div class="col-md-5">
+            <div class="col-md-7">
                 <div class="career-brands">
                     <h4 class="title text-center mb-3">
                         Our Hiring <span>Partners</span>
@@ -789,16 +743,14 @@
                             <div class="brand-track">
 
                                 <!-- Original Items -->
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (1).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (2).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (3).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (4).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (5).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (6).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (7).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (8).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (9).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (10).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (1).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (2).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (4).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (5).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (18).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (19).png" alt=""></div>
+
 
 
                             </div>
@@ -807,16 +759,16 @@
                         <!-- RIGHT MARQUEE -->
                         <div class="brand-grid right-marquee mt-3">
                             <div class="brand-track">
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (11).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (12).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (13).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (14).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (15).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (16).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (17).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (18).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (19).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (20).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (6).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (7).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (8).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (9).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (10).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (17).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (20).png" alt=""></div>
+
+
+
 
 
                             </div>
@@ -827,16 +779,14 @@
                         <div class="brand-grid left-marquee mt-3">
                             <div class="brand-track">
 
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (21).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (22).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (23).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (24).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (25).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (26).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (27).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (28).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (29).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (30).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (11).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (12).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (13).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (14).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (15).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (16).png" alt=""></div>
+
+
 
                             </div>
                         </div>
@@ -855,7 +805,11 @@
 
 
 
-<section class="cta-sec">
+<section class="cta-sec"
+    style="background-image: url('./assets/img/c2.jpg'); 
+         background-attachment: fixed; 
+         background-size: cover; 
+         background-position: center;">
     <div class="container">
         <div class="cta-content">
 
@@ -975,64 +929,6 @@
 
 
 
-<section class="alumni-container p-0">
-
-
-    <div class="row">
-        <div class="col-md-12">
-            <h2 class="title text-center " style="color: #222;"> Top <span>Requiter</span></h2>
-            <!-- MARQUEE LEFT -->
-            <!-- <div class="marquee-container e44">
-                <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-
-
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-                </div>
-            </div> -->
-            <div class="marquee-container e44">
-                <div class="owl-carousel fashion-slider">
-
-                    <div class="item">
-                        <img src="assets/img/fashion-slider/01- (1).jpg" alt="">
-                    </div>
-
-                    <div class="item">
-                        <img src="assets/img/fashion-slider/01- (1).png" alt="">
-                    </div>
-
-                    <div class="item">
-                        <img src="assets/img/fashion-slider/01- (2).jpg" alt="">
-                    </div>
-
-                    <div class="item">
-                        <img src="assets/img/fashion-slider/01- (3).jpg" alt="">
-                    </div>
-
-                </div>
-            </div>
-
-
-
-
-        </div>
-    </div>
-
-
-
-
-</section>
 
 
 
@@ -1245,7 +1141,7 @@
 </section>
 
 
-<section class="alumni-container p-0">
+<!-- <section class="alumni-container p-0">
     <div class="row">
         <div class="col-md-3 content">
 
@@ -1284,7 +1180,7 @@
 
 
 
-</section>
+</section> -->
 
 
 <section class="student-test mt-4">
@@ -2076,6 +1972,29 @@
             },
             992: {
                 items: 5
+            }
+        }
+    });
+</script>
+
+<script>
+    $('.fashion-slider').owlCarousel({
+        loop: true,
+        margin: 10,
+        autoplay: true,
+        autoplayTimeout: 2000,
+        autoplayHoverPause: true,
+        nav: false,
+        dots: false,
+        responsive: {
+            0: {
+                items: 2
+            },
+            600: {
+                items: 3
+            },
+            1000: {
+                items: 4
             }
         }
     });

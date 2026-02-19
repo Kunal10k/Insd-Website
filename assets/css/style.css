@@ -810,10 +810,9 @@ header.sticky .dropdown-toggle::after {
 
 .whatsapp-float {
   position: fixed;
-  left: 20px;
-  /* left side */
+  right: 20px;
+  /* changed from left: 20px */
   bottom: 20px;
-  /* distance from bottom */
   width: 60px;
   height: 60px;
   background: linear-gradient(45deg, #25d366, #128c7e, #075e54, #34b7f1);
@@ -829,6 +828,14 @@ header.sticky .dropdown-toggle::after {
   align-items: center;
   justify-content: center;
   transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.campus-features li {
+  display: flex;
+}
+
+.campus-features li i {
+  color: #ec008c;
 }
 
 @keyframes gradientMove {
@@ -1316,7 +1323,8 @@ header.sticky .dropdown-toggle::after {
 .gallery-wrap {
   position: relative;
   overflow: hidden;
-  margin-top: 100px;
+  /* margin-top: 100px; */
+  padding: var(--global_padding);
 }
 
 .gallery {
@@ -1384,7 +1392,23 @@ header.sticky .dropdown-toggle::after {
   height: auto;
 }
 
-.tab-section {
+.course-sec {
+  width: 100%;
+  margin: auto;
+  background: linear-gradient(0deg,
+      rgb(255, 255, 255) 0%,
+      rgb(240, 242, 255) 100%);
+  border-radius: 16px;
+  /* padding: 60px; */
+  /* margin-top: 50px; */
+  position: relative;
+  z-index: 0;
+  padding: var(--global_padding);
+}
+
+
+
+/* .tab-section {
   width: 100%;
   margin: auto;
   background: linear-gradient(0deg,
@@ -1395,9 +1419,9 @@ header.sticky .dropdown-toggle::after {
   margin-top: 50px;
   position: relative;
   z-index: 0;
-}
+} */
 
-.tab-section::after {
+.course-sec::after {
   content: "";
   position: absolute;
   top: 0;
@@ -1717,39 +1741,18 @@ ul#autoTab {
 .course-sec {
   width: 100%;
   height: auto;
-  margin-top: 100px;
+  /* margin-top: 100px; */
 }
 
 .tab-sec {
-  /* margin-top: 40px; */
-  background: linear-gradient(0deg,
-      rgb(255, 255, 255) 0%,
-      rgb(240, 242, 255) 100%);
+
   padding: 40px 20px 40px 20px;
   border-radius: 15px;
   position: relative;
   z-index: 0;
 }
 
-.tab-sec::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  /* or left:0; jekhane chai */
-  width: 100%;
-  height: 100%;
-  background-image: url("../img/map.png");
-  /* your image */
-  background-size: cover;
-  /* full cover */
-  background-position: center;
-  /* perfect alignment */
-  background-repeat: no-repeat;
-  opacity: 0.2;
-  /* fade effect */
-  z-index: -1;
-}
+
 
 .tab-sec .nav-pills .nav-link {
   color: #000000;
@@ -1779,7 +1782,7 @@ ul#autoTab {
 .tab-pane {
   margin-top: 40px;
   position: relative;
-  z-index: 9999;
+  z-index: 99;
 }
 
 .course-card-grid {
@@ -2657,11 +2660,20 @@ textarea {
 .banner-top {
   display: flex;
   margin: 0 -40px;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
+}
+
+.grid-box1 .info-card {
+
+  width: 100% !important;
+
 }
 
 .banner-top .banner-badge-top {
   margin: 0 40px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
 }
 
 .banner-top .banner-badge-top .icon {
@@ -2670,7 +2682,7 @@ textarea {
 }
 
 .banner-top .banner-badge-top .subtitle {
-  font-size: 16px;
+  font-size: 14px;
   color: var(--primary-color);
   font-family: var(--default-font);
   font-weight: 500;
@@ -2678,14 +2690,6 @@ textarea {
   letter-spacing: 0.5px;
 }
 
-.banner-top .banner-badge-top .subtitle {
-  font-size: 16px;
-  color: var(--primary-color);
-  font-family: var(--default-font);
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
 
 .rating a i {
   color: #ff8f3c;
@@ -3014,10 +3018,9 @@ textarea {
 .affi {
   width: 100%;
   height: auto;
-  padding: 80px;
-  background: linear-gradient(0deg,
-      rgb(243, 242, 242) 0%,
-      rgb(248, 212, 238) 100%);
+  padding: var(--global_padding);
+  /* padding-bottom: 0 !important; */
+  background: linear-gradient(0deg, rgb(243, 242, 242) 0%, rgb(248 212 238 / 42%) 100%);
 }
 
 .grid-container {
@@ -3097,8 +3100,8 @@ textarea {
 
 .mentor-img {
   position: relative;
-  width: 180px;
-  height: 180px;
+  width: 280px;
+  height: 280px;
   margin: auto;
 }
 
@@ -3317,7 +3320,7 @@ textarea {
 }
 
 .form-control {
-  padding: 0.65rem 0.75rem !important;
+  padding: 7px 22px;
   border-bottom: 2px solid var(--secondary-color3);
   border-left: none !important;
   border-right: none !important;
@@ -3386,6 +3389,7 @@ img.img-mg2 {
 
 .cxza {
   border: 1px solid #000;
+  font-size: 14px;
 }
 
 .grid-box1 {
@@ -4693,9 +4697,14 @@ img.img-mg2 {
   color: var(--primary-color);
 }
 
+.ws {
+  padding: var(--global_padding);
+  padding-top: 0 !important;
+}
+
 .tab-sec1 {
   margin-top: 40px;
-  padding: 40px 20px 40px 20px;
+  /* padding: 40px 20px 40px 20px; */
   border-radius: 15px;
   position: relative;
   z-index: 1;
@@ -5311,11 +5320,10 @@ img.img-mg2 {
   font-size: 18px;
 }
 
-
 .landing_content h1 {
   font-weight: 600;
   margin: 10px 0 0 0;
-  font-size: 36px;
+  font-size: 31px;
   background: var(--secondary-color1);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -5384,7 +5392,7 @@ img.img-mg2 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  font-size: 16px !important;
+  font-size: 15px !important;
 }
 
 .input-group-text {
@@ -5899,8 +5907,8 @@ alumni-carousel .item img {
 
 .mentor-img {
   position: relative;
-  width: 130px;
-  height: 130px;
+  width: 180px;
+  height: 180px;
   margin: auto;
 }
 
@@ -6793,9 +6801,9 @@ alumni-carousel .item img {
 }
 
 .award-card {
-  border: 1px solid #e5e7eb;
+  /* border: 1px solid #e5e7eb; */
   border-radius: 14px;
-  padding: 22px;
+  /* padding: 22px; */
   gap: 20px;
   transition: all 0.25s ease;
   background: #fff;
@@ -6878,10 +6886,12 @@ alumni-carousel .item img {
   overflow: hidden;
   transition: all 0.4s ease;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  text-align: center;
   display: flex;
-  align-items: center;
+  flex-direction: column;
   justify-content: center;
-
+  align-items: center;
+  padding: 20px;
 }
 
 .mentor-box:hover {
@@ -7759,13 +7769,14 @@ alumni-carousel .item img {
   color: #333;
 }
 
+/* 
 .campus-features li::before {
   content: "✔";
   position: absolute;
   left: 0;
   color: #5b6cff;
   font-size: 14px;
-}
+} */
 
 
 
@@ -8160,99 +8171,70 @@ alumni-carousel .item img {
 
 
 /* ************ modal form *******  */
+/* =========================
+   CENTER MODAL ANIMATION
+========================= */
 
-/* Modal position & animation */
 .modal.fade .modal-dialog {
-  position: fixed;
-  top: 0;
-  right: 0;
-  margin: 0;
-  height: 0 !important;
-  width: 50%;
-  transform: translateX(100%);
-  transition: transform 0.45s ease-in-out;
+  transform: translateY(-50px);
+  transition: all 0.35s ease-in-out;
+  opacity: 0;
 }
 
-/* When modal is visible */
 .modal.fade.show .modal-dialog {
-  transform: translateX(0);
+  transform: translateY(0);
+  opacity: 1;
 }
 
-/* Modal content full height */
-.modal-content {
-  height: 100vh;
-  border-radius: 0;
-}
+/* =========================
+   CENTER POSITION
+========================= */
 
-/* Mobile responsive */
-@media (max-width: 768px) {
-  .modal.fade .modal-dialog {
-    width: 100%;
-  }
-}
-
-/* =======================
-   DESKTOP (Default)
-======================= */
 #enquiryModal .modal-dialog {
-  position: fixed;
-  right: 0;
-  top: 40px;
-  bottom: 40px;
-  margin: 0;
-  height: auto;
-  max-height: calc(100vh - 80px);
-  width: 420px;
   display: flex;
-  /* align-items: stretch; */
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0 auto;
+  max-width: 500px;
+  padding: 20px;
 }
 
+/* Modal Content */
 #enquiryModal .modal-content {
-  height: 100%;
-  border-radius: 14px 0 0 14px;
+  width: 100%;
+  border-radius: 16px;
   overflow: hidden;
 }
 
-#enquiryModal form {
-  gap: 10px !important;
-}
-
-/* =======================
+/* =========================
    TABLET (≤ 991px)
-======================= */
+========================= */
+
 @media (max-width: 991px) {
   #enquiryModal .modal-dialog {
-    width: 360px;
-    top: 30px;
-    bottom: 30px;
-  }
-
-  #enquiryModal .modal-content {
-    border-radius: 12px 0 0 12px;
+    max-width: 420px;
   }
 }
 
-/* =======================
+/* =========================
    MOBILE (≤ 575px)
-======================= */
+========================= */
+
 @media (max-width: 575px) {
   #enquiryModal .modal-dialog {
-    position: fixed;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    top: auto;
-    width: 100%;
-    height: auto;
-    max-height: 90vh;
-    margin: 0;
+    max-width: 95%;
+    padding: 15px;
   }
 
   #enquiryModal .modal-content {
-    border-radius: 16px 16px 0 0;
+    border-radius: 14px;
   }
 }
 
+/* =========================
+   BUTTON STYLE (UNCHANGED)
+========================= */
 
 .btn_xzz {
   display: flex;
@@ -8270,21 +8252,21 @@ alumni-carousel .item img {
   color: #333;
 }
 
-/* 1st li */
 .btn_xzz li:nth-child(1) {
   background-color: #FCEFE8;
 }
 
-/* 2nd li */
 .btn_xzz li:nth-child(2) {
   background-color: #E8F4FC;
 }
 
-/* 3rd li */
 .btn_xzz li:nth-child(3) {
   background-color: #EAFCE8;
 }
 
+.marquee-content a {
+  color: #000;
+}
 
 
 /* ********** opportunites ********** */
@@ -9521,10 +9503,10 @@ textarea {
 }
 
 .stats-container {
-  max-width: 1200px;
+  /* max-width: 1200px; */
   margin: auto;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 22px;
 }
 
@@ -9723,6 +9705,8 @@ textarea {
 
 .placement-cta-new {
   padding: 20px 0;
+
+
 }
 
 .cta-box {
@@ -9735,8 +9719,29 @@ textarea {
   display: flex;
   align-items: center;
   gap: 40px;
-  background: linear-gradient(135deg, #0142b3, #1d6cff);
+  /* background: linear-gradient(135deg, #0142b3, #1d6cff); */
+  background-image: url(../img/1\ \(2\).jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
 
+.cta-box::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 99;
+  background-color: #000000ba;
+  border-radius: 10px;
+
+}
+
+.cta-left {
+  position: relative;
+  z-index: 100;
 }
 
 .cta-left h2 {
@@ -9831,7 +9836,6 @@ textarea {
   border-radius: 6px;
 }
 
-/* overlay */
 .mv-box::after {
   content: "";
   position: absolute;
@@ -9839,10 +9843,10 @@ textarea {
   bottom: 0;
   width: 100%;
   height: 0;
-  /* 🔹 start from bottom */
-  background: #0142b3;
+  /* background: #0142b3; */
   transition: height 0.35s ease;
   z-index: 0;
+  background: var(--secondary-color1);
 }
 
 /* hover effect */
@@ -10640,8 +10644,8 @@ textarea {
   gap: 15px;
   padding: 25px;
   border-radius: 15px;
-  background: rgba(255, 255, 255, .03);
-  border: 1px solid rgba(255, 255, 255, .15);
+  /* background: rgba(255, 255, 255, .03);
+  border: 1px solid rgba(255, 255, 255, .15); */
   color: #fff;
   transition: .4s;
 }
@@ -10954,4 +10958,135 @@ textarea {
 .mbl-btn-outline:hover {
   background: #111;
   color: #fff;
+}
+
+
+
+
+.image_changer {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+.image_changer img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 1s ease;
+}
+
+.image_changer img.active {
+  opacity: 1;
+}
+
+.team-section {
+  padding: 80px 0;
+  background: #f8f9fc;
+}
+
+.team-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.team-card {
+  background: #fff;
+  width: 300px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  transition: 0.3s ease;
+}
+
+.team-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
+}
+
+.team-image {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.team-image img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.team-content {
+  padding: 25px;
+  text-align: center;
+}
+
+.team-content h3 {
+  margin: 10px 0 5px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.team-content span {
+  display: block;
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 15px;
+}
+
+.team-content p {
+  font-size: 14px;
+  color: #555;
+}
+
+/* Tablet */
+@media (max-width: 991px) {
+  .team-wrapper {
+    gap: 20px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .team-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/* video */
+
+.testimonial-card {
+  width: 300px;
+  height: 300px;
+  margin-right: 20px;
+  border-radius: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.bg-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.video-wrapper {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.video-wrapper iframe.bg-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }

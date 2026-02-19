@@ -1210,6 +1210,28 @@
     font-size: 16px;
   }
 
+  .stats-card {
+    padding: 0;
+    margin: 0;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .cta-left h2 {
+    color: #fff;
+    font-size: 23px;
+    margin-bottom: 10px;
+  }
+
+  .cta-left p {
+    font-size: 15px;
+  }
+
+  .cta-box {
+    padding: 25px;
+
+  }
+
   .course-sec .nav-pills {
     display: flex;
     gap: 15px;
