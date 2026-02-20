@@ -20,7 +20,7 @@
 
         <div class="hero-block__visual">
             <div class="hero-block__image-card">
-                <img src="assets/img/a1.png" alt="Student" class="hero-block__img">
+                <img src="assets/img/a1 (2).png" alt="Student" class="hero-block__img">
             </div>
         </div>
 
@@ -30,11 +30,13 @@
                 East India<span> East India</span></h1>
 
 
-
+            <!-- <h6 class="mt-2">Who We Are</h6> -->
             <!-- <h6 class=" mt-2 ">Who We <span>Are</span></span></h6> -->
             <p class="hero-block__description">
-                International School of Design (INSD) Kolkata is a professional design institute offering structured education in Interior Design, Fashion Design, and Graphic Design. The institute is built on the belief that design education must be deeply connected to real-world practice and evolving industry needs.
-                INSD Kolkata focuses on studio-based learning, hands-on training, and industry exposure, enabling students to develop strong skills, professional portfolios, and practical understanding required for sustainable creative careers.
+                <strong> International School of Design Kolkata,</strong> established in <strong>2011</strong>, is a professional design institute dedicated to delivering structured, industry-aligned design education. The institute offers academic programs in <strong>Interior Design, Fashion Design, and Graphic Design,</strong> designed to prepare students for professional practice in the creative industry. <br>
+                INSD Kolkata follows a studio-based learning approach where practical application, skill development, and creative execution form the core of education. The emphasis remains on building professional competence, creative confidence, and portfolio readiness through consistent hands-on learning rather than theory-heavy instruction.<br>
+                The institute is positioned as a focused academic environment that values discipline, relevance, and long-term career preparation.
+
 
             </p>
         </div>
@@ -90,13 +92,14 @@
 <section class="founder-section ">
     <div class="container">
         <div class="row">
+            <img src="assets/img/founder-mobile.jpg" alt="" class="img-fluid d-block d-md-none">
 
-            <div class="col-md-6 offset-md-6 cxzs">
+            <div class="col-md-6 offset-md-6 cxzs col-sm-12">
 
                 <div class="founder-card">
                     <div class="founder-info">
-                        <h3 class="title">Naveen <span>Soni</span></h3>
-                        <p class="designation">Director’s Message</p>
+                        <h3 class="title">Sunjey <span>Aggarwalll</span></h3>
+                        <p class="designation">Founder</p>
 
                         <p class="founder-quote">
                             <i class="fa-solid fa-quote-left quotes"></i> <br>
@@ -120,56 +123,50 @@
 
 <section class="team-section">
     <div class="container">
-        <h2 class="title text-center">Meet Our <span>Founders</span></h2>
+        <h2 class="title text-center mb-4">INSD <span>Leadership</span></h2>
 
-        <div class="team-wrapper mt-5">
+        <div class="row">
+            <div class="col-md-6">
 
-            <!-- Founder 1 -->
-            <div class="team-card">
-                <div class="team-image">
-                    <img src="assets/img/founder/a leader.png" alt="Mr. Sunjey Aggarwal">
-                </div>
-                <div class="team-content">
-                    <h3>Mr. Sunjey Aggarwal</h3>
-                    <span>Founder & CEO – INSD</span>
-                    <p>
-                        A visionary leader with over 35+ years of experience in the Design Education sector,
-                        driving innovation and excellence in creative learning across India.
-                    </p>
+                <div class="team-card">
+                    <div class="team-image">
+                        <img src="assets/img/founder/b leader.png" alt="Mr. L V Saptarishi">
+                    </div>
+                    <div class="team-content">
+                        <h3>Mr. L V Saptarishi</h3>
+                        <span>Co-Founder – INSD</span>
+                        <p>
+                            Former Director General of NIFT India, bringing decades of leadership
+                            and academic excellence in the field of fashion and design education.
+                        </p>
+                    </div>
                 </div>
             </div>
+            <div class="col-md-6">
 
-            <!-- Founder 2 -->
-            <div class="team-card">
-                <div class="team-image">
-                    <img src="assets/img/founder/b leader.png" alt="Mr. L V Saptarishi">
-                </div>
-                <div class="team-content">
-                    <h3>Mr. L V Saptarishi</h3>
-                    <span>Co-Founder – INSD</span>
-                    <p>
-                        Former Director General of NIFT India, bringing decades of leadership
-                        and academic excellence in the field of fashion and design education.
-                    </p>
+                <!-- Founder 3 -->
+                <div class="team-card">
+                    <div class="team-image">
+                        <img src="assets/img/founder/c leader.png" alt="Mr. Pranav Raj Aggarwal">
+                    </div>
+                    <div class="team-content">
+                        <h3>Mr. Pranav Raj Aggarwal</h3>
+                        <span>Director – INSD</span>
+                        <p>
+                            A passionate design enthusiast with global exposure,
+                            formerly associated with Louis Vuitton, contributing international perspective to design leadership.
+                        </p>
+                    </div>
                 </div>
             </div>
-
-            <!-- Founder 3 -->
-            <div class="team-card">
-                <div class="team-image">
-                    <img src="assets/img/founder/c leader.png" alt="Mr. Pranav Raj Aggarwal">
-                </div>
-                <div class="team-content">
-                    <h3>Mr. Pranav Raj Aggarwal</h3>
-                    <span>Director – INSD</span>
-                    <p>
-                        A passionate design enthusiast with global exposure,
-                        formerly associated with Louis Vuitton, contributing international perspective to design leadership.
-                    </p>
-                </div>
-            </div>
-
         </div>
+
+
+
+
+
+
+
     </div>
 </section>
 
@@ -199,35 +196,6 @@
 
     </div>
 </section>
-<section class="stats-wrap pb-0">
-    <div class="container">
-        <div class="stats-container">
-
-            <div class="stat-card stat-yellow">
-                <div class="stat-data">
-                    <span class="stat-number counter" data-target="2011">0</span>
-                    <span class="stat-text">Established</span>
-                </div>
-            </div>
-
-            <div class="stat-card stat-dark">
-                <div class="stat-data">
-                    <span class="stat-number counter" data-target="15000">0</span>
-                    <span class="stat-text">Students Trained & Graduated</span>
-                </div>
-            </div>
-
-            <div class="stat-card stat-red">
-                <div class="stat-data">
-                    <span class="stat-number counter" data-target="300">0</span>
-                    <span class="stat-text">Industry & Professional Associations</span>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
 
 
 <section class="awards-section pb-0">
@@ -275,6 +243,106 @@
         </div>
     </div>
 </section>
+
+<section class="stats-wrap pb-0">
+    <div class="container">
+        <div class="stats-container">
+
+            <div class="stat-card stat-yellow">
+                <div class="stat-data">
+                    <span class="stat-number counter" data-target="2011">0</span>
+                    <span class="stat-text">Established</span>
+                </div>
+            </div>
+
+            <div class="stat-card stat-dark">
+                <div class="stat-data">
+                    <span class="stat-number counter" data-target="15000">0</span>
+                    <span class="stat-text">Students Trained & Graduated</span>
+                </div>
+            </div>
+
+            <div class="stat-card stat-red">
+                <div class="stat-data">
+                    <span class="stat-number counter" data-target="300">0</span>
+                    <span class="stat-text">Industry & Professional Associations</span>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+<section class="alumni-container p-0 mt-4">
+    <div class="row">
+        <div class="col-md-5 content">
+
+            <h6 class="title ">RECOGNISED &amp; <br>FEATURED BY</h6>
+            <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies,
+                industry platforms, and media <br class="d-none d-md-block"> organisations.</p>
+
+
+        </div>
+        <div class="col-md-7">
+            <!-- MARQUEE LEFT -->
+            <div class="marquee-container">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (5).png"></div>
+
+
+                    <!-- duplicate for infinite loop -->
+
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (3).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (4).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (5).png"></div>
+
+
+
+                </div>
+            </div>
+
+            <!-- MARQUEE RIGHT -->
+            <div class="marquee-container ">
+                <div class="marquee marquee-right">
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (6).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (7).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (8).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (9).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (10).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (12).png"></div>
+
+
+
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (6).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (7).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (8).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (9).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (10).png"></div>
+                    <div class="item"><img src="assets/img/Featured-&amp;-Recognised/01- (12).png"></div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+</section>
+
 
 
 <!-- 

@@ -3,7 +3,7 @@
 
 
 <section class="landing_banner" id="form">
-    <div class="banner" style="background-image: url('./assets/img/banner.jpeg');">
+    <div class="banner" style="background-image: url('./assets/img/insd slider.jpg.jpeg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-12 landing_pick">
@@ -12,7 +12,7 @@
                             <img src="assets/img/trust logo-Photoroom.png" alt="" class="w-25 mb-3">
                         </div>
                         <h5>Admissions Open | 2026-2027 Intaka </h5>
-                        <h1 class="w-100 w-md-75">Build a Career in Fashion Design with Industry-Focused Training
+                        <h1 class="w-100 w-md-75">Shape Your Fashion Career with <br> Professional Training
 
                             ​</h1>
                         <h6 class="mt-3">Diploma • B.Des• MBA</h6>
@@ -279,7 +279,7 @@
         <h2 class="title text-center mb-4">Programs Offered in Fashion <br><span class="histudy-highlight">Design &
                 Technology</span></h2>
 
-        <div class="row g-4 mt-2 mt-md-5">
+        <div class="row g-4 mt-2 mt-md-2">
 
 
             <!-- Diploma / Advanced Diploma in Fashion Design -->
@@ -369,7 +369,7 @@
     <div class="container">
         <h2 class="title text-center">Student Life <span>at INSD</span></h2>
         <p class="para w-100 m-auto text-center">
-            From fashion shows and student collections to workshops, exhibitions, and campus events, student life at
+            From fashion shows and student collections to workshops, exhibitions, and campus events, <br> student life at
             INSD is vibrant, creative, and industry-facing.
         </p>
 
@@ -513,32 +513,34 @@
 
     <div class="row">
         <div class="col-md-12">
-            <h2 class="title text-center " style="color: #222;"> The Grand Runway <span>Showcase</span></h2>
-            <!-- MARQUEE LEFT -->
-            <!-- <div class="marquee-container e44">
-                <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
+            <h2 class="title text-center" style="color: #222;"> The Grand Runway <br> <span>Showcase</span></h2>
 
-
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-                </div>
-            </div> -->
-            <div class="marquee-container e44">
+            <div class="marquee-container e44 mt-3">
                 <div class="owl-carousel fashion-slider">
 
                     <div class="item">
-                        <img src="assets/img/fashion-slider/01- (1).jpg" alt="">
+                        <img src="assets/img/l- (1).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/l- (2).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/l- (3).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/l- (4).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/l- (5).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/l- (6).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/l- (7).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/l- (8).jpg" alt="">
                     </div>
 
                     <div class="item">
@@ -874,18 +876,7 @@
                             alt="Arrow" class="btn-icon-hover">
                     </div>
                 </a>
-                <a href="#form" class="btn-animated btn-light mt-4">
-                    <div class="btn-text-wrap">
-                        <div class="btn-text">Download Brochure</div>
-                        <div class="btn-text-hover">Download Brochure</div>
-                    </div>
-                    <div class="btn-icon-wrap">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon-hover">
-                    </div>
-                </a>
+
             </div>
 
         </div>
@@ -1122,6 +1113,8 @@
 </section>
 
 
+
+
 <section class="student-test mt-4">
     <div class="">
         <div class="container">
@@ -1294,6 +1287,47 @@
 
 
     </div>
+</section>
+
+<section class="alumni-container p-0 mt-4">
+    <div class="row">
+        <div class="col-md-3 content">
+
+
+            <h6 class="title  m-0">TOP
+                ALLIANCES</h6>
+
+
+        </div>
+        <div class="col-md-9">
+
+            <div class="marquee-container e44">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+
+
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+
 </section>
 
 <section class="newsletter-section">
@@ -1667,7 +1701,7 @@
         autoplayTimeout: 3000,
         responsive: {
             0: {
-                items: 3
+                items: 2
             },
             576: {
                 items: 3
@@ -1751,10 +1785,10 @@
         autoplayTimeout: 3000,
         responsive: {
             0: {
-                items: 3
+                items: 2
             },
             576: {
-                items: 3
+                items: 2
             },
             768: {
                 items: 3
@@ -1778,10 +1812,10 @@
         dots: false,
         responsive: {
             0: {
-                items: 2
+                items: 1
             },
             600: {
-                items: 3
+                items: 2
             },
             1000: {
                 items: 4

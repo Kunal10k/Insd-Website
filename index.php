@@ -111,9 +111,9 @@
 
             </div>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6 d-none d-md-block">
 
-            <img class="ban-img auto-slider" src="assets/img/insd (2).webp">
+            <img class="ban-img auto-slider" src="assets/img/a (4) (1).png">
             <img class="ban-img auto-slider" src="assets/img/slider (1).png">
             <img class="ban-img auto-slider" src="assets/img/v.png">
 
@@ -121,10 +121,19 @@
 
         </div>
 
+        <div class="col-md-6 d-block d-md-none">
 
+          <img class="img-fluid" src="assets/img/insd (2).webp">
+
+
+        </div>
 
       </div>
+
+
+
     </div>
+  </div>
   </div>
 
 
@@ -132,8 +141,8 @@
 <section class="set_marquee">
   <div class="marquee">
     <div class="marquee-content">
-      <a href="#">
-        Placement Assistance • Interview Preparation • Career Guidance • 100% Job Support • Placement Assistance • Interview Preparation • Career Guidance • 100% Job Support
+      <a href="#" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+        Admission open 2026 - 27 Apply Now • Admission open 2026 - 27 Apply Now • Admission open 2026 - 27 Apply Now • Admission open 2026 - 27 Apply Now • Admission open 2026 - 27 Apply Now • Admission open 2026 - 27 Apply Now • Admission open 2026 - 27 Apply Now • Admission open 2026 - 27 Apply Now
       </a>
     </div>
   </div>
@@ -252,7 +261,7 @@
 
     <div class="tab-sec">
       <!-- Tabs -->
-      <ul class="nav nav-pills justify-content-center mb-4" id="libraryTabs" role="tablist">
+      <ul class="nav nav-pills justify-content-center mb-0 mb-md-4" id="libraryTabs" role="tablist">
         <li class="nav-item" role="presentation">
           <button class="nav-link active" id="innovation-tab" data-bs-toggle="pill" data-bs-target="#innovation" type="button"
             role="tab">Interior</button>
@@ -270,23 +279,21 @@
 
       <!-- Tab Content -->
       <div class="tab-content" id="libraryTabsContent">
-        <!-- Research -->
-        <div class="tab-pane show active" id="research" role="tabpanel">
 
+        <div class="tab-pane show active" id="innovation" role="tabpanel">
           <div class="course-card-grid">
 
             <!-- Interior Design -->
             <div class="course-card">
               <div class="course-header">
-                <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
-                <h2>B.Des in Interior
-                  Design</h2>
+                <img src="assets/img/g- (3).png" alt="Interior Design" class="img_sdtc">
+                <h2>Diploma / Advanced Diploma in Interior Design
+                </h2>
 
-                <!-- <ul class="btn_xzz">
-                  <li>Bachelor’s</li>
-                  <li>Master’s</li>
-                  <li>Diploma</li>
-                </ul> -->
+                <ul class="btn_xzz">
+                  <li>10+ Pass</li>
+                  <li>1+2yr Diploma & ADV Diploma</li>
+                </ul>
               </div>
 
               <ul class="course-features">
@@ -314,99 +321,16 @@
             <!-- Fashion Design -->
             <div class="course-card">
               <div class="course-header">
-                <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
-
-                <h2>MBA in Interior Design</h2>
-
-                <!-- <ul class="btn_xzz">
-                  <li>Bachelor’s</li>
-                  <li>Master’s</li>
-                  <li>Diploma</li>
-                </ul> -->
-              </div>
-
-              <ul class="course-features">
-                <li><i class="fa-solid fa-check-circle"></i> Design development & technical training</li>
-                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
-                <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
-              </ul>
-
-              <a href="MBA-in-Fashion-Design.php" class="btn-animated btn-light ">
-                <div class="btn-text-wrap">
-                  <div class="btn-text">Explore Graphic Design</div>
-                  <div class="btn-text-hover">Explore Fashion Design</div>
-                </div>
-                <div class="btn-icon-wrap ">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon-hover">
-                </div>
-              </a>
+                <img src="assets/img/g- (4).png" alt="Interior Design" class="img_sdtc">
 
 
-            </div>
+                <h2>MBA in Interior <br>Design</h2>
 
-            <!-- Graphic Design -->
-            <div class="course-card">
-              <div class="course-header">
-                <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
-
-                <h2>Diploma & Advanced Diploma in Interior Design</h2>
-                <!-- 
                 <ul class="btn_xzz">
-                  <li>Bachelor’s</li>
-                  <li>Master’s</li>
-                  <li>Diploma</li>
-                </ul> -->
-              </div>
+                  <li>4yr Diploma</li>
+                  <li>10+ Pass </li>
 
-              <ul class="course-features">
-                <li><i class="fa-solid fa-check-circle"></i> Visual communication & branding skills</li>
-                <li><i class="fa-solid fa-check-circle"></i> Digital tools & real-world briefs</li>
-                <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
-              </ul>
-
-              <a href="Diploma-&-Advanced-Diploma-in-Fashion-Design.php" class="btn-animated btn-light ">
-                <div class="btn-text-wrap">
-                  <div class="btn-text">Explore Graphic Design</div>
-                  <div class="btn-text-hover">Explore Graphic Design</div>
-                </div>
-                <div class="btn-icon-wrap ">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon-hover">
-                </div>
-              </a>
-
-
-            </div>
-
-          </div>
-        </div>
-
-
-        <!-- Innovation -->
-        <div class="tab-pane fade" id="innovation" role="tabpanel">
-          <div class="course-card-grid">
-
-            <!-- Interior Design -->
-            <div class="course-card">
-              <div class="course-header">
-                <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
-                <h2>B.Des in Interior
-                  Design</h2>
-
-                <!-- <ul class="btn_xzz">
-                  <li>Bachelor’s</li>
-                  <li>Master’s</li>
-                  <li>Diploma</li>
-                </ul> -->
+                </ul>
               </div>
 
               <ul class="course-features">
@@ -429,42 +353,6 @@
                     alt="Arrow" class="btn-icon-hover">
                 </div>
               </a>
-            </div>
-
-            <!-- Fashion Design -->
-            <div class="course-card">
-              <div class="course-header">
-                <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
-
-                <h2>MBA in Interior Design</h2>
-
-                <!-- <ul class="btn_xzz">
-                  <li>Bachelor’s</li>
-                  <li>Master’s</li>
-                  <li>Diploma</li>
-                </ul> -->
-              </div>
-
-              <ul class="course-features">
-                <li><i class="fa-solid fa-check-circle"></i> Design development & technical training</li>
-                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
-                <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
-              </ul>
-
-              <a href="MBA-in-Fashion-Design.php" class="btn-animated btn-light ">
-                <div class="btn-text-wrap">
-                  <div class="btn-text">Explore Graphic Design</div>
-                  <div class="btn-text-hover">Explore Fashion Design</div>
-                </div>
-                <div class="btn-icon-wrap ">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon-hover">
-                </div>
-              </a>
 
 
             </div>
@@ -472,27 +360,31 @@
             <!-- Graphic Design -->
             <div class="course-card">
               <div class="course-header">
-                <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
+                <img src="assets/img/g- (1).png" alt="Interior Design" class="img_sdtc">
 
-                <h2>Diploma & Advanced Diploma in Interior Design</h2>
-                <!-- 
+
+
+                <h2>MBA in Interior Designing & Technology
+
+                </h2>
                 <ul class="btn_xzz">
-                  <li>Bachelor’s</li>
-                  <li>Master’s</li>
-                  <li>Diploma</li>
-                </ul> -->
+                  <li>2yr Diploma </li>
+                  <li>Graduation (Any Stream)</li>
+                  <!-- <li>10+ Pass </li> -->
+
+                </ul>
               </div>
 
               <ul class="course-features">
-                <li><i class="fa-solid fa-check-circle"></i> Visual communication & branding skills</li>
-                <li><i class="fa-solid fa-check-circle"></i> Digital tools & real-world briefs</li>
-                <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
+                <li><i class="fa-solid fa-check-circle"></i> Studio-based interior design learning</li>
+                <li><i class="fa-solid fa-check-circle"></i> Live projects & site exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
               </ul>
 
-              <a href="Diploma-&-Advanced-Diploma-in-Fashion-Design.php" class="btn-animated btn-light ">
+              <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
-                  <div class="btn-text">Explore Graphic Design</div>
-                  <div class="btn-text-hover">Explore Graphic Design</div>
+                  <div class="btn-text">Explore Interior Design</div>
+                  <div class="btn-text-hover">Explore Interior Design</div>
                 </div>
                 <div class="btn-icon-wrap ">
                   <img
@@ -510,6 +402,130 @@
           </div>
 
         </div>
+
+        <div class="tab-pane fade" id="research" role="tabpanel">
+
+          <div class="course-card-grid">
+
+
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/g- (3).png" alt="Interior Design" class="img_sdtc">
+
+
+                <h2>Diploma / Advanced Diploma in Fashion Design
+                </h2>
+
+                <ul class="btn_xzz">
+                  <li>1+2yr Diploma ADV Diploma</li>
+                  <!-- <li>Master’s</li>
+                  <li>Diploma</li> -->
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i>Design development & technical training</li>
+                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i>Career-ready portfolio building</li>
+              </ul>
+
+              <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Fashion Design</div>
+                  <div class="btn-text-hover">Explore Fashion Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+            </div>
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/g- (4).png" alt="Interior Design" class="img_sdtc">
+
+
+                <h2>B.Des in Fashion Design & Technology
+
+                </h2>
+
+                <ul class="btn_xzz">
+                  <li>4yr Diploma</li>
+                  <!-- <li>Master’s</li>
+                  <li>Diploma</li> -->
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i>Design development & technical training</li>
+                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i>Career-ready portfolio building</li>
+              </ul>
+
+              <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Fashion Design</div>
+                  <div class="btn-text-hover">Explore Fashion Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+            </div>
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/g- (1).png" alt="Interior Design" class="img_sdtc">
+
+
+                <h2>MBA in Fashion Design & Technology
+
+                </h2>
+
+                <ul class="btn_xzz">
+                  <li>2yr Diploma </li>
+                  <!-- <li>Master’s</li>
+                  <li>Diploma</li> -->
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i>Design development & technical training</li>
+                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i>Career-ready portfolio building</li>
+              </ul>
+
+              <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Fashion Design</div>
+                  <div class="btn-text-hover">Explore Fashion Design</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+            </div>
+
+
+          </div>
+        </div>
+
+
+
+
 
         <!-- Community -->
         <div class="tab-pane fade" id="community" role="tabpanel">
@@ -519,7 +535,8 @@
             <!-- Interior Design -->
             <div class="course-card">
               <div class="course-header">
-                <img src="assets/img/courses/interior a.png" alt="Interior Design" class="img_sdtc">
+                <img src="assets/img/g- (3).png" alt="Interior Design" class="img_sdtc">
+
                 <h2>B.Des in Interior
                   Design</h2>
 
@@ -555,7 +572,8 @@
             <!-- Fashion Design -->
             <div class="course-card">
               <div class="course-header">
-                <img src="assets/img/courses/fashion b.png" alt="Interior Design" class="img_sdtc">
+                <img src="assets/img/g- (4).png" alt="Interior Design" class="img_sdtc">
+
 
                 <h2>MBA in Interior Design</h2>
 
@@ -593,7 +611,8 @@
             <!-- Graphic Design -->
             <div class="course-card">
               <div class="course-header">
-                <img src="assets/img/courses/graphic a.png" alt="Interior Design" class="img_sdtc">
+                <img src="assets/img/g- (4).png" alt="Interior Design" class="img_sdtc">
+
 
                 <h2>Diploma & Advanced Diploma in Interior Design</h2>
                 <!-- 
@@ -634,7 +653,7 @@
     </div>
 
     <div class="text-center">
-      <a href="#" class="btn-animated btn-light mt-4 mb-5">
+      <a href="#" class="btn-animated btn-light mt-2 mt-md-4 mb-5">
         <div class="btn-text-wrap">
           <div class="btn-text">Talk to our Counsellor</div>
           <div class="btn-text-hover">Talk to our Counsellor</div>
@@ -668,8 +687,8 @@
 
         <a href="#" class="btn-animated btn-light mt-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
           <div class="btn-text-wrap">
-            <div class="btn-text">Talk to a Counsellor | Book Free Counselling</div>
-            <div class="btn-text-hover">Talk to a Counsellor | Book Free Counselling</div>
+            <div class="btn-text">Book Free Counselling</div>
+            <div class="btn-text-hover">Book Free Counselling</div>
           </div>
           <div class="btn-icon-wrap">
             <img
@@ -770,11 +789,11 @@
 
         <div class="image_changer">
 
-          <img src="assets/img/why.png" class="active">
-          <img src="assets/img/ALLIN-ONE-min-768x768.png">
-          <img src="assets/img/ALLIN-ONE-2-min-768x768.png">
+          <img src="assets/img/L1.jpeg" class="active">
+          <img src="assets/img/L2.jpeg">
+          <img src="assets/img/L3.jpeg">
 
-          <img src="assets/img/fashion-min-768x768.png">
+
 
         </div>
 
@@ -804,207 +823,86 @@
     Our University provides world-class education, drives innovation, and prepares future leaders.
   </p>
 
-
   <div class="marquee-track1 marquee-left mt-4">
 
-    <!-- Video Card 1 -->
+    <!-- Video 1 -->
     <div class="testimonial-card">
       <div class="video-wrapper">
         <iframe class="bg-video"
-          src="https://www.youtube.com/embed/5e2ri6Q6B4Q?autoplay=1&mute=1&loop=1&playlist=5e2ri6Q6B4Q"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+          src="https://www.youtube.com/embed/vkcZAq_-pGk?autoplay=1&mute=1&loop=1&playlist=vkcZAq_-pGk&controls=0&modestbranding=1&playsinline=1"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
         </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
       </div>
     </div>
 
-    <!-- Video Card 2 -->
+
+
+    <!-- Video 3 -->
     <div class="testimonial-card">
       <div class="video-wrapper">
         <iframe class="bg-video"
-          src="https://www.youtube.com/embed/ER-vOLSgWRE?autoplay=1&mute=1&loop=1&playlist=ER-vOLSgWRE"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+          src="https://www.youtube.com/embed/7CD1oMINLcI?autoplay=1&mute=1&loop=1&playlist=7CD1oMINLcI&controls=0&modestbranding=1&playsinline=1"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
         </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
       </div>
     </div>
 
-    <!-- Video Card 3 -->
+    <!-- Video 4 -->
     <div class="testimonial-card">
       <div class="video-wrapper">
         <iframe class="bg-video"
-          src="https://www.youtube.com/embed/8yUqWMUXABQ?autoplay=1&mute=1&loop=1&playlist=8yUqWMUXABQ"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+          src="https://www.youtube.com/embed/tuVERQsiErU?autoplay=1&mute=1&loop=1&playlist=tuVERQsiErU&controls=0&modestbranding=1&playsinline=1"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
         </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
       </div>
     </div>
 
-    <!-- Video Card 4 -->
+
+    <!-- Video 1 -->
     <div class="testimonial-card">
       <div class="video-wrapper">
         <iframe class="bg-video"
-          src="https://www.youtube.com/embed/u_gYIvN5oQ4?autoplay=1&mute=1&loop=1&playlist=u_gYIvN5oQ4"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+          src="https://www.youtube.com/embed/vkcZAq_-pGk?autoplay=1&mute=1&loop=1&playlist=vkcZAq_-pGk&controls=0&modestbranding=1&playsinline=1"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
         </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
       </div>
     </div>
 
-    <!-- Video Card 5 -->
+
+
+    <!-- Video 3 -->
     <div class="testimonial-card">
       <div class="video-wrapper">
         <iframe class="bg-video"
-          src="https://www.youtube.com/embed/67CngCQ1tkc?autoplay=1&mute=1&loop=1&playlist=67CngCQ1tkc"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+          src="https://www.youtube.com/embed/7CD1oMINLcI?autoplay=1&mute=1&loop=1&playlist=7CD1oMINLcI&controls=0&modestbranding=1&playsinline=1"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
         </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
       </div>
     </div>
 
-    <!-- Video Card 1 -->
+    <!-- Video 4 -->
     <div class="testimonial-card">
       <div class="video-wrapper">
         <iframe class="bg-video"
-          src="https://www.youtube.com/embed/5e2ri6Q6B4Q?autoplay=1&mute=1&loop=1&playlist=5e2ri6Q6B4Q"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+          src="https://www.youtube.com/embed/tuVERQsiErU?autoplay=1&mute=1&loop=1&playlist=tuVERQsiErU&controls=0&modestbranding=1&playsinline=1"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
         </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
       </div>
     </div>
-
-    <!-- Video Card 2 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/ER-vOLSgWRE?autoplay=1&mute=1&loop=1&playlist=ER-vOLSgWRE"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-        </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Video Card 3 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/8yUqWMUXABQ?autoplay=1&mute=1&loop=1&playlist=8yUqWMUXABQ"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-        </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Video Card 4 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/u_gYIvN5oQ4?autoplay=1&mute=1&loop=1&playlist=u_gYIvN5oQ4"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-        </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Video Card 5 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/67CngCQ1tkc?autoplay=1&mute=1&loop=1&playlist=67CngCQ1tkc"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-        </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Video Card 1 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/5e2ri6Q6B4Q?autoplay=1&mute=1&loop=1&playlist=5e2ri6Q6B4Q"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-        </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Video Card 2 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/ER-vOLSgWRE?autoplay=1&mute=1&loop=1&playlist=ER-vOLSgWRE"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-        </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Video Card 3 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/8yUqWMUXABQ?autoplay=1&mute=1&loop=1&playlist=8yUqWMUXABQ"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-        </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Video Card 4 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/u_gYIvN5oQ4?autoplay=1&mute=1&loop=1&playlist=u_gYIvN5oQ4"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-        </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Video Card 5 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/67CngCQ1tkc?autoplay=1&mute=1&loop=1&playlist=67CngCQ1tkc"
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-        </iframe>
-        <div class="play-btn-overlay">
-          <span>▶</span>
-        </div>
-      </div>
-    </div>
-
 
   </div>
-
 
 
 
@@ -1088,9 +986,21 @@
 
 <section class="alumni-container p-0">
   <div class="row">
-    <div class="col-md-5 content">
+    <div class="col-md-5 content ny">
 
       <h6 class="title ">Academic and industry collaborations </h6>
+      <div class="my-2 ecx">
+        <a href="#" class="btn-animated btn-light">
+          <div class="btn-text-wrap">
+            <div class="btn-text">Industry Collaborations</div>
+            <div class="btn-text-hover">Industry Collaborations</div>
+          </div>
+          <div class="btn-icon-wrap">
+            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+          </div>
+        </a>
+      </div>
 
 
 
@@ -1132,18 +1042,7 @@
         </div>
       </div>
 
-      <div class="mt-3 mb-5">
-        <a href="#" class="btn-animated btn-light">
-          <div class="btn-text-wrap">
-            <div class="btn-text">Industry Collaborations</div>
-            <div class="btn-text-hover">Industry Collaborations</div>
-          </div>
-          <div class="btn-icon-wrap">
-            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-          </div>
-        </a>
-      </div>
+
 
     </div>
   </div>
@@ -1162,7 +1061,7 @@
     <div class="row align-items-center">
 
       <!-- LEFT COLUMN -->
-      <div class="col-md-7">
+      <div class="col-md-5">
         <div class="career-wrapper">
           <div class="career-info">
             <h2 class="title">
@@ -1205,23 +1104,13 @@
 
             </div>
 
-            <!-- <a href="#" class="btn-animated btn-light mt-4">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">View Placements</div>
-                                <div class="btn-text-hover">View Placements</div>
-                            </div>
-                            <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                            </div>
-                        </a> -->
 
           </div>
         </div>
       </div>
 
       <!-- RIGHT COLUMN -->
-      <div class="col-md-5">
+      <div class="col-md-7">
         <div class="career-brands">
           <h4 class="title text-center mb-3">
             Our Hiring <span>Partners</span>
@@ -1724,65 +1613,31 @@
 
 
 
+
+
+
+
+
+
 <section class="newsletter-section">
   <div class="newsletter-left-wrapper">
     <div class="newsletter-left-image-div">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be64d1c2819da190063_newsletter-image-left1.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="4b9dde6d-dbc7-7693-7b8f-ea03fcd00ba9" alt="" class="newsletter-left-image blending-effect">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be5815fd0bdca4f1748_newsletter-image-left2.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="99926619-004e-9283-51f2-7b861e14d06f" alt="" class="newsletter-left-image">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6867537dc41f6f206_newsletter-image-left3.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="18fecd25-17fa-6655-6756-30ed05f3c108" alt="" class="newsletter-left-image blending-effect">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be67c712ee92ad86809_newsletter-image-left4.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="8da9a065-14c9-de25-6c22-e91783b8e630" alt="" class="newsletter-left-image">
+      <img src="assets/img/international/1- (1).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="4b9dde6d-dbc7-7693-7b8f-ea03fcd00ba9" alt="" class="newsletter-left-image blending-effect">
+      <img src="assets/img/international/1- (2).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="99926619-004e-9283-51f2-7b861e14d06f" alt="" class="newsletter-left-image">
+      <img src="assets/img/international/1- (3).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="18fecd25-17fa-6655-6756-30ed05f3c108" alt="" class="newsletter-left-image blending-effect">
+      <img src="assets/img/international/1- (4).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="8da9a065-14c9-de25-6c22-e91783b8e630" alt="" class="newsletter-left-image">
     </div>
     <div class="newsletter-left-image-div">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be79670f43a10527d61_newsletter-image-left5.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="8014587a-3644-7c15-f91f-49f6182c4a53" alt="" class="newsletter-left-image blending-effect">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be74d1c2819da19015f_newsletter-image-left6.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="8014587a-3644-7c15-f91f-49f6182c4a54" alt="" class="newsletter-left-image">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be99085694b727def7a_newsletter-image-left7.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="8014587a-3644-7c15-f91f-49f6182c4a55" alt="" class="newsletter-left-image blending-effect">
+      <img src="assets/img/international/1- (5).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="8014587a-3644-7c15-f91f-49f6182c4a53" alt="" class="newsletter-left-image blending-effect">
+      <img src="assets/img/international/1- (6).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="8014587a-3644-7c15-f91f-49f6182c4a54" alt="" class="newsletter-left-image">
+      <img src="assets/img/international/1- (7).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="8014587a-3644-7c15-f91f-49f6182c4a55" alt="" class="newsletter-left-image blending-effect">
     </div>
     <div class="newsletter-left-image-div">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beac732184ccd633b83_newsletter-image-left8.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcb" alt="" class="newsletter-left-image">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637beb94c68e37e28172f3_newsletter-image-left9.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcc" alt="" class="newsletter-left-image">
+      <img src="assets/img/international/1- (8).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcb" alt="" class="newsletter-left-image">
+      <img src="assets/img/international/1- (9).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="581110af-eb4f-0b05-0151-0f0b3c103bcc" alt="" class="newsletter-left-image">
     </div>
     <div class="newsletter-left-image-div">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec1e6f2d8016ef8e11_newsletter-image-left10.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="bf77ee2c-682f-0f3d-c5c0-cc01d432d90b" alt="" class="newsletter-left-image blending-effect">
+      <img src="assets/img/international/1- (10).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="bf77ee2c-682f-0f3d-c5c0-cc01d432d90b" alt="" class="newsletter-left-image blending-effect">
     </div>
   </div>
 
@@ -1794,7 +1649,7 @@
     </p> -->
     <div class="buttons">
 
-      <a href="#" class="btn-animated btn-light mt-0">
+      <a href="#" class="btn-animated btn-light mt-0" data-bs-toggle="modal" data-bs-target="#enquiryModal">
         <div class="btn-text-wrap">
           <div class="btn-text"> Download Brochure</div>
           <div class="btn-text-hover"> Download Brochure</div>
@@ -1810,78 +1665,27 @@
       </a>
     </div>
   </div>
-
   <div class="newsletter-right-wrapper">
     <div class="newsletter-right-image-div">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be66594d3d3bb3cf7f5_newsletter-image-right10.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="863cd461-4e84-ce2e-1fab-437e358258d1" alt="" class="newsletter-left-image blending-effect">
+      <img src="assets/img/international/1- (1).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258d1" alt="" class="newsletter-left-image blending-effect">
     </div>
     <div class="newsletter-right-image-div">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf225be3aabcd407616_newsletter-image-right8.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="863cd461-4e84-ce2e-1fab-437e358258ce" alt="" class="newsletter-left-image blending-effect">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637be6c59f64210bb9a996_newsletter-image-right9.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="863cd461-4e84-ce2e-1fab-437e358258cf" alt="" class="newsletter-left-image">
+      <img src="assets/img/international/1- (2).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258ce" alt="" class="newsletter-left-image blending-effect">
+      <img src="assets/img/international/1- (3).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258cf" alt="" class="newsletter-left-image">
     </div>
     <div class="newsletter-right-image-div">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef071e66fe0b7aaa33_newsletter-image-right5.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="863cd461-4e84-ce2e-1fab-437e358258ca" alt="" class="newsletter-left-image">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf073081d734817875c_newsletter-image-right6.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="863cd461-4e84-ce2e-1fab-437e358258cb" alt="" class="newsletter-left-image">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bf0ab2ec63aa8541de6_newsletter-image-right7.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="863cd461-4e84-ce2e-1fab-437e358258cc" alt="" class="newsletter-left-image blending-effect">
+      <img src="assets/img/international/1- (4).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258ca" alt="" class="newsletter-left-image">
+      <img src="assets/img/international/1- (5).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258cb" alt="" class="newsletter-left-image">
+      <img src="assets/img/international/1- (6).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258cc" alt="" class="newsletter-left-image blending-effect">
     </div>
     <div class="newsletter-right-image-div">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637c4b7ccb0ab128c31ed6_newsletter-image-right1.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c5" alt="" class="newsletter-left-image">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bee8ea2ed5d5905120c_newsletter-image-right2.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c6" alt="" class="newsletter-left-image blending-effect">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bef47df0be4638364d4_newsletter-image-right3.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c7" alt="" class="newsletter-left-image">
-      <img
-        src="https://cdn.prod.website-files.com/6851909e5f6184adec92140e/68637bec8b32069242907e7a_newsletter-image-right4.jpg"
-        loading="lazy"
-        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-        data-w-id="863cd461-4e84-ce2e-1fab-437e358258c8" alt="" class="newsletter-left-image">
+      <img src="assets/img/international/1- (7).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258c5" alt="" class="newsletter-left-image">
+      <img src="assets/img/international/1- (8).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258c6" alt="" class="newsletter-left-image blending-effect">
+      <img src="assets/img/international/1- (9).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258c7" alt="" class="newsletter-left-image">
+      <img src="assets/img/international/1- (10).jpg" loading="lazy" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" data-w-id="863cd461-4e84-ce2e-1fab-437e358258c8" alt="" class="newsletter-left-image">
     </div>
   </div>
 </section>
-
-<!-- newslater End -->
-
-
-
-
-
-
-
-
 
 
 

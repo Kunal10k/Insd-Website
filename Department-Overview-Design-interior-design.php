@@ -6,7 +6,7 @@
     <div class="banner" style="background-image: url('./assets/img/2.jpg');">
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-sm-12 landing_pick">
+                <div class="col-md-7 col-sm-12 landing_pick">
 
 
                     <div class="landing_content">
@@ -15,7 +15,7 @@
                         </div>
                         <h5>Admissions Open | 2026-27 Intake </h5>
                         <h1 class="w-100">
-                            Launch Your Interior Design Career with INSD and get hired
+                            Start your Interior Design Career <br>and Get Hired
                         </h1>
 
                         <h6 class="mt-3">Diploma | B.Sc | B.Des | MBA</h6>
@@ -63,7 +63,7 @@
 
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-12  d-md-block d-none mt-5 ">
+                <div class="col-md-5 col-sm-12  d-md-block d-none mt-5 ">
 
                     <div class="landing_wrapper">
 
@@ -303,7 +303,7 @@
         <h2 class="title text-center mb-4">INTERIOR DESIGN PROGRAMS <br><span class="histudy-highlight">AT INSD
             </span></h2>
 
-        <div class="row g-4 mt-2 mt-md-5">
+        <div class="row g-4 mt-2 mt-md-2">
 
 
 
@@ -395,13 +395,11 @@
 
 <section class="video-testimonial-section">
     <div class="container">
-        <h2 class="title text-center">LIFE AT <span>INSD</span></h2>
-        <p class="para w-100 mx-auto text-center" style="max-width: 50%;">
-            A professional learning environment with studios, workshops, exhibitions, site visits, and industry-led
-            activities.
+        <h2 class="title text-center">Student Life <span>at INSD</span></h2>
+        <p class="para w-100 m-auto text-center">
+            From fashion shows and student collections to workshops, exhibitions, and campus events, <br> student life at
+            INSD is vibrant, creative, and industry-facing.
         </p>
-
-
 
         <div class="owl-carousel video-testimonial-slider mt-4">
 
@@ -423,6 +421,7 @@
         </div>
     </div>
 </section>
+
 
 
 
@@ -536,19 +535,43 @@
 
     <div class="row">
         <div class="col-md-12">
-            <h2 class="title text-center " style="color: #222;"> The Grand Runway <span>Showcase</span></h2>
+            <h2 class="title text-center " style="color: #222;"> Shaping the Future of <br><span>Design</span></h2>
 
-            <div class="marquee-container e44">
+            <div class="marquee-container e44 mt-3">
                 <div class="owl-carousel fashion-slider">
 
+                    <div class="item">
+                        <img src="assets/img/z1- (1).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/z1- (2).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/z1- (3).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/z1- (4).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/z1- (5).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/z1- (6).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/z1- (7).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/z1- (8).jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/z1- (9).jpg" alt="">
+                    </div>
                     <div class="item">
                         <img src="assets/img/interior/1- (1).jpeg" alt="">
                     </div>
 
-                    <div class="item">
-                        <img src="assets/img/interior/1- (1).png" alt="">
 
-                    </div>
 
                     <div class="item">
                         <img src="assets/img/interior/1- (2).jpeg" alt="">
@@ -1141,7 +1164,7 @@
 </section>
 
 
-<!-- <section class="alumni-container p-0">
+<section class="alumni-container p-0 mt-4">
     <div class="row">
         <div class="col-md-3 content">
 
@@ -1180,7 +1203,7 @@
 
 
 
-</section> -->
+</section>
 
 
 <section class="student-test mt-4">
@@ -1879,7 +1902,7 @@
         autoplayTimeout: 3000,
         responsive: {
             0: {
-                items: 3
+                items: 2
             },
             576: {
                 items: 3
@@ -1962,10 +1985,10 @@
         autoplayTimeout: 3000,
         responsive: {
             0: {
-                items: 3
+                items: 2
             },
             576: {
-                items: 3
+                items: 2
             },
             768: {
                 items: 3
@@ -1988,7 +2011,7 @@
         dots: false,
         responsive: {
             0: {
-                items: 2
+                items: 1
             },
             600: {
                 items: 3

@@ -1,12 +1,7 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Marcellus&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap'); */
-
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Marcellus&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
 
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Marcellus&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
 
-/************************************/
-/*** 	 01. Global Variables	  ***/
-/************************************/
 
 :root {
   --primary-color: #020202;
@@ -149,7 +144,6 @@ body {
 .image-anime:hover {
   border: 2px solid transparent;
 }
-
 
 
 /* .fade-i {
@@ -452,8 +446,6 @@ header.sticky .dropdown-toggle::after {
 }
 
 
-
-
 /* Hover arrow color */
 .dropdown-toggle:hover::after {
   border-top-color: #ffff;
@@ -524,8 +516,6 @@ header.sticky .dropdown-toggle::after {
   overflow: hidden;
   z-index: 1;
 }
-
-
 
 
 .ban-sec {
@@ -642,12 +632,17 @@ header.sticky .dropdown-toggle::after {
   margin: auto;
 }
 
+.vcx {
+  width: 100 !important;
+  height: 100px !important;
+  object-fit: contain;
+}
 
 
 .para {
-  font-size: 85%;
+  font-size: 80%;
   color: var(--secondary-color);
-  font-weight: 500;
+  font-weight: 400;
   font-family: var(--default-font1);
   text-align: left;
   padding-top: 10px;
@@ -1407,7 +1402,6 @@ header.sticky .dropdown-toggle::after {
 }
 
 
-
 /* .tab-section {
   width: 100%;
   margin: auto;
@@ -1546,6 +1540,7 @@ ul#autoTab {
   border-radius: 12px;
   /* box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1); */
   transition: transform 0.4s ease;
+  width: 21% !important;
 }
 
 .tab-content img:hover {
@@ -1751,7 +1746,6 @@ ul#autoTab {
   position: relative;
   z-index: 0;
 }
-
 
 
 .tab-sec .nav-pills .nav-link {
@@ -1973,12 +1967,21 @@ ul#autoTab {
   transition: transform 0.3s ease, background 0.3s ease;
   padding: 15px 10px;
   border-radius: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 
 .benefit-item:hover {
   background: #f1f9f3;
   transform: translateX(5px);
+}
+
+.alumni-container .ny {
+  padding: 30px 30px !important;
+}
+
+.ecx {
+  text-align: left !important;
+  margin-top: 15px !important;
 }
 
 /* Icon circle */
@@ -4967,7 +4970,6 @@ img.img-mg2 {
 }
 
 
-
 .about-fac {
   margin-bottom: 100px;
 }
@@ -5284,7 +5286,6 @@ img.img-mg2 {
 }
 
 
-
 /* **************Landing Page Css *****************  */
 
 .banner {
@@ -5552,8 +5553,6 @@ img.img-mg2 {
 }
 
 
-
-
 /* Typography */
 .feature-heading {
   color: #0d2a5c;
@@ -5584,8 +5583,6 @@ img.img-mg2 {
   padding: var(--global_padding);
   /* margin-top: 30px; */
 }
-
-
 
 
 /* 
@@ -5691,9 +5688,6 @@ img.img-mg2 {
 }
 
 
-
-
-
 .course-card {
   background: #fff;
   padding: 15px;
@@ -5766,7 +5760,6 @@ img.img-mg2 {
 /* ******* alumni-container *********  */
 
 
-
 .alumni-container {
   /* background: linear-gradient(218.15deg,
       #b966e7 0%,
@@ -5776,9 +5769,6 @@ img.img-mg2 {
   text-align: center;
   position: relative;
 }
-
-
-
 
 
 .alumni-container .title {
@@ -5817,11 +5807,9 @@ alumni-carousel .item img {
 }
 
 .marquee .item img {
-  height: 100px;
-  aspect-ratio: 1 / 1;
-  /* মানে width = height */
+  height: 60px;
+  /* aspect-ratio: 1 / 1; */
   object-fit: contain;
-  /* image পুরো দেখাবে */
 }
 
 .alumni-container .title {
@@ -5846,7 +5834,6 @@ alumni-carousel .item img {
 }
 
 .alumni-container .marquee-container {
-
 
 
   padding: 20px 0px 0px 0px;
@@ -5891,14 +5878,12 @@ alumni-carousel .item img {
 }
 
 
-
 /* ******** mentor-section ************  */
 .mentor-area {
   padding: var(--global_padding);
   text-align: center;
 
 }
-
 
 
 .mentor-item {
@@ -5928,7 +5913,7 @@ alumni-carousel .item img {
 .landing_pick {
   display: flex;
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
 }
 
 .mentor-share {
@@ -5982,7 +5967,6 @@ alumni-carousel .item img {
   text-align: center;
 
 }
-
 
 
 .feedback-card {
@@ -6486,16 +6470,12 @@ alumni-carousel .item img {
 }
 
 
-
-
-
 .alumni-container .owl-carousel .owl-item img {
   border-radius: 5px;
 }
 
 
 /* ******* innner banner ******  */
-
 
 
 .inner_my_banner {
@@ -6514,10 +6494,6 @@ alumni-carousel .item img {
   text-transform: capitalize;
   margin-top: 10px;
 }
-
-
-
-
 
 
 /* Layout Reset */
@@ -6556,7 +6532,6 @@ alumni-carousel .item img {
 .hero-block__content {
   flex: 1.2;
 }
-
 
 
 .hero-block__description {
@@ -6626,16 +6601,12 @@ alumni-carousel .item img {
 }
 
 
-
 /* ******** LP SECTION ************  */
 
 
 .lp-section {
   padding: var(--global_padding);
 }
-
-
-
 
 
 .lp-badge {
@@ -6683,7 +6654,6 @@ alumni-carousel .item img {
 }
 
 
-
 .lp-image-card {
   border-radius: 16px;
   overflow: hidden;
@@ -6696,7 +6666,6 @@ alumni-carousel .item img {
   object-fit: cover;
   display: block;
 }
-
 
 
 /* BUTTON */
@@ -6722,12 +6691,25 @@ alumni-carousel .item img {
 
 .founder-section {
   padding: var(--global_padding);
-  background: url(../img/fc.png) center;
+  background: url(../img/ed.jpg) center;
   background-repeat: no-repeat;
   padding: 100px 0;
+  background-size: cover;
 
 }
 
+.nczzx img {
+  width: 100%;
+  height: 100px;
+  object-fit: contain;
+  margin-top: 25px;
+}
+
+.nice .item img {
+  width: 120px;
+  height: 120px;
+  border-radius: 10px;
+}
 
 
 .founder-info h3 {
@@ -6770,8 +6752,6 @@ alumni-carousel .item img {
   padding: 15px 22px !important;
   border: 2px solid var(--secondary-color3) !important;
 }
-
-
 
 
 /* **** btn ***  */
@@ -6857,7 +6837,6 @@ alumni-carousel .item img {
   margin: auto;
   padding: 0 20px;
 }
-
 
 
 .mentor-title h2 {
@@ -7058,9 +7037,7 @@ alumni-carousel .item img {
 /* ********** faculty-editorial-wrap **************  */
 
 
-
 /* ************ Pm Laxmi *********  */
-
 
 
 /* ********** scholarship card *****  */
@@ -7233,7 +7210,6 @@ alumni-carousel .item img {
 } */
 
 
-
 .card-dots {
   background-image:
     radial-gradient(circle at 25px 25px, rgba(59, 130, 246, .12) 1px, transparent 0);
@@ -7381,14 +7357,12 @@ alumni-carousel .item img {
 }
 
 
-
 .insd-placement-grid {
   display: grid;
   grid-template-columns: 1.2fr 1fr;
   gap: 50px;
   align-items: center;
 }
-
 
 
 .insd-placement-desc {
@@ -7542,8 +7516,6 @@ alumni-carousel .item img {
   background: #ffffff;
   color: #162447;
 }
-
-
 
 
 /* alumi testimonials  */
@@ -7779,11 +7751,6 @@ alumni-carousel .item img {
 } */
 
 
-
-
-
-
-
 /* event work shop desing  section  */
 
 
@@ -7802,7 +7769,6 @@ alumni-carousel .item img {
   max-width: 650px;
   margin: 0 auto 50px;
 }
-
 
 
 .events-grid {
@@ -7896,18 +7862,11 @@ alumni-carousel .item img {
 }
 
 
-
-
-
 /* elegibale table  */
 
 /* ============================
    ELIGIBILITY CRITERIA TABLE
 ============================ */
-
-
-
-
 
 
 /* Table Wrapper */
@@ -7978,7 +7937,6 @@ alumni-carousel .item img {
 }
 
 
-
 .faq-section {
   padding: var(--global_padding);
 }
@@ -8014,11 +7972,6 @@ alumni-carousel .item img {
 }
 
 
-
-
-
-
-
 .enquery {
   position: fixed;
   right: -71px;
@@ -8044,20 +7997,6 @@ alumni-carousel .item img {
 } */
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .placement-assistance {
   padding: var(--global_padding);
 
@@ -8071,10 +8010,6 @@ alumni-carousel .item img {
   position: relative;
   padding: 40px 0;
 }
-
-
-
-
 
 
 .logo-marquee {
@@ -8117,7 +8052,6 @@ alumni-carousel .item img {
 }
 
 
-
 .counter-box h2 {
   font-size: 48px;
   font-weight: 700;
@@ -8140,7 +8074,6 @@ alumni-carousel .item img {
   opacity: 0.9;
   transition: 0.3s ease;
 }
-
 
 
 .logo-track img:hover {
@@ -8167,7 +8100,6 @@ alumni-carousel .item img {
 .placement-assistance .counter {
   color: #fff;
 }
-
 
 
 /* ************ modal form *******  */
@@ -8235,20 +8167,20 @@ alumni-carousel .item img {
 /* =========================
    BUTTON STYLE (UNCHANGED)
 ========================= */
-
 .btn_xzz {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 5px;
   padding: 0;
+  flex-direction: row;
 }
 
 .btn_xzz li {
-  padding: 7px 22px;
+  padding: 7px 10px;
   list-style: none;
   border-radius: 30px;
-  font-size: 14px;
+  font-size: 13px;
   color: #333;
 }
 
@@ -8348,8 +8280,6 @@ alumni-carousel .item img {
 }
 
 
-
-
 /* FORM GRID */
 .form-grid {
   display: grid;
@@ -8420,7 +8350,6 @@ textarea {
   text-align: center;
   padding: 40px 20px;
 }
-
 
 
 .terms {
@@ -8514,7 +8443,6 @@ textarea {
   font-size: 18px;
   color: #fff;
 }
-
 
 
 /* ===== METRICS ===== */
@@ -8661,7 +8589,6 @@ textarea {
 }
 
 
-
 .admission-wrapper {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
@@ -8751,10 +8678,7 @@ textarea {
 }
 
 
-
 /* ************ admission-section ***********  */
-
-
 
 
 /* APPLY SECTION */
@@ -8798,7 +8722,6 @@ textarea {
 }
 
 
-
 .apply-card h3 {
   margin: 0 0 8px;
   font-size: 18px;
@@ -8808,7 +8731,6 @@ textarea {
   font-size: 16px;
   color: #666;
 }
-
 
 
 .criteria-section {
@@ -8862,7 +8784,6 @@ textarea {
   font-size: 15px;
   color: #666;
 }
-
 
 
 /* ********************** */
@@ -8947,12 +8868,10 @@ textarea {
   background-image: url(../img/abt-img.png);
   background-size: cover;
   background-position: center;
-  margin-top: 30px;
+  /* margin-top: 30px; */
 }
 
 /* ***************** global_Section_ready ***************  */
-
-
 
 
 /* ************** help bar **************  */
@@ -8999,8 +8918,6 @@ textarea {
 .modal-backdrop {
   display: none !important;
 }
-
-
 
 
 .contact-info-list {
@@ -9056,7 +8973,6 @@ textarea {
   color: var(--secondary-color3);
   transition: all 0.3s ease;
 }
-
 
 
 /* ****************** new form ***************************  */
@@ -9226,7 +9142,6 @@ textarea {
 }
 
 
-
 /* Phone Input */
 .appinform-phone-input {
   display: flex;
@@ -9337,7 +9252,6 @@ textarea {
   padding: var(--global_padding);
   background: #f9f9f9;
 }
-
 
 
 .video-testimonial-item {
@@ -9635,7 +9549,6 @@ textarea {
 }
 
 
-
 .hight_marquee {
   overflow: hidden;
   width: 100%;
@@ -9695,12 +9608,6 @@ textarea {
 .brand-grid:hover .brand-track {
   animation-play-state: paused;
 }
-
-
-
-
-
-
 
 
 .placement-cta-new {
@@ -9804,11 +9711,6 @@ textarea {
     flex-wrap: wrap;
   }
 }
-
-
-
-
-
 
 
 /* mission */
@@ -9981,7 +9883,6 @@ textarea {
 }
 
 
-
 .curriculum-body h6 {
   margin-top: 28px;
   margin-bottom: 12px;
@@ -10005,8 +9906,6 @@ textarea {
   margin-bottom: 6px;
   line-height: 1.6;
 }
-
-
 
 
 /* ===============================
@@ -10063,8 +9962,6 @@ textarea {
     font-size: 15px;
   }
 }
-
-
 
 
 /* ==========================
@@ -10240,9 +10137,6 @@ textarea {
 }
 
 
-
-
-
 .learning-careers-section {
   font-family: 'Poppins', sans-serif;
   color: #333;
@@ -10392,9 +10286,6 @@ textarea {
 }
 
 
-
-
-
 /* ==========================
    Section Styling
 ========================== */
@@ -10507,14 +10398,14 @@ textarea {
 }
 
 .fashion-platforms {
-  padding: 80px 0;
+  padding: var(--global_padding);
   /* background: #f9f9f9; */
   width: 100%;
 }
 
 .fashion-slider .item img {
   width: 100%;
-  height: 350px;
+  height: 400px;
   object-fit: cover;
   border-radius: 12px;
 }
@@ -10568,7 +10459,7 @@ textarea {
 
 
 .partner-section {
-  padding: 70px 0;
+  padding: var(--global_padding);
 }
 
 .partner-section h3 {
@@ -10735,7 +10626,6 @@ textarea {
 }
 
 
-
 /* Card */
 .achiever-card {
   text-align: center;
@@ -10788,10 +10678,6 @@ textarea {
 }
 
 
-
-
-
-
 .roles-section {
   padding: 0 0 40px 0;
 }
@@ -10833,7 +10719,6 @@ textarea {
 .role-card:nth-child(6) {
   background: #f0fdfa;
 }
-
 
 
 /* Hover effect */
@@ -10961,8 +10846,6 @@ textarea {
 }
 
 
-
-
 .image_changer {
   position: relative;
   width: 100%;
@@ -10985,20 +10868,21 @@ textarea {
 }
 
 .team-section {
-  padding: 80px 0;
+  padding: var(--global_padding);
   background: #f8f9fc;
 }
 
 .team-wrapper {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   gap: 30px;
-  flex-wrap: wrap;
+  margin-top: 25px;
 }
 
 .team-card {
   background: #fff;
-  width: 300px;
+  /* width: 300px; */
+  height: 350px;
   border-radius: 16px;
   overflow: hidden;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
@@ -11062,31 +10946,28 @@ textarea {
 }
 
 /* video */
-
 .testimonial-card {
-  width: 300px;
-  height: 300px;
-  margin-right: 20px;
-  border-radius: 16px;
+  /* width: 260px; */
+  height: 380px;
+  border-radius: 20px;
   overflow: hidden;
   flex-shrink: 0;
-  position: relative;
-}
-
-.bg-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 
 .video-wrapper {
   width: 100%;
   height: 100%;
-  overflow: hidden;
 }
 
 .video-wrapper iframe.bg-video {
   width: 100%;
   height: 100%;
+  border: 0;
   object-fit: cover;
+  /* NO CROP */
+}
+
+/* hide youtube click layer */
+.video-wrapper iframe {
+  pointer-events: none;
 }
