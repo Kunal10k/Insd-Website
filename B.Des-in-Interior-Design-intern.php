@@ -7,11 +7,19 @@
 
 
 
-<section class="inner_Section" style="background-image: url('./assets/img/courses/B.Des\ in\ Interior\ Design.webp');">
+<section class="inner_Section" style="background-image: url('./assets/img/interior.jpeg');">
+
     <div class="container">
+
         <div class="row">
             <div class="col-md-12">
-                <div class="banner-top  ">
+                <h1 class="title">Bachelor of Design in <br> <span>Interior Design</span></h1>
+
+
+                <div class="trust_logo">
+                    <img src="assets/img/and.png" alt="" class="w-25 mb-3">
+                </div>
+                <div class="banner-top erds ">
                     <div class="banner-badge-top  ">
                         <i class="fa-solid fa-calendar-days"></i>
                         <span class="subtitle">4 Years</span>
@@ -29,15 +37,12 @@
                 </div>
 
 
-                <h1 class="title">Bachelor of Design in <br> <span>Interior Design</span></h1>
-                <h6>Industry-driven interior design education with hands-on studio learning</h6>
-                <p class="para w-75">
-                    Build a professional career in interior design through practical training, real projects, and portfolio-focused education at International School of Design (INSD) Kolkata.
-                </p>
+
+
 
                 <div class="ban-btn mt-4">
 
-                    <a href="#" class="btn-animated btn-light">
+                    <a href="#test" class="btn-animated btn-light">
                         <div class="btn-text-wrap">
                             <div class="btn-text">Apply Now</div>
                             <div class="btn-text-hover">Apply Now</div>
@@ -50,7 +55,7 @@
                         </div>
                     </a>
 
-                    <a href="#" class="btn-animated btn-light1">
+                    <a href="#test" class="btn-animated btn-light1">
                         <div class="btn-text-wrap">
                             <div class="btn-text">Book Free Counselling</div>
                             <div class="btn-text-hover">Book Free Counselling</div>
@@ -83,7 +88,7 @@
 
 
 
-                    <form action="contact.php" method="POST">
+                    <form action="contact.php" method="POST" id="test">
                         <div class=" mt-4">
                             <label for="name" class="form-label">Name <span style="color: #a78e59;">*</span></label>
                             <input type="text" class="form-control" id="name" placeholder="Enter Name" name="name">
@@ -139,11 +144,17 @@
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="overview">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
                             <div class="section-title">
-                                <h4 class="title-sm">Course Overview</h4>
+                                <h4 class="Small_head">Course Overview</h4>
+
                             </div>
+
                             <p class="para pb-4">
-                                Build a professional career in interior design through practical training, real projects, and portfolio-focused education at International School of Design (INSD) Kolkata.
-                            </p>
+                                The Bachelor of Design (B.Des) in Interior Design is a comprehensive undergraduate program designed to build strong design fundamentals, technical understanding, and professional execution skills.
+                                The program is ideal for students who aspire to pursue careers in interior design and related creative fields. Learning is studio-based and practice-oriented, enabling students to develop spatial planning skills, material knowledge, design thinking, and professional presentation abilities through continuous hands-on learning. <br>
+                                The academic structure integrates industry relevance, experiential exposure, and portfolio development through a learning approach that is student-focused and professionally aligned.</p>
+
+
+
                             <div class="ban-btn">
 
                                 <a href="#" class="btn-animated btn-light">
@@ -158,102 +169,120 @@
                                 </a>
                             </div>
 
+
+
+
+
                         </div>
                         <div class="rbt-show-more-btn">Show More</div>
                     </div>
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="coursecontent">
                         <div class="rbt-accordion-style rbt-accordion-02 accordion">
-                            <h4 class="mt-3 title">Curriculum <span>Structure</span> </h4>
+                            <h4 class="mt-3 small_head">Curriculum <span>Structure</span> </h4>
                             <p class="para">The B.Des in Interior Design program is structured to build design competence, professional understanding, and industry readiness through a blend of studio learning, experiential exposure, and industry engagement.</p>
 
+                            <div class="accordion mt-3" id="bdesAccordion">
 
-                            <div class="accordion mt-3" id="accordionExampleb2">
+                                <!-- YEAR 1 -->
                                 <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseOne" aria-expanded="true">
-                                            <i class="fa-solid fa-layer-group me-2"></i>
-                                            Interior Design Program Curriculum Overview
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#year1">
+                                            <i class="fa-solid fa-1 me-2"></i> YEAR – 1
                                         </button>
                                     </h2>
-
-                                    <div id="collapseOne" class="accordion-collapse collapse "
-                                        data-bs-parent="#accordionExampleb2">
-                                        <div class="accordion-body curriculum-body">
-
-                                            <h6><i class="fa-solid fa-pen-ruler"></i> Core Design Foundations</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Design principles and visual fundamentals</li>
-                                                <li>Freehand drawing, drafting, and graphical representation</li>
-                                                <li>Design graphics, presentation techniques, and visual communication</li>
-                                                <li>Colour theory, composition, and spatial understanding</li>
+                                    <div id="year1" class="accordion-collapse collapse " data-bs-parent="#bdesAccordion">
+                                        <div class="accordion-body">
+                                            <ul>
+                                                <li>Fundamentals of Design</li>
+                                                <li>Basic & Technical Drafting</li>
+                                                <li>Visual Communication & Graphics</li>
+                                                <li>Introduction to Interior Design</li>
+                                                <li>History of Architecture</li>
+                                                <li>Furniture Design Basics</li>
+                                                <li>Foundation Design Project</li>
+                                                <li>Masterclasses by Industry Experts</li>
+                                                <li>Site / Industry Visits for Experiential Learning</li>
                                             </ul>
-
-                                            <h6><i class="fa-solid fa-couch"></i> Interior Design Knowledge & Skills</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Residential interior design and space planning</li>
-                                                <li>Furniture design and interior elements</li>
-                                                <li>Materials, finishes, and detailing</li>
-                                                <li>Lighting principles and interior applications</li>
-                                                <li>Building construction basics and services fundamentals</li>
-                                                <li>Working drawings, documentation, and execution detailing</li>
-                                            </ul>
-
-                                            <h6><i class="fa-solid fa-building"></i> Advanced Interior Design Applications</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Commercial, public, and institutional space design</li>
-                                                <li>Advanced space planning and design development</li>
-                                                <li>Building technology and services integration</li>
-                                                <li>Design visualization and professional presentations</li>
-                                                <li>Display, exhibition, and experiential design</li>
-                                            </ul>
-
-                                            <h6><i class="fa-solid fa-helmet-safety"></i> Experiential & On-Site Learning</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Site visits and real-world observations</li>
-                                                <li>Live design exercises and workshops</li>
-                                                <li>Working site exposure and vendor interaction</li>
-                                                <li>Project-based experiential learning</li>
-                                            </ul>
-
-                                            <h6><i class="fa-solid fa-chalkboard-user"></i> Industry Masterclasses & Exposure</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Masterclasses by practicing interior designers</li>
-                                                <li>Industry-led execution & material sessions</li>
-                                                <li>Professional critiques and reviews</li>
-                                                <li>Exposure to industry practices and standards</li>
-                                            </ul>
-
-                                            <h6><i class="fa-solid fa-briefcase"></i> Professional Practice & Entrepreneurship</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Design practice and management</li>
-                                                <li>Entrepreneurship for interior designers</li>
-                                                <li>Sales, marketing, and client acquisition</li>
-                                                <li>Finance, costing, and project budgeting</li>
-                                                <li>Design ethics, contracts, and compliance</li>
-                                            </ul>
-
-                                            <h6><i class="fa-solid fa-id-card-clip"></i> Industry Training & Portfolio Development</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>6-month paid industry internship</li>
-                                                <li>Client handling and project coordination</li>
-                                                <li>Final design project and portfolio creation</li>
-                                                <li>Hands-on industry-oriented execution</li>
-                                            </ul>
-
-                                            <h6><i class="fa-solid fa-graduation-cap"></i> Learning Experience & Practical Training</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Dedicated design studios and drafting labs</li>
-                                                <li>Regular site visits and workshops</li>
-                                                <li>Industry-standard software and tools</li>
-                                                <li>Design competitions and exhibitions</li>
-                                            </ul>
-
+                                            <strong>Focus Areas:</strong><br>
+                                            Design thinking | Visual composition | Drafting fundamentals | Spatial awareness | Residential planning basics
                                         </div>
                                     </div>
                                 </div>
+
+                                <!-- YEAR 2 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#year2">
+                                            <i class="fa-solid fa-2 me-2"></i> YEAR – 2
+                                        </button>
+                                    </h2>
+                                    <div id="year2" class="accordion-collapse collapse" data-bs-parent="#bdesAccordion">
+                                        <div class="accordion-body">
+                                            <ul>
+                                                <li>Applied Drafting & Construction Drawings</li>
+                                                <li>Principles of Interior Design</li>
+                                                <li>Furniture History & Evolution</li>
+                                                <li>Building Technology & Construction Systems</li>
+                                                <li>Life Space Planning</li>
+                                                <li>Interior Design Project – I</li>
+                                                <li>Portfolio Development – I</li>
+                                                <li>Masterclasses & Site Visits</li>
+                                            </ul>
+                                            <strong>Focus Areas:</strong><br>
+                                            Residential interiors | Space planning | Furniture detailing | Construction basics | Design documentation
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- YEAR 3 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#year3">
+                                            <i class="fa-solid fa-3 me-2"></i> YEAR – 3
+                                        </button>
+                                    </h2>
+                                    <div id="year3" class="accordion-collapse collapse" data-bs-parent="#bdesAccordion">
+                                        <div class="accordion-body">
+                                            <ul>
+                                                <li>Building Services (Electrical, Plumbing, HVAC)</li>
+                                                <li>Urban Space Planning & Public Interiors</li>
+                                                <li>Interior Systems & Furnishings</li>
+                                                <li>CAD & Digital Documentation</li>
+                                                <li>Advanced Space Planning & Zoning</li>
+                                                <li>Interior Design Project – II</li>
+                                                <li>Masterclasses & Industry Visits</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- YEAR 4 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#year4">
+                                            <i class="fa-solid fa-4 me-2"></i> YEAR – 4
+                                        </button>
+                                    </h2>
+                                    <div id="year4" class="accordion-collapse collapse" data-bs-parent="#bdesAccordion">
+                                        <div class="accordion-body">
+                                            <ul>
+                                                <li>Professional Practice & Design Ethics</li>
+                                                <li>Estimation, Costing & BOQ</li>
+                                                <li>Design Management & Project Coordination</li>
+                                                <li>Entrepreneurship & Interior Design Business</li>
+                                                <li>Advanced Interior Design Studio (Commercial / Mixed-use)</li>
+                                                <li>Graduation Design Project (Final Thesis)</li>
+                                                <li>On-the-Job Training (6 Months)</li>
+                                                <li>Professional Portfolio Development</li>
+                                                <li>Masterclasses & Site Visits</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
 
+                            <!-- <div class="rbt-show-more-btn">Show More</div> -->
 
                         </div>
                     </div>
@@ -262,33 +291,33 @@
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="details">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
                             <h6 class="py-2">Career Opportunities & Placements</h6>
-                            <ul class="rbt-list-style-1">
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Interior Designer</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Space Planner</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Design Consultant</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Furniture & Lighting Designer</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Visualization Artist</li>
+                            <ul class="rbt-list-style-1 mt-3">
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Interior Designer</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Space Planner</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Design Consultant</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Furniture & Lighting Designer</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Visualization Artist</strong></li>
                             </ul>
-                            <h6 class="py-2">Placement Highlights</h6>
-                            <ul class="rbt-list-style-1">
-                                <li><i class="fa-solid fa-circle-check me-2"></i>100% Placement Assistance for eligible students</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Exposure to multiple design studios and professional environments</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Get detailed placement guidance and support</li>
-                            </ul>
+                            <!-- <h6 class="py-2">Placement Highlights</h6>
+                            <ul class="rbt-list-style-1 mt-3">
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>100% Placement Assistance for eligible students</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Exposure to multiple design studios and professional environments</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Get detailed placement guidance and support</strong></li>
+                            </ul> -->
 
 
 
 
 
                         </div>
-                        <div class="rbt-show-more-btn">Show More</div>
+                        <!-- <div class="rbt-show-more-btn">Show More</div> -->
                     </div>
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="Eligibility">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
 
                             <div class="eligibility-section">
-                                <h6 class="py-2">Eligibility & Admission Snapshot</h6>
-                                <ul class="rbt-list-style-1">
+                                <h6 class="py-2">Eligibility </h6>
+                                <ul class="rbt-list-style-1 mt-4">
                                     <li><i class="fa-solid fa-circle-check me-2"></i>10+2 pass from a recognised board</li>
                                     <li><i class="fa-solid fa-circle-check me-2"></i>No prior design background required</li>
                                     <li><i class="fa-solid fa-circle-check me-2"></i>Creativity, interest, and commitment encouraged</li>
@@ -325,7 +354,7 @@
 
 
                         </div>
-                        <div class="rbt-show-more-btn">Show More</div>
+                        <!-- <div class="rbt-show-more-btn">Show More</div> -->
                     </div>
 
                 </div>
@@ -333,6 +362,7 @@
             </div>
         </div>
 </section>
+
 
 
 <section class="why-study-section py-5">
@@ -346,110 +376,74 @@
                     at INSD Kolkata
                 </h2>
 
-                <ul class="list-unstyled mt-4">
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Industry-aligned curriculum with practical orientation
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Studio-based learning and hands-on design training
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Experiential learning through site visits and live projects
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Mentorship from practicing designers and entrepreneurs
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Structured career guidance and placement support
-                    </li>
-                </ul>
+                <div class="benifit-wraps">
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Industry-aligned curriculum with practical orientation</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Studio-based learning and hands-on design training</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Experiential learning through site visits and live projects</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Mentorship from practicing designers and entrepreneurs</h5>
+                        </div>
+                    </div>
+
+                </div>
             </div>
 
             <!-- RIGHT IMAGE -->
             <div class="col-lg-4 text-center">
-                <img src="assets/img/p1.png"
-                    alt="B.Des Interior Design INSD Kolkata"
-                    class="img-fluid rounded shadow">
+
+
+
+
+                <div class="image_changer" style="height: 450px;">
+
+                    <img src="assets/img/p1.png" class="">
+                    <img src="assets/img/L2.jpeg" class="active">
+                    <img src="assets/img/L3.jpeg" class="">
+
+
+
+                </div>
             </div>
 
         </div>
     </div>
 </section>
-
-
-<section class="scholarship-section py-5 bg-light">
-    <div class="container">
-        <div class="row align-items-center">
-
-            <!-- LEFT IMAGE -->
-            <div class="col-lg-4 text-center mb-4 mb-lg-0">
-                <img src="assets/img/cx.png"
-                    alt="Scholarships at INSD Kolkata"
-                    class="img-fluid rounded shadow">
-            </div>
-
-            <!-- RIGHT CONTENT -->
-            <div class="col-lg-8">
-                <h2 class="mb-3 scholarship-title">
-                    Scholarships &amp; Financial Support
-                </h2>
-                <p class="scholarship-text mb-3 para">
-                    INSD Kolkata offers scholarship support to eligible students as part of its commitment to encouraging academic merit, creative potential, and inclusive access to professional design education.
-                </p>
-                <p class="scholarship-text para">
-                    Scholarship opportunities are evaluated based on institutional criteria. Details regarding eligibility, categories, and the application process are communicated transparently during the counselling interaction.
-                </p>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-
-
-<section class="career-cta">
-    <div class="container text-center">
-
-        <h3 class="cta-title">
-            Unsure about your career in Interior Design?
-        </h3>
-
-        <p class="cta-text mb-3">
-            Get expert guidance on career scope, courses, and professional opportunities.
-        </p>
-
-        <a href="#" class="btn-animated btn-light ">
-            <div class="btn-text-wrap">
-                <div class="btn-text">Talk to a Counsellor</div>
-                <div class="btn-text-hover">Talk to a Counsellor</div>
-            </div>
-            <div class="btn-icon-wrap">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-            </div>
-        </a>
-
-    </div>
-</section>
-
-
-
 <section class="instructor-section py-5">
     <div class="container">
 
         <div class="instructor-wrapper shadow-sm p-4 rounded">
 
-            <h4 class="instructor-title mb-3">Instructor</h4>
-            <p class="instructor-description mb-5">
-                Learn Under the Guidance of Industry-Active Professionals.
-                The B.Des in Interior Design program is guided by instructors actively engaged in professional design practice.
-                They bring real-world perspective into studio learning, design critiques, and project execution, ensuring that academic learning aligns with current industry standards.
-            </p>
+            <h4 class="title text-center">Faculty Members</h4>
+
 
             <div class="instructor-carousel owl-carousel">
 
@@ -507,55 +501,306 @@
 </section>
 
 
-<section class="student-work">
+
+
+
+
+
+<section class="cta-sec" style="background-image: url('./assets/img/c2.jpg'); 
+         background-attachment: fixed; 
+         background-size: cover; 
+         background-position: center; padding: 25px 0;">
     <div class="container">
-        <h5 class="sub-head text-center cen">Student work</h5>
-        <h2 class="title text-center">WALK THE STAGE <span>AS A DESIGNER</span></h2>
+        <div class="cta-content">
 
-        <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
-
-        <div class="student-work-grid">
-
-            <div class="work-item">
-                <a href="assets/img/1 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/1 (2).jpg" alt="Student Work">
+            <h2 class="title text-center text-white"> Career Guidance Support</h2>
+            <!-- <p class="cta-text mb-3">
+                Unsure about career scope or professional opportunities in interior design?
+            </p> -->
+            <div class="mt-4">
+                <a href="#test" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Talk to a Course Counsellor</div>
+                        <div class="btn-text-hover">Talk to a Course Counsellor</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
                 </a>
-                <div class="work-overlay">
-                    <h4>Fashion Design</h4>
-                </div>
-            </div>
-
-            <div class="work-item">
-                <a href="assets/img/2 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/2 (2).jpg" alt="Student Work">
+                <a href="#test" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Get Career Guidance</div>
+                        <div class="btn-text-hover">Get Career Guidance</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
                 </a>
-                <div class="work-overlay">
-                    <h4>Illustration</h4>
-                </div>
-            </div>
 
-            <div class="work-item">
-                <a href="assets/img/6-insd.jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/6-insd.jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Garment Construction</h4>
-                </div>
-            </div>
-
-            <div class="work-item">
-                <a href="assets/img/3 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/3 (2).jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Portfolio Work</h4>
-                </div>
             </div>
 
         </div>
     </div>
 </section>
 
+
+<section class="alumni-container p-0">
+    <div class="row">
+        <div class="col-md-3 content ny ">
+
+            <h6 class="title "> Industry <br>Alliances</h6>
+            <div class="my-2 ecx">
+
+            </div>
+
+
+
+        </div>
+        <div class="col-md-9 center-box">
+            <!-- MARQUEE LEFT -->
+            <div class="marquee-container">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
+
+
+
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
+
+
+                </div>
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+
+</section>
+
+
+<section class="student-work">
+    <div class="container">
+        <!-- <h5 class="sub-head text-center cen">Student work</h5> -->
+        <h2 class="title text-center">Life at INSD <span>Kolkata</span></h2>
+
+        <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
+
+        <div class="student-work-grid">
+
+            <div class="work-item">
+                <a href="assets/img/1 (2).jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/interior/1- (1).jpeg" alt="Student Work">
+                </a>
+                <div class="work-overlay">
+                    <!-- <h4>Fashion Design</h4> -->
+                </div>
+            </div>
+
+            <div class="work-item">
+                <a href="assets/img/2 (2).jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/interior/1- (2).jpeg" alt="Student Work">
+
+                </a>
+                <div class="work-overlay">
+                    <!-- <h4>Illustration</h4> -->
+                </div>
+            </div>
+
+            <div class="work-item">
+                <a href="assets/img/6-insd.jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/interior/1- (3).jpeg" alt="Student Work">
+
+                </a>
+                <div class="work-overlay">
+                    <!-- <h4>Garment Construction</h4> -->
+                </div>
+            </div>
+
+            <div class="work-item">
+                <a href="assets/img/3 (2).jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/interior/1- (4).jpeg" alt="Student Work">
+
+                </a>
+                <div class="work-overlay">
+                    <!-- <h4>Portfolio Work</h4> -->
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<section class="career-zone">
+    <div class="container">
+        <div class="row align-items-center">
+
+
+            <div class="col-md-5">
+                <div class="career-wrapper">
+                    <div class="career-info">
+                        <h2 class="title">
+                            PLACEMENTS &amp; <br>
+                            <span>RECRUITERS</span>
+                        </h2>
+                        <p class="para">Where talent meets industry</p>
+
+                        <div class="career-metrics mt-3">
+
+                            <!-- Highest Package -->
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-indian-rupee-sign"></i>
+                                </div>
+                                <div>
+                                    <h3>14L</h3>
+                                    <p>HIGHEST PACKAGE</p>
+                                </div>
+                            </div>
+
+                            <!-- Placement Assistance -->
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-handshake"></i>
+                                </div>
+                                <div>
+                                    <h3>100%</h3>
+                                    <p>PLACEMENT ASSISTANCE</p>
+                                </div>
+                            </div>
+
+                            <!-- Brand Partners -->
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-building"></i>
+                                </div>
+                                <div>
+                                    <h3>300+</h3>
+                                    <p>BRAND PARTNERS</p>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- RIGHT COLUMN -->
+            <div class="col-md-7">
+                <div class="career-brands">
+                    <h4 class="title text-center mb-3">
+                        Our Hiring <span>Partners</span>
+                    </h4>
+
+                    <div class="hight_marquee">
+
+                        <!-- LEFT MARQUEE -->
+                        <div class="brand-grid left-marquee">
+                            <div class="brand-track">
+
+                                <!-- Original Items -->
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (1).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (2).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (4).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (5).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (18).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (19).png" alt=""></div>
+
+
+
+                            </div>
+                        </div>
+
+                        <!-- RIGHT MARQUEE -->
+                        <div class="brand-grid right-marquee mt-3">
+                            <div class="brand-track">
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (6).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (7).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (8).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (9).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (10).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (17).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (20).png" alt=""></div>
+
+
+
+
+
+                            </div>
+                        </div>
+
+
+                        <!-- LEFT MARQUEE -->
+                        <div class="brand-grid left-marquee mt-3">
+                            <div class="brand-track">
+
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (11).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (12).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (13).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (14).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (15).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (16).png" alt=""></div>
+
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<section class="scholarship-section py-5 bg-light">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <!-- LEFT IMAGE -->
+            <div class="col-lg-4 text-center mb-4 mb-lg-0">
+                <img src="assets/img/cx.png"
+                    alt="Scholarships at INSD Kolkata"
+                    class="img-fluid rounded shadow">
+            </div>
+
+            <!-- RIGHT CONTENT -->
+            <div class="col-lg-8">
+                <h2 class="mb-3 scholarship-title">
+                    Scholarships &amp; Financial Support
+                </h2>
+                <p class="scholarship-text mb-3 para">
+                    INSD Kolkata offers scholarship support to eligible students as part of its commitment to encouraging academic merit, creative potential, and inclusive access to professional design education.
+                </p>
+                <p class="scholarship-text para">
+                    Scholarship opportunities are evaluated based on institutional criteria. Details regarding eligibility, categories, and the application process are communicated transparently during the counselling interaction.
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
 
 
 <section class="student-test">
@@ -717,156 +962,7 @@
             </div>
         </div>
 
-        <div class="marquee-container1">
-            <div class="marquee-track1 marquee-left">
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
 
-                <div class="card">
-                    <p>“The community and mentors made me stay motivated throughout. Fantastic learning experience.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=5" alt="Student">
-                        <div>
-                            <div class="name">Sanya Verma</div>
-                            <div class="role">BBA, Delhi NCR</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Duplicate cards -->
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
 
     </div>
 </section>
@@ -874,9 +970,9 @@
 
 
 
-<section class="related-courses">
+<!-- <section class="related-courses">
     <div class="container">
-        <!-- <h5 class="sub-head text-center cen">Related Courses</h5> -->
+        
         <h2 class="title text-center">Our Related <span>Course</span></h2>
 
         <div class="related-course-grid">
@@ -919,7 +1015,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
 
 
@@ -997,6 +1093,74 @@
                     items: 4
                 }
             }
+        });
+    });
+</script>
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+
+        const images = document.querySelectorAll(".image_changer img");
+        let index = 0;
+
+        setInterval(() => {
+
+            images[index].classList.remove("active");
+            index = (index + 1) % images.length;
+            images[index].classList.add("active");
+
+        }, 3000);
+
+    });
+</script>
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const menuItems = document.querySelectorAll(".mainmenu li a");
+        const sections = [];
+
+        // Collect section IDs
+        menuItems.forEach(item => {
+            const id = item.getAttribute("href");
+            if (id && id.startsWith("#")) {
+                const section = document.querySelector(id);
+                if (section) sections.push(section);
+            }
+        });
+
+        // Scroll Listener
+        window.addEventListener("scroll", function() {
+            let scrollPos = window.scrollY + 150; // adjust for offset
+
+            sections.forEach(sec => {
+                if (scrollPos >= sec.offsetTop && scrollPos < sec.offsetTop + sec.offsetHeight) {
+
+                    // remove current from all
+                    menuItems.forEach(link => {
+                        link.parentElement.classList.remove("current");
+                    });
+
+                    // add current to active one
+                    document.querySelector(`.mainmenu li a[href="#${sec.id}"]`)
+                        .parentElement.classList.add("current");
+                }
+            });
+        });
+
+        // Smooth scroll on click
+        menuItems.forEach(item => {
+            item.addEventListener("click", function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute("href"));
+                window.scrollTo({
+                    top: target.offsetTop - 120,
+                    behavior: "smooth"
+                });
+            });
         });
     });
 </script>

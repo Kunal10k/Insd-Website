@@ -72,12 +72,12 @@
         <div class="row align-items-center">
 
             <!-- LEFT COLUMN -->
-            <div class="col-md-7">
+            <div class="col-md-6">
                 <div class="career-wrapper">
                     <div class="career-info">
                         <h2 class="title">
                             Recruiters & Industry
-                            <br>
+
                             <span>Brand Partners</span>
                         </h2>
                         <p class="para">Students of INSD Kolkata have secured placements and internships across leading brands, design studios, agencies, and professional organisations within the design industry.</p>
@@ -141,7 +141,7 @@
             </div>
 
             <!-- RIGHT COLUMN -->
-            <div class="col-md-5">
+            <div class="col-md-6">
                 <div class="career-brands">
                     <h4 class="title text-center mb-3">
                         Our Hiring <span>Partners</span>

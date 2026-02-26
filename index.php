@@ -21,7 +21,7 @@
           <div class="col-md-6">
             <div class="ban-cont">
               <div class="trust_logo">
-                <img src="assets/img/trust logo-Photoroom.png" alt="" class="w-25 mb-3">
+                <img src="assets/img/trust-logo.png" alt="" class="w-25 mb-3">
               </div>
               <div class="banner-top">
                 <div class="banner-badge-top">

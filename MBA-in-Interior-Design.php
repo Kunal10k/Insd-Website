@@ -5,23 +5,27 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="banner-top  ">
+
+                <div class="trust_logo">
+                    <img src="assets/img/and.png" alt="" class="w-25 mb-3">
+                </div>
+                <div class="banner-top  erds">
                     <div class="banner-badge-top  ">
                         <i class="fa-solid fa-calendar-days"></i>
                         <span class="subtitle">2 Years</span>
                     </div>
 
-                    <div class="banner-badge-top m-0">
+                    <div class="banner-badge-top  m-0">
                         <i class="fa-solid fa-building-columns"></i>
                         <span class="subtitle">Full-Time | On-Campus</span>
                     </div>
 
-                    <div class="banner-badge-top mx-3">
+                    <div class="banner-badge-top  mx-3">
                         <i class="fa-solid fa-graduation-cap"></i>
-                        <span class="subtitle">Graduation (Any Stream)</span>
+                        <span class="subtitle">Graduation </span>
                     </div>
 
-                    <div class="banner-badge-top mx-3">
+                    <div class="banner-badge-top  mx-3">
                         <i class="fa-solid fa-graduation-cap"></i>
                         <span class="subtitle">Kolkata</span>
                     </div>
@@ -31,13 +35,13 @@
                 <h1 class="title w-100 w-lg-75"> MBA in Interior Designing & <br> <span>Technology</span></span>
                 </h1>
 
-                <p>A career-focused postgraduate program combining design expertise, <br>management skills, and technology</p>
+                <!-- <p>A career-focused postgraduate program combining design expertise, <br>management skills, and technology</p>
                 <p class="para w-50 ">
                     The MBA in Interior Designing & Technology at INSD Kolkata prepares graduates for leadership, blending design, business, and technology.
-                </p>
+                </p> -->
                 <div class="ban-btn mt-4">
 
-                    <a href="#" class="btn-animated btn-light">
+                    <a href="#test2" class="btn-animated btn-light">
                         <div class="btn-text-wrap">
                             <div class="btn-text">Apply Now</div>
                             <div class="btn-text-hover">Apply Now</div>
@@ -50,7 +54,7 @@
                         </div>
                     </a>
 
-                    <a href="#" class="btn-animated btn-light1">
+                    <a href="#test2" class="btn-animated btn-light1">
                         <div class="btn-text-wrap">
                             <div class="btn-text">Book Free Counselling</div>
                             <div class="btn-text-hover">Book Free Counselling</div>
@@ -84,7 +88,7 @@
 
 
 
-                    <form action="contact.php" method="POST">
+                    <form action="contact.php" method="POST" id="test2">
                         <div class=" mt-4">
                             <label for="name" class="form-label">Name <span style="color: #a78e59;">*</span></label>
                             <input type="text" class="form-control" id="name" placeholder="Enter Name" name="name">
@@ -149,7 +153,7 @@
                             </p>
                             <div class="ban-btn">
 
-                                <a href="#" class="btn-animated btn-light">
+                                <a href="#test2" class="btn-animated btn-light">
                                     <div class="btn-text-wrap">
                                         <div class="btn-text">Download Brochure</div>
                                         <div class="btn-text-hover">Download Brochure</div>
@@ -168,7 +172,7 @@
                     </div>
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="coursecontent">
                         <div class="rbt-accordion-style rbt-accordion-02 accordion">
-                            <h4 class="mt-3 title">Curriculum <span>Structure</span> </h4>
+                            <h4 class="mt-3 title-sm">Curriculum Structure </h4>
 
 
 
@@ -305,7 +309,7 @@
                                         <div>
 
                                             <!-- Book Free Counselling -->
-                                            <a href="#" class="btn-animated btn-light">
+                                            <a href="#test2" class="btn-animated btn-light">
                                                 <div class="btn-text-wrap">
                                                     <div class="btn-text">Book Free Counselling</div>
                                                     <div class="btn-text-hover">Book Free Counselling</div>
@@ -317,7 +321,7 @@
                                             </a>
 
                                             <!-- Book Free Counselling -->
-                                            <a href="#" class="btn-animated btn-light">
+                                            <a href="#test2" class="btn-animated btn-light">
                                                 <div class="btn-text-wrap">
                                                     <div class="btn-text"> Speak to an Academic Advisor</div>
                                                     <div class="btn-text-hover"> Speak to an Academic Advisor</div>
@@ -356,24 +360,24 @@
                             </p>
 
                             <ul class="rbt-list-style-1 mt-2">
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Design Manager</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Interior Design Consultant</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Project Manager (Interiors)</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Design & Execution Lead</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Business Development Manager (Design Firms)</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Entrepreneur / Design Studio Owner</li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Design Manager</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Interior Design Consultant</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Project Manager (Interiors)</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Design & Execution Lead</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Business Development Manager (Design Firms)</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Entrepreneur / Design Studio Owner</strong></li>
                             </ul>
 
                             <h6 class="py-2">Placement Highlights</h6>
-                            <ul class="rbt-list-style-1">
-                                <li><i class="fa-solid fa-circle-check me-2"></i>100% Placement Assistance for eligible students</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Opportunities across design studios, corporates, real estate firms, and execution companies</li>
+                            <ul class="rbt-list-style-1 mt-3">
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>100% Placement Assistance for eligible students</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Opportunities across design studios, corporates, real estate firms, and execution companies</strong></li>
                             </ul>
 
 
 
 
-                            <a href="#" class="btn-animated btn-light">
+                            <a href="#test2" class="btn-animated btn-light">
                                 <div class="btn-text-wrap">
                                     <div class="btn-text"> Get Placement Details</div>
                                     <div class="btn-text-hover"> Get Placement Details</div>
@@ -398,14 +402,14 @@
 
                             <div class="fees-section">
                                 <h6 class="py-2">Fees & Scholarships (Overview)</h6>
-                                <ul class="rbt-list-style-1">
+                                <ul class="rbt-list-style-1 mt-3">
                                     <li><i class="fa-solid fa-circle-check me-2"></i>Fee structure details are shared during counselling</li>
                                     <li><i class="fa-solid fa-circle-check me-2"></i>Scholarship and financial assistance options available for eligible students</li>
                                 </ul>
                             </div>
 
                             <div class="btn">
-                                <a href="#" class="btn-animated btn-light">
+                                <a href="#test2" class="btn-animated btn-light">
                                     <div class="btn-text-wrap">
                                         <div class="btn-text">Get Fee Details</div>
                                         <div class="btn-text-hover">Get Fee Details</div>
@@ -416,7 +420,7 @@
                                     </div>
                                 </a>
 
-                                <a href="#" class="btn-animated btn-light">
+                                <a href="#test2" class="btn-animated btn-light">
                                     <div class="btn-text-wrap">
                                         <div class="btn-text">Talk to a Counsellor</div>
                                         <div class="btn-text-hover">Talk to a Counsellor</div>
@@ -450,87 +454,29 @@
                 <h2 class="mb-3 title">
                     Why MBA in Interior Designing & <span>Technology at INSD Kolkata</span>
                 </h2>
-
-                <ul class="list-unstyled mt-4">
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Industry-aligned curriculum with practical orientation
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Studio-based learning and hands-on design training
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Experiential learning through site visits and live projects
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Mentorship from practicing designers and entrepreneurs
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Structured career guidance and placement support
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Integrated curriculum combining design, management, and technology
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Strong focus on execution, strategy, and professional practice
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Live projects, case studies, and industry exposure
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Mentorship from industry experts and working professionals
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Career and placement support for managerial and leadership roles
-                    </li>
+                <ul class="course-features">
+                    <li><i class="fa-solid fa-check-circle"></i> Integrated curriculum combining design, management, and technology</li>
+                    <li><i class="fa-solid fa-check-circle"></i> Strong focus on execution, strategy, and professional practice</li>
+                    <li><i class="fa-solid fa-check-circle"></i> Live projects, case studies, and industry exposure</li>
+                    <li><i class="fa-solid fa-check-circle"></i> Mentorship from industry experts and working professionals</li>
+                    <li><i class="fa-solid fa-check-circle"></i> Career and placement support for managerial and leadership roles</li>
                 </ul>
-
             </div>
 
             <!-- RIGHT IMAGE -->
             <div class="col-lg-5 text-center">
-                <img src="assets/img/p1.png"
-                    alt="B.Des Interior Design INSD Kolkata"
-                    class="img-fluid rounded shadow">
+                <div class="image_changer" style="height: 450px;">
+
+                    <img src="assets/img/p1.png" class="">
+                    <img src="assets/img/L2.jpeg" class="active">
+                    <img src="assets/img/L3.jpeg" class="">
+
+
+
+                </div>
             </div>
 
         </div>
-    </div>
-</section>
-
-
-
-<section class="career-cta">
-    <div class="container text-center">
-
-        <h3 class="cta-title">
-            Unsure about your career in Interior Design?
-        </h3>
-
-        <p class="cta-text mb-3">
-            Get expert guidance on career scope, courses, and professional opportunities.
-        </p>
-
-        <a href="#" class="btn-animated btn-light ">
-            <div class="btn-text-wrap">
-                <div class="btn-text">Talk to a Counsellor</div>
-                <div class="btn-text-hover">Talk to a Counsellor</div>
-            </div>
-            <div class="btn-icon-wrap">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-            </div>
-        </a>
-
     </div>
 </section>
 
@@ -540,63 +486,145 @@
 
         <div class="instructor-wrapper shadow-sm p-4 rounded">
 
-            <h4 class="instructor-title mb-3">Instructor</h4>
-            <p class="instructor-description mb-5">
-                Learn Under the Guidance of Industry-Active Professionals.
-                The B.Des in Interior Design program is guided by instructors actively engaged in professional design practice.
-                They bring real-world perspective into studio learning, design critiques, and project execution, ensuring that academic learning aligns with current industry standards.
-            </p>
+            <h4 class="title text-center">Instructor</h4>
 
-            <div class="instructor-carousel owl-carousel">
 
-                <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Rishita Sengupta</h5>
-                    <p class="instructor-placement">Placed at: <span>H&M</span></p>
+            <div class="instructor-carousel owl-carousel owl-loaded owl-drag">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="owl-stage-outer">
+                    <div class="owl-stage" style="transform: translate3d(-2176px, 0px, 0px); transition: 0.7s; width: 4352px;">
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Prity Dutta</h5>
+                                <p class="instructor-placement">Placed at: <span>Manish</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Muskan Agarwal</h5>
+                                <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Naziya Khan</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Ritika Sharma</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Rishita Sengupta</h5>
+                                <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Damini Bhattacharya</h5>
+                                <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Sneha Singh</h5>
+                                <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Abhishek Mishra</h5>
+                                <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Prity Dutta</h5>
+                                <p class="instructor-placement">Placed at: <span>Manish</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Muskan Agarwal</h5>
+                                <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Naziya Khan</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Ritika Sharma</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Rishita Sengupta</h5>
+                                <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Damini Bhattacharya</h5>
+                                <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Sneha Singh</h5>
+                                <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Abhishek Mishra</h5>
+                                <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
-                <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Damini Bhattacharya</h5>
-                    <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
-                </div>
-
-                <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Sneha Singh</h5>
-                    <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
-                </div>
-
-                <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Abhishek Mishra</h5>
-                    <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
-                </div>
-
-                <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Prity Dutta</h5>
-                    <p class="instructor-placement">Placed at: <span>Manish</span></p>
-                </div>
-
-                <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Muskan Agarwal</h5>
-                    <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
-                </div>
-
-                <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Naziya Khan</h5>
-                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                </div>
-
-                <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Ritika Sharma</h5>
-                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                </div>
-
+                <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
+                <div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div>
             </div>
         </div>
     </div>
@@ -604,48 +632,151 @@
 
 
 
+
+<section class="cta-sec" style="background-image: url('./assets/img/c2.jpg'); 
+         background-attachment: fixed; 
+         background-size: cover; 
+         background-position: center; padding: 25px 0;">
+    <div class="container">
+        <div class="cta-content">
+
+            <h2 class="title text-center text-white"> Not sure how this MBA fits into your career progression?</h2>
+            <!-- <p class="cta-text mb-3">
+                Get expert guidance on career scope, courses, and professional opportunities.
+            </p> -->
+            <div class="mt-4">
+                <a href="#test" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Talk to a Counsellor</div>
+                        <div class="btn-text-hover">Talk to a Counsellor</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+                <a href="#test" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Get Career Guidance</div>
+                        <div class="btn-text-hover">Get Career Guidance</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="alumni-container p-0">
+    <div class="row">
+        <div class="col-md-4 content ny ">
+
+            <h6 class="title ">Interior Industry Alliances</h6>
+            <div class="my-2 ecx">
+                <!-- <a href="#" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Industry Collaborations</div>
+                        <div class="btn-text-hover">Industry Collaborations</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a> -->
+            </div>
+
+
+
+        </div>
+        <div class="col-md-8 center-box">
+            <!-- MARQUEE LEFT -->
+            <div class="marquee-container">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
+
+
+
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
+
+
+                </div>
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+
+</section>
+
+
 <section class="student-work">
     <div class="container">
-        <h5 class="sub-head text-center cen">Student work</h5>
-        <h2 class="title text-center">WALK THE STAGE <span>AS A DESIGNER</span></h2>
+        <!-- <h5 class="sub-head text-center cen">Student work</h5> -->
+        <h2 class="title text-center">Life at INSD <span>Kolkata</span></h2>
 
-        <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+        <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
 
         <div class="student-work-grid">
 
             <div class="work-item">
                 <a href="assets/img/1 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/1 (2).jpg" alt="Student Work">
+                    <img src="assets/img/interior/1- (1).jpeg" alt="Student Work">
                 </a>
                 <div class="work-overlay">
-                    <h4>Fashion Design</h4>
+                    <!-- <h4>Fashion Design</h4> -->
                 </div>
             </div>
 
             <div class="work-item">
                 <a href="assets/img/2 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/2 (2).jpg" alt="Student Work">
+                    <img src="assets/img/interior/1- (2).jpeg" alt="Student Work">
+
                 </a>
                 <div class="work-overlay">
-                    <h4>Illustration</h4>
+                    <!-- <h4>Illustration</h4> -->
                 </div>
             </div>
 
             <div class="work-item">
                 <a href="assets/img/6-insd.jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/6-insd.jpg" alt="Student Work">
+                    <img src="assets/img/interior/1- (3).jpeg" alt="Student Work">
+
                 </a>
                 <div class="work-overlay">
-                    <h4>Garment Construction</h4>
+                    <!-- <h4>Garment Construction</h4> -->
                 </div>
             </div>
 
             <div class="work-item">
                 <a href="assets/img/3 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/3 (2).jpg" alt="Student Work">
+                    <img src="assets/img/interior/1- (4).jpeg" alt="Student Work">
+
                 </a>
                 <div class="work-overlay">
-                    <h4>Portfolio Work</h4>
+                    <!-- <h4>Portfolio Work</h4> -->
                 </div>
             </div>
 
@@ -814,156 +945,7 @@
             </div>
         </div>
 
-        <div class="marquee-container1">
-            <div class="marquee-track1 marquee-left">
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
 
-                <div class="card">
-                    <p>“The community and mentors made me stay motivated throughout. Fantastic learning experience.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=5" alt="Student">
-                        <div>
-                            <div class="name">Sanya Verma</div>
-                            <div class="role">BBA, Delhi NCR</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Duplicate cards -->
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
 
     </div>
 </section>
@@ -971,52 +953,6 @@
 
 
 
-<section class="related-courses">
-    <div class="container">
-        <!-- <h5 class="sub-head text-center cen">Related Courses</h5> -->
-        <h2 class="title text-center">Our Related <span>Course</span></h2>
-
-        <div class="related-course-grid">
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="https://cmr.edu.in/blog/wp-content/uploads/2024/11/Bachelor-Of-Design-And-Career-Opportunities.webp" alt="Course">
-                </div>
-                <div class="course-info">
-                    <a href="B.Des-in-Interior-Design-intern.php">
-                        <h4>Bachelor of Design in
-                            Interior Design</h4>
-                    </a>
-
-                </div>
-            </div>
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/graph.webp" alt="Course">
-                </div>
-                <div class="course-info">
-                    <a href="MBA-in-Interior-Design.php">
-                        <h4>MBA in Interior Design</h4>
-                    </a>
-                </div>
-            </div>
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/INTERIOR.jpg" alt="Course">
-                </div>
-                <div class="course-info">
-                    <a href="Diploma-&-Advanced-Diploma-in-Interior-Design.php">
-                        <h4>Diploma &
-                            Advanced Diploma in Interior
-                            Design</h4>
-                    </a>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
 
 
 
@@ -1120,6 +1056,72 @@
                     items: 4
                 }
             }
+        });
+    });
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+
+        const images = document.querySelectorAll(".image_changer img");
+        let index = 0;
+
+        setInterval(() => {
+
+            images[index].classList.remove("active");
+            index = (index + 1) % images.length;
+            images[index].classList.add("active");
+
+        }, 3000);
+
+    });
+</script>
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const menuItems = document.querySelectorAll(".mainmenu li a");
+        const sections = [];
+
+        // Collect section IDs
+        menuItems.forEach(item => {
+            const id = item.getAttribute("href");
+            if (id && id.startsWith("#")) {
+                const section = document.querySelector(id);
+                if (section) sections.push(section);
+            }
+        });
+
+        // Scroll Listener
+        window.addEventListener("scroll", function() {
+            let scrollPos = window.scrollY + 150; // adjust for offset
+
+            sections.forEach(sec => {
+                if (scrollPos >= sec.offsetTop && scrollPos < sec.offsetTop + sec.offsetHeight) {
+
+                    // remove current from all
+                    menuItems.forEach(link => {
+                        link.parentElement.classList.remove("current");
+                    });
+
+                    // add current to active one
+                    document.querySelector(`.mainmenu li a[href="#${sec.id}"]`)
+                        .parentElement.classList.add("current");
+                }
+            });
+        });
+
+        // Smooth scroll on click
+        menuItems.forEach(item => {
+            item.addEventListener("click", function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute("href"));
+                window.scrollTo({
+                    top: target.offsetTop - 120,
+                    behavior: "smooth"
+                });
+            });
         });
     });
 </script>

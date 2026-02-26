@@ -4,21 +4,24 @@
 
 <section class="landing_banner " id="form">
     <div class="banner" style="background-image: url('./assets/img/2.jpg');">
+        <marquee behavior="scroll" direction="left" scrollamount="6" class="add">
+            <h5>ADMISSIONS OPEN | 2026–27 INTAKE </h5>
+        </marquee>
         <div class="container">
             <div class="row">
-                <div class="col-md-7 col-sm-12 landing_pick">
+                <div class="col-md-7 col-sm-12 mt-5">
 
 
                     <div class="landing_content">
-                        <div class="trust_logo">
-                            <img src="assets/img/trust logo-Photoroom.png" alt="" class="w-25 mb-3">
-                        </div>
-                        <h5>Admissions Open | 2026-27 Intake </h5>
-                        <h1 class="w-100">
-                            Start your Interior Design Career <br>and Get Hired
-                        </h1>
 
-                        <h6 class="mt-3">Diploma | B.Sc | B.Des | MBA</h6>
+                        <h1 class="w-100">
+                            Start your Interior Design Career and Get Hired
+                        </h1>
+                        <div class="trust_logo">
+                            <img src="assets/img/and.png" alt="" class="w-50 mb-3">
+                        </div>
+
+                        <h6 class="mt-2">Diploma | B.Des | MBA</h6>
 
 
                         <!--    <p class="para">
@@ -99,7 +102,7 @@
                                 <select name="course" class="form-control cxza" required>
                                     <option value="">-- Choose Your Course --</option>
                                     <option value="Diploma / Advanced Diploma in Fashion Design">
-                                        Diploma / Advanced Diploma in Interior Design
+                                        Diploma & Advanced Diploma in Interior Design
                                     </option>
                                     <option value="B.Des in Fashion Design & Technology">
                                         B.Des in Interior Design
@@ -239,11 +242,14 @@
             <div class="col-md-3">
                 <div class="stats-card">
                     <div class="stats-icon">
-                        <img src="assets/img/icon/1- (1).png">
+                        <img src="assets/img/about/training.png">
                     </div>
                     <div class="stats-content">
-                        <h2><span class="stats-count" data-num="27">27</span>+</h2>
-                        <p>Total Achievement</p>
+                        <h2><span class="stats-count" data-num="300" data-suffix="+">27</span>+</h2>
+                        <p>TRAINING & PLACEMENT Cos
+
+
+                        </p>
                     </div>
                 </div>
             </div>
@@ -251,12 +257,14 @@
             <div class="col-md-3">
                 <div class="stats-card">
                     <div class="stats-icon">
-                        <img src="assets/img/icon/1- (2).png">
+                        <img src="assets/img/about/save-money.png">
+
 
                     </div>
                     <div class="stats-content">
-                        <h2><span class="stats-count" data-num="145">145</span>+</h2>
-                        <p>Total Students</p>
+                        <h2><span class="stats-count" data-num="11" data-suffix="L">11</span>L</h2>
+                        <p>HIGHEST PACKAGE
+                        </p>
                     </div>
                 </div>
             </div>
@@ -264,12 +272,14 @@
             <div class="col-md-3">
                 <div class="stats-card">
                     <div class="stats-icon">
-                        <img src="assets/img/icon/1- (3).png">
+                        <img src="assets/img/about/job-offer.png">
+
 
                     </div>
                     <div class="stats-content">
-                        <h2><span class="stats-count" data-num="10000">10000</span></h2>
-                        <p>Total Instructor</p>
+                        <h2><span class="stats-count" data-num="100">100 </span>%</h2>
+                        <p>PLACEMENT ASSISTANCE
+                        </p>
                     </div>
                 </div>
             </div>
@@ -277,12 +287,14 @@
             <div class="col-md-3">
                 <div class="stats-card">
                     <div class="stats-icon">
-                        <img src="assets/img/icon/1- (4).png">
+                        <img src="assets/img/about/graduate-hat.png">
+
 
                     </div>
                     <div class="stats-content">
-                        <h2><span class="stats-count" data-num="214">214</span>+</h2>
-                        <p>Over The World</p>
+                        <h2><span class="stats-count" data-num="15000">15000</span>+</h2>
+                        <p>STUDENTS GRADUATED
+                        </p>
                     </div>
                 </div>
             </div>
@@ -335,7 +347,7 @@
             <div class="col-md-4">
                 <div class="course-card">
                     <div class="card-header">
-                        <h2>B.Des in Interior Design</h2>
+                        <h2>Bachelor of Design in Interior Design(B.Des)</h2>
 
 
                     </div>
@@ -359,7 +371,7 @@
             <div class="col-md-4">
                 <div class="course-card">
                     <div class="card-header">
-                        <h2>MBA in Interior Designing & Technology</h2>
+                        <h2>Master of Business Administration in Interior Designing & Technology(MBA)</h2>
 
 
                     </div>
@@ -423,23 +435,116 @@
 </section>
 
 
+<section class="why-choose">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-md-7">
+                <!-- <h5 class="sub-head">Why Choose INSD Kolkata</h5> -->
+                <h2 class="title">
+                    WHY STUDY INTERIOR <br>
+                    <span>DESIGN AT INSD</span>
+                </h2>
+
+
+
+                <div class="benifit-wraps">
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Taught by practicing designers & entrepreneurs</h5>
+                            <!-- <p>Courses designed as per current industry standards and trends.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Studio + site-based learning approach</h5>
+                            <!-- <p>Hands-on training through live projects and real design studios.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Live projects & on-the-job training</h5>
+                            <!-- <p>Learn directly from industry professionals and creative leaders.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Affordable Quality Education
+                            </h5>
+                            <!-- <p>Premium design education that remains accessible and cost-effective.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Industry-relevant tools & workflows</h5>
+                            <!-- <p>Strong placement support, portfolio building, and career guidance.</p> -->
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+
+
+
+            <div class="col-md-5">
+
+                <div class="image_changer">
+
+                    <img src="assets/img/L1.jpeg" class="">
+                    <img src="assets/img/L2.jpeg" class="active">
+                    <img src="assets/img/L3.jpeg" class="">
+
+
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
 
 
 
 <section class="mentor-area">
     <div class="container">
         <!-- <p class="sub-head text-center cen ">QUALIFIED TEACHERS</p> -->
-        <h2 class="title text-center ">Meet the teacher who <br> <span>teaches you online</span></h2>
+        <h2 class="title text-center ">Industry Advisory <br> <span>Counselling</span></h2>
 
         <div class="owl-carousel mentor-owl mt-5">
 
-            <div class="mentor-item">
+            <!-- <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg" />
 
                 </div>
                 <h4>Aparajita Toor</h4>
-                <!-- <span>Musician</span> -->
+             
             </div>
 
             <div class="mentor-item">
@@ -449,8 +554,8 @@
 
                 </div>
                 <h4>Azad Adham</h4>
-                <!-- <span>Designer</span> -->
-            </div>
+          
+            </div> -->
 
             <div class="mentor-item">
                 <div class="mentor-img">
@@ -476,13 +581,13 @@
                 <h4>Neha Lulla</h4>
                 <span>Jewellery Designer</span>
             </div>
-            <div class="mentor-item">
+            <!-- <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg" />
 
                 </div>
                 <h4>Olivier Nicolay</h4>
-                <!-- <span>Jewellery Designer</span> -->
+               
             </div>
             <div class="mentor-item">
                 <div class="mentor-img">
@@ -490,7 +595,7 @@
 
                 </div>
                 <h4>Payal Singhal</h4>
-                <!-- <span>Jewellery Designer</span> -->
+              
             </div>
             <div class="mentor-item">
                 <div class="mentor-img">
@@ -498,24 +603,24 @@
 
                 </div>
                 <h4>Rishab Suresh</h4>
-                <!-- <span>Jewellery Designer</span> -->
-            </div>
+              
+            </div> -->
             <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation & MASH).jpg" />
 
                 </div>
                 <h4>Shalini Passi</h4>
-                <span>Founder,Art Foundation & MASH</span>
+                <span>Founder Art Foundation & MASH</span>
             </div>
-            <div class="mentor-item">
+            <!-- <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Sophie Pereira.jpg" />
 
                 </div>
                 <h4>Sophie Pereira</h4>
-                <!-- <span>Founder,Art Foundation & MASH</span> -->
-            </div>
+               
+            </div> -->
             <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg" />
@@ -529,8 +634,45 @@
     </div>
 </section>
 
+<section class="cta-sec" style="background-image: url('./assets/img/c2.jpg'); 
+         background-attachment: fixed; 
+         background-size: cover; 
+         background-position: center; padding: 25px 0;">
+    <div class="container">
+        <div class="cta-content">
 
-<section class="alumni-container p-0">
+            <h2 class="title text-center text-white">Need clarity before choosing?</h2>
+
+            <div class="mt-4">
+                <a href="#form" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Talk to a Counsellor</div>
+                        <div class="btn-text-hover">Talk to a Counsellor</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+                <a href="#form" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Get Career Guidance</div>
+                        <div class="btn-text-hover">Get Career Guidance</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<!-- <section class="alumni-container p-0">
 
 
     <div class="row">
@@ -603,97 +745,14 @@
 
 
 
-</section>
+</section> -->
 
-
-
-<section class="student-achievers py-5">
-    <div class="container">
-
-        <div class="text-center mb-3">
-            <h2 class="title">STUDENT <span>ACHIEVER’S</span></h2>
-        </div>
-
-        <div class="owl-carousel achiever-carousel">
-
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (1).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (2).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (3).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (4).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (5).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (6).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (7).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (8).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (9).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (10).jpg"></div>
-
-
-        </div>
-
-    </div>
-</section>
-
-
-
-
-
-<section class="alumni-container py-5">
-    <div class="row">
-        <div class="col-md-4 content">
-
-            <h6 class="title">Top <br>Recruiters</h6>
-
-
-
-        </div>
-        <div class="col-md-8">
-
-
-            <!-- MARQUEE RIGHT -->
-            <div class="marquee-container ">
-                <div class="marquee marquee-right">
-                    <div class="item"><img
-                            src="assets/img/logo/asian.png">
-                    </div>
-                    <div class="item"><img
-                            src="assets/img/logo/ai-arch.png">
-                    </div>
-                    <div class="item"><img
-                            src="assets/img/logo/goodreej.jpg">
-                    </div>
-                    <div class="item"><img
-                            src="assets/img/logo/mobeel.png">
-                    </div>
-                    <div class="item"><img
-                            src="assets/img/logo/narshima.png">
-                    </div>
-                    <div class="item"><img
-                            src="assets/img/logo/lotus.png">
-                    </div>
-                    <div class="item"><img
-                            src="assets/img/logo/blue.jpg">
-                    </div>
-                    <div class="item"><img
-                            src="assets/img/logo/Aditya_Birla_Group_Logo.svg-1-300x184.png">
-                    </div>
-
-
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-
-
-
-</section>
 
 <section class="career-zone">
     <div class="container">
         <div class="row align-items-center">
 
-            <!-- LEFT COLUMN -->
+
             <div class="col-md-5">
                 <div class="career-wrapper">
                     <div class="career-info">
@@ -705,48 +764,42 @@
 
                         <div class="career-metrics mt-3">
 
+                            <!-- Highest Package -->
                             <div class="metric-box">
                                 <div class="metric-icon">
-                                    <i class="fa-solid fa-check"></i>
+                                    <i class="fa-solid fa-indian-rupee-sign"></i>
+                                </div>
+                                <div>
+                                    <h3>14L</h3>
+                                    <p>HIGHEST PACKAGE</p>
+                                </div>
+                            </div>
+
+                            <!-- Placement Assistance -->
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-handshake"></i>
                                 </div>
                                 <div>
                                     <h3>100%</h3>
-                                    <p>Placement Assistance</p>
+                                    <p>PLACEMENT ASSISTANCE</p>
                                 </div>
                             </div>
 
+                            <!-- Brand Partners -->
                             <div class="metric-box">
                                 <div class="metric-icon">
-                                    <i class="fa-solid fa-users"></i>
+                                    <i class="fa-solid fa-building"></i>
                                 </div>
                                 <div>
-                                    <h3>200+</h3>
-                                    <p>Industry Partners</p>
-                                </div>
-                            </div>
-
-                            <div class="metric-box">
-                                <div class="metric-icon">
-                                    <i class="fa-solid fa-briefcase"></i>
-                                </div>
-                                <div>
-                                    <h3>850+</h3>
-                                    <p>Students Placed</p>
+                                    <h3>300+</h3>
+                                    <p>BRAND PARTNERS</p>
                                 </div>
                             </div>
 
                         </div>
 
-                        <!-- <a href="#" class="btn-animated btn-light mt-4">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">View Placements</div>
-                                <div class="btn-text-hover">View Placements</div>
-                            </div>
-                            <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                            </div>
-                        </a> -->
+
 
                     </div>
                 </div>
@@ -822,124 +875,207 @@
     </div>
 </section>
 
-
-
-
-
-
-
-<section class="cta-sec"
-    style="background-image: url('./assets/img/c2.jpg'); 
-         background-attachment: fixed; 
-         background-size: cover; 
-         background-position: center;">
+<section class="student-achievers py-5">
     <div class="container">
-        <div class="cta-content">
 
-            <h2 class="title text-center text-white">Start Your Fashion Design Career at INSD</h2>
+        <div class="text-center mb-3">
+            <h2 class="title">STUDENT <span>ACHIEVER’S</span></h2>
+        </div>
 
-            <div class="mt-4">
-                <a href="#form" class="btn-animated btn-light">
-                    <div class="btn-text-wrap">
-                        <div class="btn-text">Apply Now</div>
-                        <div class="btn-text-hover">Apply Now</div>
-                    </div>
-                    <div class="btn-icon-wrap">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon-hover">
-                    </div>
-                </a>
-                <a href="#form" class="btn-animated btn-light">
-                    <div class="btn-text-wrap">
-                        <div class="btn-text">Book Counselling</div>
-                        <div class="btn-text-hover">Book Counselling</div>
-                    </div>
-                    <div class="btn-icon-wrap">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon-hover">
-                    </div>
-                </a>
-                <a href="#form" class="btn-animated btn-light mt-4">
-                    <div class="btn-text-wrap">
-                        <div class="btn-text">Download Brochure</div>
-                        <div class="btn-text-hover">Download Brochure</div>
-                    </div>
-                    <div class="btn-icon-wrap">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon-hover">
-                    </div>
-                </a>
+        <div class="owl-carousel achiever-carousel">
+
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (1).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (2).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (3).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (4).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (5).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (6).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (7).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (8).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (9).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (10).jpg"></div>
+
+
+        </div>
+
+    </div>
+</section>
+
+
+
+<section class="roles-section">
+    <div class="container">
+        <h2 class="title text-center">
+            ROLES THEY CAN <br> <span>TAKE UP</span>
+        </h2>
+
+        <div class="row g-4 mt-4">
+
+            <!-- Interior Design Consultant -->
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon"><i class="bi bi-house-door"></i></div>
+                    <h5>Interior Design Consultant</h5>
+                    <!-- <p>Provide professional guidance for space planning and design concepts.</p> -->
+                </div>
             </div>
+
+            <!-- Residential Interior Designer -->
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon"><i class="bi bi-building"></i></div>
+                    <h5>Residential Interior Designer</h5>
+                    <!-- <p>Create beautiful and functional living spaces for homes.</p> -->
+                </div>
+            </div>
+
+            <!-- Commercial Designer -->
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon"><i class="bi bi-shop"></i></div>
+                    <h5>Commercial Interior Designer</h5>
+                    <!-- <p>Design offices, retail stores, hotels and commercial environments.</p> -->
+                </div>
+            </div>
+
+            <!-- Furniture Designer -->
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon"><i class="bi bi-shop"></i></div>
+                    <h5>Furniture Designer</h5>
+                    <!-- <p>Design innovative furniture blending comfort and aesthetics.</p> -->
+                </div>
+            </div>
+
+            <!-- Office Space Planner -->
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon"><i class="bi bi-columns-gap"></i></div>
+                    <h5>Office Space Planner</h5>
+                    <!-- <p>Optimize office layouts for productivity and collaboration.</p> -->
+                </div>
+            </div>
+
+            <!-- Interior Product Designer -->
+            <div class="col-lg-4 col-md-6">
+                <div class="role-card">
+                    <div class="role-icon"><i class="bi bi-box-seam"></i></div>
+                    <h5>Interior Product Designer</h5>
+                    <!-- <p>Create décor products, lighting, and interior accessories.</p> -->
+                </div>
+            </div>
+
+
 
         </div>
     </div>
 </section>
+
+<!-- 
+<section class="alumni-container py-5">
+    <div class="row">
+        <div class="col-md-4 content">
+
+            <h6 class="title">Top <br>Recruiters</h6>
+
+
+
+        </div>
+        <div class="col-md-8">
+
+
+    
+            <div class="marquee-container ">
+                <div class="marquee marquee-right">
+                    <div class="item"><img
+                            src="assets/img/logo/asian.png">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/ai-arch.png">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/goodreej.jpg">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/mobeel.png">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/narshima.png">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/lotus.png">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/blue.jpg">
+                    </div>
+                    <div class="item"><img
+                            src="assets/img/logo/Aditya_Birla_Group_Logo.svg-1-300x184.png">
+                    </div>
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+</section> -->
+
+
+
+
+
+
+
+
+
+
+
 
 <section class="alumni-container p-0">
     <div class="row">
-        <div class="col-md-5 content">
+        <div class="col-md-3 content ny ">
 
-            <h6 class="title ">RECOGNISED & <br>FEATURED BY</h6>
-            <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies,
-                industry platforms, and media <br class="d-none d-md-block"> organisations.</p>
+            <h6 class="title ">industry <br>alliance</h6>
+            <div class="my-2 ecx">
+
+            </div>
+
 
 
         </div>
-        <div class="col-md-7">
+        <div class="col-md-9 center-box">
             <!-- MARQUEE LEFT -->
             <div class="marquee-container">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
 
 
-                    <!-- duplicate for infinite loop -->
 
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
-
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
 
 
                 </div>
             </div>
 
-            <!-- MARQUEE RIGHT -->
-            <div class="marquee-container ">
-                <div class="marquee marquee-right">
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
 
 
 
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
-
-                </div>
-            </div>
 
         </div>
     </div>
@@ -952,10 +1088,7 @@
 
 
 
-
-
-
-<section class="course mb-0">
+<!-- <section class="course mb-0">
     <div class="container">
 
 
@@ -1028,7 +1161,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 
@@ -1043,128 +1176,9 @@
 
 
 
-<section class="roles-section">
-    <div class="container">
-        <h2 class="title text-center">
-            ROLES THEY CAN <br> <span>TAKE UP</span>
-        </h2>
-
-        <div class="row g-4 mt-4">
-
-            <!-- Interior Design Consultant -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-house-door"></i></div>
-                    <h5>Interior Design Consultant</h5>
-                    <p>Provide professional guidance for space planning and design concepts.</p>
-                </div>
-            </div>
-
-            <!-- Residential Interior Designer -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-building"></i></div>
-                    <h5>Residential Interior Designer</h5>
-                    <p>Create beautiful and functional living spaces for homes.</p>
-                </div>
-            </div>
-
-            <!-- Commercial Designer -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-shop"></i></div>
-                    <h5>Commercial Interior Designer</h5>
-                    <p>Design offices, retail stores, hotels and commercial environments.</p>
-                </div>
-            </div>
-
-            <!-- Furniture Designer -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-couch"></i></div>
-                    <h5>Furniture Designer</h5>
-                    <p>Design innovative furniture blending comfort and aesthetics.</p>
-                </div>
-            </div>
-
-            <!-- Office Space Planner -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-columns-gap"></i></div>
-                    <h5>Office Space Planner</h5>
-                    <p>Optimize office layouts for productivity and collaboration.</p>
-                </div>
-            </div>
-
-            <!-- Interior Product Designer -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-box-seam"></i></div>
-                    <h5>Interior Product Designer</h5>
-                    <p>Create décor products, lighting, and interior accessories.</p>
-                </div>
-            </div>
-
-            <!-- Project Manager -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-kanban"></i></div>
-                    <h5>Project Manager</h5>
-                    <p>Handle interior projects from concept to execution.</p>
-                </div>
-            </div>
-
-            <!-- Exhibition Space Planner -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-easel"></i></div>
-                    <h5>Exhibition Space Planner</h5>
-                    <p>Design creative exhibition and display environments.</p>
-                </div>
-            </div>
-
-            <!-- Vastu Expert -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-compass"></i></div>
-                    <h5>Vastu Expert</h5>
-                    <p>Provide Vastu-based planning for balanced spaces.</p>
-                </div>
-            </div>
-
-            <!-- Set Designer -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-camera-reels"></i></div>
-                    <h5>Set Designer</h5>
-                    <p>Create sets for films, TV and events.</p>
-                </div>
-            </div>
-
-            <!-- Retail Designer -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-bag"></i></div>
-                    <h5>Retail Designer</h5>
-                    <p>Design engaging retail interiors for customer experience.</p>
-                </div>
-            </div>
-
-            <!-- Acoustic Consultant -->
-            <div class="col-lg-4 col-md-6">
-                <div class="role-card">
-                    <div class="role-icon"><i class="bi bi-soundwave"></i></div>
-                    <h5>Acoustic Consultant</h5>
-                    <p>Plan sound-friendly interiors for studios and offices.</p>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
 
 
-<section class="alumni-container p-0 mt-4">
+<!-- <section class="alumni-container p-0 mt-4">
     <div class="row">
         <div class="col-md-3 content">
 
@@ -1203,7 +1217,7 @@
 
 
 
-</section>
+</section> -->
 
 
 <section class="student-test mt-4">
@@ -1586,12 +1600,10 @@
     <div class="newsletter-content">
         <p class="sub-head text-center text-white">INTERNATIONAL STUDY TOUR TO UK, PARIS, UAE USA</p>
         <h2 class="title text-white">Start your design journey <br>at INSD Kolkata</h2>
-        <!-- <p class="search-line">
-      Get found on search <span class="google-pill"><i class="fa-brands fa-google"></i> Find best Marketing Course</span> without pay for every click.
-    </p> -->
+
         <div class="buttons">
-            <a href="#" class="btn-outline"><i class="fa-solid fa-download"></i> Apply Now | Book Counselling </a>
-            <!-- <a href="#" class="btn-fill">Reserve My Spot <i class="fa-solid fa-arrow-right"></i></a> -->
+            <a href="#" class="btn-outline"><i class="fa-solid fa-user-plus"></i> Apply Now | Book Counselling </a>
+
             <a href="#" class="btn-animated btn-light mt-0">
                 <div class="btn-text-wrap">
                     <div class="btn-text"> Download Brochure</div>
@@ -1908,7 +1920,7 @@
                 items: 3
             },
             992: {
-                items: 5
+                items: 4
             }
         }
     });
@@ -2020,5 +2032,23 @@
                 items: 4
             }
         }
+    });
+</script>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+
+        const images = document.querySelectorAll(".image_changer img");
+        let index = 0;
+
+        setInterval(() => {
+
+            images[index].classList.remove("active");
+            index = (index + 1) % images.length;
+            images[index].classList.add("active");
+
+        }, 3000);
+
     });
 </script>

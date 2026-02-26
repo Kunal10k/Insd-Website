@@ -39,7 +39,7 @@
 
                     <div class="ban-btn mt-3">
 
-                        <a href="#" class="btn-animated btn-light">
+                        <a href="gallery.php" class="btn-animated btn-light">
                             <div class="btn-text-wrap">
                                 <div class="btn-text">Register Now</div>
                                 <div class="btn-text-hover">Register Now</div>
@@ -73,7 +73,8 @@
                     </p>
                     <div class="ban-btn mt-3">
 
-                        <a href="#" class="btn-animated btn-light">
+                        <a href="gallery.php" class="btn-animated btn-light">
+
                             <div class="btn-text-wrap">
                                 <div class="btn-text">Register Now</div>
                                 <div class="btn-text-hover">Register Now</div>
@@ -107,7 +108,8 @@
                     </p>
                     <div class="ban-btn mt-3">
 
-                        <a href="#" class="btn-animated btn-light">
+                        <a href="gallery.php" class="btn-animated btn-light">
+
                             <div class="btn-text-wrap">
                                 <div class="btn-text">Register Now</div>
                                 <div class="btn-text-hover">Register Now</div>

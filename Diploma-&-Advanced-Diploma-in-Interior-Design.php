@@ -9,7 +9,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="banner-top  ">
+                <div class="trust_logo">
+                    <img src="assets/img/and.png" alt="" class="w-25 mb-3">
+                </div>
+                <div class="banner-top erds ">
                     <div class="banner-badge-top  ">
                         <i class="fa-solid fa-calendar-days"></i>
                         <span class="subtitle">Full-Time | On-Campus</span>
@@ -31,9 +34,9 @@
 
                 <h1 class="title w-100 w-lg-75">Diploma & Advanced Diploma in <br><span>Interior Design</span></span>
                 </h1>
-                <p class="para w-100 w-md-50">
+                <!-- <p class="para w-100 w-md-50">
                     Skill-focused interior design programs built on studio learning, <br class="d-none d-md-block"> live projects, and industry exposure.
-                </p>
+                </p> -->
                 <div class="ban-btn mt-4">
 
                     <a href="#" class="btn-animated btn-light">
@@ -138,7 +141,7 @@
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="overview">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
                             <div class="section-title">
-                                <h4 class="title-sm">Course Overview</h4>
+                                <h4 class="Small_head">Course Overview</h4>
                             </div>
                             <p class="para pb-4">
                                 The Diploma and Advanced Diploma programs focus on hands-on interior design learning, studio execution, site exposure, and professional understanding.
@@ -165,7 +168,7 @@
                     </div>
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="coursecontent">
                         <div class="rbt-accordion-style rbt-accordion-02 accordion">
-                            <h4 class="mt-3 title">Curriculum <span>Structure</span> </h4>
+                            <h4 class="mt-3 Small_head">Curriculum <span>Structure</span> </h4>
 
 
 
@@ -177,7 +180,7 @@
                                             data-bs-target="#collapseOne"
                                             aria-expanded="false">
                                             <i class="fa-solid fa-layer-group me-2"></i>
-                                            Interior Design Program – Curriculum Structure & Learning Experience
+                                            Curriculum Structure & Learning Experience
                                         </button>
                                     </h2>
 
@@ -266,18 +269,25 @@
 
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="details">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
-                            <h6 class="py-2">Career Opportunities & Placements</h6>
-                            <ul class="rbt-list-style-1">
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Interior Design Assistant</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Junior Interior Designer</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Site Coordinator</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Drafting & Design Support Executive</li>
+                            <h6 class="Small_head">Career Opportunities & Placements</h6>
+                            <ul class="rbt-list-style-1 mt-3">
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Interior Design Assistant</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Junior Interior Designer</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Site Coordinator</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Drafting & Design Support Executive</strong></li>
                             </ul>
 
-                            <h6 class="py-2">Placement Support</h6>
-                            <ul class="rbt-list-style-1">
-                                <li><i class="fa-solid fa-circle-check me-2"></i>100% Placement Assistance for eligible students</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Exposure to design studios and execution-focused work environments</li>
+                            <h6 class="Small_head">Placement Support</h6>
+                            <ul class="rbt-list-style-1 mt-4">
+                                <li>
+                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                    <strong>100% Placement Assistance</strong> for eligible students
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                    Exposure to <strong>design studios</strong> and
+                                    <strong>execution-focused work environments</strong>
+                                </li>
                             </ul>
 
                             <div class="mt-3">
@@ -301,13 +311,13 @@
 
 
                         </div>
-                        <div class="rbt-show-more-btn">Show More</div>
+                        <!-- <div class="rbt-show-more-btn">Show More</div> -->
                     </div>
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="Eligibility">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
 
-                            <h6 class="py-2">Eligibility & Admission Snapshot</h6>
-                            <ul class="rbt-list-style-1">
+                            <h6 class="Small_head">Eligibility & Admission Snapshot</h6>
+                            <ul class="rbt-list-style-1 mt-4">
                                 <li><i class="fa-solid fa-circle-check me-2"></i>10+ pass from a recognised board</li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i>No prior design background required</li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Interest in design, execution, and professional learning encouraged</li>
@@ -338,45 +348,13 @@
                                 </a>
                             </div>
 
-                            <hr class="my-4">
 
-                            <h6 class="py-2">Scholarships & Financial Support</h6>
-                            <p>
-                                INSD Kolkata offers scholarship support to eligible students to encourage creative potential and access to
-                                professional design education. Scholarship details and eligibility are shared transparently during counselling.
-                            </p>
-
-                            <div class="d-flex gap-3 flex-wrap mt-3">
-
-
-                                <a href="#talk-to-counsellor" class="btn-animated btn-light">
-                                    <div class="btn-text-wrap">
-                                        <div class="btn-text">Check Scholarship Eligibility</div>
-                                        <div class="btn-text-hover">Check Scholarship Eligibility</div>
-                                    </div>
-                                    <div class="btn-icon-wrap">
-                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                                    </div>
-                                </a>
-
-                                <a href="#talk-to-counsellor" class="btn-animated btn-light">
-                                    <div class="btn-text-wrap">
-                                        <div class="btn-text">Talk to a Counsellor</div>
-                                        <div class="btn-text-hover">Talk to a Counsellor</div>
-                                    </div>
-                                    <div class="btn-icon-wrap">
-                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                                    </div>
-                                </a>
-                            </div>
 
 
 
 
                         </div>
-                        <div class="rbt-show-more-btn">Show More</div>
+                        <!-- <div class="rbt-show-more-btn">Show More</div> -->
                     </div>
 
                 </div>
@@ -388,132 +366,13 @@
 
 
 
-<section class="why-study-section py-5">
-    <div class="container">
-        <div class="row">
-
-            <!-- LEFT CONTENT -->
-            <div class="col-lg-7 mb-4 mb-lg-0">
-                <h2 class="mb-3 title">
-                    Why Study <span>B.Des in Interior Design</span> <br>
-                    at INSD Kolkata
-                </h2>
-
-                <p class="mb-4 para">
-                    Students learn in a studio-driven environment supported by practical training, real projects, and industry exposure.
-                </p>
-
-                <ul class="list-unstyled mt-4">
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Dedicated interior design studios and drafting spaces
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Continuous studio assignments and design exercises
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Regular site visits and execution exposure
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Interaction with vendors, materials, and real project environments
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Industry-oriented tools and software
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Mentorship from practicing designers and entrepreneurs
-                    </li>
-                    <li class="mb-3 d-flex">
-                        <span class="me-2">✔</span>
-                        Structured career guidance and placement support
-                    </li>
-                </ul>
-
-                <!-- CTA BUTTON -->
-                <div class="mt-4">
-                    <a href="#" class="btn-animated btn-light mt-2">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Talk to a Counsellor</div>
-                            <div class="btn-text-hover">Talk to a Counsellor</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </a>
-                    <a href="#" class="btn-animated btn-light mt-2">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Speak to an Academic Advisor</div>
-                            <div class="btn-text-hover">Speak to an Academic Advisor</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </a>
-                </div>
-            </div>
-
-            <!-- RIGHT IMAGE -->
-            <div class="col-lg-5 text-center">
-                <img src="assets/img/p1.png"
-                    alt="B.Des Interior Design INSD Kolkata"
-                    class="img-fluid rounded shadow">
-            </div>
-
-        </div>
-    </div>
-</section>
-
-
-
-<section class="career-cta">
-    <div class="container text-center">
-
-        <h3 class="cta-title">
-            Start Your Interior Design Journey at INSD Kolkata
-        </h3>
-
-        <!-- <p class="cta-text mb-3">
-            Get expert guidance on career scope, courses, and professional opportunities.
-        </p> -->
-
-        <a href="#" class="btn-animated btn-light mt-2 ">
-            <div class="btn-text-wrap">
-                <div class="btn-text">Talk to a Counsellor</div>
-                <div class="btn-text-hover">Talk to a Counsellor</div>
-            </div>
-            <div class="btn-icon-wrap">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-            </div>
-        </a>
-
-    </div>
-</section>
-
-
-
 <section class="instructor-section py-5">
     <div class="container">
 
         <div class="instructor-wrapper shadow-sm p-4 rounded">
 
             <h4 class="instructor-title mb-3">Instructor</h4>
-            <p class="instructor-description mb-5">
-                Learn Under the Guidance of Industry-Active Professionals.
-                The B.Des in Interior Design program is guided by instructors actively engaged in professional design practice.
-                They bring real-world perspective into studio learning, design critiques, and project execution, ensuring that academic learning aligns with current industry standards.
-            </p>
+
 
             <div class="instructor-carousel owl-carousel">
 
@@ -571,48 +430,166 @@
 </section>
 
 
+
+
+
+<section class="cta-sec" style="background-image: url('./assets/img/c2.jpg'); 
+         background-attachment: fixed; 
+         background-size: cover; 
+         background-position: center; padding: 25px 0;">
+    <div class="container">
+        <div class="cta-content">
+
+            <h2 class="title text-center text-white"> Start Your Interior Design Journey at INSD Kolkata</h2>
+
+            <div class="mt-4">
+
+                <!-- Apply Now -->
+                <a href="#apply" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Apply Now</div>
+                        <div class="btn-text-hover">Start Your Application</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+
+                <!-- Book Counselling -->
+                <a href="#counselling" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Book Counselling</div>
+                        <div class="btn-text-hover">Talk to an Expert</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+
+                <!-- Download Brochure -->
+                <a href="#brochure" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Download Brochure</div>
+                        <div class="btn-text-hover">Get Course Details</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+<section class="alumni-container p-0">
+    <div class="row">
+        <div class="col-md-4 content ny ">
+
+            <h6 class="title ">Interior Industry Alliances</h6>
+            <div class="my-2 ecx">
+                <!-- <a href="#" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Industry Collaborations</div>
+                        <div class="btn-text-hover">Industry Collaborations</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a> -->
+            </div>
+
+
+
+        </div>
+        <div class="col-md-8 center-box">
+            <!-- MARQUEE LEFT -->
+            <div class="marquee-container">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
+
+
+
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
+
+
+                </div>
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+
+</section>
+
+
 <section class="student-work">
     <div class="container">
-        <h5 class="sub-head text-center cen">Student work</h5>
-        <h2 class="title text-center">WALK THE STAGE <span>AS A DESIGNER</span></h2>
+        <!-- <h5 class="sub-head text-center cen">Student work</h5> -->
+        <h2 class="title text-center">Life at INSD <span>Kolkata</span></h2>
 
-        <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+        <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
 
         <div class="student-work-grid">
 
             <div class="work-item">
                 <a href="assets/img/1 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/1 (2).jpg" alt="Student Work">
+                    <img src="assets/img/interior/1- (1).jpeg" alt="Student Work">
                 </a>
                 <div class="work-overlay">
-                    <h4>Fashion Design</h4>
+                    <!-- <h4>Fashion Design</h4> -->
                 </div>
             </div>
 
             <div class="work-item">
                 <a href="assets/img/2 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/2 (2).jpg" alt="Student Work">
+                    <img src="assets/img/interior/1- (2).jpeg" alt="Student Work">
+
                 </a>
                 <div class="work-overlay">
-                    <h4>Illustration</h4>
+                    <!-- <h4>Illustration</h4> -->
                 </div>
             </div>
 
             <div class="work-item">
                 <a href="assets/img/6-insd.jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/6-insd.jpg" alt="Student Work">
+                    <img src="assets/img/interior/1- (3).jpeg" alt="Student Work">
+
                 </a>
                 <div class="work-overlay">
-                    <h4>Garment Construction</h4>
+                    <!-- <h4>Garment Construction</h4> -->
                 </div>
             </div>
 
             <div class="work-item">
                 <a href="assets/img/3 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/3 (2).jpg" alt="Student Work">
+                    <img src="assets/img/interior/1- (4).jpeg" alt="Student Work">
+
                 </a>
                 <div class="work-overlay">
-                    <h4>Portfolio Work</h4>
+                    <!-- <h4>Portfolio Work</h4> -->
                 </div>
             </div>
 
@@ -620,6 +597,52 @@
     </div>
 </section>
 
+
+<section class="scholarship-section py-5 bg-light">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <!-- LEFT IMAGE -->
+            <div class="col-lg-4 text-center mb-4 mb-lg-0">
+                <img src="assets/img/cx.png" alt="Scholarships at INSD Kolkata" class="img-fluid rounded shadow">
+            </div>
+
+            <!-- RIGHT CONTENT -->
+            <div class="col-lg-8">
+                <h2 class="mb-3 scholarship-title">
+                    Scholarships & Financial Support
+                </h2>
+                <p class="para">
+                    INSD Kolkata offers scholarship support to eligible students to encourage creative potential and access to professional design education. Scholarship details and eligibility are shared transparently during counselling.
+                </p>
+                <div class="mt-4">
+                    <a href="#test" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Check Scholarship Eligibility</div>
+                            <div class="btn-text-hover">Check Scholarship Eligibility</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+                    <a href="#test" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Check Scholarship Eligibility</div>
+                            <div class="btn-text-hover">Check Scholarship Eligibility</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
 
 
 <section class="student-test">
@@ -781,156 +804,7 @@
             </div>
         </div>
 
-        <div class="marquee-container1">
-            <div class="marquee-track1 marquee-left">
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
 
-                <div class="card">
-                    <p>“The community and mentors made me stay motivated throughout. Fantastic learning experience.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=5" alt="Student">
-                        <div>
-                            <div class="name">Sanya Verma</div>
-                            <div class="role">BBA, Delhi NCR</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Duplicate cards -->
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
 
     </div>
 </section>
@@ -938,52 +812,6 @@
 
 
 
-<section class="related-courses">
-    <div class="container">
-        <!-- <h5 class="sub-head text-center cen">Related Courses</h5> -->
-        <h2 class="title text-center">Our Related <span>Course</span></h2>
-
-        <div class="related-course-grid">
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="https://cmr.edu.in/blog/wp-content/uploads/2024/11/Bachelor-Of-Design-And-Career-Opportunities.webp" alt="Course">
-                </div>
-                <div class="course-info">
-                    <a href="B.DES-in-Graphic-Design.php">
-                        <h4>B.DES in Graphic Design</h4>
-                    </a>
-
-                </div>
-            </div>
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/graph.webp" alt="Course">
-                </div>
-                <div class="course-info">
-                    <a href="#">
-                        <h4>MBA in Graphic Design</h4>
-                    </a>
-
-                </div>
-            </div>
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/INTERIOR.jpg" alt="Course">
-                </div>
-                <div class="course-info">
-                    <a href="Diploma-&-Advanced-Diploma-in-Graphic-Design.php">
-                        <h4>Diploma &
-                            Advanced Diploma in Graphic Design</h4>
-                    </a>
-
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
 
 
 
@@ -1091,6 +919,56 @@
                     items: 4
                 }
             }
+        });
+    });
+</script>
+
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const menuItems = document.querySelectorAll(".mainmenu li a");
+        const sections = [];
+
+        // Collect section IDs
+        menuItems.forEach(item => {
+            const id = item.getAttribute("href");
+            if (id && id.startsWith("#")) {
+                const section = document.querySelector(id);
+                if (section) sections.push(section);
+            }
+        });
+
+        // Scroll Listener
+        window.addEventListener("scroll", function() {
+            let scrollPos = window.scrollY + 150; // adjust for offset
+
+            sections.forEach(sec => {
+                if (scrollPos >= sec.offsetTop && scrollPos < sec.offsetTop + sec.offsetHeight) {
+
+                    // remove current from all
+                    menuItems.forEach(link => {
+                        link.parentElement.classList.remove("current");
+                    });
+
+                    // add current to active one
+                    document.querySelector(`.mainmenu li a[href="#${sec.id}"]`)
+                        .parentElement.classList.add("current");
+                }
+            });
+        });
+
+        // Smooth scroll on click
+        menuItems.forEach(item => {
+            item.addEventListener("click", function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute("href"));
+                window.scrollTo({
+                    top: target.offsetTop - 120,
+                    behavior: "smooth"
+                });
+            });
         });
     });
 </script>

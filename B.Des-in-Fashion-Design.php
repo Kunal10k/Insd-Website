@@ -351,158 +351,6 @@
         </div>
 </section>
 
-
-<section class="why-study-fashion-section py-5">
-    <div class="container">
-        <div class="row align-items-center">
-
-            <!-- LEFT CONTENT -->
-            <div class="col-lg-8 mb-4 mb-lg-0">
-                <h2 class="mb-3 title">
-                    Why Study <span>B.Des in Fashion Design <br>& Technology</span>
-                    at INSD Kolkata
-                </h2>
-
-                <ul class="list-unstyled mt-4">
-                    <li class="mb-3 d-flex align-items-start">
-                        <span class="me-2 text-success fs-5">✔</span>
-                        Industry-aligned curriculum focused on real fashion careers
-                    </li>
-                    <li class="mb-3 d-flex align-items-start">
-                        <span class="me-2 text-success fs-5">✔</span>
-                        Studio-based practical learning with strong garment construction exposure
-                    </li>
-                    <li class="mb-3 d-flex align-items-start">
-                        <span class="me-2 text-success fs-5">✔</span>
-                        Live industry projects integrated across the program
-                    </li>
-                    <li class="mb-3 d-flex align-items-start">
-                        <span class="me-2 text-success fs-5">✔</span>
-                        Masterclasses by practicing fashion designers and industry professionals in every semester
-                    </li>
-                    <li class="mb-3 d-flex align-items-start">
-                        <span class="me-2 text-success fs-5">✔</span>
-                        Exposure to fashion shows, exhibitions, and design presentations
-                    </li>
-                    <li class="mb-3 d-flex align-items-start">
-                        <span class="me-2 text-success fs-5">✔</span>
-                        Structured career guidance and placement assistance
-                    </li>
-                </ul>
-
-                <div class="mt-4">
-
-                    <a href="#" class="btn-animated btn-light">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Talk to a Course Counsellor</div>
-                            <div class="btn-text-hover">Talk to a Course Counsellor</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </a>
-                    <a href="#" class="btn-animated btn-light">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Get Career Guidance</div>
-                            <div class="btn-text-hover">Get Career Guidance</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </a>
-
-
-                </div>
-            </div>
-
-            <!-- RIGHT IMAGE -->
-            <div class="col-lg-4 text-center">
-                <img src="assets/img/p1.png" alt="B.Des Fashion Design & Technology INSD Kolkata" class="img-fluid rounded shadow">
-            </div>
-
-        </div>
-    </div>
-</section>
-
-
-<section class="career-cta">
-    <div class="container text-center">
-
-        <h3 class="cta-title">
-            Start Your Fashion Design Journey at INSD
-        </h3>
-
-
-
-        <a href="#" class="btn-animated btn-light mt-4 ">
-            <div class="btn-text-wrap">
-                <div class="btn-text">Talk to a Counsellor</div>
-                <div class="btn-text-hover">Talk to a Counsellor</div>
-            </div>
-            <div class="btn-icon-wrap">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-            </div>
-        </a>
-
-    </div>
-</section>
-
-
-
-
-
-<section class="student-work">
-    <div class="container">
-        <h5 class="sub-head text-center cen">Student work</h5>
-        <h2 class="title text-center">WALK THE STAGE <span>AS A DESIGNER</span></h2>
-
-        <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
-
-        <div class="student-work-grid">
-
-            <div class="work-item">
-                <a href="assets/img/1 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/1 (2).jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Fashion Design</h4>
-                </div>
-            </div>
-
-            <div class="work-item">
-                <a href="assets/img/2 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/2 (2).jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Illustration</h4>
-                </div>
-            </div>
-
-            <div class="work-item">
-                <a href="assets/img/6-insd.jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/6-insd.jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Garment Construction</h4>
-                </div>
-            </div>
-
-            <div class="work-item">
-                <a href="assets/img/3 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/3 (2).jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Portfolio Work</h4>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
 <section class="instructor-section py-5">
     <div class="container">
 
@@ -655,6 +503,158 @@
         </div>
     </div>
 </section>
+<section class="why-study-fashion-section py-5">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <!-- LEFT CONTENT -->
+            <div class="col-lg-8 mb-4 mb-lg-0">
+                <h2 class="mb-3 title">
+                    Why Study <span>B.Des in Fashion Design <br>& Technology</span>
+                    at INSD Kolkata
+                </h2>
+
+                <ul class="list-unstyled mt-4">
+                    <li class="mb-3 d-flex align-items-start">
+                        <span class="me-2 text-success fs-5">✔</span>
+                        Industry-aligned curriculum focused on real fashion careers
+                    </li>
+                    <li class="mb-3 d-flex align-items-start">
+                        <span class="me-2 text-success fs-5">✔</span>
+                        Studio-based practical learning with strong garment construction exposure
+                    </li>
+                    <li class="mb-3 d-flex align-items-start">
+                        <span class="me-2 text-success fs-5">✔</span>
+                        Live industry projects integrated across the program
+                    </li>
+                    <li class="mb-3 d-flex align-items-start">
+                        <span class="me-2 text-success fs-5">✔</span>
+                        Masterclasses by practicing fashion designers and industry professionals in every semester
+                    </li>
+                    <li class="mb-3 d-flex align-items-start">
+                        <span class="me-2 text-success fs-5">✔</span>
+                        Exposure to fashion shows, exhibitions, and design presentations
+                    </li>
+                    <li class="mb-3 d-flex align-items-start">
+                        <span class="me-2 text-success fs-5">✔</span>
+                        Structured career guidance and placement assistance
+                    </li>
+                </ul>
+
+                <div class="mt-4">
+
+                    <a href="#" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Talk to a Course Counsellor</div>
+                            <div class="btn-text-hover">Talk to a Course Counsellor</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+                    <a href="#" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Get Career Guidance</div>
+                            <div class="btn-text-hover">Get Career Guidance</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+
+
+                </div>
+            </div>
+
+            <!-- RIGHT IMAGE -->
+            <div class="col-lg-4 text-center">
+                <img src="assets/img/p1.png" alt="B.Des Fashion Design & Technology INSD Kolkata" class="img-fluid rounded shadow">
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<section class="career-cta">
+    <div class="container text-center">
+
+        <h3 class="cta-title">
+            Start Your Fashion Design Journey at INSD
+        </h3>
+
+
+
+        <a href="#" class="btn-animated btn-light mt-4 ">
+            <div class="btn-text-wrap">
+                <div class="btn-text">Talk to a Counsellor</div>
+                <div class="btn-text-hover">Talk to a Counsellor</div>
+            </div>
+            <div class="btn-icon-wrap">
+                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+            </div>
+        </a>
+
+    </div>
+</section>
+
+
+
+
+
+<section class="student-work">
+    <div class="container">
+        <h5 class="sub-head text-center cen">Student work</h5>
+        <h2 class="title text-center">WALK THE STAGE <span>AS A DESIGNER</span></h2>
+
+        <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+
+        <div class="student-work-grid">
+
+            <div class="work-item">
+                <a href="assets/img/1 (2).jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/1 (2).jpg" alt="Student Work">
+                </a>
+                <div class="work-overlay">
+                    <h4>Fashion Design</h4>
+                </div>
+            </div>
+
+            <div class="work-item">
+                <a href="assets/img/2 (2).jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/2 (2).jpg" alt="Student Work">
+                </a>
+                <div class="work-overlay">
+                    <h4>Illustration</h4>
+                </div>
+            </div>
+
+            <div class="work-item">
+                <a href="assets/img/6-insd.jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/6-insd.jpg" alt="Student Work">
+                </a>
+                <div class="work-overlay">
+                    <h4>Garment Construction</h4>
+                </div>
+            </div>
+
+            <div class="work-item">
+                <a href="assets/img/3 (2).jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/3 (2).jpg" alt="Student Work">
+                </a>
+                <div class="work-overlay">
+                    <h4>Portfolio Work</h4>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
 
 <section class="student-test">
     <div class="">
