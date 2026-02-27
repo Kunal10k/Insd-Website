@@ -1,6 +1,6 @@
 <?php include 'inside/header.php' ?>
 
-<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/placement.jpg');">
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/placement.jpg'); padding: 190px 0;">
 
 
   <div class="container">

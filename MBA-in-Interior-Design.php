@@ -1,39 +1,61 @@
 <?php include 'inside/header.php' ?>
 
 
-<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/MBA\ in\ Interior\ Design.webp');">
+<section class="inner_Section" style="background-image: url('./assets/img/insd slider (3).jpg.jpeg');">
+    <marquee behavior="scroll" direction="left" scrollamount="6" class="add">
+        <h5 class="vcxs">ADMISSIONS OPEN | 2026–27 INTAKE </h5>
+    </marquee>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
 
+                <h1 class="title w-100 w-lg-75"> MBA in Interior Designing & <br> <span>Technology</span></span>
+                </h1>
+
                 <div class="trust_logo">
                     <img src="assets/img/and.png" alt="" class="w-25 mb-3">
                 </div>
-                <div class="banner-top  erds">
-                    <div class="banner-badge-top  ">
-                        <i class="fa-solid fa-calendar-days"></i>
-                        <span class="subtitle">2 Years</span>
-                    </div>
 
-                    <div class="banner-badge-top  m-0">
-                        <i class="fa-solid fa-building-columns"></i>
-                        <span class="subtitle">Full-Time | On-Campus</span>
-                    </div>
 
-                    <div class="banner-badge-top  mx-3">
-                        <i class="fa-solid fa-graduation-cap"></i>
-                        <span class="subtitle">Graduation </span>
-                    </div>
+                <div class="row">
+                    <div class="col-md-10">
+                        <div class="course-highlights">
 
-                    <div class="banner-badge-top  mx-3">
-                        <i class="fa-solid fa-graduation-cap"></i>
-                        <span class="subtitle">Kolkata</span>
+                            <div class="highlight-card">
+                                <div class="highlight-head">
+                                    <i class="fa-solid fa-calendar-days"></i>
+                                    <span>Duration</span>
+                                </div>
+                                <div class="highlight-text">2 Years </div>
+                            </div>
+
+                            <div class="highlight-card">
+                                <div class="highlight-head">
+                                    <i class="fa-solid fa-building-columns"></i>
+                                    <span>Mode</span>
+                                </div>
+                                <div class="highlight-text">Full-Time | On-Campus</div>
+                            </div>
+
+                            <div class="highlight-card">
+                                <div class="highlight-head">
+                                    <i class="fa-solid fa-graduation-cap"></i>
+                                    <span>Eligibility</span>
+                                </div>
+                                <div class="highlight-text">Graduation</div>
+                            </div>
+                            <div class="highlight-card">
+                                <div class="highlight-head">
+                                    <i class="fa-solid fa-location-dot"></i>
+                                    <span>Locations</span>
+                                </div>
+                                <div class="highlight-text">Kolkata</div>
+                            </div>
+
+
+                        </div>
                     </div>
                 </div>
-
-
-                <h1 class="title w-100 w-lg-75"> MBA in Interior Designing & <br> <span>Technology</span></span>
-                </h1>
 
                 <!-- <p>A career-focused postgraduate program combining design expertise, <br>management skills, and technology</p>
                 <p class="para w-50 ">
@@ -130,7 +152,7 @@
                                     <a href="#coursecontent">Course Content</a>
                                 </li>
                                 <li class="">
-                                    <a href="#details">Carrier opportunities</a>
+                                    <a href="#details">Career Opportunities</a>
                                 </li>
                                 <li class="">
                                     <a href="#Eligibility">Eligibility</a>
@@ -186,19 +208,19 @@
                                             <i class="fa-solid fa-calendar-days me-2"></i> Semester 1
                                         </button>
                                     </h2>
-                                    <div id="semesterOne" class="accordion-collapse collapse "
+                                    <div id="semesterOne" class="accordion-collapse collapse"
                                         data-bs-parent="#curriculumAccordion">
                                         <div class="accordion-body">
                                             <ul class="rbt-course-main-content liststyle">
-                                                <li>Fundamentals of Construction & Building Systems</li>
-                                                <li>Design Fundamentals</li>
+                                                <li>Advanced Building Construction & Interior Systems</li>
+                                                <li>Design Fundamentals & Spatial Principles</li>
                                                 <li>Management Process & Organisational Behaviour</li>
                                                 <li>Building Services & Construction Sequencing</li>
-                                                <li>Interior Design Studio Practice</li>
+                                                <li>Interior Design Studio – I</li>
                                                 <li>Project Proposal & Concept Development</li>
-                                                <li>Foundations of Design Business</li>
+                                                <li>Design Business Foundations</li>
                                                 <li>Live Projects / Site Visits</li>
-                                                <li>Industry Practitioner Masterclasses</li>
+                                                <li>Masterclasses by Industry Practitioners</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -217,14 +239,15 @@
                                         <div class="accordion-body">
                                             <ul class="rbt-course-main-content liststyle">
                                                 <li>Business Environment & Business Law</li>
-                                                <li>Urban Design & Planning</li>
-                                                <li>Furniture Design Studio</li>
-                                                <li>Furniture Styles & Periodic Design</li>
-                                                <li>Specification & Valuation</li>
-                                                <li>Interior Design Studio Practice</li>
-                                                <li>Financial & Operational Mastery</li>
+                                                <li>Urban Design & Interior Context</li>
+                                                <li>Advance Design Business</li>
+                                                <li>Furniture Design Studio (Residential & Commercial)</li>
+                                                <li>Furniture Styles, Periodic Design & Systems</li>
+                                                <li>Specifications & Valuation</li>
+                                                <li>Interior Design Studio – II</li>
+                                                <li>Financial & Operational Mastery for Design Firms</li>
                                                 <li>Live Projects / Site Visits</li>
-                                                <li>Industry Practitioner Masterclasses</li>
+                                                <li>Masterclasses by Industry Practitioners</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -243,14 +266,14 @@
                                         <div class="accordion-body">
                                             <ul class="rbt-course-main-content liststyle">
                                                 <li>Human Resource Management for Design Organisations</li>
-                                                <li>Fundamentals of Aesthetics & Space Description</li>
-                                                <li>Architectural Eras & Style Analysis</li>
-                                                <li>Multi-View Drawing & Advanced Visualisation</li>
+                                                <li>Aesthetics, Space Description & Spatial Psychology</li>
+                                                <li>Technical Analysis of Architectural Styles & Eras</li>
+                                                <li>Multi-View Drawing, Working Drawings & Advanced Visualisation</li>
                                                 <li>Modern Exterior & Interior Architecture</li>
-                                                <li>Advanced Interior Design Studio</li>
-                                                <li>Marketing & Client Experience</li>
+                                                <li>Advanced Interior Design Studio – III</li>
+                                                <li>Marketing Management & Client Experience</li>
                                                 <li>Live Projects / Site Visits</li>
-                                                <li>Industry Practitioner Masterclasses</li>
+                                                <li>Masterclasses by Industry Practitioners</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -269,75 +292,17 @@
                                         <div class="accordion-body">
                                             <ul class="rbt-course-main-content liststyle">
                                                 <li>Strategy & Entrepreneurship Development</li>
-                                                <li>Quantity & Cost Estimation</li>
-                                                <li>Professional Practice & Code of Conduct</li>
-                                                <li>Methods of Construction (Ancient & Modern)</li>
-                                                <li>Product Development</li>
+                                                <li>Quantity Surveying, Cost Estimation & Tendering</li>
+                                                <li>Professional Practice, Ethics & Code of Conduct</li>
+                                                <li>Methods of Construction (Ancient to Modern)</li>
+                                                <li>Interior Product Development</li>
                                                 <li>Industrial Skill Project</li>
-                                                <li>Industry Internship / Skill Project</li>
-                                                <li>Industry Practitioner Masterclasses</li>
+                                                <li>Industry Internship / Industry Skill Project</li>
+                                                <li>Masterclasses by Industry Practitioners</li>
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
-
-                                <!-- Learning Experience & Technology Integration -->
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="learningTech">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#learningTechCollapse">
-                                            <i class="fa-solid fa-laptop-code me-2"></i>
-                                            Learning Experience & Technology Integration
-                                        </button>
-                                    </h2>
-
-                                    <div id="learningTechCollapse" class="accordion-collapse collapse"
-                                        data-bs-parent="#curriculumAccordion">
-                                        <div class="accordion-body">
-                                            <p class="para mb-3">
-                                                Students learn through a practice-driven and technology-enabled environment, supported by:
-                                            </p>
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Advanced design studios and specialised labs</li>
-                                                <li>Digital tools for visualisation, planning, and execution</li>
-                                                <li>Industry workshops, site exposure, and real-world case studies</li>
-                                                <li>Continuous studio work combined with business application</li>
-                                                <li>Live projects and professional critiques</li>
-                                            </ul>
-                                        </div>
-
-                                        <div>
-
-                                            <!-- Book Free Counselling -->
-                                            <a href="#test2" class="btn-animated btn-light">
-                                                <div class="btn-text-wrap">
-                                                    <div class="btn-text">Book Free Counselling</div>
-                                                    <div class="btn-text-hover">Book Free Counselling</div>
-                                                </div>
-                                                <div class="btn-icon-wrap">
-                                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                                                </div>
-                                            </a>
-
-                                            <!-- Book Free Counselling -->
-                                            <a href="#test2" class="btn-animated btn-light">
-                                                <div class="btn-text-wrap">
-                                                    <div class="btn-text"> Speak to an Academic Advisor</div>
-                                                    <div class="btn-text-hover"> Speak to an Academic Advisor</div>
-                                                </div>
-                                                <div class="btn-icon-wrap">
-                                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                                                </div>
-                                            </a>
-
-                                        </div>
-                                    </div>
-
-
-                                </div>
-
 
                             </div>
 
@@ -353,11 +318,8 @@
 
 
 
-                            <h6 class="py-2">Career Opportunities & Placements</h6>
-                            <p class="para ">
-                                Graduates of the MBA in Interior Designing & Technology can pursue leadership and
-                                managerial roles across the design, execution, and real estate ecosystem.
-                            </p>
+                            <h6 class="py-2">Career Opportunities </h6>
+
 
                             <ul class="rbt-list-style-1 mt-2">
                                 <li><i class="fa-solid fa-circle-check me-2"></i><strong>Design Manager</strong></li>
@@ -368,11 +330,11 @@
                                 <li><i class="fa-solid fa-circle-check me-2"></i><strong>Entrepreneur / Design Studio Owner</strong></li>
                             </ul>
 
-                            <h6 class="py-2">Placement Highlights</h6>
+                            <!-- <h6 class="py-2">Placement Highlights</h6>
                             <ul class="rbt-list-style-1 mt-3">
                                 <li><i class="fa-solid fa-circle-check me-2"></i><strong>100% Placement Assistance for eligible students</strong></li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i><strong>Opportunities across design studios, corporates, real estate firms, and execution companies</strong></li>
-                            </ul>
+                            </ul> -->
 
 
 
@@ -401,7 +363,7 @@
 
 
                             <div class="fees-section">
-                                <h6 class="py-2">Fees & Scholarships (Overview)</h6>
+                                <h6 class="py-2">Fees & Scholarships </h6>
                                 <ul class="rbt-list-style-1 mt-3">
                                     <li><i class="fa-solid fa-circle-check me-2"></i>Fee structure details are shared during counselling</li>
                                     <li><i class="fa-solid fa-circle-check me-2"></i>Scholarship and financial assistance options available for eligible students</li>
@@ -454,18 +416,59 @@
                 <h2 class="mb-3 title">
                     Why MBA in Interior Designing & <span>Technology at INSD Kolkata</span>
                 </h2>
-                <ul class="course-features">
-                    <li><i class="fa-solid fa-check-circle"></i> Integrated curriculum combining design, management, and technology</li>
-                    <li><i class="fa-solid fa-check-circle"></i> Strong focus on execution, strategy, and professional practice</li>
-                    <li><i class="fa-solid fa-check-circle"></i> Live projects, case studies, and industry exposure</li>
-                    <li><i class="fa-solid fa-check-circle"></i> Mentorship from industry experts and working professionals</li>
-                    <li><i class="fa-solid fa-check-circle"></i> Career and placement support for managerial and leadership roles</li>
-                </ul>
+                <div class="benifit-wraps">
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Integrated curriculum combining design, management, and technology</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Strong focus on execution, strategy, and professional practice</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Live projects, case studies, and industry exposure</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Mentorship from industry experts and working professionals</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Career and placement support for managerial and leadership roles</h5>
+                        </div>
+                    </div>
+
+                </div>
             </div>
 
             <!-- RIGHT IMAGE -->
             <div class="col-lg-5 text-center">
-                <div class="image_changer" style="height: 450px;">
+                <div class="image_changer" style="height: 550px;">
 
                     <img src="assets/img/p1.png" class="">
                     <img src="assets/img/L2.jpeg" class="active">
@@ -486,7 +489,24 @@
 
         <div class="instructor-wrapper shadow-sm p-4 rounded">
 
-            <h4 class="title text-center">Instructor</h4>
+            <h4 class="title text-center">Faculty Members
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </h4>
 
 
             <div class="instructor-carousel owl-carousel owl-loaded owl-drag">
@@ -742,8 +762,8 @@
         <div class="student-work-grid">
 
             <div class="work-item">
-                <a href="assets/img/1 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/interior/1- (1).jpeg" alt="Student Work">
+                <a href="assets/img/4-insd.jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/4-insd.jpg" alt="Student Work">
                 </a>
                 <div class="work-overlay">
                     <!-- <h4>Fashion Design</h4> -->
@@ -751,8 +771,8 @@
             </div>
 
             <div class="work-item">
-                <a href="assets/img/2 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/interior/1- (2).jpeg" alt="Student Work">
+                <a href="assets/img/international/1- (2).jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/international/1- (2).jpg" alt="Student Work">
 
                 </a>
                 <div class="work-overlay">
@@ -761,8 +781,8 @@
             </div>
 
             <div class="work-item">
-                <a href="assets/img/6-insd.jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/interior/1- (3).jpeg" alt="Student Work">
+                <a href="assets/img/L3.jpeg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/L3.jpeg" alt="Student Work">
 
                 </a>
                 <div class="work-overlay">
@@ -771,8 +791,8 @@
             </div>
 
             <div class="work-item">
-                <a href="assets/img/3 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/interior/1- (4).jpeg" alt="Student Work">
+                <a href="assets/img/z1- (8).jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/z1- (8).jpg" alt="Student Work">
 
                 </a>
                 <div class="work-overlay">
@@ -784,7 +804,132 @@
     </div>
 </section>
 
+<section class="career-zone">
+    <div class="container">
+        <div class="row align-items-center">
 
+
+            <div class="col-md-5">
+                <div class="career-wrapper">
+                    <div class="career-info">
+                        <h2 class="title">
+                            PLACEMENTS &amp; <br>
+                            <span>RECRUITERS</span>
+                        </h2>
+                        <p class="para">Where talent meets industry</p>
+
+                        <div class="career-metrics mt-3">
+
+                            <!-- Highest Package -->
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-indian-rupee-sign"></i>
+                                </div>
+                                <div>
+                                    <h3>14L</h3>
+                                    <p>HIGHEST PACKAGE</p>
+                                </div>
+                            </div>
+
+                            <!-- Placement Assistance -->
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-handshake"></i>
+                                </div>
+                                <div>
+                                    <h3>100%</h3>
+                                    <p>PLACEMENT ASSISTANCE</p>
+                                </div>
+                            </div>
+
+                            <!-- Brand Partners -->
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-building"></i>
+                                </div>
+                                <div>
+                                    <h3>300+</h3>
+                                    <p>BRAND PARTNERS</p>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- RIGHT COLUMN -->
+            <div class="col-md-7">
+                <div class="career-brands">
+                    <h4 class="title text-center mb-3">
+                        Our Hiring <span>Partners</span>
+                    </h4>
+
+                    <div class="hight_marquee">
+
+                        <!-- LEFT MARQUEE -->
+                        <div class="brand-grid left-marquee">
+                            <div class="brand-track">
+
+                                <!-- Original Items -->
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (1).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (2).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (4).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (5).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (18).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (19).png" alt=""></div>
+
+
+
+                            </div>
+                        </div>
+
+                        <!-- RIGHT MARQUEE -->
+                        <div class="brand-grid right-marquee mt-3">
+                            <div class="brand-track">
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (6).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (7).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (8).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (9).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (10).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (17).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (20).png" alt=""></div>
+
+
+
+
+
+                            </div>
+                        </div>
+
+
+                        <!-- LEFT MARQUEE -->
+                        <div class="brand-grid left-marquee mt-3">
+                            <div class="brand-track">
+
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (11).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (12).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (13).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (14).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (15).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (16).png" alt=""></div>
+
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
 
 <section class="student-test">
     <div class="">

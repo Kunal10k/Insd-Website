@@ -3,9 +3,10 @@
 
 
 <section class="landing_banner " id="form">
+
     <div class="banner" style="background-image: url('./assets/img/2.jpg');">
         <marquee behavior="scroll" direction="left" scrollamount="6" class="add">
-            <h5>ADMISSIONS OPEN | 2026–27 INTAKE </h5>
+            <h5 class="vcxs">ADMISSIONS OPEN | 2026–27 INTAKE </h5>
         </marquee>
         <div class="container">
             <div class="row">
@@ -534,17 +535,18 @@
 <section class="mentor-area">
     <div class="container">
         <!-- <p class="sub-head text-center cen ">QUALIFIED TEACHERS</p> -->
-        <h2 class="title text-center ">Industry Advisory <br> <span>Counselling</span></h2>
+        <h2 class="title text-center ">Industry Advisory <br> <span>Counsel</span></h2>
 
         <div class="owl-carousel mentor-owl mt-5">
 
-            <!-- <div class="mentor-item">
+            <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg" />
 
                 </div>
                 <h4>Aparajita Toor</h4>
-             
+                <span>Founder, Aparajita Toor Footwear.</span>
+
             </div>
 
             <div class="mentor-item">
@@ -554,8 +556,9 @@
 
                 </div>
                 <h4>Azad Adham</h4>
-          
-            </div> -->
+                <span>Global Brand Director, BALENCIAGA</span>
+
+            </div>
 
             <div class="mentor-item">
                 <div class="mentor-img">
@@ -581,13 +584,14 @@
                 <h4>Neha Lulla</h4>
                 <span>Jewellery Designer</span>
             </div>
-            <!-- <div class="mentor-item">
+            <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg" />
 
                 </div>
                 <h4>Olivier Nicolay</h4>
-               
+                <span>Former President, Chanel UK</span>
+
             </div>
             <div class="mentor-item">
                 <div class="mentor-img">
@@ -595,9 +599,10 @@
 
                 </div>
                 <h4>Payal Singhal</h4>
-              
+                <span>Founder, Payal Singhal Fashion House</span>
+
             </div>
-            <div class="mentor-item">
+            <!-- <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Rishab Suresh.jpg" />
 
@@ -960,7 +965,8 @@
             <div class="col-lg-4 col-md-6">
                 <div class="role-card">
                     <div class="role-icon"><i class="bi bi-box-seam"></i></div>
-                    <h5>Interior Product Designer</h5>
+                    <h5>Retail Designer
+                    </h5>
                     <!-- <p>Create décor products, lighting, and interior accessories.</p> -->
                 </div>
             </div>

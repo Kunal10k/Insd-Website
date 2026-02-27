@@ -4,7 +4,7 @@
 
 
 
-<section class="inner_Section" style="background-image: url('./assets/img/abt.jpg');">
+<section class="inner_Section" style="background-image: url('./assets/img/abt.jpg'); padding: 190px 0">
 
 
 

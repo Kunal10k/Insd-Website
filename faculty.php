@@ -2,7 +2,7 @@
 
 
 
-<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/faculty\ and\ mentor.jpg');">
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/faculty\ and\ mentor.jpg'); padding: 190px 0;">
 
 
 

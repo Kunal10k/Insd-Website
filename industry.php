@@ -2,7 +2,7 @@
 
 
 
-<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/industry\ collaboration.jpg');">
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/industry\ collaboration.jpg'); padding: 190px 0;">
 
 
 

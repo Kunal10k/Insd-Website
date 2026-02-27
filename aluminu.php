@@ -2,14 +2,14 @@
 
 
 
-<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/placement.jpg');">
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/placement.jpg'); padding: 190px 0;">
 
 
 
     <div class="container">
-       
-         <h1 class="title ">
-             Alumni Success  <br class="d-md-block d-none">Stories
+
+        <h1 class="title ">
+            Alumni Success <br class="d-md-block d-none">Stories
         </h1>
     </div>
 </section>
@@ -34,7 +34,7 @@
                         alt="Mou Dutta">
                 </div>
                 <h4 class="insd-alumni-name">
-                    Mou Dutta <br><span >MBA Batch of 2025</span>
+                    Mou Dutta <br><span>MBA Batch of 2025</span>
                 </h4>
                 <p class="insd-alumni-text">
                     “The academic structure and mentorship support at INSD Kolkata helped me develop professional

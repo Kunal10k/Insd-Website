@@ -2,7 +2,7 @@
 
 
 
-<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/accreditation .jpg');">
+<section class="inner_Section" style="background-image: url('./assets/img/inner_banner/accreditation .jpg'); padding: 190px 0;">
 
 
 

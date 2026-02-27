@@ -8,31 +8,49 @@
 
 
 <section class="inner_Section" style="background-image: url('./assets/img/interior.jpeg');">
-
+    <marquee behavior="scroll" direction="left" scrollamount="6" class="add">
+        <h5 class="vcxs">ADMISSIONS OPEN | 2026–27 INTAKE </h5>
+    </marquee>
     <div class="container">
 
         <div class="row">
             <div class="col-md-12">
-                <h1 class="title">Bachelor of Design in <br> <span>Interior Design</span></h1>
+                <h1 class="title mt-5">Bachelor of Design in <br> <span>Interior Design</span></h1>
 
 
-                <div class="trust_logo">
+                <div class="trust_logo pt-4">
                     <img src="assets/img/and.png" alt="" class="w-25 mb-3">
                 </div>
-                <div class="banner-top erds ">
-                    <div class="banner-badge-top  ">
-                        <i class="fa-solid fa-calendar-days"></i>
-                        <span class="subtitle">4 Years</span>
-                    </div>
+                <div class="row">
+                    <div class="col-md-10">
+                        <div class="course-highlights">
 
-                    <div class="banner-badge-top m-0">
-                        <i class="fa-solid fa-building-columns"></i>
-                        <span class="subtitle">Full-Time | On-Campus</span>
-                    </div>
+                            <div class="highlight-card">
+                                <div class="highlight-head">
+                                    <i class="fa-solid fa-calendar-days"></i>
+                                    <span>Duration</span>
+                                </div>
+                                <div class="highlight-text">4 Years </div>
+                            </div>
 
-                    <div class="banner-badge-top mx-3">
-                        <i class="fa-solid fa-graduation-cap"></i>
-                        <span class="subtitle">10+2 Pass</span>
+                            <div class="highlight-card">
+                                <div class="highlight-head">
+                                    <i class="fa-solid fa-building-columns"></i>
+                                    <span>Mode</span>
+                                </div>
+                                <div class="highlight-text">Full-Time | On-Campus</div>
+                            </div>
+
+                            <div class="highlight-card">
+                                <div class="highlight-head">
+                                    <i class="fa-solid fa-graduation-cap"></i>
+                                    <span>Eligibility</span>
+                                </div>
+                                <div class="highlight-text">10+2 (Any Stream)</div>
+                            </div>
+
+
+                        </div>
                     </div>
                 </div>
 
@@ -42,7 +60,7 @@
 
                 <div class="ban-btn mt-4">
 
-                    <a href="#test" class="btn-animated btn-light">
+                    <a href="#test" class="btn-animated btn-light blink ">
                         <div class="btn-text-wrap">
                             <div class="btn-text">Apply Now</div>
                             <div class="btn-text-hover">Apply Now</div>
@@ -130,7 +148,7 @@
                                     <a href="#coursecontent">Course Content</a>
                                 </li>
                                 <li class="">
-                                    <a href="#details">Carrier opportunities</a>
+                                    <a href="#details">Career Opportunities</a>
                                 </li>
                                 <li class="">
                                     <a href="#Eligibility">Eligibility</a>
@@ -290,7 +308,7 @@
 
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="details">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
-                            <h6 class="py-2">Career Opportunities & Placements</h6>
+                            <h6 class="py-2">Career Opportunities </h6>
                             <ul class="rbt-list-style-1 mt-3">
                                 <li><i class="fa-solid fa-circle-check me-2"></i><strong>Interior Designer</strong></li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i><strong>Space Planner</strong></li>
@@ -318,9 +336,9 @@
                             <div class="eligibility-section">
                                 <h6 class="py-2">Eligibility </h6>
                                 <ul class="rbt-list-style-1 mt-4">
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>10+2 pass from a recognised board</li>
+                                    <!-- <li><i class="fa-solid fa-circle-check me-2"></i>10+2 pass from a recognised board</li> -->
                                     <li><i class="fa-solid fa-circle-check me-2"></i>No prior design background required</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Creativity, interest, and commitment encouraged</li>
+                                    <!-- <li><i class="fa-solid fa-circle-check me-2"></i>Creativity, interest, and commitment encouraged</li> -->
                                 </ul>
 
 
@@ -581,6 +599,15 @@
                     <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
 
 
+
+
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
                 </div>
             </div>
 
@@ -607,8 +634,8 @@
         <div class="student-work-grid">
 
             <div class="work-item">
-                <a href="assets/img/1 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/interior/1- (1).jpeg" alt="Student Work">
+                <a href="assets/img/4-insd.jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/4-insd.jpg" alt="Student Work">
                 </a>
                 <div class="work-overlay">
                     <!-- <h4>Fashion Design</h4> -->
@@ -616,8 +643,8 @@
             </div>
 
             <div class="work-item">
-                <a href="assets/img/2 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/interior/1- (2).jpeg" alt="Student Work">
+                <a href="assets/img/international/1- (2).jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/international/1- (2).jpg" alt="Student Work">
 
                 </a>
                 <div class="work-overlay">
@@ -626,8 +653,8 @@
             </div>
 
             <div class="work-item">
-                <a href="assets/img/6-insd.jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/interior/1- (3).jpeg" alt="Student Work">
+                <a href="assets/img/L3.jpeg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/L3.jpeg" alt="Student Work">
 
                 </a>
                 <div class="work-overlay">
@@ -636,8 +663,8 @@
             </div>
 
             <div class="work-item">
-                <a href="assets/img/3 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/interior/1- (4).jpeg" alt="Student Work">
+                <a href="assets/img/z1- (8).jpg" class=" glightbox" data-gallery="student-work">
+                    <img src="assets/img/z1- (8).jpg" alt="Student Work">
 
                 </a>
                 <div class="work-overlay">
@@ -780,7 +807,7 @@
 
             <!-- LEFT IMAGE -->
             <div class="col-lg-4 text-center mb-4 mb-lg-0">
-                <img src="assets/img/cx.png"
+                <img src="assets/img/z1- (6).jpg"
                     alt="Scholarships at INSD Kolkata"
                     class="img-fluid rounded shadow">
             </div>
@@ -791,11 +818,9 @@
                     Scholarships &amp; Financial Support
                 </h2>
                 <p class="scholarship-text mb-3 para">
-                    INSD Kolkata offers scholarship support to eligible students as part of its commitment to encouraging academic merit, creative potential, and inclusive access to professional design education.
+                    INSD Kolkata offers scholarship support to eligible students as part of its commitment to encouraging academic merit, creative potential, and inclusive access to professional design education.Scholarship opportunities are evaluated based on institutional criteria. Details regarding eligibility, categories, and the application process are communicated transparently during the counselling interaction.
                 </p>
-                <p class="scholarship-text para">
-                    Scholarship opportunities are evaluated based on institutional criteria. Details regarding eligibility, categories, and the application process are communicated transparently during the counselling interaction.
-                </p>
+
             </div>
 
         </div>
