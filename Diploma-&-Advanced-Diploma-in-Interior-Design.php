@@ -12,14 +12,17 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="title w-100 w-lg-75">Diploma & Advanced Diploma in <br><span>Interior Design</span></span>
-                </h1>
                 <div class="trust_logo">
-                    <img src="assets/img/and.png" alt="" class="w-25 mb-3">
+                    <img src="assets/img/and.png" alt="" class="w-25 ">
                 </div>
+                <h1 class="title w-100 w-lg-75">Diploma & Advanced <br><span>Diploma in
+
+                        Interior Design</span></span>
+                </h1>
 
 
-                <div class="row">
+
+                <div class="row mt-4">
                     <div class="col-md-10">
                         <div class="course-highlights">
 
@@ -56,7 +59,7 @@
 
                 <div class="ban-btn mt-4">
 
-                    <a href="#" class="btn-animated btn-light">
+                    <a href="#" class="btn-animated btn-light blink">
                         <div class="btn-text-wrap">
                             <div class="btn-text">Apply Now</div>
                             <div class="btn-text-hover">Apply Now</div>
@@ -345,9 +348,9 @@
 
                             <h6 class="Small_head">Eligibility </h6>
                             <ul class="rbt-list-style-1 mt-4">
-                                <!-- <li><i class="fa-solid fa-circle-check me-2"></i>10+ pass from a recognised board</li> -->
-                                <li><i class="fa-solid fa-circle-check me-2"></i>No prior design background required</li>
-                                <!-- <li><i class="fa-solid fa-circle-check me-2"></i>Interest in design, execution, and professional learning encouraged</li> -->
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>10+ pass from a recognised board</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>No prior design background required</strong></li>
+                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Interest in design, execution, and professional learning encouraged</strong></li>
                             </ul>
 
                             <div class="d-flex gap-3 flex-wrap mt-3">
@@ -518,7 +521,7 @@
     <div class="row">
         <div class="col-md-4 content ny ">
 
-            <h6 class="title ">Interior Industry Alliances</h6>
+            <h6 class="title "> Industry <br>Alliances</h6>
             <div class="my-2 ecx">
                 <!-- <a href="#" class="btn-animated btn-light">
                     <div class="btn-text-wrap">
@@ -539,24 +542,35 @@
             <!-- MARQUEE LEFT -->
             <div class="marquee-container">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
 
 
 
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
 
+
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
 
                 </div>
             </div>
@@ -581,46 +595,46 @@
 
         <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
 
-        <div class="student-work-grid">
+        <div class="student-work-slider owl-carousel mt-3">
 
             <div class="work-item">
-                <a href="assets/img/4-insd.jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/4-insd.jpg" alt="Student Work">
+                <a href="assets/img/life-at-insd/02/02- (1).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/02/02- (1).jpg" alt="Student Work">
                 </a>
-                <div class="work-overlay">
-                    <!-- <h4>Fashion Design</h4> -->
-                </div>
             </div>
 
             <div class="work-item">
-                <a href="assets/img/international/1- (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/international/1- (2).jpg" alt="Student Work">
-
+                <a href="assets/img/life-at-insd/02/02- (2).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/02/02- (2).jpg" alt="Student Work">
                 </a>
-                <div class="work-overlay">
-                    <!-- <h4>Illustration</h4> -->
-                </div>
             </div>
 
             <div class="work-item">
-                <a href="assets/img/L3.jpeg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/L3.jpeg" alt="Student Work">
-
+                <a href="assets/img/life-at-insd/02/02- (3).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/02/02- (3).jpg" alt="Student Work">
                 </a>
-                <div class="work-overlay">
-                    <!-- <h4>Garment Construction</h4> -->
-                </div>
             </div>
 
             <div class="work-item">
-                <a href="assets/img/z1- (8).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/z1- (8).jpg" alt="Student Work">
-
+                <a href="assets/img/life-at-insd/02/02- (4).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/02/02- (4).jpg" alt="Student Work">
                 </a>
-                <div class="work-overlay">
-                    <!-- <h4>Portfolio Work</h4> -->
-                </div>
             </div>
+
+
+
+
+            <div class="work-item">
+                <a href="assets/img/courses/06- (2).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/06- (2).jpeg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/courses/06- (3).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/06- (3).jpeg" alt="Student Work">
+                </a>
+            </div>
+
 
         </div>
     </div>
@@ -763,8 +777,8 @@
 
             <!-- RIGHT CONTENT -->
             <div class="col-lg-8">
-                <h2 class="mb-3 scholarship-title">
-                    Scholarships & Financial Support
+                <h2 class="mb-3 title">
+                    Scholarships & <span>Financial Support</span>
                 </h2>
                 <p class="para">
                     INSD Kolkata offers scholarship support to eligible students to encourage creative potential and access to professional design education. Scholarship details and eligibility are shared transparently during counselling.
@@ -1123,6 +1137,35 @@
                     behavior: "smooth"
                 });
             });
+        });
+    });
+</script>
+
+
+<script>
+    $(document).ready(function() {
+        $('.student-work-slider').owlCarousel({
+            loop: true,
+            margin: 20,
+            nav: true,
+            dots: true,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            smartSpeed: 800,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                576: {
+                    items: 2
+                },
+                992: {
+                    items: 3
+                },
+                1200: {
+                    items: 4
+                }
+            }
         });
     });
 </script>

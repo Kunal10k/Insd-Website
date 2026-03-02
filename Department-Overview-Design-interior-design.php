@@ -6,7 +6,8 @@
 
     <div class="banner" style="background-image: url('./assets/img/2.jpg');">
         <marquee behavior="scroll" direction="left" scrollamount="6" class="add">
-            <h5 class="vcxs">ADMISSIONS OPEN | 2026–27 INTAKE </h5>
+            <h5 class="vcxs">ADMISSIONS OPEN | 2026–27 INTAKE | APPLY FOR SCHOLARSHIP </h5>
+
         </marquee>
         <div class="container">
             <div class="row">
@@ -14,15 +15,16 @@
 
 
                     <div class="landing_content">
-
-                        <h1 class="w-100">
-                            Start your Interior Design Career and Get Hired
-                        </h1>
                         <div class="trust_logo">
-                            <img src="assets/img/and.png" alt="" class="w-50 mb-3">
+                            <img src="assets/img/and.png" alt="" class="w-50 ">
                         </div>
 
-                        <h6 class="mt-2">Diploma | B.Des | MBA</h6>
+                        <h1 class="w-100">
+                            Start your Interior Design <br>Career and Get Hired
+                        </h1>
+
+
+                        <h6 class="mt-2">B.Des | MBA | Diploma </h6>
 
 
                         <!--    <p class="para">
@@ -247,7 +249,9 @@
                     </div>
                     <div class="stats-content">
                         <h2><span class="stats-count" data-num="300" data-suffix="+">27</span>+</h2>
-                        <p>TRAINING & PLACEMENT Cos
+                        <p>brand associate
+
+
 
 
                         </p>
@@ -263,7 +267,7 @@
 
                     </div>
                     <div class="stats-content">
-                        <h2><span class="stats-count" data-num="11" data-suffix="L">11</span>L</h2>
+                        <h2><span class="stats-count" data-num="14" data-suffix="L">14</span>L</h2>
                         <p>HIGHEST PACKAGE
                         </p>
                     </div>
@@ -278,7 +282,7 @@
 
                     </div>
                     <div class="stats-content">
-                        <h2><span class="stats-count" data-num="100">100 </span>%</h2>
+                        <h2><span class="stats-count" data-num="100">5000 </span>%</h2>
                         <p>PLACEMENT ASSISTANCE
                         </p>
                     </div>
@@ -293,7 +297,7 @@
 
                     </div>
                     <div class="stats-content">
-                        <h2><span class="stats-count" data-num="15000">15000</span>+</h2>
+                        <h2><span class="stats-count" data-num="5000">5000</span>+</h2>
                         <p>STUDENTS GRADUATED
                         </p>
                     </div>
@@ -410,8 +414,7 @@
     <div class="container">
         <h2 class="title text-center">Student Life <span>at INSD</span></h2>
         <p class="para w-100 m-auto text-center">
-            From fashion shows and student collections to workshops, exhibitions, and campus events, <br> student life at
-            INSD is vibrant, creative, and industry-facing.
+            Through hands-on studio projects, industry site visits, material libraries, and portfolio showcases, INSD interior <br>design students experience a dynamic, collaborative learning environment connected to real-world practice.
         </p>
 
         <div class="owl-carousel video-testimonial-slider mt-4">
@@ -440,7 +443,7 @@
     <div class="container">
         <div class="row align-items-center">
 
-            <div class="col-md-7">
+            <div class="col-md-6">
                 <!-- <h5 class="sub-head">Why Choose INSD Kolkata</h5> -->
                 <h2 class="title">
                     WHY STUDY INTERIOR <br>
@@ -511,13 +514,18 @@
 
 
 
-            <div class="col-md-5">
+            <div class="col-md-6">
 
                 <div class="image_changer">
 
-                    <img src="assets/img/L1.jpeg" class="">
-                    <img src="assets/img/L2.jpeg" class="active">
-                    <img src="assets/img/L3.jpeg" class="">
+                    <img src="assets/img/L1.jpeg" class="active">
+                    <img src="assets/img/z1- (8).jpg" class="">
+                    <img src="assets/img/z1- (7).jpg" class="">
+                    <img src="assets/img/z1- (3).jpg" class="">
+                    <img src="assets/img/courses/03- (1).jpg" class="">
+                    <img src="assets/img/courses/03- (2).jpg" class="">
+                    <img src="assets/img/courses/03- (3).jpg" class="">
+                    <img src="assets/img/courses/03- (4).jpg" class="">
 
 
 
@@ -535,7 +543,7 @@
 <section class="mentor-area">
     <div class="container">
         <!-- <p class="sub-head text-center cen ">QUALIFIED TEACHERS</p> -->
-        <h2 class="title text-center ">Industry Advisory <br> <span>Counsel</span></h2>
+        <h2 class="title text-center ">Industry Advisory <br> <span>COUNCIL</span></h2>
 
         <div class="owl-carousel mentor-owl mt-5">
 
@@ -646,7 +654,7 @@
     <div class="container">
         <div class="cta-content">
 
-            <h2 class="title text-center text-white">Need clarity before choosing?</h2>
+            <h2 class="title text-center text-white">Last Few Seats – Enroll Today</h2>
 
             <div class="mt-4">
                 <a href="#form" class="btn-animated btn-light">
@@ -1057,23 +1065,35 @@
             <!-- MARQUEE LEFT -->
             <div class="marquee-container">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
 
 
 
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (3).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (5).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (6).jpg"></div>
-                    <div class="item"><img src="assets/img/Interior-Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
+
+
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
 
 
                 </div>
@@ -1608,7 +1628,7 @@
         <h2 class="title text-white">Start your design journey <br>at INSD Kolkata</h2>
 
         <div class="buttons">
-            <a href="#" class="btn-outline"><i class="fa-solid fa-user-plus"></i> Apply Now | Book Counselling </a>
+            <a href="#" class="btn-outline"><i class="fa-solid fa-user-plus"></i> Apply Now </a>
 
             <a href="#" class="btn-animated btn-light mt-0">
                 <div class="btn-text-wrap">
