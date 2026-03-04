@@ -10,40 +10,57 @@
 
 
 <section class="inner_Section" style="background-image: url('./assets/img/inner_banner/Diploma\ &\ Advanced\ Diploma\ in\ Graphic\ Design\ \(1\).jpg');">
+
+    <marquee behavior="scroll" direction="left" scrollamount="6" class="add">
+        <h5 class="vcxs">ADMISSIONS OPEN | 2026–27 INTAKE | APPLY FOR SCHOLARSHIP </h5>
+
+    </marquee>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="banner-top  ">
-                    <div class="banner-badge-top  ">
-                        <i class="fa-solid fa-calendar-days"></i>
-                        <span class="subtitle">1 Year | 2 Years</span>
-                    </div>
 
-                    <div class="banner-badge-top m-0">
-                        <i class="fa-solid fa-building-columns"></i>
-                        <span class="subtitle">Full-Time | On-Campus</span>
-                    </div>
-
-                    <div class="banner-badge-top mx-3">
-                        <i class="fa-solid fa-graduation-cap"></i>
-                        <span class="subtitle">10th Pass</span>
-                    </div>
-                    <div class="banner-badge-top mx-3">
-                        <i class="fa-solid fa-calendar-days"></i>
-                        <span class="subtitle">2026</span>
-                    </div>
-
+                <div class="trust_logo pt-4">
+                    <img src="assets/img/and.png" alt="" class="w-25 ">
                 </div>
 
-
                 <h1 class="title">Diploma & Advanced Diploma in <br class="d-none d-md-block"> <span>Graphic Design & Technology</span></h1>
-                <p class="para  w-50 w-sm-100    ">
-                    Practical, industry-focused graphic design programs to build creative, digital, and job-ready skills.
-                </p>
 
+                <div class="row mt-3">
+                    <div class="col-md-10">
+                        <div class="course-highlights">
+
+                            <div class="highlight-card">
+                                <div class="highlight-head">
+                                    <i class="fa-solid fa-calendar-days"></i>
+                                    <span>Duration</span>
+                                </div>
+                                <div class="highlight-text">1 Year | 2 Years</div>
+                            </div>
+
+                            <div class="highlight-card">
+                                <div class="highlight-head">
+                                    <i class="fa-solid fa-building-columns"></i>
+                                    <span>Mode</span>
+                                </div>
+                                <div class="highlight-text">Full-Time | On-Campus</div>
+                            </div>
+
+                            <div class="highlight-card">
+                                <div class="highlight-head">
+                                    <i class="fa-solid fa-graduation-cap"></i>
+                                    <span>Eligibility</span>
+                                </div>
+                                <div class="highlight-text">10th Pass</div>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+                </div>
                 <div class="ban-btn mt-4">
 
-                    <a href="#" class="btn-animated btn-light">
+                    <a href="#" class="btn-animated btn-light blink">
                         <div class="btn-text-wrap">
                             <div class="btn-text">Apply Now</div>
                             <div class="btn-text-hover">Apply Now</div>
@@ -133,7 +150,7 @@
                                     <a href="#coursecontent">Course Content</a>
                                 </li>
                                 <li class="">
-                                    <a href="#details">Carrier opportunities</a>
+                                    <a href="#details">Career Opportunities</a>
                                 </li>
                                 <li class="">
                                     <a href="#Eligibility">Eligibility</a>
@@ -283,8 +300,8 @@
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="details">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
 
-                            <h6 class="py-2">Career Opportunities & Placements</h6>
-                            <ul class="rbt-list-style-1">
+                            <h6 class="py-2">Career Opportunities </h6>
+                            <ul class="rbt-list-style-1 mt-3">
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Graphic Designer</li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Visual / Creative Designer</li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Branding & Advertising Executive</li>
@@ -292,12 +309,7 @@
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Junior UI / Creative Designer</li>
                             </ul>
 
-                            <h6 class="py-2">Placement Support</h6>
-                            <ul class="rbt-list-style-1">
-                                <li><i class="fa-solid fa-circle-check me-2"></i>100% Placement Assistance</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Exposure to design studios, agencies, startups, and digital companies</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Career guidance, portfolio preparation, and interview support</li>
-                            </ul>
+                        
 
                             <div class="mt-3">
                                 <a href="#" class="btn-animated btn-light">
@@ -314,14 +326,14 @@
 
                         </div>
 
-                        <div class="rbt-show-more-btn">Show More</div>
+                        <!-- <div class="rbt-show-more-btn">Show More</div> -->
                     </div>
 
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="Eligibility">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
 
-                            <h6 class="py-2">Eligibility & Admission Snapshot</h6>
-                            <ul class="rbt-list-style-1">
+                            <h6 class="py-2">Eligibility </h6>
+                            <ul class="rbt-list-style-1 mt-3">
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Diploma: 10th Pass from a recognised board</li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Advanced Diploma: 10th Pass from a recognised board</li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i>No prior design background required</li>
@@ -352,37 +364,10 @@
                                 </a>
                             </div>
 
-                            <hr class="my-4">
-
-
-
-                            <div class="d-flex gap-3 flex-wrap mt-3">
-                                <a href="#talk-to-counsellor" class="btn-animated btn-light">
-                                    <div class="btn-text-wrap">
-                                        <div class="btn-text">Check Scholarship Eligibility</div>
-                                        <div class="btn-text-hover">Check Scholarship Eligibility</div>
-                                    </div>
-                                    <div class="btn-icon-wrap">
-                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                                    </div>
-                                </a>
-
-                                <a href="#talk-to-counsellor" class="btn-animated btn-light">
-                                    <div class="btn-text-wrap">
-                                        <div class="btn-text">Talk to a Counsellor</div>
-                                        <div class="btn-text-hover">Talk to a Counsellor</div>
-                                    </div>
-                                    <div class="btn-icon-wrap">
-                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                                    </div>
-                                </a>
-                            </div>
 
                         </div>
 
-                        <div class="rbt-show-more-btn">Show More</div>
+                        <!-- <div class="rbt-show-more-btn">Show More</div> -->
                     </div>
 
 
@@ -394,222 +379,424 @@
 
 
 
-
 <section class="why-study-section py-5">
     <div class="container">
         <div class="row">
-
-            <!-- LEFT CONTENT -->
-            <div class="col-lg-8 mb-4 mb-lg-0">
-                <h2 class="mb-3 title">
-                    Who Should Choose <span>This Program</span> <br>
-
-                </h2>
-
-
-
-                <!-- Who Should Choose This Program -->
-                <div class="who-should mt-5">
-
-                    <ul class="list-unstyled">
-                        <li class="mb-2 d-flex align-items-start">
-                            <span class="me-2">✔</span>
-
-                            Students interested in graphic design, visual communication, and digital media
-                        </li>
-                        <li class="mb-2 d-flex align-items-start">
-                            <span class="me-2">✔</span>
-
-                            Beginners looking for a professional entry into creative and digital careers
-                        </li>
-                        <li class="mb-2 d-flex align-items-start">
-                            <span class="me-2">✔</span>
-
-                            Learners who prefer practical, skill-focused programs
-                        </li>
-                        <li class="mb-2 d-flex align-items-start">
-                            <span class="me-2">✔</span>
-
-                            Students aiming to work in design studios, agencies, startups, or freelance roles
-                        </li>
-                    </ul>
-
-                    <!-- Call-to-action links -->
-                    <div class="mt-3">
-
-                        <a href="#" class="btn-animated btn-light">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">Talk to a Course Counsellor</div>
-                                <div class="btn-text-hover">Talk to a Course Counsellor</div>
-                            </div>
-                            <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                            </div>
-                        </a>
-
-                        <a href="#" class="btn-animated btn-light">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">Get Career Guidance</div>
-                                <div class="btn-text-hover">Get Career Guidance</div>
-                            </div>
-                            <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- RIGHT IMAGE -->
-            <div class="col-lg-4 text-center">
-                <img src="assets/img/p1.png" alt="B.Des Graphic Design & Technology INSD Kolkata" class="img-fluid rounded shadow">
-            </div>
-
-        </div>
-    </div>
-</section>
-
-
-<section class="why-study-section py-5">
-    <div class="container">
-        <div class="row">
-
-            <!-- RIGHT IMAGE -->
-            <div class="col-lg-5 text-center">
-                <img src="assets/img/p1.png" alt="B.Des Graphic Design &amp; Technology INSD Kolkata" class="img-fluid rounded shadow">
-            </div>
 
             <!-- LEFT CONTENT -->
             <div class="col-lg-7 mb-4 mb-lg-0">
                 <h2 class="mb-3 title">
-                    Scholarships
-
+                    Who Should <span>Choose This <br>Program</span>
                 </h2>
 
+                <div class="benifit-wraps">
 
-
-                <!-- Who Should Choose This Program -->
-                <div class="who-should mt-5">
-
-                    <p class="para">
-                        INSD Kolkata offers a range of scholarship and financial assistance options to support talented and deserving students in pursuing their design education. Merit-based scholarships recognize students with outstanding academic performance, exceptional creative portfolios, or top results in entrance assessments. Need-based financial assistance ensures that students with genuine financial constraints can access professional education without barriers. The institute also provides special category scholarships for early applicants, high achievers in national or state-level competitions, and underrepresented communities. Additionally, flexible installment plans, educational loans, and guidance on applying for government or external funding make it easier for students to manage tuition fees while focusing on their creative development.
-                    </p>
-
-                    <!-- Call-to-action links -->
-                    <div class="mt-3">
-
-                        <a href="#" class="btn-animated btn-light">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">Get Fee Details</div>
-                                <div class="btn-text-hover">Get Fee Details</div>
-                            </div>
-                            <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                            </div>
-                        </a>
-
-                        <a href="#" class="btn-animated btn-light">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">Talk to a Counsellor</div>
-                                <div class="btn-text-hover">Talk to a Counsellor</div>
-                            </div>
-                            <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                            </div>
-                        </a>
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Students interested in graphic design, visual communication, and digital media</h5>
+                        </div>
                     </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Beginners looking for a professional entry into creative and digital careers</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Learners who prefer practical, skill-focused programs</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Students aiming to work in design studios, agencies, startups, or freelance roles</h5>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 
+            <!-- RIGHT IMAGE -->
+            <div class="col-lg-5 text-center">
 
+                <div class="image_changer" style="height: 550px;">
+
+                    <img src="assets/img/L2.jpeg" class="">
+                    <img src="assets/img/courses/04- (1).jpeg" class="">
+                    <img src="assets/img/courses/04- (2).jpeg" class="active">
+                    <img src="assets/img/courses/04- (3).jpeg" class="">
+                    <img src="assets/img/courses/04- (4).jpeg" class="">
+
+                </div>
+            </div>
 
         </div>
     </div>
 </section>
 
-<section class="career-cta">
-    <div class="container text-center">
 
-        <h3 class="cta-title">
-            Start Your Interior Design Journey at INSD Kolkata
-        </h3>
 
-        <!-- <p class="cta-text mb-3">
-            Get expert guidance on career scope, courses, and professional opportunities.
-        </p> -->
+<section class="instructor-section py-5">
+    <div class="container">
 
-        <a href="#" class="btn-animated btn-light mt-2 ">
-            <div class="btn-text-wrap">
-                <div class="btn-text">Talk to a Counsellor</div>
-                <div class="btn-text-hover">Talk to a Counsellor</div>
-            </div>
-            <div class="btn-icon-wrap">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-            </div>
-        </a>
+        <div class="instructor-wrapper shadow-sm p-4 rounded">
 
+            <h4 class="title text-center">Faculty Members</h4>
+
+
+            <div class="instructor-carousel owl-carousel owl-loaded owl-drag">
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2992px, 0px, 0px); transition: 0.7s; width: 4352px;"><div class="owl-item cloned" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Prity Dutta</h5>
+                    <p class="instructor-placement">Placed at: <span>Manish</span></p>
+                </div></div><div class="owl-item cloned" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Muskan Agarwal</h5>
+                    <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
+                </div></div><div class="owl-item cloned" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Naziya Khan</h5>
+                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                </div></div><div class="owl-item cloned" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Ritika Sharma</h5>
+                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Rishita Sengupta</h5>
+                    <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
+                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Damini Bhattacharya</h5>
+                    <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
+                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Sneha Singh</h5>
+                    <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
+                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Abhishek Mishra</h5>
+                    <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
+                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Prity Dutta</h5>
+                    <p class="instructor-placement">Placed at: <span>Manish</span></p>
+                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Muskan Agarwal</h5>
+                    <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
+                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Naziya Khan</h5>
+                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                </div></div><div class="owl-item active" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Ritika Sharma</h5>
+                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                </div></div><div class="owl-item cloned active" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Rishita Sengupta</h5>
+                    <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
+                </div></div><div class="owl-item cloned active" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Damini Bhattacharya</h5>
+                    <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
+                </div></div><div class="owl-item cloned active" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Sneha Singh</h5>
+                    <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
+                </div></div><div class="owl-item cloned" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
+                    <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Abhishek Mishra</h5>
+                    <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
+                </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
+        </div>
     </div>
 </section>
 
 
+<section class="cta-sec" style="background-image: url('./assets/img/c2.jpg'); 
+         background-attachment: fixed; 
+         background-size: cover; 
+         background-position: center; padding: 25px 0;">
+    <div class="container">
+        <div class="cta-content">
+
+            <h2 class="title text-center text-white">Book a Free Consultation Now</h2>
+            <!-- <p class="cta-text mb-3">
+                Unsure about career scope or professional opportunities in interior design?
+            </p> -->
+            <div class="mt-4">
+                <a href="#test" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Talk to a Course Counsellor</div>
+                        <div class="btn-text-hover">Talk to a Course Counsellor</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+                <a href="#test" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Get Career Guidance</div>
+                        <div class="btn-text-hover">Get Career Guidance</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="alumni-container p-0">
+    <div class="row">
+        <div class="col-md-3 content ny ">
+
+            <h6 class="title "> Industry <br>Alliances</h6>
+            <div class="my-2 ecx">
+
+            </div>
 
 
+
+        </div>
+        <div class="col-md-9 center-box">
+            <!-- MARQUEE LEFT -->
+            <div class="marquee-container">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
+
+
+
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
+
+
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
+                </div>
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+
+</section>
 
 <section class="student-work">
     <div class="container">
-        <h5 class="sub-head text-center cen">Student work</h5>
-        <h2 class="title text-center">WALK THE STAGE <span>AS A DESIGNER</span></h2>
+        <!-- <h5 class="sub-head text-center cen">Student work</h5> -->
+        <h2 class="title text-center">Life at INSD <span>Kolkata</span></h2>
 
-        <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p>
+        <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
+        <div class="student-work-slider owl-carousel mt-3 owl-loaded owl-drag">
 
-        <div class="student-work-grid">
+            
 
-            <div class="work-item">
-                <a href="assets/img/1 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/1 (2).jpg" alt="Student Work">
+            
+
+            
+
+            
+            
+            
+            
+            
+            
+
+
+
+        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-3692px, 0px, 0px); transition: 0.25s; width: 5396px;"><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
                 </a>
-                <div class="work-overlay">
-                    <h4>Fashion Design</h4>
-                </div>
+            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/courses/05- (2).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/05- (2).jpg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/courses/05- (3).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/05- (3).jpg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/courses/05- (4).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/05- (4).jpg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/courses/05- (5).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/05- (5).jpg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/life-at-insd/01- (1).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/01- (1).jpeg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/life-at-insd/01- (2).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/01- (2).jpeg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/life-at-insd/01- (3).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/01- (3).jpeg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/life-at-insd/01- (4).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/01- (4).jpeg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/courses/05- (2).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/05- (2).jpg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/courses/05- (3).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/05- (3).jpg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/courses/05- (4).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/05- (4).jpg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item active" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/courses/05- (5).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/05- (5).jpg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item cloned active" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/life-at-insd/01- (1).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/01- (1).jpeg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item cloned active" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/life-at-insd/01- (2).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/01- (2).jpeg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item cloned active" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/life-at-insd/01- (3).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/01- (3).jpeg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/life-at-insd/01- (4).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/life-at-insd/01- (4).jpeg" alt="Student Work">
+                </a>
+            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
+                <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
+                </a>
+            </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
+    </div>
+</section>
+
+
+
+<section class="scholarship-section py-5 bg-light">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <!-- LEFT IMAGE -->
+            <div class="col-lg-4 text-center mb-4 mb-lg-0">
+                <img src="assets/img/z1- (6).jpg" alt="Scholarships at INSD Kolkata" class="img-fluid rounded shadow">
             </div>
 
-            <div class="work-item">
-                <a href="assets/img/2 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/2 (2).jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Illustration</h4>
-                </div>
-            </div>
+            <!-- RIGHT CONTENT -->
+            <div class="col-lg-8">
+                <h2 class="mb-3 title">
+                    Scholarships &amp; <span>Financial Support</span>
+                </h2>
+                <p class="scholarship-text mb-3 para">
+                    INSD Kolkata offers scholarship support to eligible students as part of its commitment to encouraging academic merit, creative potential, and inclusive access to professional design education.Scholarship opportunities are evaluated based on institutional criteria. Details regarding eligibility, categories, and the application process are communicated transparently during the counselling interaction.
+                </p>
 
-            <div class="work-item">
-                <a href="assets/img/6-insd.jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/6-insd.jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Garment Construction</h4>
-                </div>
-            </div>
+                <div class="mt-4">
+                    <a href="#test" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Check Scholarship Eligibility</div>
+                            <div class="btn-text-hover">Check Scholarship Eligibility</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+                    <a href="#test" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Check Scholarship Eligibility</div>
+                            <div class="btn-text-hover">Check Scholarship Eligibility</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
 
-            <div class="work-item">
-                <a href="assets/img/3 (2).jpg" class=" glightbox" data-gallery="student-work">
-                    <img src="assets/img/3 (2).jpg" alt="Student Work">
-                </a>
-                <div class="work-overlay">
-                    <h4>Portfolio Work</h4>
                 </div>
+
             </div>
 
         </div>
     </div>
 </section>
-
-
 
 <section class="student-test">
     <div class="">
@@ -770,206 +957,10 @@
             </div>
         </div>
 
-        <div class="marquee-container1">
-            <div class="marquee-track1 marquee-left">
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
 
-                <div class="card">
-                    <p>“The community and mentors made me stay motivated throughout. Fantastic learning experience.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=5" alt="Student">
-                        <div>
-                            <div class="name">Sanya Verma</div>
-                            <div class="role">BBA, Delhi NCR</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I finally understood complex concepts with ease. Truly an exceptional course!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
-                        <div>
-                            <div class="name">Rohit Patel</div>
-                            <div class="role">B.Tech, Ahmedabad</div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Duplicate cards -->
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“I never imagined I could learn so much in such a short time. The projects are really helpful!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
-                        <div>
-                            <div class="name">Arjun Mehra</div>
-                            <div class="role">MBA, Gurgaon</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
 
     </div>
 </section>
-
-
-
-
-
-<section class="related-courses">
-    <div class="container">
-        <!-- <h5 class="sub-head text-center cen">Related Courses</h5> -->
-        <h2 class="title text-center">Our Related <span>Course</span></h2>
-
-        <div class="related-course-grid">
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="https://cmr.edu.in/blog/wp-content/uploads/2024/11/Bachelor-Of-Design-And-Career-Opportunities.webp" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>B.DES in Graphic Design</h4>
-                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
-                </div>
-            </div>
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/graph.webp" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>MBA in Graphic Design</h4>
-                    <!-- <p>Photoshop • Illustrator • CorelDraw</p> -->
-                </div>
-            </div>
-
-            <div class="course-card1">
-                <div class="course-img">
-                    <img src="assets/img/INTERIOR.jpg" alt="Course">
-                </div>
-                <div class="course-info">
-                    <h4>Diploma &
-                        Advanced Diploma in
-                        Graphic Design</h4>
-
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
 
 
 
@@ -1039,5 +1030,55 @@
                 items: 4
             }
         }
+    });
+</script>
+
+
+<script>
+    $(document).ready(function() {
+        $(".instructor-carousel").owlCarousel({
+            loop: true, // Infinite loop
+            margin: 20, // Space between cards
+            nav: false, // Hide prev/next arrows
+            dots: true, // Show pagination dots
+            autoplay: true, // Auto slide
+            autoplayTimeout: 4000, // 4 seconds per slide
+            autoplayHoverPause: true, // Pause on hover
+            smartSpeed: 700, // Slide transition speed
+            responsive: {
+                0: {
+                    items: 1
+                },
+                576: {
+                    items: 2
+                },
+                768: {
+                    items: 3
+                },
+                992: {
+                    items: 4
+                },
+                1200: {
+                    items: 4
+                }
+            }
+        });
+    });
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+
+        const images = document.querySelectorAll(".image_changer img");
+        let index = 0;
+
+        setInterval(() => {
+
+            images[index].classList.remove("active");
+            index = (index + 1) % images.length;
+            images[index].classList.add("active");
+
+        }, 3000);
+
     });
 </script>

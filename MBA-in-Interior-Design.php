@@ -946,6 +946,55 @@
     </div>
 </section>
 
+
+<section class="scholarship-section py-5 bg-light">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <!-- LEFT IMAGE -->
+            <div class="col-lg-4 text-center mb-4 mb-lg-0">
+                <img src="assets/img/z1- (6).jpg" alt="Scholarships at INSD Kolkata" class="img-fluid rounded shadow">
+            </div>
+
+            <!-- RIGHT CONTENT -->
+            <div class="col-lg-8">
+                <h2 class="mb-3 title">
+                    Scholarships &amp; <span>Financial Support</span>
+                </h2>
+                <p class="scholarship-text mb-3 para">
+                    INSD Kolkata offers scholarship support to eligible students as part of its commitment to encouraging academic merit, creative potential, and inclusive access to professional design education.Scholarship opportunities are evaluated based on institutional criteria. Details regarding eligibility, categories, and the application process are communicated transparently during the counselling interaction.
+                </p>
+
+                <div class="mt-4">
+                    <a href="#test" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Check Scholarship Eligibility</div>
+                            <div class="btn-text-hover">Check Scholarship Eligibility</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+                    <a href="#test" class="btn-animated btn-light">
+                        <div class="btn-text-wrap">
+                            <div class="btn-text">Check Scholarship Eligibility</div>
+                            <div class="btn-text-hover">Check Scholarship Eligibility</div>
+                        </div>
+                        <div class="btn-icon-wrap">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
 <section class="student-test">
     <div class="">
         <div class="container">

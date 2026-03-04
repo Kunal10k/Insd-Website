@@ -199,7 +199,7 @@
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="coursecontent">
                         <div class="rbt-accordion-style rbt-accordion-02 accordion">
                             <h4 class="mt-3 small_head">Curriculum <span>Structure</span> </h4>
-                            <p class="para">The B.Des in Interior Design program is structured to build design competence, professional understanding, and industry readiness through a blend of studio learning, experiential exposure, and industry engagement.</p>
+                            <!-- <p class="para">The B.Des in Interior Design program is structured to build design competence, professional understanding, and industry readiness through a blend of studio learning, experiential exposure, and industry engagement.</p> -->
 
                             <div class="accordion mt-3" id="bdesAccordion">
 

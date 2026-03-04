@@ -1184,14 +1184,19 @@
     font-size: 15px;
   }
 
-  .inner_Section {
-    padding: 100px 0;
-  }
-
+.inner_Section {
+    padding: 69px 0;
+}
   .footer-column ul li a {
     margin: 0;
     font-size: 15px;
   }
+  .inner_Section .title {
+    font-size: 27px !important;
+}
+.student-work {
+    padding: 40px 0;
+}
 
   .footer-bg-text {
     font-size: 117px;

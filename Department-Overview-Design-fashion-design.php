@@ -4,26 +4,24 @@
 
 <section class="landing_banner" id="form">
     <div class="banner" style="background-image: url('./assets/img/insd slider.jpg.jpeg');">
+        <marquee behavior="scroll" direction="left" scrollamount="6" class="add">
+            <h5 class="vcxs">ADMISSIONS OPEN | 2026–27 INTAKE | APPLY FOR SCHOLARSHIP </h5>
+
+        </marquee>
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-12 landing_pick">
                     <div class="landing_content">
-                        <div class="trust_logo">
-                            <img src="assets/img/trust logo-Photoroom.png" alt="" class="w-25 mb-3">
+                      <div class="trust_logo">
+                            <img src="assets/img/and.png" alt="" class="w-50 ">
                         </div>
-                        <h5>Admissions Open | 2026-2027 Intaka </h5>
-                        <h1 class="w-100 w-md-75">Shape Your Fashion Career with <br> Professional Training
+                      
+                        <h1 class="w-100 w-md-75">Shape Your Fashion Career <br>with  Professional Training
 
                             ​</h1>
-                        <h6 class="mt-3">Diploma • B.Des• MBA</h6>
+                  <h6 class="mt-2">B.Des | MBA | Diploma </h6>
 
-                        <!-- 
-                        <p class="para">
-                            Practical fashion education with strong industry exposure, career guidance, and placement
-                            support.
-
-                        </p> -->
-
+                      
                         <div>
                             <a href="#" class="btn-animated btn-light1 btn-light8 mt-4">
                                 <div class="btn-text-wrap">
@@ -217,11 +215,16 @@
             <div class="col-md-3">
                 <div class="stats-card">
                     <div class="stats-icon">
-                        <img src="assets/img/icon/1- (1).png">
+                        <img src="assets/img/about/training.png">
                     </div>
                     <div class="stats-content">
-                        <h2><span class="stats-count" data-num="27">0</span>+</h2>
-                        <p>Total Achievement</p>
+                        <h2><span class="stats-count" data-num="300" data-suffix="+">300</span>+</h2>
+                        <p>brand associate
+
+
+
+
+                        </p>
                     </div>
                 </div>
             </div>
@@ -229,12 +232,14 @@
             <div class="col-md-3">
                 <div class="stats-card">
                     <div class="stats-icon">
-                        <img src="assets/img/icon/1- (2).png">
+                        <img src="assets/img/about/save-money.png">
+
 
                     </div>
                     <div class="stats-content">
-                        <h2><span class="stats-count" data-num="145">0</span>+</h2>
-                        <p>Total Students</p>
+                        <h2><span class="stats-count" data-num="12" data-suffix="L">12</span>L</h2>
+                        <p>HIGHEST PACKAGE
+                        </p>
                     </div>
                 </div>
             </div>
@@ -242,12 +247,14 @@
             <div class="col-md-3">
                 <div class="stats-card">
                     <div class="stats-icon">
-                        <img src="assets/img/icon/1- (3).png">
+                        <img src="assets/img/about/job-offer.png">
+
 
                     </div>
                     <div class="stats-content">
-                        <h2><span class="stats-count" data-num="10000">0</span></h2>
-                        <p>Total Instructor</p>
+                        <h2><span class="stats-count" data-num="100">100</span>%</h2>
+                        <p>PLACEMENT ASSISTANCE
+                        </p>
                     </div>
                 </div>
             </div>
@@ -255,12 +262,14 @@
             <div class="col-md-3">
                 <div class="stats-card">
                     <div class="stats-icon">
-                        <img src="assets/img/icon/1- (4).png">
+                        <img src="assets/img/about/graduate-hat.png">
+
 
                     </div>
                     <div class="stats-content">
-                        <h2><span class="stats-count" data-num="214">0</span>+</h2>
-                        <p>Over The World</p>
+                        <h2><span class="stats-count" data-num="5000">5000</span>+</h2>
+                        <p>STUDENTS GRADUATED
+                        </p>
                     </div>
                 </div>
             </div>
@@ -309,7 +318,7 @@
             <div class="col-md-4">
                 <div class="course-card">
                     <div class="card-header">
-                        <h2>B.Des in Fashion Design & Technology</h2>
+                        <h2>Bachelor of Design in Fashion Design & Technology(B.DES)</h2>
 
                     </div>
 
@@ -332,7 +341,7 @@
             <div class="col-md-4">
                 <div class="course-card">
                     <div class="card-header">
-                        <h2>MBA in Fashion Design & Technology</h2>
+                        <h2>Master of Business Administration in Fashion Design & Technology(MBA)</h2>
 
                     </div>
 
@@ -395,108 +404,317 @@
 </section>
 
 
+<section class="why-choose">
+    <div class="container">
+        <div class="row align-items-center">
 
+            <div class="col-md-6">
+                <!-- <h5 class="sub-head">Why Choose INSD Kolkata</h5> -->
+                <h2 class="title">
+                    Why Study Fashion  <br>
+                    <span>Design at INSD</span>
+                </h2>
+
+
+
+                <div class="benifit-wraps">
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Industry-aligned curriculum built for real fashion careers</h5>
+                            <!-- <p>Courses designed as per current industry standards and trends.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Studio-based practical learning from day one</h5>
+                            <!-- <p>Hands-on training through live projects and real design studios.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Exposure through fashion shows, exhibitions, and competitions</h5>
+                            <!-- <p>Learn directly from industry professionals and creative leaders.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Mentorship from practicing designers and industry professionals
+                            </h5>
+                            <!-- <p>Premium design education that remains accessible and cost-effective.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Structured career guidance and placement assistance</h5>
+                            <!-- <p>Strong placement support, portfolio building, and career guidance.</p> -->
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+
+
+
+            <div class="col-md-6">
+
+                <div class="image_changer">
+
+                    <img src="assets/img/fashion/01- (1).jpg" class="active">
+                    <img src="assets/img/fashion/01- (2).jpg" >
+                    <img src="assets/img/fashion/01- (3).jpg" >
+                    <img src="assets/img/fashion/01- (4).jpg" >
+   
+
+
+
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
 
 <section class="mentor-area">
     <div class="container">
         <!-- <p class="sub-head text-center cen ">QUALIFIED TEACHERS</p> -->
-        <h2 class="title text-center ">Industry Mentors & <br> <span>Masterclasses</span></h2>
+        <h2 class="title text-center ">Industry Advisory <br> <span>COUNCIL</span></h2>
 
-        <!-- <p class="w-75 m-auto text-center">Learn directly from practicing designers, entrepreneurs, and industry experts through masterclasses, workshops, live projects, and design reviews — gaining real-world insights beyond the classroom.
-        </p> -->
+        <div class="owl-carousel mentor-owl mt-5 owl-loaded owl-drag">
 
-        <div class="owl-carousel mentor-owl mt-5">
+            
 
-            <div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg" />
+            
 
-                </div>
-                <h4>Aparajita Toor</h4>
-                <!-- <span>Musician</span> -->
-            </div>
-
-            <div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Azad Adham.jpg" />
-
-
-                </div>
-                <h4>Azad Adham</h4>
-                <!-- <span>Designer</span> -->
-            </div>
-
-            <div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Bhavana Jasra (Owner,First Impression.).jpg" />
-
-                </div>
-                <h4>Bhavana Jasra</h4>
-                <span>Owner,First Impression</span>
-            </div>
-            <div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Biren Vaidya(MD, Rose Group.).jpg" />
-
-                </div>
-                <h4>Biren Vaidya</h4>
-                <span>MD, Rose Group</span>
-            </div>
-            <div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg" />
-
-                </div>
-                <h4>Neha Lulla</h4>
-                <span>Jewellery Designer</span>
-            </div>
-            <div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg" />
-
-                </div>
-                <h4>Olivier Nicolay</h4>
-                <!-- <span>Jewellery Designer</span> -->
-            </div>
-            <div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Payal Singhal.jpg" />
-
-                </div>
-                <h4>Payal Singhal</h4>
-                <!-- <span>Jewellery Designer</span> -->
-            </div>
-            <div class="mentor-item">
+            
+            
+            
+            
+            
+            <!-- <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Rishab Suresh.jpg" />
 
                 </div>
                 <h4>Rishab Suresh</h4>
-                <!-- <span>Jewellery Designer</span> -->
-            </div>
-            <div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation & MASH).jpg" />
-
-                </div>
-                <h4>Shalini Passi</h4>
-                <span>Founder,Art Foundation & MASH</span>
-            </div>
-            <div class="mentor-item">
+              
+            </div> -->
+            
+            <!-- <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Sophie Pereira.jpg" />
 
                 </div>
                 <h4>Sophie Pereira</h4>
-                <!-- <span>Founder,Art Foundation & MASH</span> -->
-            </div>
-            <div class="mentor-item">
+               
+            </div> -->
+            
+
+        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2005px, 0px, 0px); transition: 0.25s; width: 5444px;"><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
                 <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg" />
+                    <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg">
+
+                </div>
+                <h4>Neha Lulla</h4>
+                <span>Jewellery Designer</span>
+            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg">
+
+                </div>
+                <h4>Olivier Nicolay</h4>
+                <span>Former President, Chanel UK</span>
+
+            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Payal Singhal.jpg">
+
+                </div>
+                <h4>Payal Singhal</h4>
+                <span>Founder, Payal Singhal Fashion House</span>
+
+            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation &amp; MASH).jpg">
+
+                </div>
+                <h4>Shalini Passi</h4>
+                <span>Founder Art Foundation &amp; MASH</span>
+            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg">
 
                 </div>
                 <h4>Yogesh Chaudary</h4>
                 <span>Director, Jaipur Rugs</span>
+            </div></div><div class="owl-item" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg">
+
+                </div>
+                <h4>Aparajita Toor</h4>
+                <span>Founder, Aparajita Toor Footwear.</span>
+
+            </div></div><div class="owl-item" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Azad Adham.jpg">
+
+
+                </div>
+                <h4>Azad Adham</h4>
+                <span>Global Brand Director, BALENCIAGA</span>
+
+            </div></div><div class="owl-item active" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Bhavana Jasra (Owner,First Impression.).jpg">
+
+                </div>
+                <h4>Bhavana Jasra</h4>
+                <span>Owner,First Impression</span>
+            </div></div><div class="owl-item active" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Biren Vaidya(MD, Rose Group.).jpg">
+
+                </div>
+                <h4>Biren Vaidya</h4>
+                <span>MD, Rose Group</span>
+            </div></div><div class="owl-item active" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg">
+
+                </div>
+                <h4>Neha Lulla</h4>
+                <span>Jewellery Designer</span>
+            </div></div><div class="owl-item active" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg">
+
+                </div>
+                <h4>Olivier Nicolay</h4>
+                <span>Former President, Chanel UK</span>
+
+            </div></div><div class="owl-item" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Payal Singhal.jpg">
+
+                </div>
+                <h4>Payal Singhal</h4>
+                <span>Founder, Payal Singhal Fashion House</span>
+
+            </div></div><div class="owl-item" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation &amp; MASH).jpg">
+
+                </div>
+                <h4>Shalini Passi</h4>
+                <span>Founder Art Foundation &amp; MASH</span>
+            </div></div><div class="owl-item" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg">
+
+                </div>
+                <h4>Yogesh Chaudary</h4>
+                <span>Director, Jaipur Rugs</span>
+            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg">
+
+                </div>
+                <h4>Aparajita Toor</h4>
+                <span>Founder, Aparajita Toor Footwear.</span>
+
+            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Azad Adham.jpg">
+
+
+                </div>
+                <h4>Azad Adham</h4>
+                <span>Global Brand Director, BALENCIAGA</span>
+
+            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Bhavana Jasra (Owner,First Impression.).jpg">
+
+                </div>
+                <h4>Bhavana Jasra</h4>
+                <span>Owner,First Impression</span>
+            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Biren Vaidya(MD, Rose Group.).jpg">
+
+                </div>
+                <h4>Biren Vaidya</h4>
+                <span>MD, Rose Group</span>
+            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
+                <div class="mentor-img">
+                    <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg">
+
+                </div>
+                <h4>Neha Lulla</h4>
+                <span>Jewellery Designer</span>
+            </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+    </div>
+</section>
+
+
+
+<section class="cta-sec" style="background-image: url('./assets/img/c2.jpg'); 
+         background-attachment: fixed; 
+         background-size: cover; 
+         background-position: center; padding: 25px 0;">
+    <div class="container">
+        <div class="cta-content">
+
+            <h2 class="title text-center text-white">Last Few Seats – Enroll Today</h2>
+
+            <div class="mt-4">
+                <a href="#form" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Talk to a Counsellor</div>
+                        <div class="btn-text-hover">Talk to a Counsellor</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+                <a href="#form" class="btn-animated btn-light">
+                    <div class="btn-text-wrap">
+                        <div class="btn-text">Get Career Guidance</div>
+                        <div class="btn-text-hover">Get Career Guidance</div>
+                    </div>
+                    <div class="btn-icon-wrap">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
+                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
+                    </div>
+                </a>
+
             </div>
 
         </div>
@@ -505,68 +723,131 @@
 
 
 
+<section class="career-zone">
+    <div class="container">
+        <div class="row align-items-center">
+
+
+            <div class="col-md-5">
+                <div class="career-wrapper">
+                    <div class="career-info">
+                        <h2 class="title">
+                            PLACEMENTS &amp; <br>
+                            <span>RECRUITERS</span>
+                        </h2>
+                        <p class="para">Where talent meets industry</p>
+
+                        <div class="career-metrics mt-3">
+
+                            <!-- Highest Package -->
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-indian-rupee-sign"></i>
+                                </div>
+                                <div>
+                                    <h3>12L</h3>
+                                    <p>HIGHEST PACKAGE</p>
+                                </div>
+                            </div>
+
+                            <!-- Placement Assistance -->
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-handshake"></i>
+                                </div>
+                                <div>
+                                    <h3>100%</h3>
+                                    <p>PLACEMENT ASSISTANCE</p>
+                                </div>
+                            </div>
+
+                            <!-- Brand Partners -->
+                            <div class="metric-box">
+                                <div class="metric-icon">
+                                    <i class="fa-solid fa-building"></i>
+                                </div>
+                                <div>
+                                    <h3>300+</h3>
+                                    <p>BRAND PARTNERS</p>
+                                </div>
+                            </div>
+
+                        </div>
 
 
 
-<section class="alumni-container p-0">
-
-
-    <div class="row">
-        <div class="col-md-12">
-            <h2 class="title text-center" style="color: #222;"> The Grand Runway <br> <span>Showcase</span></h2>
-
-            <div class="marquee-container e44 mt-3">
-                <div class="owl-carousel fashion-slider">
-
-                    <div class="item">
-                        <img src="assets/img/l- (1).jpg" alt="">
                     </div>
-                    <div class="item">
-                        <img src="assets/img/l- (2).jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="assets/img/l- (3).jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="assets/img/l- (4).jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="assets/img/l- (5).jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="assets/img/l- (6).jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="assets/img/l- (7).jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="assets/img/l- (8).jpg" alt="">
-                    </div>
-
-                    <div class="item">
-                        <img src="assets/img/fashion-slider/01- (1).png" alt="">
-                    </div>
-
-                    <div class="item">
-                        <img src="assets/img/fashion-slider/01- (2).jpg" alt="">
-                    </div>
-
-                    <div class="item">
-                        <img src="assets/img/fashion-slider/01- (3).jpg" alt="">
-                    </div>
-
                 </div>
             </div>
 
+            <!-- RIGHT COLUMN -->
+            <div class="col-md-7">
+                <div class="career-brands">
+                    <h4 class="title text-center mb-3">
+                        Our Hiring <span>Partners</span>
+                    </h4>
+
+                    <div class="hight_marquee">
+
+                        <!-- LEFT MARQUEE -->
+                        <div class="brand-grid left-marquee">
+                            <div class="brand-track">
+
+                                <!-- Original Items -->
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (1).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (2).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (4).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (5).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (18).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (19).png" alt=""></div>
 
 
+
+                            </div>
+                        </div>
+
+                        <!-- RIGHT MARQUEE -->
+                        <div class="brand-grid right-marquee mt-3">
+                            <div class="brand-track">
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (6).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (7).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (8).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (9).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (10).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (17).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (20).png" alt=""></div>
+
+
+
+
+
+                            </div>
+                        </div>
+
+
+                        <!-- LEFT MARQUEE -->
+                        <div class="brand-grid left-marquee mt-3">
+                            <div class="brand-track">
+
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (11).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (12).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (13).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (14).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (15).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (16).png" alt=""></div>
+
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
 
         </div>
     </div>
-
-
-
-
 </section>
 
 
@@ -598,374 +879,16 @@
 
 
 
-<section class="alumni-container p-0">
-    <div class="row">
-        <div class="col-md-3 content">
 
-            <h6 class="title">Top <br> Recruiters</h6>
 
 
 
-        </div>
-        <div class="col-md-9">
 
 
-            <!-- MARQUEE RIGHT -->
-            <div class="marquee-container ">
-                <div class="marquee marquee-right">
-                    <div class="item"><img
-                            src="assets/img/logo/VOGUE_LOGO.svg">
-                    </div>
-                    <div class="item"><img
-                            src="assets/img/logo/hm.png"></div>
-                    <div class="item"><img
-                            src="assets/img/logo/burberry.png"></div>
-                    <div class="item"><img src="assets/img/logo/arrow.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/nike.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/nykaa.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/blackberrys.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/manayavar.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/louisphisls.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/juniors.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/puma.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/zara.jpg">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/arvind.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/gap.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/rederss.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/leviees.jpg">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/sabasachi.jpg">
-                    </div>
 
 
-                    <div class="item"><img
-                            src="assets/img/logo/VOGUE_LOGO.svg">
-                    </div>
-                    <div class="item"><img
-                            src="assets/img/logo/hm.png"></div>
-                    <div class="item"><img
-                            src="assets/img/logo/burberry.png"></div>
-                    <div class="item"><img src="assets/img/logo/arrow.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/nike.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/nykaa.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/blackberrys.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/manayavar.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/louisphisls.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/juniors.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/puma.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/zara.jpg">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/arvind.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/gap.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/rederss.png">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/leviees.jpg">
-                    </div>
-                    <div class="item"><img src="assets/img/logo/sabasachi.jpg">
-                    </div>
 
 
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-
-
-
-</section>
-
-
-
-
-<section class="career-zone">
-    <div class="container">
-        <div class="row align-items-center">
-
-            <!-- LEFT COLUMN -->
-            <div class="col-md-5">
-                <div class="career-wrapper">
-                    <div class="career-info">
-                        <h2 class="title">
-                            PLACEMENTS & <br>
-                            <span>RECRUITERS</span>
-                        </h2>
-                        <p class="para">Where talent meets industry</p>
-
-                        <div class="career-metrics mt-3">
-
-                            <div class="metric-box">
-                                <div class="metric-icon">
-                                    <i class="fa-solid fa-check"></i>
-                                </div>
-                                <div>
-                                    <h3>100%</h3>
-                                    <p>Placement Assistance</p>
-                                </div>
-                            </div>
-
-                            <div class="metric-box">
-                                <div class="metric-icon">
-                                    <i class="fa-solid fa-users"></i>
-                                </div>
-                                <div>
-                                    <h3>200+</h3>
-                                    <p>Industry Partners</p>
-                                </div>
-                            </div>
-
-                            <div class="metric-box">
-                                <div class="metric-icon">
-                                    <i class="fa-solid fa-briefcase"></i>
-                                </div>
-                                <div>
-                                    <h3>850+</h3>
-                                    <p>Students Placed</p>
-                                </div>
-                            </div>
-
-                        </div>
-
-                        <!-- <a href="#" class="btn-animated btn-light mt-4">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text">View Placements</div>
-                                <div class="btn-text-hover">View Placements</div>
-                            </div>
-                            <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                            </div>
-                        </a> -->
-
-                    </div>
-                </div>
-            </div>
-
-            <!-- RIGHT COLUMN -->
-            <div class="col-md-7">
-                <div class="career-brands">
-                    <h4 class="title text-center mb-3">
-                        Our Hiring <span>Partners</span>
-                    </h4>
-
-                    <div class="hight_marquee">
-
-                        <!-- LEFT MARQUEE -->
-                        <div class="brand-grid left-marquee">
-                            <div class="brand-track">
-
-                                <!-- Original Items -->
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (1).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (2).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (3).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (4).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (5).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (6).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (7).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (8).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (9).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (10).png" alt=""></div>
-
-
-                            </div>
-                        </div>
-
-                        <!-- RIGHT MARQUEE -->
-                        <div class="brand-grid right-marquee mt-3">
-                            <div class="brand-track">
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (11).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (12).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (13).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (14).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (15).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (16).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (17).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (18).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (19).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (20).png" alt=""></div>
-
-
-                            </div>
-                        </div>
-
-
-                        <!-- LEFT MARQUEE -->
-                        <div class="brand-grid left-marquee mt-3">
-                            <div class="brand-track">
-
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (21).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (22).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (23).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (24).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (25).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (26).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (27).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (28).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (29).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (30).png" alt=""></div>
-
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-
-
-<section class="cta-sec"
-    style="background-image: url('./assets/img/ctas.jpg'); 
-         background-attachment: fixed; 
-         background-size: cover; 
-         background-position: center;">
-
-    <div class="container">
-        <div class="cta-content">
-
-            <h2 class="title text-center text-white">Start Your Fashion Design Career at INSD</h2>
-
-            <div class="mt-4">
-                <a href="#form" class="btn-animated btn-light">
-                    <div class="btn-text-wrap">
-                        <div class="btn-text">Apply Now</div>
-                        <div class="btn-text-hover">Apply Now</div>
-                    </div>
-                    <div class="btn-icon-wrap">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon-hover">
-                    </div>
-                </a>
-                <a href="#form" class="btn-animated btn-light">
-                    <div class="btn-text-wrap">
-                        <div class="btn-text">Book Counselling</div>
-                        <div class="btn-text-hover">Book Counselling</div>
-                    </div>
-                    <div class="btn-icon-wrap">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                            alt="Arrow" class="btn-icon-hover">
-                    </div>
-                </a>
-
-            </div>
-
-        </div>
-    </div>
-</section>
-
-
-
-
-<section class="course mb-0">
-    <div class="container">
-
-
-        <h2 class="title text-center">Empowering the Next <br><span>Generation of Designers</span></h2>
-        <p class="para text-center">Our University provides world-class education, drives innovation, and prepares
-            future
-            leaders. <br> With modern facilities and a vibrant community, we empower students to succeed and make
-            lasting
-            impact.</p>
-
-        <div class="tab-section e2">
-            <div class="row g-5">
-                <div class="col-lg-4 col-md-12 order-2 order-lg-1">
-                    <h4 class="mb-4 fw-bold"></h4>
-                    <ul class="nav nav-tabs tab-button-list mt-5" id="autoTab" role="tablist">
-
-                        <li class="nav-item" role="presentation">
-                            <a class="nav-link tab-button active" data-bs-toggle="tab" href="#content1"
-                                aria-selected="true" role="tab">
-
-                                Professional Fashion Design Studios
-                            </a>
-                        </li>
-
-                        <li class="nav-item" role="presentation">
-                            <a class="nav-link tab-button" data-bs-toggle="tab" href="#content2" aria-selected="false"
-                                tabindex="-1" role="tab">
-
-                                Pattern Making & Garment Construction Units
-
-                            </a>
-                        </li>
-
-                        <li class="nav-item" role="presentation">
-                            <a class="nav-link tab-button" data-bs-toggle="tab" href="#content3" aria-selected="false"
-                                tabindex="-1" role="tab">
-
-                                Textile & Material Resource Library
-                            </a>
-                        </li>
-
-                        <li class="nav-item" role="presentation">
-                            <a class="nav-link tab-button" data-bs-toggle="tab" href="#content4" aria-selected="false"
-                                tabindex="-1" role="tab">
-
-                                CAD & Technology-Enabled Classrooms
-                            </a>
-                        </li>
-
-                        <li class="nav-item" role="presentation">
-                            <a class="nav-link tab-button" data-bs-toggle="tab" href="#content5" aria-selected="false"
-                                tabindex="-1" role="tab">
-
-                                CAD & Technology-Enabled Classrooms
-                            </a>
-                        </li>
-
-                    </ul>
-
-                </div>
-
-                <div class="col-lg-8 col-md-12 order-1 order-lg-2">
-                    <div class="tab-content">
-                        <div class="tab-pane fade show active" id="content1" role="tabpanel"><img
-                                src="assets/img/new-photo/01.jpeg" alt="Courses Layout"></div>
-                        <div class="tab-pane fade" id="content2" role="tabpanel"><img
-                                src="assets/img/new-photo/02- (1).jpeg" alt="Header Layout"></div>
-                        <div class="tab-pane fade" id="content3" role="tabpanel"><img
-                                src="assets/img/new-photo/02- (2).jpeg" alt="Toolkit"></div>
-                        <div class="tab-pane fade" id="content4" role="tabpanel"><img src="assets/img/new-photo/04.jpeg"
-                                alt="Flexible"></div>
-                        <div class="tab-pane fade" id="content5" role="tabpanel"><img src="assets/img/new-photo/04.jpeg"
-                                alt="Flexible"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 
 
@@ -985,7 +908,7 @@
                         <i class="bi bi-scissors"></i>
                     </div>
                     <h5>Fashion Designer</h5>
-                    <p>Explore creativity and innovation in designing apparel and accessories.</p>
+                    <!-- <p>Explore creativity and innovation in designing apparel and accessories.</p> -->
                 </div>
             </div>
 
@@ -995,7 +918,7 @@
                         <i class="bi bi-shop-window"></i>
                     </div>
                     <h5>Visual Merchandiser</h5>
-                    <p>Create engaging retail displays that enhance brand identity and sales.</p>
+                    <!-- <p>Create engaging retail displays that enhance brand identity and sales.</p> -->
                 </div>
             </div>
 
@@ -1005,7 +928,7 @@
                         <i class="bi bi-person-badge"></i>
                     </div>
                     <h5>Store Manager</h5>
-                    <p>Lead retail operations, manage teams, and drive customer experience.</p>
+                    <!-- <p>Lead retail operations, manage teams, and drive customer experience.</p> -->
                 </div>
             </div>
 
@@ -1015,7 +938,7 @@
                         <i class="bi bi-stars"></i>
                     </div>
                     <h5>Fashion Stylist</h5>
-                    <p>Style individuals, photoshoots, and events with professional flair.</p>
+                    <!-- <p>Style individuals, photoshoots, and events with professional flair.</p> -->
                 </div>
             </div>
 
@@ -1025,7 +948,7 @@
                         <i class="bi bi-brush"></i>
                     </div>
                     <h5>Costume Designer</h5>
-                    <p>Design costumes for films, theatre, and live performances.</p>
+                    <!-- <p>Design costumes for films, theatre, and live performances.</p> -->
                 </div>
             </div>
 
@@ -1035,7 +958,7 @@
                         <i class="bi bi-lightbulb"></i>
                     </div>
                     <h5>And More Opportunities</h5>
-                    <p>Unlock diverse career paths across fashion and creative industries.</p>
+                    <!-- <p>Unlock diverse career paths across fashion and creative industries.</p> -->
                 </div>
             </div>
 
@@ -1044,65 +967,38 @@
 </section>
 
 
-<section class="alumni-container p-0">
+<section class="alumni-container p-0 mt-4">
     <div class="row">
-        <div class="col-md-5 content">
+        <div class="col-md-3 content">
 
-            <h6 class="title ">RECOGNISED &amp; <br>FEATURED BY</h6>
-            <p class="para ">Recognised, awarded, and featured by academic <br class="d-none d-md-block"> bodies,
-                industry platforms, and media <br class="d-none d-md-block"> organisations.</p>
+
+            <h6 class="title  m-0">TOP
+                ALLIANCES</h6>
 
 
         </div>
-        <div class="col-md-7">
-            <!-- MARQUEE LEFT -->
-            <div class="marquee-container">
+        <div class="col-md-9">
+
+            <div class="marquee-container e44">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
 
 
-                    <!-- duplicate for infinite loop -->
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
 
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (3).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (4).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (5).png"></div>
-
-
-
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                    <div class="item"><img src="assets/img/logo/country.png"></div>
                 </div>
             </div>
 
-            <!-- MARQUEE RIGHT -->
-            <div class="marquee-container ">
-                <div class="marquee marquee-right">
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
-
-
-
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (6).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (7).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (8).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (9).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (10).png"></div>
-                    <div class="item"><img src="assets/img/Featured-&-Recognised/01- (12).png"></div>
-
-                </div>
-            </div>
 
         </div>
     </div>
@@ -1111,8 +1007,6 @@
 
 
 </section>
-
-
 
 
 <section class="student-test mt-4">
@@ -1289,46 +1183,7 @@
     </div>
 </section>
 
-<section class="alumni-container p-0 mt-4">
-    <div class="row">
-        <div class="col-md-3 content">
 
-
-            <h6 class="title  m-0">TOP
-                ALLIANCES</h6>
-
-
-        </div>
-        <div class="col-md-9">
-
-            <div class="marquee-container e44">
-                <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-
-
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-                </div>
-            </div>
-
-
-        </div>
-    </div>
-
-
-
-
-</section>
 
 <section class="newsletter-section">
     <div class="newsletter-left-wrapper">
@@ -1389,7 +1244,7 @@
       Get found on search <span class="google-pill"><i class="fa-brands fa-google"></i> Find best Marketing Course</span> without pay for every click.
     </p> -->
         <div class="buttons">
-            <a href="#" class="btn-outline"><i class="fa-solid fa-download"></i> Apply Now | Book Counselling </a>
+            <a href="#" class="btn-outline"><i class="fa-solid fa-download"></i> Apply Now </a>
             <!-- <a href="#" class="btn-fill">Reserve My Spot <i class="fa-solid fa-arrow-right"></i></a> -->
             <a href="#" class="btn-animated btn-light mt-0">
                 <div class="btn-text-wrap">
@@ -1823,3 +1678,24 @@
         }
     });
 </script>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+
+        const images = document.querySelectorAll(".image_changer img");
+        let index = 0;
+
+        setInterval(() => {
+
+            images[index].classList.remove("active");
+            index = (index + 1) % images.length;
+            images[index].classList.add("active");
+
+        }, 3000);
+
+    });
+
+
+    </script>
+
