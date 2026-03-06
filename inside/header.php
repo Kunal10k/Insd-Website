@@ -144,7 +144,9 @@
                     <ul class="dropdown-menu custom-dropdown">
                       <li><a class="dropdown-item" href="about2.php">About INSD</a></li>
                       <li><a class="dropdown-item" href="accreditation.php">Affiliation & Industry Accreditations</a></li>
-                      <li><a class="dropdown-item" href="faculty.php">Industry Mentors & Experts</a></li>
+                      <li><a class="dropdown-item" href="industry-mentorship.php">Industry Mentors & Experts</a></li>
+                      <li><a class="dropdown-item" href="faculty.php">Faculty</a></li>
+
                       <li><a class="dropdown-item" href="industry.php">Industry & Academic Collaborations</a></li>
                     </ul>
                   </li>
@@ -349,7 +351,8 @@
                       <ul class="dropdown-menu custom-dropdown">
                         <li><a class="dropdown-item" href="about2.php">About INSD in Kolkata</a></li>
                         <li><a class="dropdown-item" href="accreditation.php">Affiliation & Industry Accreditations</a></li>
-                        <li><a class="dropdown-item" href="faculty.php">Industry Mentors & Experts</a></li>
+                        <li><a class="dropdown-item" href="industry-mentorship.php">Industry Mentors & Experts</a></li>
+                        <li><a class="dropdown-item" href="faculty.php">Faculty</a></li>
                         <li><a class="dropdown-item" href="industry.php">Industry & Academic Collaborations</a></li>
                       </ul>
                     </li>

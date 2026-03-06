@@ -3,7 +3,7 @@
 
 
 <section class="landing_banner" id="form">
-    <div class="banner" style="background-image: url('./assets/img/insd slider.jpg.jpeg');">
+    <div class="banner lando" style="background-image: url('./assets/img/insd slider.jpg.jpeg');">
         <marquee behavior="scroll" direction="left" scrollamount="6" class="add">
             <h5 class="vcxs">ADMISSIONS OPEN | 2026–27 INTAKE | APPLY FOR SCHOLARSHIP </h5>
 
@@ -12,16 +12,16 @@
             <div class="row">
                 <div class="col-md-8 col-sm-12 landing_pick">
                     <div class="landing_content">
-                      <div class="trust_logo">
+                        <div class="trust_logo">
                             <img src="assets/img/and.png" alt="" class="w-50 ">
                         </div>
-                      
-                        <h1 class="w-100 w-md-75">Shape Your Fashion Career <br>with  Professional Training
+
+                        <h1 class="w-100 w-md-75">Shape Your Fashion Career <br>with Professional Training
 
                             ​</h1>
-                  <h6 class="mt-2">B.Des | MBA | Diploma </h6>
+                        <h6 class="mt-2">B.Des | MBA | Diploma </h6>
 
-                      
+
                         <div>
                             <a href="#" class="btn-animated btn-light1 btn-light8 mt-4">
                                 <div class="btn-text-wrap">
@@ -411,7 +411,7 @@
             <div class="col-md-6">
                 <!-- <h5 class="sub-head">Why Choose INSD Kolkata</h5> -->
                 <h2 class="title">
-                    Why Study Fashion  <br>
+                    Why Study Fashion <br>
                     <span>Design at INSD</span>
                 </h2>
 
@@ -484,10 +484,17 @@
                 <div class="image_changer">
 
                     <img src="assets/img/fashion/01- (1).jpg" class="active">
-                    <img src="assets/img/fashion/01- (2).jpg" >
-                    <img src="assets/img/fashion/01- (3).jpg" >
-                    <img src="assets/img/fashion/01- (4).jpg" >
-   
+                    <img src="assets/img/fashion/01- (2).jpg">
+                    <img src="assets/img/fashion/01- (3).jpg">
+                    <img src="assets/img/fashion/01- (4).jpg">
+                    <img src="assets/img/01/05- (1).jpg">
+                    <img src="assets/img/01/05- (2).jpg">
+                    <img src="assets/img/01/05- (3).jpg">
+                    <img src="assets/img/01/05- (4).jpg">
+                    <img src="assets/img/01/05- (5).jpg">
+                    <img src="assets/img/01/05- (6).jpg">
+                    <img src="assets/img/01/05- (7).jpg">
+
 
 
 
@@ -507,15 +514,15 @@
 
         <div class="owl-carousel mentor-owl mt-5 owl-loaded owl-drag">
 
-            
 
-            
 
-            
-            
-            
-            
-            
+
+
+
+
+
+
+
             <!-- <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Rishab Suresh.jpg" />
@@ -524,7 +531,7 @@
                 <h4>Rishab Suresh</h4>
               
             </div> -->
-            
+
             <!-- <div class="mentor-item">
                 <div class="mentor-img">
                     <img src="assets/img/INDUSTRY-SPEAKER/Sophie Pereira.jpg" />
@@ -533,152 +540,215 @@
                 <h4>Sophie Pereira</h4>
                
             </div> -->
-            
 
-        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2005px, 0px, 0px); transition: 0.25s; width: 5444px;"><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg">
 
+            <div class="owl-stage-outer">
+                <div class="owl-stage" style="transform: translate3d(-2005px, 0px, 0px); transition: 0.25s; width: 5444px;">
+                    <div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg">
+
+                            </div>
+                            <h4>Neha Lulla</h4>
+                            <span>Jewellery Designer</span>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg">
+
+                            </div>
+                            <h4>Olivier Nicolay</h4>
+                            <span>Former President, Chanel UK</span>
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Payal Singhal.jpg">
+
+                            </div>
+                            <h4>Payal Singhal</h4>
+                            <span>Founder, Payal Singhal Fashion House</span>
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation &amp; MASH).jpg">
+
+                            </div>
+                            <h4>Shalini Passi</h4>
+                            <span>Founder Art Foundation &amp; MASH</span>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg">
+
+                            </div>
+                            <h4>Yogesh Chaudary</h4>
+                            <span>Director, Jaipur Rugs</span>
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg">
+
+                            </div>
+                            <h4>Aparajita Toor</h4>
+                            <span>Founder, Aparajita Toor Footwear.</span>
+
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Azad Adham.jpg">
+
+
+                            </div>
+                            <h4>Azad Adham</h4>
+                            <span>Global Brand Director, BALENCIAGA</span>
+
+                        </div>
+                    </div>
+                    <div class="owl-item active" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Bhavana Jasra (Owner,First Impression.).jpg">
+
+                            </div>
+                            <h4>Bhavana Jasra</h4>
+                            <span>Owner,First Impression</span>
+                        </div>
+                    </div>
+                    <div class="owl-item active" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Biren Vaidya(MD, Rose Group.).jpg">
+
+                            </div>
+                            <h4>Biren Vaidya</h4>
+                            <span>MD, Rose Group</span>
+                        </div>
+                    </div>
+                    <div class="owl-item active" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg">
+
+                            </div>
+                            <h4>Neha Lulla</h4>
+                            <span>Jewellery Designer</span>
+                        </div>
+                    </div>
+                    <div class="owl-item active" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg">
+
+                            </div>
+                            <h4>Olivier Nicolay</h4>
+                            <span>Former President, Chanel UK</span>
+
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Payal Singhal.jpg">
+
+                            </div>
+                            <h4>Payal Singhal</h4>
+                            <span>Founder, Payal Singhal Fashion House</span>
+
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation &amp; MASH).jpg">
+
+                            </div>
+                            <h4>Shalini Passi</h4>
+                            <span>Founder Art Foundation &amp; MASH</span>
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg">
+
+                            </div>
+                            <h4>Yogesh Chaudary</h4>
+                            <span>Director, Jaipur Rugs</span>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg">
+
+                            </div>
+                            <h4>Aparajita Toor</h4>
+                            <span>Founder, Aparajita Toor Footwear.</span>
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Azad Adham.jpg">
+
+
+                            </div>
+                            <h4>Azad Adham</h4>
+                            <span>Global Brand Director, BALENCIAGA</span>
+
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Bhavana Jasra (Owner,First Impression.).jpg">
+
+                            </div>
+                            <h4>Bhavana Jasra</h4>
+                            <span>Owner,First Impression</span>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Biren Vaidya(MD, Rose Group.).jpg">
+
+                            </div>
+                            <h4>Biren Vaidya</h4>
+                            <span>MD, Rose Group</span>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;">
+                        <div class="mentor-item">
+                            <div class="mentor-img">
+                                <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg">
+
+                            </div>
+                            <h4>Neha Lulla</h4>
+                            <span>Jewellery Designer</span>
+                        </div>
+                    </div>
                 </div>
-                <h4>Neha Lulla</h4>
-                <span>Jewellery Designer</span>
-            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg">
-
-                </div>
-                <h4>Olivier Nicolay</h4>
-                <span>Former President, Chanel UK</span>
-
-            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Payal Singhal.jpg">
-
-                </div>
-                <h4>Payal Singhal</h4>
-                <span>Founder, Payal Singhal Fashion House</span>
-
-            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation &amp; MASH).jpg">
-
-                </div>
-                <h4>Shalini Passi</h4>
-                <span>Founder Art Foundation &amp; MASH</span>
-            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg">
-
-                </div>
-                <h4>Yogesh Chaudary</h4>
-                <span>Director, Jaipur Rugs</span>
-            </div></div><div class="owl-item" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg">
-
-                </div>
-                <h4>Aparajita Toor</h4>
-                <span>Founder, Aparajita Toor Footwear.</span>
-
-            </div></div><div class="owl-item" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Azad Adham.jpg">
-
-
-                </div>
-                <h4>Azad Adham</h4>
-                <span>Global Brand Director, BALENCIAGA</span>
-
-            </div></div><div class="owl-item active" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Bhavana Jasra (Owner,First Impression.).jpg">
-
-                </div>
-                <h4>Bhavana Jasra</h4>
-                <span>Owner,First Impression</span>
-            </div></div><div class="owl-item active" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Biren Vaidya(MD, Rose Group.).jpg">
-
-                </div>
-                <h4>Biren Vaidya</h4>
-                <span>MD, Rose Group</span>
-            </div></div><div class="owl-item active" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg">
-
-                </div>
-                <h4>Neha Lulla</h4>
-                <span>Jewellery Designer</span>
-            </div></div><div class="owl-item active" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg">
-
-                </div>
-                <h4>Olivier Nicolay</h4>
-                <span>Former President, Chanel UK</span>
-
-            </div></div><div class="owl-item" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Payal Singhal.jpg">
-
-                </div>
-                <h4>Payal Singhal</h4>
-                <span>Founder, Payal Singhal Fashion House</span>
-
-            </div></div><div class="owl-item" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation &amp; MASH).jpg">
-
-                </div>
-                <h4>Shalini Passi</h4>
-                <span>Founder Art Foundation &amp; MASH</span>
-            </div></div><div class="owl-item" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg">
-
-                </div>
-                <h4>Yogesh Chaudary</h4>
-                <span>Director, Jaipur Rugs</span>
-            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg">
-
-                </div>
-                <h4>Aparajita Toor</h4>
-                <span>Founder, Aparajita Toor Footwear.</span>
-
-            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Azad Adham.jpg">
-
-
-                </div>
-                <h4>Azad Adham</h4>
-                <span>Global Brand Director, BALENCIAGA</span>
-
-            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Bhavana Jasra (Owner,First Impression.).jpg">
-
-                </div>
-                <h4>Bhavana Jasra</h4>
-                <span>Owner,First Impression</span>
-            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Biren Vaidya(MD, Rose Group.).jpg">
-
-                </div>
-                <h4>Biren Vaidya</h4>
-                <span>MD, Rose Group</span>
-            </div></div><div class="owl-item cloned" style="width: 256.5px; margin-right: 30px;"><div class="mentor-item">
-                <div class="mentor-img">
-                    <img src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg">
-
-                </div>
-                <h4>Neha Lulla</h4>
-                <span>Jewellery Designer</span>
-            </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+            </div>
+            <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
+            <div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div>
+        </div>
     </div>
 </section>
 
@@ -1695,7 +1765,4 @@
         }, 3000);
 
     });
-
-
-    </script>
-
+</script>

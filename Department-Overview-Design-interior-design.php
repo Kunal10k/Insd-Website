@@ -2,9 +2,9 @@
 
 
 
-<section class="landing_banner " id="form">
+<section class="landing_banner  " id="form">
 
-    <div class="banner" style="background-image: url('./assets/img/2.jpg');">
+    <div class="banner lando" style="background-image: url('./assets/img/2.jpg');">
         <marquee behavior="scroll" direction="left" scrollamount="6" class="add">
             <h5 class="vcxs">ADMISSIONS OPEN | 2026–27 INTAKE | APPLY FOR SCHOLARSHIP </h5>
 
@@ -1054,9 +1054,7 @@
         <div class="col-md-3 content ny ">
 
             <h6 class="title ">industry <br>alliance</h6>
-            <div class="my-2 ecx">
 
-            </div>
 
 
 

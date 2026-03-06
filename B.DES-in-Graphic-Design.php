@@ -1390,3 +1390,52 @@
 
     });
 </script>
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const menuItems = document.querySelectorAll(".mainmenu li a");
+        const sections = [];
+
+        // Collect section IDs
+        menuItems.forEach(item => {
+            const id = item.getAttribute("href");
+            if (id && id.startsWith("#")) {
+                const section = document.querySelector(id);
+                if (section) sections.push(section);
+            }
+        });
+
+        // Scroll Listener
+        window.addEventListener("scroll", function() {
+            let scrollPos = window.scrollY + 150; // adjust for offset
+
+            sections.forEach(sec => {
+                if (scrollPos >= sec.offsetTop && scrollPos < sec.offsetTop + sec.offsetHeight) {
+
+                    // remove current from all
+                    menuItems.forEach(link => {
+                        link.parentElement.classList.remove("current");
+                    });
+
+                    // add current to active one
+                    document.querySelector(`.mainmenu li a[href="#${sec.id}"]`)
+                        .parentElement.classList.add("current");
+                }
+            });
+        });
+
+        // Smooth scroll on click
+        menuItems.forEach(item => {
+            item.addEventListener("click", function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute("href"));
+                window.scrollTo({
+                    top: target.offsetTop - 120,
+                    behavior: "smooth"
+                });
+            });
+        });
+    });
+</script>

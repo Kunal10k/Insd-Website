@@ -687,6 +687,31 @@
                     <img src="assets/img/courses/05- (5).jpg" alt="Student Work">
                 </a>
             </div>
+            <div class="work-item">
+                <a href="assets/img/01/05- (1).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/01/05- (1).jpg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/01/05- (2).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/01/05- (2).jpg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/01/05- (3).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/01/05- (3).jpg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/01/05- (4).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/01/05- (4).jpg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/01/05- (5).jpg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/01/05- (5).jpg" alt="Student Work">
+                </a>
+            </div>
 
 
 

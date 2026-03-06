@@ -1119,79 +1119,6 @@
 </script>
 
 
-<script>
-    // --- JAVASCRIPT FOR ANIMATION LOGIC ---
-
-    document.addEventListener('DOMContentLoaded', () => {
-        const wrapper = document.getElementById('words-wrapper');
-        if (!wrapper) return;
-
-        // 1. Get all the words inside the wrapper
-        const words = Array.from(wrapper.querySelectorAll('b'));
-
-        // 2. Find the longest word's width to prevent layout shift
-        let maxWidth = 0;
-        words.forEach(word => {
-            // Temporarily make word visible to measure its full width
-            word.style.position = 'absolute';
-            word.style.opacity = '1';
-            const currentWidth = word.offsetWidth;
-            if (currentWidth > maxWidth) {
-                maxWidth = currentWidth;
-            }
-            // Reset styles after measurement
-            word.style.position = '';
-            word.style.opacity = '';
-        });
-
-        // Set the width of the wrapper to the maximum width
-        wrapper.style.width = `${maxWidth}px`;
-
-        // Re-apply initial states after measurement
-        words.forEach((word, index) => {
-            if (index === 0) {
-                word.className = 'theme-gradient is-visible';
-            } else {
-                word.className = 'theme-gradient is-hidden';
-            }
-        });
-
-
-        // 3. Animation function
-        const animateWords = () => {
-            const currentVisible = wrapper.querySelector('.is-visible');
-
-            // Get the index of the current visible word
-            const currentIndex = words.indexOf(currentVisible);
-
-            // Calculate the index of the next word (loop back to 0 if at the end)
-            const nextIndex = (currentIndex + 1) % words.length;
-            const nextWord = words[nextIndex];
-
-            // Step 1: Hide the current word
-            // Use a slight delay to ensure the slide-out starts after the slide-in
-            setTimeout(() => {
-                if (currentVisible) {
-                    currentVisible.className = 'theme-gradient is-hidden';
-                }
-            }, 10);
-
-            // Step 2: Show the next word
-            if (nextWord) {
-                // Remove is-hidden immediately so the transition starts from -100%
-                nextWord.classList.remove('is-hidden');
-                // Add is-visible to trigger the transition to 0% (slide in)
-                nextWord.classList.add('is-visible');
-            }
-        };
-
-        // 4. Set the animation interval (e.g., every 3 seconds)
-        // Wait 2 seconds before starting the animation
-        setTimeout(() => {
-            setInterval(animateWords, 3000);
-        }, 2000);
-    });
-</script>
 
 
 
@@ -1260,4 +1187,53 @@
         992: { items: 4 }
     }
 });
+</script>
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const menuItems = document.querySelectorAll(".mainmenu li a");
+        const sections = [];
+
+        // Collect section IDs
+        menuItems.forEach(item => {
+            const id = item.getAttribute("href");
+            if (id && id.startsWith("#")) {
+                const section = document.querySelector(id);
+                if (section) sections.push(section);
+            }
+        });
+
+        // Scroll Listener
+        window.addEventListener("scroll", function() {
+            let scrollPos = window.scrollY + 150; // adjust for offset
+
+            sections.forEach(sec => {
+                if (scrollPos >= sec.offsetTop && scrollPos < sec.offsetTop + sec.offsetHeight) {
+
+                    // remove current from all
+                    menuItems.forEach(link => {
+                        link.parentElement.classList.remove("current");
+                    });
+
+                    // add current to active one
+                    document.querySelector(`.mainmenu li a[href="#${sec.id}"]`)
+                        .parentElement.classList.add("current");
+                }
+            });
+        });
+
+        // Smooth scroll on click
+        menuItems.forEach(item => {
+            item.addEventListener("click", function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute("href"));
+                window.scrollTo({
+                    top: target.offsetTop - 120,
+                    behavior: "smooth"
+                });
+            });
+        });
+    });
 </script>

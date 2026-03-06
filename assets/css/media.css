@@ -11,6 +11,11 @@
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
     gap: 22px;
   }
+
+  .inner_Section {
+    padding: 56px 0 90px 0;
+
+  }
 }
 
 @media only screen and (max-width: 991px) {
@@ -655,7 +660,7 @@
   /* about page */
 
   .inner_Section {
-    padding: 180px 0;
+    padding: 91px 0px;
   }
 
   .about-ban-sec {
@@ -766,6 +771,12 @@
   }
 }
 
+@media only screen and (max-width : 767px) {
+  /* .why-choose .col-md-6 {
+    width: 100% !important;
+  } */
+}
+
 @media screen and (min-width: 992px) and (max-width: 1200px) {
   .navbar-light .navbar-nav .nav-link {
     margin-right: 1rem !important;
@@ -825,6 +836,40 @@
 @media only screen and (max-width: 475px) {
   .title {
     font-size: 22px !important;
+  }
+
+  .trust_logo .w-25 {
+    width: 60% !important;
+  }
+
+  .inner_Section {
+    clip-path: none;
+  }
+
+  .benefit-text h5 {
+    font-size: 15px;
+
+  }
+
+  .stats-content p {
+    font-size: 12px;
+  }
+
+  .lando {
+    padding: 69px 0 !important;
+  }
+
+  .inner_Section {
+    padding: 91px 0px;
+  }
+
+  .highlight-text {
+    font-size: 14px;
+  }
+
+  .image_changer img {
+    object-fit: cover;
+
   }
 
   .fashion-slider .item img {
@@ -1184,19 +1229,22 @@
     font-size: 15px;
   }
 
-.inner_Section {
+  .inner_Section {
     padding: 69px 0;
-}
+  }
+
   .footer-column ul li a {
     margin: 0;
     font-size: 15px;
   }
+
   .inner_Section .title {
     font-size: 27px !important;
-}
-.student-work {
+  }
+
+  .student-work {
     padding: 40px 0;
-}
+  }
 
   .footer-bg-text {
     font-size: 117px;
