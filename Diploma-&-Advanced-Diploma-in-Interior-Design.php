@@ -202,14 +202,43 @@
                                     </h2>
                                     <div id="sem1Collapse" class="accordion-collapse collapse show" data-bs-parent="#curriculumAccordionNew">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Fundamentals of Design</li>
-                                                <li>Pattern Making Essentials</li>
-                                                <li>Fashion Illustration – I</li>
-                                                <li>Costume History</li>
-                                                <li>Stitching Techniques – I</li>
-                                                <li>Fundamentals of Textiles</li>
-                                                <li>Foundation Project</li>
+                                            <ul class="campus-features mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fundamentals of Design</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Pattern Making Essentials</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion Illustration – I</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Costume History</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Stitching Techniques – I</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fundamentals of Textiles</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Foundation Project</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -226,13 +255,38 @@
                                     </h2>
                                     <div id="sem2Collapse" class="accordion-collapse collapse" data-bs-parent="#curriculumAccordionNew">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Pattern Making & Garment Construction – I</li>
-                                                <li>Embroidery Essentials</li>
-                                                <li>Draping Essentials</li>
-                                                <li>CAD (Illustrator / CorelDRAW + Photoshop) – Intermediate</li>
-                                                <li>Fashion Merchandising Essentials</li>
-                                                <li>Portfolio Development</li>
+                                            <ul class="campus-features mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Pattern Making & Garment Construction – I</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Embroidery Essentials</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Draping Essentials</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>CAD (Illustrator / CorelDRAW + Photoshop) – Intermediate</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion Merchandising Essentials</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Portfolio Development</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -249,16 +303,53 @@
                                     </h2>
                                     <div id="sem3Collapse" class="accordion-collapse collapse" data-bs-parent="#curriculumAccordionNew">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Building Technology & Construction Systems</li>
-                                                <li>Life Space Planning & Interior Design</li>
-                                                <li>Design Graphics, Display & Visualization</li>
-                                                <li>History of Architecture – III</li>
-                                                <li>Furniture & Furnishings</li>
-                                                <li>Portfolio Development – II</li>
-                                                <li>Interior Design Project – I</li>
-                                                <li>Masterclasses by Industry Experts</li>
-                                                <li>Site / Industry Visits for Experiential Learning</li>
+                                            <ul class="campus-features mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Building Technology & Construction Systems</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Life Space Planning & Interior Design</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Design Graphics, Display & Visualization</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>History of Architecture – III</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Furniture & Furnishings</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Portfolio Development – II</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Interior Design Project – I</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses by Industry Experts</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Site / Industry Visits for Experiential Learning</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -275,16 +366,53 @@
                                     </h2>
                                     <div id="sem4Collapse" class="accordion-collapse collapse" data-bs-parent="#curriculumAccordionNew">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Building Services (Electrical, Plumbing, HVAC)</li>
-                                                <li>Urban Space Planning & Public Interiors</li>
-                                                <li>Elements of Interior Design (Advanced Application)</li>
-                                                <li>Theory of Architecture & Design Ideologies</li>
-                                                <li>Significance of Furniture in Interior Spaces</li>
-                                                <li>Interior Design Project – II (Commercial / Public Space)</li>
-                                                <li>Portfolio Development – III</li>
-                                                <li>Masterclasses by Industry Experts</li>
-                                                <li>Site / Industry Visits for Experiential Learning</li>
+                                            <ul class="campus-features mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Building Services (Electrical, Plumbing, HVAC)</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Urban Space Planning & Public Interiors</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Elements of Interior Design (Advanced Application)</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Theory of Architecture & Design Ideologies</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Significance of Furniture in Interior Spaces</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Interior Design Project – II (Commercial / Public Space)</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Portfolio Development – III</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses by Industry Experts</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Site / Industry Visits for Experiential Learning</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>

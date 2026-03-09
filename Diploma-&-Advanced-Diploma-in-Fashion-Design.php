@@ -205,28 +205,51 @@
                                             <!-- Curriculum Snapshot -->
                                             <h6><i class="fa-solid fa-book-open"></i> Curriculum Snapshot (Cumulative)</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Design fundamentals, visual language & creative thinking</li>
-                                                <li>Fashion illustration & design communication skills</li>
-                                                <li>Colour theory & design application</li>
-                                                <li>Textile fundamentals & fabric understanding</li>
-                                                <li>Garment construction & sewing techniques</li>
-                                                <li>Pattern making, grading & draping methods</li>
-                                                <li>Surface ornamentation, embroidery, dyeing & printing techniques</li>
-                                                <li>Fashion CAD tools for design development & presentation</li>
-                                                <li>Apparel production processes & quality standards</li>
-                                                <li>Fashion forecasting & trend understanding</li>
-                                                <li>Fashion merchandising & market awareness</li>
-                                                <li>Design research, concept development & collection planning</li>
-                                                <li>Studio-based practical work & continuous design assignments</li>
-                                                <li>Portfolio development & professional presentation skills</li>
-                                                <li>Live industry projects integrated across all semesters</li>
-                                                <li>Masterclasses by practicing fashion designers & industry professionals</li>
-                                                <li>Entrepreneurship fundamentals for fashion businesses</li>
-                                                <li>Fashion brand development & business basics</li>
-                                                <li>Costing, pricing, sourcing & client handling essentials</li>
-                                                <li>Introduction to fashion marketing & retail operations</li>
-                                                <li>Professional ethics & industry practices</li>
-                                                <li>On-the-job training & industry exposure as part of the program</li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Design fundamentals, visual language & creative thinking</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion illustration & design communication skills</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Colour theory & design application</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Textile fundamentals & fabric understanding</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Garment construction & sewing techniques</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Pattern making, grading & draping methods</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Surface ornamentation, embroidery, dyeing & printing techniques</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion CAD tools for design development & presentation</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Apparel production processes & quality standards</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion forecasting & trend understanding</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion merchandising & market awareness</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Design research, concept development & collection planning</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Studio-based practical work & continuous design assignments</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Portfolio development & professional presentation skills</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Live industry projects integrated across all semesters</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Masterclasses by practicing fashion designers & industry professionals</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Entrepreneurship fundamentals for fashion businesses</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion brand development & business basics</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Costing, pricing, sourcing & client handling essentials</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Introduction to fashion marketing & retail operations</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Professional ethics & industry practices</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>On-the-job training & industry exposure as part of the program</strong></li>
+
                                             </ul>
 
                                             <!-- Learning Experience -->
@@ -235,12 +258,19 @@
                                                 Learning Experience & Practical Training
                                             </h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Fully equipped fashion design studios</li>
-                                                <li>Pattern making & garment construction labs</li>
-                                                <li>Textile exploration & surface development facilities</li>
-                                                <li>Hands-on embroidery, dyeing & printing practice</li>
-                                                <li>Workshops, studio assignments & industry exposure sessions</li>
-                                                <li>Continuous portfolio development & design reviews</li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fully equipped fashion design studios</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Pattern making & garment construction labs</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Textile exploration & surface development facilities</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Hands-on embroidery, dyeing & printing practice</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Workshops, studio assignments & industry exposure sessions</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Continuous portfolio development & design reviews</strong></li>
+
                                             </ul>
 
                                             <!-- CTA Buttons -->
@@ -421,12 +451,12 @@
             <div class="col-lg-5 text-center">
 
                 <div class="image_changer" style="height: 550px;">
-      <img src="assets/img/courses/04- (4).jpeg" class="active">
+                    <img src="assets/img/courses/04- (4).jpeg" class="active">
                     <img src="assets/img/L2.jpeg" class="">
                     <img src="assets/img/courses/04- (1).jpeg" class="">
                     <img src="assets/img/courses/04- (2).jpeg" class="">
                     <img src="assets/img/courses/04- (3).jpeg" class="">
-              
+
 
                 </div>
             </div>
@@ -696,34 +726,34 @@
 
             <div class="work-item">
                 <a href="assets/img/fashion/02- (1).jpg"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/02- (1).jpg" alt="Student Work">
                 </a>
             </div>
             <div class="work-item">
                 <a href="assets/img/fashion/02- (1).png"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/02- (1).png" alt="Student Work">
                 </a>
             </div>
             <div class="work-item">
                 <a href="assets/img/fashion/03- (2).jpeg"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/03- (2).jpeg" alt="Student Work">
                 </a>
             </div>
             <div class="work-item">
                 <a href="assets/img/fashion/03- (3).jpeg"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/03- (3).jpeg" alt="Student Work">
                 </a>
             </div>
 
-       
+
 
         </div>
 
@@ -1194,19 +1224,27 @@
 
 <script>
     $('.student-work-slider').owlCarousel({
-    loop: true,
-    margin: 20,
-    nav: true,
-    dots: true,
-    autoplay: true,
-    autoplayTimeout: 3000,
-    responsive: {
-        0: { items: 1 },
-        576: { items: 2 },
-        768: { items: 3 },
-        992: { items: 4 }
-    }
-});
+        loop: true,
+        margin: 20,
+        nav: true,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 2
+            },
+            768: {
+                items: 3
+            },
+            992: {
+                items: 4
+            }
+        }
+    });
 </script>
 
 

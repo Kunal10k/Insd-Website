@@ -98,7 +98,7 @@
 
                 <div class="founder-card">
                     <div class="founder-info">
-                        <h3 class="title">Sunjey <span>Aggarwalll</span></h3>
+                        <h3 class="title">Sunjey <span>Aggarwall</span></h3>
                         <p class="designation">Founder</p>
 
                         <p class="founder-quote">
@@ -121,7 +121,7 @@
     </div>
 </section>
 
-<section class="team-section">
+<!-- <section class="team-section">
     <div class="container">
         <h2 class="title text-center mb-4">INSD <span>Leadership</span></h2>
 
@@ -144,7 +144,7 @@
             </div>
             <div class="col-md-6">
 
-                <!-- Founder 3 -->
+           
                 <div class="team-card">
                     <div class="team-image">
                         <img src="assets/img/founder/c leader.png" alt="Mr. Pranav Raj Aggarwal">
@@ -168,7 +168,7 @@
 
 
     </div>
-</section>
+</section> -->
 
 
 
@@ -185,15 +185,63 @@
             <!-- <span class="sub-head">Who We Are</span> -->
             <h1 class=" title ">What Makes INSD <span> Kolkata Different</span></h1>
             <ul class="campus-features mt-3">
-                <li> <i class="fa-solid fa-circle-check me-2"></i> Industry-driven curriculum aligned with professional design practices</li>
-                <li> <i class="fa-solid fa-circle-check me-2"></i> Studio-based learning with continuous hands-on training</li>
-                <li> <i class="fa-solid fa-circle-check me-2"></i> Mentorship by practicing designers, industry professionals, and entrepreneurs</li>
-                <li> <i class="fa-solid fa-circle-check me-2"></i> Exposure to live projects, workshops, and industry interactions</li>
-                <li> <i class="fa-solid fa-circle-check me-2"></i> Structured career guidance with placement assistance</li>
+                <li>
+                    <i class="fa-solid fa-circle-check me-2"></i>
+                    <strong>Industry-driven curriculum aligned with professional design practices</strong>
+                </li>
+
+                <li>
+                    <i class="fa-solid fa-circle-check me-2"></i>
+                    <strong>Studio-based learning with continuous hands-on training</strong>
+                </li>
+
+                <li>
+                    <i class="fa-solid fa-circle-check me-2"></i>
+                    <strong>Mentorship by practicing designers, industry professionals, and entrepreneurs</strong>
+                </li>
+
+                <li>
+                    <i class="fa-solid fa-circle-check me-2"></i>
+                    <strong>Exposure to live projects, workshops, and industry interactions</strong>
+                </li>
+
+                <li>
+                    <i class="fa-solid fa-circle-check me-2"></i>
+                    <strong>Structured career guidance with placement assistance</strong>
+                </li>
             </ul>
 
         </div>
 
+    </div>
+</section>
+
+<section class="stats-wrap pb-0">
+    <div class="container">
+        <div class="stats-container">
+
+            <div class="stat-card stat-yellow">
+                <div class="stat-data">
+                    <span class="stat-number counter">2011</span>
+                    <span class="stat-text"><strong>Established</strong></span>
+                </div>
+            </div>
+
+            <div class="stat-card stat-dark">
+                <div class="stat-data">
+                    <span class="stat-number counter" data-target="5000">0</span>
+                    <span class="stat-text"><strong>Students Graduated</strong></span>
+                </div>
+            </div>
+
+            <div class="stat-card stat-red">
+                <div class="stat-data">
+                    <span class="stat-number counter" data-target="300">0</span>
+                    <span class="stat-text"><strong>Industry & Professional Associations</strong></span>
+                </div>
+            </div>
+
+        </div>
     </div>
 </section>
 
@@ -244,34 +292,7 @@
     </div>
 </section>
 
-<section class="stats-wrap pb-0">
-    <div class="container">
-        <div class="stats-container">
 
-            <div class="stat-card stat-yellow">
-                <div class="stat-data">
-                    <span class="stat-number counter" data-target="2011">0</span>
-                    <span class="stat-text">Established</span>
-                </div>
-            </div>
-
-            <div class="stat-card stat-dark">
-                <div class="stat-data">
-                    <span class="stat-number counter" data-target="15000">0</span>
-                    <span class="stat-text">Students Trained & Graduated</span>
-                </div>
-            </div>
-
-            <div class="stat-card stat-red">
-                <div class="stat-data">
-                    <span class="stat-number counter" data-target="300">0</span>
-                    <span class="stat-text">Industry & Professional Associations</span>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
 
 
 

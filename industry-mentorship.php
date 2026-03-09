@@ -131,11 +131,7 @@
 </section>
 
 
-<section class="affi">
-  <div class="container">
 
-  </div>
-</section>
 
 
 <section class="placement-cta-new">
@@ -189,26 +185,44 @@
     <div class="row">
       <div class="col-md-6">
         <h2 class="title">
-          GLOBAL ACADEMIC <span>COLLABORATION</span>
+          GLOBAL ACADEMIC <br><span>Alliances</span>
         </h2>
-        <p class="para">
+        <!-- <p class="para">
           Expanding Design Education Beyond Borders
           International School of Design Kolkata believes that contemporary design education benefits from global exposure and international academic perspectives. Through global academic collaborations, the institute connects students to learning environments beyond India, supporting broader understanding of design practices, creative cultures, and professional standards. <br>
           These collaborations are designed to complement classroom learning by introducing students to global academic frameworks and international approaches to design education.
-        </p>
+        </p> -->
 
-        <h5>International Academic Partners</h5>
+        <h5 class="mt-3">International Academic Partners</h5>
         <p class="para">
 
           INSD Kolkata maintains academic collaborations with reputed international institutions known for their focus on design, business, and creative education. These include:
         </p>
-
         <ul class="campus-features mt-3">
-          <li><i class="fa-solid fa-circle-check me-2"></i> College de Paris</li>
-          <li><i class="fa-solid fa-circle-check me-2"></i> International Business School of Washington</li>
-          <li><i class="fa-solid fa-circle-check me-2"></i> International Business School of Washington</li>
-          <li> <i class="fa-solid fa-circle-check me-2"></i>École Supérieure de Relooking</li>
-          <li> <i class="fa-solid fa-circle-check me-2"></i>ESG Paris</li>
+          <li>
+            <i class="fa-solid fa-circle-check me-2"></i>
+            <strong>College de Paris</strong>
+          </li>
+
+          <li>
+            <i class="fa-solid fa-circle-check me-2"></i>
+            <strong>International Business School of Washington</strong>
+          </li>
+
+          <li>
+            <i class="fa-solid fa-circle-check me-2"></i>
+            <strong>International Business School of Washington</strong>
+          </li>
+
+          <li>
+            <i class="fa-solid fa-circle-check me-2"></i>
+            <strong>École Supérieure de Relooking</strong>
+          </li>
+
+          <li>
+            <i class="fa-solid fa-circle-check me-2"></i>
+            <strong>ESG Paris</strong>
+          </li>
         </ul>
 
 
@@ -221,7 +235,7 @@
       </div>
     </div>
 
-    <div class="row">
+    <div class="row mt-3">
       <div class="col-md-8">
 
         <div class="marquee-container e44 ">

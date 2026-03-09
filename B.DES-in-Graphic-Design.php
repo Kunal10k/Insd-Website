@@ -210,9 +210,9 @@
                         id="coursecontent">
                         <div class="rbt-accordion-style rbt-accordion-02 accordion">
                             <h4 class="mt-3 title">Curriculum <span>Structure</span></h4>
-
                             <div class="accordion mt-3" id="accordionExampleb2">
                                 <div class="accordion-item">
+
                                     <h2 class="accordion-header" id="headingOne">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseOne" aria-expanded="true">
@@ -221,107 +221,72 @@
                                         </button>
                                     </h2>
 
-                                    <div id="collapseOne" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExampleb2">
+                                    <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExampleb2">
                                         <div class="accordion-body curriculum-body">
 
-                                            <h6><i class="fa-solid fa-pen-nib"></i> Core Design Foundations</h6>
+                                            <h6><i class="fa-solid fa-pen-nib me-2"></i> Core Design Foundations</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Fundamentals of design, visual language, and composition</li>
-                                                <li>Drawing, sketching, and visual storytelling</li>
-                                                <li>Colour theory, form, balance, and layout principles</li>
-                                                <li>Design thinking and creative problem-solving</li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fundamentals of design, visual language, and composition</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Drawing, sketching, and visual storytelling</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Colour theory, form, balance, and layout principles</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Design thinking and creative problem-solving</strong></li>
                                             </ul>
 
-                                            <h6><i class="fa-solid fa-font"></i> Typography & Visual Communication</h6>
+                                            <h6><i class="fa-solid fa-font me-2"></i> Typography & Visual Communication</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Typography, calligraphy, and type anatomy</li>
-                                                <li>Layout design and grid systems</li>
-                                                <li>Brand communication and visual identity</li>
-                                                <li>Advertising creatives and campaign design</li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Typography, calligraphy, and type anatomy</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Layout design and grid systems</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Brand communication and visual identity</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Advertising creatives and campaign design</strong></li>
                                             </ul>
 
-                                            <h6><i class="fa-solid fa-palette"></i> Digital Illustration & Graphic
-                                                Design</h6>
+                                            <h6><i class="fa-solid fa-palette me-2"></i> Digital Illustration & Graphic Design</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Digital illustration and digital painting</li>
-                                                <li>Image manipulation and photo editing</li>
-                                                <li>Branding, packaging, and product graphics</li>
-                                                <li>Print and publication design</li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Digital illustration and digital painting</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Image manipulation and photo editing</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Branding, packaging, and product graphics</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Print and publication design</strong></li>
                                             </ul>
 
-                                            <h6><i class="fa-solid fa-robot"></i> AI, Motion & Emerging Design
-                                                Technologies</h6>
+                                            <h6><i class="fa-solid fa-robot me-2"></i> AI, Motion & Emerging Design Technologies</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>AI-powered design tools and generative design concepts</li>
-                                                <li>AI-assisted creative workflows and automation</li>
-                                                <li>Motion graphics and animation fundamentals</li>
-                                                <li>Video editing, sound design, and post-production</li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>AI-powered design tools and generative design concepts</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>AI-assisted creative workflows and automation</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Motion graphics and animation fundamentals</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Video editing, sound design, and post-production</strong></li>
                                             </ul>
 
-                                            <h6><i class="fa-solid fa-code"></i> Web, UI & Digital Design</h6>
+                                            <h6><i class="fa-solid fa-code me-2"></i> Web, UI & Digital Design</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Web and digital design fundamentals</li>
-                                                <li>UI basics, layouts, and interface design</li>
-                                                <li>HTML & CSS fundamentals for designers</li>
-                                                <li>Responsive and digital-first design thinking</li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Web and digital design fundamentals</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>UI basics, layouts, and interface design</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>HTML & CSS fundamentals for designers</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Responsive and digital-first design thinking</strong></li>
                                             </ul>
 
-                                            <h6><i class="fa-solid fa-briefcase"></i> Professional Practice & Business
-                                                Skills</h6>
+                                            <h6><i class="fa-solid fa-briefcase me-2"></i> Professional Practice & Business Skills</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Business communication and presentation skills</li>
-                                                <li>Client handling and agency workflows</li>
-                                                <li>Freelancing, personal branding, and design entrepreneurship</li>
-                                                <li>Marketing fundamentals and digital media awareness</li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Business communication and presentation skills</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Client handling and agency workflows</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Freelancing, personal branding, and design entrepreneurship</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Marketing fundamentals and digital media awareness</strong></li>
                                             </ul>
 
-                                            <h6><i class="fa-solid fa-id-card-clip"></i> Industry Training & Portfolio
-                                                Development</h6>
+                                            <h6><i class="fa-solid fa-id-card-clip me-2"></i> Industry Training & Portfolio Development</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Portfolio development and career readiness</li>
-                                                <li>Interview preparation and professional reviews</li>
-                                                <li>Live projects with brands in every semester</li>
-                                                <li>Final-year internship and on-the-job industry training</li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Portfolio development and career readiness</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Interview preparation and professional reviews</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Live projects with brands in every semester</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Final-year internship and on-the-job industry training</strong></li>
                                             </ul>
 
-                                            <h6><i class="fa-solid fa-chalkboard-user"></i> Learning Experience &
-                                                Practical Training</h6>
+                                            <h6><i class="fa-solid fa-chalkboard-user me-2"></i> Learning Experience & Practical Training</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Fully equipped graphic design studios and digital labs</li>
-                                                <li>Hands-on creative projects and real-world briefs</li>
-                                                <li>Continuous studio assignments, critiques, and exhibitions</li>
-                                                <li>Masterclasses by industry experts and entrepreneurs every semester
-                                                </li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fully equipped graphic design studios and digital labs</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Hands-on creative projects and real-world briefs</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Continuous studio assignments, critiques, and exhibitions</strong></li>
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Masterclasses by industry experts and entrepreneurs every semester</strong></li>
                                             </ul>
-
-                                            <div class="cta-buttons d-flex gap-3 flex-wrap mt-4">
-                                                <a href="#academic-advisor" class="btn-animated btn-light">
-                                                    <div class="btn-text-wrap">
-                                                        <div class="btn-text">Book Free Counselling</div>
-                                                        <div class="btn-text-hover">Book Free Counselling</div>
-                                                    </div>
-                                                    <div class="btn-icon-wrap">
-                                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                                            alt="Arrow" class="btn-icon">
-                                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                                            alt="Arrow" class="btn-icon-hover">
-                                                    </div>
-                                                </a>
-
-                                                <a href="#academic-advisor" class="btn-animated btn-light">
-                                                    <div class="btn-text-wrap">
-                                                        <div class="btn-text">Speak to an Academic Advisor</div>
-                                                        <div class="btn-text-hover">Speak to an Academic Advisor</div>
-                                                    </div>
-                                                    <div class="btn-icon-wrap">
-                                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                                            alt="Arrow" class="btn-icon">
-                                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                                            alt="Arrow" class="btn-icon-hover">
-                                                    </div>
-                                                </a>
-                                            </div>
 
                                         </div>
                                     </div>
@@ -379,8 +344,8 @@
                                     </li>
                                     <li><i class="fa-solid fa-circle-check me-2"></i>No prior design background required
                                     </li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Creativity, interest, and
-                                        commitment encouraged</li>
+                                    <!-- <li><i class="fa-solid fa-circle-check me-2"></i>Creativity, interest, and
+                                        commitment encouraged</li> -->
                                 </ul>
 
 

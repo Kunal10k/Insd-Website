@@ -16,6 +16,182 @@
 </section>
 
 
+<!-- <section>
+    <div class="container">
+        <div class="container py-3">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="title">
+                        Industry Alliances & Professional <span>Platforms</span></span>
+                    </h2>
+                    <p class="para">
+                        INSD Kolkata actively engages with a wide range of professional platforms that provide students exposure to real-world design environments, industry standards, and professional evaluation settings.
+                    </p>
+
+
+                    <h4 class="mt-3">Lakmé Fashion Show </h4>
+                    <div class="marquee-container e44 mt-3">
+                        <div class="owl-carousel fashion-slider owl-loaded owl-drag">
+                            <div class="owl-carousel custom-slider-x">
+
+                                <div class="item">
+                                    <img src="assets/img/n- (1).jpg" alt="">
+                                </div>
+
+                                <div class="item">
+                                    <img src="assets/img/n- (2).jpg" alt="">
+                                </div>
+
+                                <div class="item">
+                                    <img src="assets/img/n- (3).jpg" alt="">
+                                </div>
+
+                                <div class="item">
+                                    <img src="assets/img/n- (4).jpg" alt="">
+                                </div>
+
+                            </div>
+
+
+
+
+
+                        </div>
+                    </div>
+
+                    <p class="para">
+                        In Fashion Design, students gain exposure through platforms such as Lakmé Fashion Week, Times Fashion Week, Asian Designer Week, National Fashion Show, and Couture Runway Week, supporting interaction with live fashion ecosystems and industry-facing showcases.
+                    </p>
+
+
+
+                    <h4 class="mt-3">IGNITE – The Creators </h4>
+                    <div class="marquee-container e44 mt-3">
+                        <div class="owl-carousel fashion-slider owl-loaded owl-drag">
+                            <div class="owl-carousel custom-slider-x">
+
+                                <div class="item">
+                                    <img src="assets/img/c1 (1).jpg" alt="">
+                                </div>
+
+                                <div class="item">
+                                    <img src="assets/img/c1 (2).jpg" alt="">
+                                </div>
+
+                                <div class="item">
+                                    <img src="assets/img/c1 (3).jpg" alt="">
+                                </div>
+
+                                <div class="item">
+                                    <img src="assets/img/c1 (4).jpg" alt="">
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <p class="para">
+                        In Interior Design, the institute engages with professional competitions and exhibitions including Design Milestone, IGNITE – The Creators, Ace Reflect, and ABID (A+D Interiors), enabling students to participate in industry-led design evaluations and exhibitions.
+                    </p>
+
+                    <p class="para">
+                        Across design disciplines, INSD Kolkata is associated with professional bodies such as the Association of Designers of India (ADI), Fashion Design Council of India (FDCI), and Institute of Indian Interior Designers (IIID). The institute also aligns with national skill initiatives including Skill India and the National Skill Development Corporation (NSDC).
+                        Recognising the growing importance of digital platforms in creative careers, INSD Kolkata engages with the digital ecosystem through Google and Meta, supporting exposure to contemporary design, branding, and communication tools.
+
+                    </p>
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="marquee-container e44">
+                                <div class="marquee marquee-left">
+                                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                                    <div class="item"><img src="assets/img/logo/country.png"></div>
+
+
+                                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                                    <div class="item"><img src="assets/img/logo/country.png"></div>
+
+                                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
+                                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
+                                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+
+
+
+        <section class="placement-cta-new">
+            <div class="container">
+
+                <div class="cta-box">
+
+                    <div class="cta-left">
+                        <h2>A Strong Foundation for Professional Design Education</h2>
+                        <p class="para">Through its academic affiliations, industry alliances, and global associations, INSD Kolkata offers a structured and credible foundation for students pursuing professional design careers.
+                            These associations actively support curriculum relevance, industry exposure, and long-term career readiness, reinforcing the institute’s commitment to quality, professionalism, and industry-aligned design education.
+                        </p>
+
+
+
+                        <div class="ban-btn">
+                            <div class="mt-4">
+
+                                <a href="#" class="btn-animated btn-light" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                    <span class="btn-text-wrap">
+                                        <span class="btn-text">Apply to Join</span>
+                                        <span class="btn-text-hover">Apply to Join</span>
+                                    </span>
+
+                                    <span class="btn-icon-wrap">
+                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+                                    </span>
+                                </a>
+
+                               
+                                <a href="#" class="btn-animated btn-light">
+                                    <span class="btn-text-wrap">
+                                        <span class="btn-text">Book Counselling</span>
+                                        <span class="btn-text-hover">Book Counselling</span>
+                                    </span>
+
+                                    <span class="btn-icon-wrap">
+                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+                                    </span>
+                                </a>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+
+
+                </div>
+
+            </div>
+        </section>
+    </div>
+</section> -->
+
+
 <section class="fashion-platforms">
     <div class="container">
 
@@ -89,6 +265,9 @@
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHR-thI-JKqdFZwHZY-RTWEchzcj8C3MJeXA&s">
             <img src="https://images.seeklogo.com/logo-png/19/3/fashion-design-council-of-india-fdci-logo-png_seeklogo-198867.png">
             <img src="https://media.licdn.com/dms/image/v2/C4D0BAQEz8EFfrhN6bg/company-logo_200_200/company-logo_200_200/0/1631347995407?e=2147483647&v=beta&t=dEwARE5fVgc0ZxRkMZcNvolLFaMX63DPS4L9qXFo1V8">
+
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLsK_2jULtbifhbywXpEDuIzaNv4fHGSuiig&s">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XtUVJDx5XwJ4YodVWJU9qkSeNXAN96PbCg&s">
         </div>
 
         <p class="para text-center">
@@ -97,7 +276,7 @@
     </div>
 
     <!-- National Skill -->
-    <div class="container mb-5">
+    <!-- <div class="container mb-5">
         <h3 class="title text-center">National Skill <br><span>Alignment</span></h3>
 
         <div class="logo-row mt-4">
@@ -108,7 +287,7 @@
         <p class="para text-center">
             INSD aligns with national skill development initiatives <br>supporting industry-ready education.
         </p>
-    </div>
+    </div> -->
 
 
 
@@ -159,5 +338,89 @@
                 items: 4
             }
         }
+    });
+</script>
+<script>
+    $(document).ready(function() {
+        $('.affiliation-carousel').owlCarousel({
+            loop: true,
+            margin: 20,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            nav: false,
+            dots: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                576: {
+                    items: 2
+                },
+                992: {
+                    items: 4
+                }
+            }
+        });
+    });
+</script>
+
+<script>
+    $(document).ready(function() {
+
+        $('.nb').owlCarousel({
+            loop: true,
+            margin: 30,
+            nav: false,
+            dots: false,
+            autoplay: true,
+            autoplayTimeout: 2000,
+            autoplayHoverPause: true,
+            smartSpeed: 800,
+            responsive: {
+                0: {
+                    items: 2
+                },
+                576: {
+                    items: 3
+                },
+                768: {
+                    items: 4
+                },
+                992: {
+                    items: 5
+                },
+                1200: {
+                    items: 3
+                }
+            }
+        });
+
+    });
+</script>
+<script>
+    $(document).ready(function() {
+
+        $('.custom-slider-x').owlCarousel({
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            autoplayTimeout: 2500,
+            smartSpeed: 600,
+            nav: false,
+            dots: false,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 2
+                },
+                1000: {
+                    items: 3
+                }
+            }
+        });
+
     });
 </script>

@@ -212,15 +212,48 @@
                                     <div id="semesterOne" class="accordion-collapse collapse"
                                         data-bs-parent="#curriculumAccordion">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Fashion Design Fundamentals & Design Principles</li>
-                                                <li>Fashion Illustration & Visual Communication</li>
-                                                <li>Textile Science & Fabric Understanding</li>
-                                                <li>Introduction to Fashion Technology & CAD Tools</li>
-                                                <li>Fashion Forecasting & Trend Analysis</li>
-                                                <li>Design Foundations</li>
-                                                <li>Fundamentals of Management & Organisational Behaviour</li>
-                                                <li>Live Projects & Industry Masterclasses</li>
+                                            <ul class="rbt-course-main-content liststyle mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion Design Fundamentals & Design Principles</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion Illustration & Visual Communication</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Textile Science & Fabric Understanding</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Introduction to Fashion Technology & CAD Tools</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion Forecasting & Trend Analysis</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Design Foundations</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fundamentals of Management & Organisational Behaviour</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Live Projects & Industry Masterclasses</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -237,15 +270,48 @@
                                     <div id="semesterTwo" class="accordion-collapse collapse"
                                         data-bs-parent="#curriculumAccordion">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Pattern Making, Garment Construction & Draping</li>
-                                                <li>Apparel Production Systems & Workflows</li>
-                                                <li>Quality Control & Compliance Standards</li>
-                                                <li>Sourcing Strategies & Supply Chain Basics</li>
-                                                <li>Costing, Pricing & Production Planning</li>
-                                                <li>Entrepreneurship & Fashion Business Fundamentals</li>
-                                                <li>Fashion Technology & Production</li>
-                                                <li>Live Projects & Industry-Led Masterclasses</li>
+                                            <ul class="rbt-course-main-content liststyle mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Pattern Making, Garment Construction & Draping</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Apparel Production Systems & Workflows</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Quality Control & Compliance Standards</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Sourcing Strategies & Supply Chain Basics</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Costing, Pricing & Production Planning</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Entrepreneurship & Fashion Business Fundamentals</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion Technology & Production</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Live Projects & Industry-Led Masterclasses</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -262,15 +328,48 @@
                                     <div id="semesterThree" class="accordion-collapse collapse"
                                         data-bs-parent="#curriculumAccordion">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Fashion Merchandising & Buying Concepts</li>
-                                                <li>Branding Strategies for Fashion & Lifestyle Businesses</li>
-                                                <li>Fashion Marketing & Consumer Behaviour</li>
-                                                <li>Advanced Design & Industry Integration</li>
-                                                <li>Retail Operations & Visual Merchandising</li>
-                                                <li>Human Resource Management for Fashion Organisations</li>
-                                                <li>Applied Industry Projects & Professional Presentations</li>
-                                                <li>Live Projects & Branding Expert Masterclasses</li>
+                                            <ul class="rbt-course-main-content liststyle mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion Merchandising & Buying Concepts</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Branding Strategies for Fashion & Lifestyle Businesses</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion Marketing & Consumer Behaviour</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Advanced Design & Industry Integration</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Retail Operations & Visual Merchandising</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Human Resource Management for Fashion Organisations</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Applied Industry Projects & Professional Presentations</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Live Projects & Branding Expert Masterclasses</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -287,15 +386,48 @@
                                     <div id="semesterFour" class="accordion-collapse collapse"
                                         data-bs-parent="#curriculumAccordion">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Strategic Management & Leadership Development</li>
-                                                <li>Business Model Development & Growth Strategies</li>
-                                                <li>Fashion Consultancy & Professional Practice</li>
-                                                <li>Advanced Quality Control & Retail Standards</li>
-                                                <li>Research-Based Project & Industry Case Study</li>
-                                                <li>Portfolio Development & Career Readiness</li>
-                                                <li>Internship & On-the-Job Industry Training</li>
-                                                <li>Capstone Live Project with Industry Exposure</li>
+                                            <ul class="rbt-course-main-content liststyle mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Strategic Management & Leadership Development</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Business Model Development & Growth Strategies</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion Consultancy & Professional Practice</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Advanced Quality Control & Retail Standards</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Research-Based Project & Industry Case Study</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Portfolio Development & Career Readiness</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Internship & On-the-Job Industry Training</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Capstone Live Project with Industry Exposure</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -319,12 +451,33 @@
                                                 academic depth with real-world exposure across the fashion ecosystem.
                                             </p>
 
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Advanced fashion design studios & CAD-enabled classrooms</li>
-                                                <li>Live industry projects integrated across all semesters</li>
-                                                <li>Masterclasses by practicing designers & industry leaders</li>
-                                                <li>Industry workshops, case studies & expert sessions</li>
-                                                <li>Internship, portfolio development & professional readiness</li>
+                                            <ul class="rbt-course-main-content liststyle mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Advanced Fashion Design Studios & CAD-enabled Classrooms</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Live Industry Projects integrated across all semesters</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses by practicing designers & industry leaders</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Industry Workshops , case studies & expert sessions</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Internship, portfolio development & professional readiness</strong>
+                                                </li>
+
                                             </ul>
 
                                             <div class="mt-4 d-flex gap-3 flex-wrap">
@@ -423,13 +576,7 @@
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="Eligibility">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
 
-                            <!-- Fees & Scholarships -->
-                            <!-- <div class="fees-section">
-                                <h6 class="py-2">Fees & Scholarships (Overview)</h6>
-                                <ul class="rbt-list-style-1">
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Detailed fee structure is shared during the counselling process</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Scholarships and financial assistance available for eligible candidates</li>
-                                </ul> -->
+
                         </div>
 
                         <!-- Eligibility -->
@@ -438,7 +585,7 @@
                             <ul class="rbt-list-style-1 mt-3">
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Graduation in any stream from a recognised university</li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Fashion background not mandatory</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Interest in fashion, business, and technology preferred</li>
+                                <!-- <li><i class="fa-solid fa-circle-check me-2"></i>Interest in fashion, business, and technology preferred</li> -->
                             </ul>
                         </div>
 
@@ -566,12 +713,12 @@
 
                 <div class="image_changer" style="height: 550px;">
 
-           
+
                     <img src="assets/img/fashion/03- (1).jpeg" class="active">
-                    <img src="assets/img/fashion/03- (2).jpeg" >
-                    <img src="assets/img/fashion/03- (3).jpeg" >
-                    <img src="assets/img/fashion/03- (4).jpeg" >
-                
+                    <img src="assets/img/fashion/03- (2).jpeg">
+                    <img src="assets/img/fashion/03- (3).jpeg">
+                    <img src="assets/img/fashion/03- (4).jpeg">
+
 
                 </div>
 
@@ -846,34 +993,34 @@
 
             <div class="work-item">
                 <a href="assets/img/fashion/02- (1).jpg"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/02- (1).jpg" alt="Student Work">
                 </a>
             </div>
             <div class="work-item">
                 <a href="assets/img/fashion/02- (1).png"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/02- (1).png" alt="Student Work">
                 </a>
             </div>
             <div class="work-item">
                 <a href="assets/img/fashion/03- (2).jpeg"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/03- (2).jpeg" alt="Student Work">
                 </a>
             </div>
             <div class="work-item">
                 <a href="assets/img/fashion/03- (3).jpeg"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/03- (3).jpeg" alt="Student Work">
                 </a>
             </div>
 
-       
+
 
         </div>
 
@@ -1299,19 +1446,27 @@
 
 <script>
     $('.student-work-slider').owlCarousel({
-    loop: true,
-    margin: 20,
-    nav: true,
-    dots: true,
-    autoplay: true,
-    autoplayTimeout: 3000,
-    responsive: {
-        0: { items: 1 },
-        576: { items: 2 },
-        768: { items: 3 },
-        992: { items: 4 }
-    }
-});
+        loop: true,
+        margin: 20,
+        nav: true,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 2
+            },
+            768: {
+                items: 3
+            },
+            992: {
+                items: 4
+            }
+        }
+    });
 </script>
 
 

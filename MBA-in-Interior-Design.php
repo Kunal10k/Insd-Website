@@ -206,16 +206,53 @@
                                     <div id="semesterOne" class="accordion-collapse collapse"
                                         data-bs-parent="#curriculumAccordion">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Advanced Building Construction & Interior Systems</li>
-                                                <li>Design Fundamentals & Spatial Principles</li>
-                                                <li>Management Process & Organisational Behaviour</li>
-                                                <li>Building Services & Construction Sequencing</li>
-                                                <li>Interior Design Studio – I</li>
-                                                <li>Project Proposal & Concept Development</li>
-                                                <li>Design Business Foundations</li>
-                                                <li>Live Projects / Site Visits</li>
-                                                <li>Masterclasses by Industry Practitioners</li>
+                                            <ul class="campus-features mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Advanced Building Construction & Interior Systems</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Design Fundamentals & Spatial Principles</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Management Process & Organisational Behaviour</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Building Services & Construction Sequencing</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Interior Design Studio – I</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Project Proposal & Concept Development</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Design Business Foundations</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Live Projects / Site Visits</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses by Industry Practitioners</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -232,17 +269,58 @@
                                     <div id="semesterTwo" class="accordion-collapse collapse"
                                         data-bs-parent="#curriculumAccordion">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Business Environment & Business Law</li>
-                                                <li>Urban Design & Interior Context</li>
-                                                <li>Advance Design Business</li>
-                                                <li>Furniture Design Studio (Residential & Commercial)</li>
-                                                <li>Furniture Styles, Periodic Design & Systems</li>
-                                                <li>Specifications & Valuation</li>
-                                                <li>Interior Design Studio – II</li>
-                                                <li>Financial & Operational Mastery for Design Firms</li>
-                                                <li>Live Projects / Site Visits</li>
-                                                <li>Masterclasses by Industry Practitioners</li>
+                                            <ul class="campus-features mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Business Environment & Business Law</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Urban Design & Interior Context</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Advance Design Business</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Furniture Design Studio (Residential & Commercial)</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Furniture Styles, Periodic Design & Systems</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Specifications & Valuation</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Interior Design Studio – II</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Financial & Operational Mastery for Design Firms</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Live Projects / Site Visits</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses by Industry Practitioners</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -259,16 +337,53 @@
                                     <div id="semesterThree" class="accordion-collapse collapse"
                                         data-bs-parent="#curriculumAccordion">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Human Resource Management for Design Organisations</li>
-                                                <li>Aesthetics, Space Description & Spatial Psychology</li>
-                                                <li>Technical Analysis of Architectural Styles & Eras</li>
-                                                <li>Multi-View Drawing, Working Drawings & Advanced Visualisation</li>
-                                                <li>Modern Exterior & Interior Architecture</li>
-                                                <li>Advanced Interior Design Studio – III</li>
-                                                <li>Marketing Management & Client Experience</li>
-                                                <li>Live Projects / Site Visits</li>
-                                                <li>Masterclasses by Industry Practitioners</li>
+                                            <ul class="campus-features mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Human Resource Management for Design Organisations</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Aesthetics, Space Description & Spatial Psychology</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Technical Analysis of Architectural Styles & Eras</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Multi-View Drawing, Working Drawings & Advanced Visualisation</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Modern Exterior & Interior Architecture</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Advanced Interior Design Studio – III</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Marketing Management & Client Experience</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Live Projects / Site Visits</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses by Industry Practitioners</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -285,15 +400,48 @@
                                     <div id="semesterFour" class="accordion-collapse collapse"
                                         data-bs-parent="#curriculumAccordion">
                                         <div class="accordion-body">
-                                            <ul class="rbt-course-main-content liststyle">
-                                                <li>Strategy & Entrepreneurship Development</li>
-                                                <li>Quantity Surveying, Cost Estimation & Tendering</li>
-                                                <li>Professional Practice, Ethics & Code of Conduct</li>
-                                                <li>Methods of Construction (Ancient to Modern)</li>
-                                                <li>Interior Product Development</li>
-                                                <li>Industrial Skill Project</li>
-                                                <li>Industry Internship / Industry Skill Project</li>
-                                                <li>Masterclasses by Industry Practitioners</li>
+                                            <ul class="campus-features mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Strategy & Entrepreneurship Development</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Quantity Surveying, Cost Estimation & Tendering</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Professional Practice, Ethics & Code of Conduct</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Methods of Construction (Ancient to Modern)</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Interior Product Development</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Industrial Skill Project</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Industry Internship / Industry Skill Project</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses by Industry Practitioners</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -813,8 +961,8 @@
                     <img src="assets/img/courses/06- (3).jpeg" alt="Student Work">
                 </a>
             </div>
-            
-             <div class="work-item">
+
+            <div class="work-item">
                 <a href="assets/img/01/05- (1).jpg" class="glightbox" data-gallery="student-work">
                     <img src="assets/img/01/05- (1).jpg" alt="Student Work">
                 </a>

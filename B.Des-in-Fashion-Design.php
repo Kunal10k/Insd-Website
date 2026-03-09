@@ -203,66 +203,202 @@
 
                                             <h6><i class="fa-solid fa-pen-ruler"></i> Core Design Foundations</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Design principles, visual language, and creative thinking</li>
-                                                <li>Drawing, sketching, and fashion illustration</li>
-                                                <li>Colour theory and design application</li>
-                                                <li>Design research, concept development, and collection planning</li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Design principles, visual language, and creative thinking</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Drawing, sketching, and fashion illustration</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Colour theory and design application</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Design research, concept development, and collection planning</strong>
+                                                </li>
+
                                             </ul>
 
                                             <h6><i class="fa-solid fa-shirt"></i> Fashion Design Knowledge & Skills</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Textile fundamentals and fabric behaviour</li>
-                                                <li>Garment construction and sewing techniques</li>
-                                                <li>Pattern making, grading, and draping methods</li>
-                                                <li>Surface ornamentation, embroidery, dyeing, and printing</li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Textile fundamentals and fabric behaviour</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Garment construction and sewing techniques</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Pattern making, grading, and draping methods</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Surface ornamentation, embroidery, dyeing, and printing</strong>
+                                                </li>
+
                                             </ul>
 
                                             <h6><i class="fa-solid fa-laptop"></i> Advanced Fashion Design Applications</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Fashion CAD tools for design development and presentation</li>
-                                                <li>Apparel production processes and quality standards</li>
-                                                <li>Fashion forecasting and trend analysis</li>
-                                                <li>Fashion merchandising and market understanding</li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion CAD tools for design development and presentation</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Apparel production processes and quality standards</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion forecasting and trend analysis</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion merchandising and market understanding</strong>
+                                                </li>
+
                                             </ul>
 
                                             <h6><i class="fa-solid fa-industry"></i> Experiential & Studio-Based Learning</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Studio-based design projects and practical assignments</li>
-                                                <li>Live industry projects across all semesters</li>
-                                                <li>Fashion shows, exhibitions, and competitions</li>
-                                                <li>Workshops and hands-on industry interactions</li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Studio-based design projects and practical assignments</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Live industry projects across all semesters</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion shows, exhibitions, and competitions</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Workshops and hands-on industry interactions</strong>
+                                                </li>
+
                                             </ul>
 
                                             <h6><i class="fa-solid fa-chalkboard-user"></i> Industry Masterclasses & Exposure</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Masterclasses by practicing fashion designers</li>
-                                                <li>Sessions with industry professionals and entrepreneurs</li>
-                                                <li>Professional critiques and portfolio reviews</li>
-                                                <li>Exposure to real-world fashion industry practices</li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses by practicing fashion designers</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Sessions with industry professionals and entrepreneurs</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Professional critiques and portfolio reviews</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Exposure to real-world fashion industry practices</strong>
+                                                </li>
+
                                             </ul>
 
                                             <h6><i class="fa-solid fa-briefcase"></i> Fashion Business & Entrepreneurship</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Fashion entrepreneurship and brand fundamentals</li>
-                                                <li>Costing, pricing, and production planning</li>
-                                                <li>Marketing, merchandising, and retail basics</li>
-                                                <li>Client handling and professional practices</li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fashion entrepreneurship and brand fundamentals</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Costing, pricing, and production planning</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Marketing, merchandising, and retail basics</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Client handling and professional practices</strong>
+                                                </li>
+
                                             </ul>
 
                                             <h6><i class="fa-solid fa-id-card-clip"></i> Industry Training & Portfolio Development</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Portfolio development and professional presentation</li>
-                                                <li>Final collection design and showcase</li>
-                                                <li>On-the-job training and industry exposure (advanced stage)</li>
-                                                <li>Career readiness and placement support</li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Portfolio development and professional presentation</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Final collection design and showcase</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>On-the-job training and industry exposure (advanced stage)</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Career readiness and placement support</strong>
+                                                </li>
+
                                             </ul>
 
                                             <h6><i class="fa-solid fa-graduation-cap"></i> Learning Experience & Practical Training</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Fully equipped fashion design studios</li>
-                                                <li>Pattern making and garment construction labs</li>
-                                                <li>Textile exploration and surface development facilities</li>
-                                                <li>Industry-relevant fashion design software and tools</li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fully equipped fashion design studios</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Pattern making and garment construction labs</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Textile exploration and surface development facilities</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Industry-relevant fashion design software and tools</strong>
+                                                </li>
+
                                             </ul>
 
                                         </div>
@@ -722,34 +858,34 @@
 
             <div class="work-item">
                 <a href="assets/img/fashion/02- (1).jpg"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/02- (1).jpg" alt="Student Work">
                 </a>
             </div>
             <div class="work-item">
                 <a href="assets/img/fashion/02- (1).png"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/02- (1).png" alt="Student Work">
                 </a>
             </div>
             <div class="work-item">
                 <a href="assets/img/fashion/03- (2).jpeg"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/03- (2).jpeg" alt="Student Work">
                 </a>
             </div>
             <div class="work-item">
                 <a href="assets/img/fashion/03- (3).jpeg"
-                   class="glightbox"
-                   data-gallery="student-work">
+                    class="glightbox"
+                    data-gallery="student-work">
                     <img src="assets/img/fashion/03- (3).jpeg" alt="Student Work">
                 </a>
             </div>
 
-       
+
 
         </div>
 
@@ -1174,19 +1310,27 @@
 
 <script>
     $('.student-work-slider').owlCarousel({
-    loop: true,
-    margin: 20,
-    nav: true,
-    dots: true,
-    autoplay: true,
-    autoplayTimeout: 3000,
-    responsive: {
-        0: { items: 1 },
-        576: { items: 2 },
-        768: { items: 3 },
-        992: { items: 4 }
-    }
-});
+        loop: true,
+        margin: 20,
+        nav: true,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 2
+            },
+            768: {
+                items: 3
+            },
+            992: {
+                items: 4
+            }
+        }
+    });
 </script>
 
 

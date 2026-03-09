@@ -583,6 +583,8 @@ header.sticky .dropdown-toggle::after {
 .ban-btn {
   display: flex;
   gap: 20px;
+  /* text-align: center;
+  justify-content: center; */
 }
 
 .title {
@@ -4065,14 +4067,38 @@ img.img-mg2 {
   margin-top: 2px;
 }
 
+.accordion-body .campus-features li {
+  position: relative;
+  padding-left: 0;
+  margin-bottom: 10px;
+  font-size: 15px;
+  color: #333;
+}
+
+.rbt-course-main-content li i {
+  color: var(--secondary-color3);
+}
+
+.rbt-course-main-content li {
+  font-size: 14px;
+}
+
+.home_ban {
+  padding: 90px 0 0 0;
+}
+
+.home_ban_sec {
+  padding-top: 0 !important;
+}
+
 /* -------------------------
    Accordion Style
 -------------------------- */
 .rbt-accordion-style .accordion-button {
-  background: #fff;
+  background: #faebd787;
   font-size: 16px;
   font-weight: 600;
-  padding: 18px;
+  padding: 12px;
   /* border-bottom: 1px solid #eee; */
   box-shadow: none !important;
 }
@@ -5778,6 +5804,7 @@ img.img-mg2 {
 .value {
   font-size: 15px;
   color: #555;
+  font-weight: 600;
 }
 
 
@@ -8233,6 +8260,7 @@ alumni-carousel .item img {
   border-radius: 30px;
   font-size: 13px;
   color: #333;
+  font-weight: 600;
 }
 
 .btn_xzz li:nth-child(1) {
@@ -9569,7 +9597,7 @@ textarea {
 
 .set_marquee {
   background: #ffe7df;
-  padding: 20px 0;
+  padding: 10px 0;
   overflow: hidden;
 }
 
@@ -9626,12 +9654,12 @@ textarea {
 
 /* LEFT TO RIGHT */
 .left-marquee .brand-track {
-  animation: scroll-left 20s linear infinite;
+  animation: scroll-left 40s linear infinite;
 }
 
 /* RIGHT TO LEFT */
 .right-marquee .brand-track {
-  animation: scroll-right 20s linear infinite;
+  animation: scroll-right 40s linear infinite;
 }
 
 /* Animations */
@@ -9676,6 +9704,7 @@ textarea {
   padding: 50px;
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 40px;
   /* background: linear-gradient(135deg, #0142b3, #1d6cff); */
   background-image: url(../img/1\ \(2\).jpg);

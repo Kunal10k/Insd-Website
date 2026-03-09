@@ -212,19 +212,54 @@
                                     </h2>
                                     <div id="year1" class="accordion-collapse collapse " data-bs-parent="#bdesAccordion">
                                         <div class="accordion-body">
-                                            <ul>
-                                                <li>Fundamentals of Design</li>
-                                                <li>Basic & Technical Drafting</li>
-                                                <li>Visual Communication & Graphics</li>
-                                                <li>Introduction to Interior Design</li>
-                                                <li>History of Architecture</li>
-                                                <li>Furniture Design Basics</li>
-                                                <li>Foundation Design Project</li>
-                                                <li>Masterclasses by Industry Experts</li>
-                                                <li>Site / Industry Visits for Experiential Learning</li>
+                                            <ul class="campus-features mt-3 p-0 m-0">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Fundamentals of Design</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Basic & Technical Drafting</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Visual Communication & Graphics</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Introduction to Interior Design</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>History of Architecture</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Furniture Design Basics</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Foundation Design Project</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses by Industry Experts</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Site / Industry Visits for Experiential Learning</strong>
+                                                </li>
+
                                             </ul>
-                                            <!-- <strong>Focus Areas:</strong><br>
-                                            Design thinking | Visual composition | Drafting fundamentals | Spatial awareness | Residential planning basics -->
                                         </div>
                                     </div>
                                 </div>
@@ -238,18 +273,49 @@
                                     </h2>
                                     <div id="year2" class="accordion-collapse collapse" data-bs-parent="#bdesAccordion">
                                         <div class="accordion-body">
-                                            <ul>
-                                                <li>Applied Drafting & Construction Drawings</li>
-                                                <li>Principles of Interior Design</li>
-                                                <li>Furniture History & Evolution</li>
-                                                <li>Building Technology & Construction Systems</li>
-                                                <li>Life Space Planning</li>
-                                                <li>Interior Design Project – I</li>
-                                                <li>Portfolio Development – I</li>
-                                                <li>Masterclasses & Site Visits</li>
+                                            <ul class="campus-features mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Applied Drafting & Construction Drawings</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Principles of Interior Design</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Furniture History & Evolution</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Building Technology & Construction Systems</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Life Space Planning</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Interior Design Project – I</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Portfolio Development – I</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses & Site Visits</strong>
+                                                </li>
+
                                             </ul>
-                                            <!-- <strong>Focus Areas:</strong><br>
-                                            Residential interiors | Space planning | Furniture detailing | Construction basics | Design documentation -->
                                         </div>
                                     </div>
                                 </div>
@@ -263,14 +329,43 @@
                                     </h2>
                                     <div id="year3" class="accordion-collapse collapse" data-bs-parent="#bdesAccordion">
                                         <div class="accordion-body">
-                                            <ul>
-                                                <li>Building Services (Electrical, Plumbing, HVAC)</li>
-                                                <li>Urban Space Planning & Public Interiors</li>
-                                                <li>Interior Systems & Furnishings</li>
-                                                <li>CAD & Digital Documentation</li>
-                                                <li>Advanced Space Planning & Zoning</li>
-                                                <li>Interior Design Project – II</li>
-                                                <li>Masterclasses & Industry Visits</li>
+                                            <ul class="campus-features mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Building Services (Electrical, Plumbing, HVAC)</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Urban Space Planning & Public Interiors</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Interior Systems & Furnishings</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>CAD & Digital Documentation</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Advanced Space Planning & Zoning</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Interior Design Project – II</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses & Industry Visits</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -285,16 +380,53 @@
                                     </h2>
                                     <div id="year4" class="accordion-collapse collapse" data-bs-parent="#bdesAccordion">
                                         <div class="accordion-body">
-                                            <ul>
-                                                <li>Professional Practice & Design Ethics</li>
-                                                <li>Estimation, Costing & BOQ</li>
-                                                <li>Design Management & Project Coordination</li>
-                                                <li>Entrepreneurship & Interior Design Business</li>
-                                                <li>Advanced Interior Design Studio (Commercial / Mixed-use)</li>
-                                                <li>Graduation Design Project (Final Thesis)</li>
-                                                <li>On-the-Job Training (6 Months)</li>
-                                                <li>Professional Portfolio Development</li>
-                                                <li>Masterclasses & Site Visits</li>
+                                            <ul class="campus-features mt-3">
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Professional Practice & Design Ethics</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Estimation, Costing & BOQ</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Design Management & Project Coordination</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Entrepreneurship & Interior Design Business</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Advanced Interior Design Studio (Commercial / Mixed-use)</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Graduation Design Project (Final Thesis)</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>On-the-Job Training (6 Months)</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Professional Portfolio Development</strong>
+                                                </li>
+
+                                                <li>
+                                                    <i class="fa-solid fa-circle-check me-2"></i>
+                                                    <strong>Masterclasses & Site Visits</strong>
+                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -340,7 +472,7 @@
                                 <ul class="rbt-list-style-1 mt-4">
                                     <li><i class="fa-solid fa-circle-check me-2"></i><strong>10+2 pass from a recognised board</strong></li>
                                     <li><i class="fa-solid fa-circle-check me-2"></i><strong>No prior design background required</strong></li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Creativity, interest, and commitment encouraged</strong></li>
+                                    <!-- <li><i class="fa-solid fa-circle-check me-2"></i><strong>Creativity, interest, and commitment encouraged</strong></li> -->
                                 </ul>
 
 

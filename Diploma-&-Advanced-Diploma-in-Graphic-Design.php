@@ -198,6 +198,7 @@
 
                             <div class="accordion mt-3" id="accordionExampleb2">
                                 <div class="accordion-item">
+
                                     <h2 class="accordion-header" id="headingOne">
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse"
@@ -212,46 +213,70 @@
                                         <div class="accordion-body curriculum-body">
 
                                             <!-- Curriculum Overview -->
-                                            <h6><i class="fa-solid fa-book-open"></i> Curriculum Overview (Cumulative)</h6>
+                                            <h6><i class="fa-solid fa-book-open me-2"></i> Curriculum Overview (Cumulative)</h6>
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Fundamentals of design and visual communication</li>
-                                                <li>Design principles, layout composition, colour theory, and typography</li>
-                                                <li>Illustration concepts, creative thinking, and visual storytelling</li>
-                                                <li>Graphic design using Adobe Photoshop, Illustrator, CorelDRAW, and InDesign</li>
-                                                <li>Branding, advertising creatives, and print design execution</li>
-                                                <li>Motion graphics and animation fundamentals</li>
-                                                <li>Video editing, audio-visual communication, and multimedia content creation</li>
-                                                <li>UI/UX fundamentals and design thinking approach</li>
-                                                <li>Wireframing, prototyping, and interface design basics</li>
-                                                <li>Responsive digital layouts and interactive design concepts</li>
-                                                <li>Portfolio development, professional presentation, and design documentation</li>
-                                                <li>Communication skills, grooming, client interaction, and presentation techniques</li>
-                                                <li>Industry workflows, creative problem-solving, and execution strategies</li>
-                                                <li>Client pitching, project management, freelancing, and agency scaling</li>
-                                                <li>Live projects with top brands in every semester</li>
-                                                <li>Masterclasses by industry professionals, designers, and entrepreneurs</li>
-                                                <li>Studio-based practical assignments with continuous portfolio building</li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fundamentals of design and visual communication</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Design principles, layout composition, colour theory, and typography</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Illustration concepts, creative thinking, and visual storytelling</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Graphic design using Adobe Photoshop, Illustrator, CorelDRAW, and InDesign</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Branding, advertising creatives, and print design execution</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Motion graphics and animation fundamentals</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Video editing, audio-visual communication, and multimedia content creation</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>UI/UX fundamentals and design thinking approach</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Wireframing, prototyping, and interface design basics</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Responsive digital layouts and interactive design concepts</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Portfolio development, professional presentation, and design documentation</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Communication skills, grooming, client interaction, and presentation techniques</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Industry workflows, creative problem-solving, and execution strategies</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Client pitching, project management, freelancing, and agency scaling</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Live projects with top brands in every semester</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Masterclasses by industry professionals, designers, and entrepreneurs</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Studio-based practical assignments with continuous portfolio building</strong></li>
+
                                             </ul>
 
-                                            <a href="#detailed-curriculum" class="btn-link mt-2 d-inline-block">
-                                                🟢 View Detailed Curriculum
-                                            </a>
+
 
                                             <!-- Learning Experience -->
                                             <h6 class="mt-4">
-                                                <i class="fa-solid fa-chalkboard-user"></i>
+                                                <i class="fa-solid fa-chalkboard-user me-2"></i>
                                                 Learning Experience & Practical Training
                                             </h6>
+
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>Studio-based, hands-on learning environment</li>
-                                                <li>Real-world creative briefs and design assignments</li>
-                                                <li>Industry-oriented tools, workflows, and processes</li>
-                                                <li>Workshops, exhibitions, competitions, and presentations</li>
-                                                <li>Continuous mentor feedback and portfolio reviews</li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Studio-based, hands-on learning environment</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Real-world creative briefs and design assignments</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Industry-oriented tools, workflows, and processes</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Workshops, exhibitions, competitions, and presentations</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Continuous mentor feedback and portfolio reviews</strong></li>
+
                                             </ul>
 
                                             <!-- CTA Buttons -->
                                             <div class="cta-buttons d-flex gap-3 flex-wrap mt-4">
+
                                                 <a href="#academic-advisor" class="btn-animated btn-light">
                                                     <div class="btn-text-wrap">
                                                         <div class="btn-text">Book Free Counselling</div>
@@ -273,19 +298,27 @@
                                                         <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover" alt="Arrow">
                                                     </div>
                                                 </a>
+
                                             </div>
 
                                             <!-- Infrastructure -->
                                             <h6 class="mt-4">
-                                                <i class="fa-solid fa-building"></i>
+                                                <i class="fa-solid fa-building me-2"></i>
                                                 Infrastructure & Design Facilities
                                             </h6>
+
                                             <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li>High-performance computer labs</li>
-                                                <li>Industry-standard graphic design software</li>
-                                                <li>Dedicated digital and creative design studios</li>
-                                                <li>Presentation, critique, and review spaces</li>
-                                                <li>Resource-rich, professional learning environment</li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>High-performance computer labs</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Industry-standard graphic design software</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Dedicated digital and creative design studios</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Presentation, critique, and review spaces</strong></li>
+
+                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Resource-rich, professional learning environment</strong></li>
+
                                             </ul>
 
                                         </div>
@@ -309,7 +342,7 @@
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Junior UI / Creative Designer</li>
                             </ul>
 
-                        
+
 
                             <div class="mt-3">
                                 <a href="#" class="btn-animated btn-light">
@@ -337,7 +370,7 @@
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Diploma: 10th Pass from a recognised board</li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i>Advanced Diploma: 10th Pass from a recognised board</li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i>No prior design background required</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Creativity and interest in design encouraged</li>
+                                <!-- <li><i class="fa-solid fa-circle-check me-2"></i>Creativity and interest in design encouraged</li> -->
                             </ul>
 
                             <div class="d-flex gap-3 flex-wrap mt-3">
@@ -460,87 +493,141 @@
 
             <div class="instructor-carousel owl-carousel owl-loaded owl-drag">
 
-                
 
-                
 
-                
 
-                
 
-                
 
-                
 
-                
 
-                
 
-            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2992px, 0px, 0px); transition: 0.7s; width: 4352px;"><div class="owl-item cloned" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Prity Dutta</h5>
-                    <p class="instructor-placement">Placed at: <span>Manish</span></p>
-                </div></div><div class="owl-item cloned" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Muskan Agarwal</h5>
-                    <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
-                </div></div><div class="owl-item cloned" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Naziya Khan</h5>
-                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                </div></div><div class="owl-item cloned" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Ritika Sharma</h5>
-                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Rishita Sengupta</h5>
-                    <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
-                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Damini Bhattacharya</h5>
-                    <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
-                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Sneha Singh</h5>
-                    <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
-                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Abhishek Mishra</h5>
-                    <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
-                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Prity Dutta</h5>
-                    <p class="instructor-placement">Placed at: <span>Manish</span></p>
-                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Muskan Agarwal</h5>
-                    <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
-                </div></div><div class="owl-item" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Naziya Khan</h5>
-                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                </div></div><div class="owl-item active" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Ritika Sharma</h5>
-                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                </div></div><div class="owl-item cloned active" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Rishita Sengupta</h5>
-                    <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
-                </div></div><div class="owl-item cloned active" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Damini Bhattacharya</h5>
-                    <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
-                </div></div><div class="owl-item cloned active" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Sneha Singh</h5>
-                    <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
-                </div></div><div class="owl-item cloned" style="width: 252px; margin-right: 20px;"><div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Abhishek Mishra</h5>
-                    <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
-                </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
+
+
+
+
+
+
+
+
+                <div class="owl-stage-outer">
+                    <div class="owl-stage" style="transform: translate3d(-2992px, 0px, 0px); transition: 0.7s; width: 4352px;">
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Prity Dutta</h5>
+                                <p class="instructor-placement">Placed at: <span>Manish</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Muskan Agarwal</h5>
+                                <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Naziya Khan</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Ritika Sharma</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Rishita Sengupta</h5>
+                                <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Damini Bhattacharya</h5>
+                                <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Sneha Singh</h5>
+                                <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Abhishek Mishra</h5>
+                                <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Prity Dutta</h5>
+                                <p class="instructor-placement">Placed at: <span>Manish</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Muskan Agarwal</h5>
+                                <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Naziya Khan</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Ritika Sharma</h5>
+                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Rishita Sengupta</h5>
+                                <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Damini Bhattacharya</h5>
+                                <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned active" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Sneha Singh</h5>
+                                <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
+                            </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
+                            <div class="instructor-card text-center">
+                                <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                                <h5 class="instructor-name">Abhishek Mishra</h5>
+                                <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
+                <div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div>
+            </div>
         </div>
     </div>
 </section>
@@ -653,98 +740,161 @@
         <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
         <div class="student-work-slider owl-carousel mt-3 owl-loaded owl-drag">
 
-            
-
-            
-
-            
-
-            
-            
-            
-            
-            
-            
 
 
 
-        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-3692px, 0px, 0px); transition: 0.25s; width: 5396px;"><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/courses/05- (2).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/05- (2).jpg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/courses/05- (3).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/05- (3).jpg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/courses/05- (4).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/05- (4).jpg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/courses/05- (5).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/05- (5).jpg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/life-at-insd/01- (1).jpeg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/01- (1).jpeg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/life-at-insd/01- (2).jpeg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/01- (2).jpeg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/life-at-insd/01- (3).jpeg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/01- (3).jpeg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/life-at-insd/01- (4).jpeg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/01- (4).jpeg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/courses/05- (2).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/05- (2).jpg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/courses/05- (3).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/05- (3).jpg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/courses/05- (4).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/05- (4).jpg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item active" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/courses/05- (5).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/05- (5).jpg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item cloned active" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/life-at-insd/01- (1).jpeg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/01- (1).jpeg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item cloned active" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/life-at-insd/01- (2).jpeg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/01- (2).jpeg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item cloned active" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/life-at-insd/01- (3).jpeg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/01- (3).jpeg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/life-at-insd/01- (4).jpeg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/01- (4).jpeg" alt="Student Work">
-                </a>
-            </div></div><div class="owl-item cloned" style="width: 264px; margin-right: 20px;"><div class="work-item">
-                <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
-                </a>
-            </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="owl-stage-outer">
+                <div class="owl-stage" style="transform: translate3d(-3692px, 0px, 0px); transition: 0.25s; width: 5396px;">
+                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/courses/05- (2).jpg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/courses/05- (2).jpg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/courses/05- (3).jpg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/courses/05- (3).jpg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/courses/05- (4).jpg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/courses/05- (4).jpg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/courses/05- (5).jpg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/courses/05- (5).jpg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/life-at-insd/01- (1).jpeg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/life-at-insd/01- (1).jpeg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/life-at-insd/01- (2).jpeg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/life-at-insd/01- (2).jpeg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/life-at-insd/01- (3).jpeg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/life-at-insd/01- (3).jpeg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/life-at-insd/01- (4).jpeg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/life-at-insd/01- (4).jpeg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/courses/05- (2).jpg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/courses/05- (2).jpg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/courses/05- (3).jpg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/courses/05- (3).jpg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/courses/05- (4).jpg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/courses/05- (4).jpg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item active" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/courses/05- (5).jpg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/courses/05- (5).jpg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned active" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/life-at-insd/01- (1).jpeg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/life-at-insd/01- (1).jpeg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned active" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/life-at-insd/01- (2).jpeg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/life-at-insd/01- (2).jpeg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned active" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/life-at-insd/01- (3).jpeg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/life-at-insd/01- (3).jpeg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/life-at-insd/01- (4).jpeg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/life-at-insd/01- (4).jpeg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
+                        <div class="work-item">
+                            <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
+                                <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
+            <div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div>
+        </div>
     </div>
 </section>
 

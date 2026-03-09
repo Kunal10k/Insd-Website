@@ -897,16 +897,27 @@
 
         <div class="owl-carousel achiever-carousel">
 
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (1).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (2).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (3).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (4).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (5).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (6).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (7).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (8).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (9).jpg"></div>
-            <div class="achiever-card"><img src="assets/img/interior-achivers/1- (10).jpg"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/1.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/2.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/3.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/4.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/5.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/6.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/7.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/8.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/9.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/10.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/11.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/12.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/13.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/14.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/15.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/16.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/17.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/18.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/19.png"></div>
+            <div class="achiever-card"><img src="assets/img/achiverss/20.png"></div>
+
 
 
         </div>
