@@ -10127,9 +10127,15 @@ textarea {
 }
 
 .instructor-placement span {
+
   font-weight: 500;
   color: #0142b3;
-  /* highlight placed company */
+  text-transform: uppercase;
+  line-height: 15px;
+}
+
+.card .profile img {
+  display: none;
 }
 
 /* ==========================

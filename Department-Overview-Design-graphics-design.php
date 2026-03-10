@@ -451,6 +451,61 @@
 </section>
 
 
+
+<section class="alumni-container p-0">
+    <div class="row">
+        <div class="col-md-3 content ny ">
+
+            <h6 class="title "> Industry <br>projects</h6>
+
+
+
+
+        </div>
+        <div class="col-md-9 center-box">
+            <!-- MARQUEE LEFT -->
+            <div class="marquee-container">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (4).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (5).png"></div>
+
+
+
+
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (4).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (5).png"></div>
+
+
+
+
+                </div>
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+
+</section>
+
+
 <section class="why-choose">
     <div class="container">
         <div class="row align-items-center">
@@ -1111,167 +1166,124 @@
 
             <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
         </div>
+
         <div class="marquee-container1">
             <div class="marquee-track1 marquee-right">
+
                 <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
+                    <p>“My journey at INSD Kolkata really helped me grow as a designer. The practical projects and portfolio guidance gave me the confidence to begin my professional journey with Cognizant.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=1" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Aarav Sharma</div>
+                            <div class="role">Placed at Cognizant</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card bg-blue">
-                    <p>“The projects and hands-on tasks made learning fun and practical. I feel confident now.”</p>
+                    <p>“Studying at INSD Kolkata was a great experience. The hands-on learning and creative projects helped me understand how the design industry works and prepared me for my role at Technicolor Creative Studios.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=2" alt="Student">
                         <div>
-                            <div class="name">Sneha Mehra</div>
-                            <div class="role">MCA, Mumbai</div>
+                            <div class="name">Rohan Verma</div>
+                            <div class="role">Placed at Technicolor Creative Studios</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”
-                    </p>
+                    <p>“INSD Kolkata helped me improve both my creative thinking and technical design skills. The learning environment and support from mentors helped me confidently start my career at Wipro.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=3" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Aditya Kulkarni</div>
+                            <div class="role">Placed at Wipro</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card bg-blue">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”
-                    </p>
+                    <p>“The practical training and portfolio development at INSD Kolkata helped me understand real-world design. It gave me the confidence and skills needed to begin my journey with Kraftix Digital.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <img src="https://picsum.photos/50?random=4" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Karan Mehta</div>
+                            <div class="role">Placed at Kraftix Digital</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”
-                    </p>
+                    <p>“My time at INSD Kolkata helped me explore my creativity while learning important design tools and concepts. The guidance from faculty played a big role in helping me start my career at Capgemini.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <img src="https://picsum.photos/50?random=5" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Sneha Kapoor</div>
+                            <div class="role">Placed at Capgemini</div>
                         </div>
                     </div>
                 </div>
-                <!-- Duplicate cards for smooth loop -->
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="card bg-blue">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
+                    <p>“INSD Kolkata gave me the opportunity to learn design in a practical and creative way. The projects and mentorship here helped me build the confidence to begin my professional journey at Infosys.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="https://picsum.photos/50?random=6" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Priya Nair</div>
+                            <div class="role">Placed at Infosys</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
+                    <p>“My experience at INSD Kolkata helped me develop strong visual storytelling and design skills. The exposure and guidance here helped me step into the industry and begin my journey with Hoichoi.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="https://picsum.photos/50?random=7" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Ananya Gupta</div>
+                            <div class="role">Placed at Hoichoi</div>
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="card bg-blue">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
+                    <p>“The learning experience at INSD Kolkata helped me grow creatively and professionally. The practical projects and portfolio support helped me take my first step into the industry with Framestore.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="https://picsum.photos/50?random=8" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Riya Desai</div>
+                            <div class="role">Placed at Framestore</div>
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
-
 
 
     </div>

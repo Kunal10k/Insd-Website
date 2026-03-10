@@ -199,7 +199,7 @@
                           <li><a class="dropdown-item" href="Department-Overview-Design-graphics-design.php">Department Overview
                               Design</a></li>
                           <li><a class="dropdown-item" href="B.DES-in-Graphic-Design.php">B.DES in Graphic Design</a></li>
-                          <li><a class="dropdown-item" href="javascript:void(0)">MBA in Graphic Design</a></li>
+                          <li><a class="dropdown-item" href="MBA-in-Graphic-Design.php">MBA in Graphic Design</a></li>
                           <li><a class="dropdown-item" href="Diploma-&-Advanced-Diploma-in-Graphic-Design.php">Diploma &
                               Advanced Diploma in <br class="d-md-none d-block"> Graphic Design</a>
                           </li>

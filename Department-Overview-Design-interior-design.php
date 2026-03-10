@@ -1263,168 +1263,111 @@
 
             <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
         </div>
+
+
         <div class="marquee-container1">
             <div class="marquee-track1 marquee-right">
+
                 <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
+                    <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with Ritu Kumar.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=1" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Sneha Singh</div>
+                            <div class="role">Ritu Kumar</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card bg-blue">
-                    <p>“The projects and hands-on tasks made learning fun and practical. I feel confident now.”</p>
+                    <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=2" alt="Student">
                         <div>
-                            <div class="name">Sneha Mehra</div>
-                            <div class="role">MCA, Mumbai</div>
+                            <div class="name">Riya Chowdhury</div>
+                            <div class="role">P&S by Sneha</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”
-                    </p>
+                    <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=3" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Mousomi</div>
+                            <div class="role">AANURAG DALMIA</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card bg-blue">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”
-                    </p>
+                    <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&M.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <img src="https://picsum.photos/50?random=4" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Rishita Sengupta</div>
+                            <div class="role">H&M</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”
-                    </p>
+                    <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <img src="https://picsum.photos/50?random=5" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Mehka Sagol Semmans</div>
+                            <div class="role">Wasabi</div>
                         </div>
                     </div>
                 </div>
-                <!-- Duplicate cards for smooth loop -->
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="card bg-blue">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
+                    <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="https://picsum.photos/50?random=6" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Gaurangi Jhawar</div>
+                            <div class="role">Founder, gauRangi</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
+                    <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="https://picsum.photos/50?random=7" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Abhishek Mishra</div>
+                            <div class="role">Levi’s</div>
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly
-                        recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
-
-
 
     </div>
 </section>

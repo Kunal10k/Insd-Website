@@ -257,25 +257,44 @@
         <div class="row">
             <div class="col-md-12 en ">
                 <div class="owl-carousel award-carousel">
+                    <div class="item">
+                        <div class="award-card text-center">
+                            <img src="" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="award-card text-center">
+                            <img src="assets/img/awards/1- (1).jpg" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="award-card text-center">
+                            <img src="assets/img/awards/1- (2).jpg" alt="" class="img-fluid">
 
-                    <div class="item">
-                        <div class="award-card text-center">
-                            <img src="assets/img/awards/1- (1).png" alt="" class="img-fluid">
                         </div>
                     </div>
                     <div class="item">
                         <div class="award-card text-center">
-                            <img src="assets/img/awards/1- (2).png" alt="" class="img-fluid">
+                            <img src="assets/img/awards/1- (3).jpg" alt="" class="img-fluid">
+
                         </div>
                     </div>
                     <div class="item">
                         <div class="award-card text-center">
-                            <img src="assets/img/awards/1- (3).png" alt="" class="img-fluid">
+                            <img src="assets/img/awards/1- (4).jpg" alt="" class="img-fluid">
+
                         </div>
                     </div>
                     <div class="item">
                         <div class="award-card text-center">
-                            <img src="assets/img/awards/1- (4).png" alt="" class="img-fluid">
+                            <img src="assets/img/awards/1- (5).jpg" alt="" class="img-fluid">
+
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="award-card text-center">
+                            <img src="assets/img/awards/1- (6).jpg" alt="" class="img-fluid">
+
                         </div>
                     </div>
 

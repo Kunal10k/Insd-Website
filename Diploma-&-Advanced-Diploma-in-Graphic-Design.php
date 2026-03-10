@@ -411,6 +411,69 @@
 </section>
 
 
+<section class="alumni-container p-0">
+    <div class="row">
+        <div class="col-md-3 content ny ">
+
+            <h6 class="title "> Industry <br>projects</h6>
+
+
+
+
+        </div>
+        <div class="col-md-9 center-box">
+            <!-- MARQUEE LEFT -->
+            <div class="marquee-container">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (4).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (5).png"></div>
+
+
+
+
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (4).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (5).png"></div>
+
+
+
+
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (4).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (5).png"></div>
+
+
+                </div>
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+
+</section>
+
 
 <section class="why-study-section py-5">
     <div class="container">
@@ -491,142 +554,47 @@
             <h4 class="title text-center">Faculty Members</h4>
 
 
-            <div class="instructor-carousel owl-carousel owl-loaded owl-drag">
+            <div class="instructor-carousel owl-carousel">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                <div class="owl-stage-outer">
-                    <div class="owl-stage" style="transform: translate3d(-2992px, 0px, 0px); transition: 0.7s; width: 4352px;">
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Prity Dutta</h5>
-                                <p class="instructor-placement">Placed at: <span>Manish</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Muskan Agarwal</h5>
-                                <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Naziya Khan</h5>
-                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Ritika Sharma</h5>
-                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Rishita Sengupta</h5>
-                                <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Damini Bhattacharya</h5>
-                                <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Sneha Singh</h5>
-                                <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Abhishek Mishra</h5>
-                                <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Prity Dutta</h5>
-                                <p class="instructor-placement">Placed at: <span>Manish</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Muskan Agarwal</h5>
-                                <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Naziya Khan</h5>
-                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Ritika Sharma</h5>
-                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned active" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Rishita Sengupta</h5>
-                                <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned active" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Damini Bhattacharya</h5>
-                                <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned active" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Sneha Singh</h5>
-                                <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Abhishek Mishra</h5>
-                                <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
-                            </div>
-                        </div>
-                    </div>
+                <div class="instructor-card text-center">
+                    <img src="assets/img/GRAPHIC-DEPARTMENT/1) Ayan Biswas_ HEAD OF DEPARTMENT.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Ayan Biswas</h5>
+                    <p class="instructor-placement"> <span>HEAD OF DEPARTMENT</span></p>
                 </div>
-                <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
-                <div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div>
+
+                <div class="instructor-card text-center">
+                    <img src="assets/img/GRAPHIC-DEPARTMENT/2) Ayan Kundu_Assistant Professor.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Ayan Kundu</h5>
+                    <p class="instructor-placement"><span>assistant Professor</span></p>
+                </div>
+
+                <div class="instructor-card text-center">
+                    <img src="assets/img/GRAPHIC-DEPARTMENT/3) Sohom Das_ UI-UX Professor.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name"> Sohom Das</h5>
+                    <p class="instructor-placement"><span>UI-UX Professor</span></p>
+                </div>
+
+                <div class="instructor-card text-center">
+                    <img src="assets/img/GRAPHIC-DEPARTMENT/4) Akritti Jain_personality Development Coach.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Akritti Jain</h5>
+                    <p class="instructor-placement"> <span>personality Development Coach</span></p>
+                </div>
+
+                <div class="instructor-card text-center">
+                    <img src="assets/img/GRAPHIC-DEPARTMENT/5) Ankan Bandyopadhyay_Visual Design Professor.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name"> Ankan Bandyopadhyay</h5>
+                    <p class="instructor-placement"> <span>Visual Design Professor</span></p>
+                </div>
+
+                <div class="instructor-card text-center">
+                    <img src="assets/img/GRAPHIC-DEPARTMENT/6) Disha Bhattacharya_Management.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Disha Bhattacharya</h5>
+                    <p class="instructor-placement"> <span>Management</span></p>
+                </div>
+
+
+
+
             </div>
         </div>
     </div>
@@ -954,157 +922,124 @@
 
             <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
         </div>
+
         <div class="marquee-container1">
             <div class="marquee-track1 marquee-right">
+
                 <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <p>“My journey at INSD Kolkata really helped me grow as a designer. The practical projects and portfolio guidance gave me the confidence to begin my professional journey with Cognizant.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=1" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Aarav Sharma</div>
+                            <div class="role">Placed at Cognizant</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card bg-blue">
-                    <p>“The projects and hands-on tasks made learning fun and practical. I feel confident now.”</p>
+                    <p>“Studying at INSD Kolkata was a great experience. The hands-on learning and creative projects helped me understand how the design industry works and prepared me for my role at Technicolor Creative Studios.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=2" alt="Student">
                         <div>
-                            <div class="name">Sneha Mehra</div>
-                            <div class="role">MCA, Mumbai</div>
+                            <div class="name">Rohan Verma</div>
+                            <div class="role">Placed at Technicolor Creative Studios</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+                    <p>“INSD Kolkata helped me improve both my creative thinking and technical design skills. The learning environment and support from mentors helped me confidently start my career at Wipro.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=3" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Aditya Kulkarni</div>
+                            <div class="role">Placed at Wipro</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card bg-blue">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+                    <p>“The practical training and portfolio development at INSD Kolkata helped me understand real-world design. It gave me the confidence and skills needed to begin my journey with Kraftix Digital.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <img src="https://picsum.photos/50?random=4" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Karan Mehta</div>
+                            <div class="role">Placed at Kraftix Digital</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+                    <p>“My time at INSD Kolkata helped me explore my creativity while learning important design tools and concepts. The guidance from faculty played a big role in helping me start my career at Capgemini.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <img src="https://picsum.photos/50?random=5" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Sneha Kapoor</div>
+                            <div class="role">Placed at Capgemini</div>
                         </div>
                     </div>
                 </div>
-                <!-- Duplicate cards for smooth loop -->
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="card bg-blue">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <p>“INSD Kolkata gave me the opportunity to learn design in a practical and creative way. The projects and mentorship here helped me build the confidence to begin my professional journey at Infosys.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="https://picsum.photos/50?random=6" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Priya Nair</div>
+                            <div class="role">Placed at Infosys</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <p>“My experience at INSD Kolkata helped me develop strong visual storytelling and design skills. The exposure and guidance here helped me step into the industry and begin my journey with Hoichoi.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="https://picsum.photos/50?random=7" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Ananya Gupta</div>
+                            <div class="role">Placed at Hoichoi</div>
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="card bg-blue">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <p>“The learning experience at INSD Kolkata helped me grow creatively and professionally. The practical projects and portfolio support helped me take my first step into the industry with Framestore.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="https://picsum.photos/50?random=8" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Riya Desai</div>
+                            <div class="role">Placed at Framestore</div>
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
-
 
 
     </div>

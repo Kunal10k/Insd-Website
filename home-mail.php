@@ -7,19 +7,17 @@ if (isset($_POST['submit'])) {
     $phone = $_POST['phone'];
     $course = $_POST['course'];
 
-    $to = "your@email.com";   // change to your email
+    $to = "your@email.com";   // change your email
     $subject = "New Course Inquiry";
 
-    $message = "
-New Student Inquiry
+    $message = "New Student Inquiry\n\n";
+    $message .= "Name: $name\n";
+    $message .= "Email: $email\n";
+    $message .= "Phone: $phone\n";
+    $message .= "Course: $course\n";
 
-Name: $name
-Email: $email
-Phone: $phone
-Course: $course
-";
-
-    $headers = "From: $email";
+    $headers = "From: noreply@yourdomain.com\r\n";
+    $headers .= "Reply-To: $email";
 
     mail($to, $subject, $message, $headers);
 

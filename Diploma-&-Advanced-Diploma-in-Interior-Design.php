@@ -537,52 +537,48 @@
             <div class="instructor-carousel owl-carousel">
 
                 <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Rishita Sengupta</h5>
-                    <p class="instructor-placement">Placed at: <span>H&M</span></p>
+                    <img src="assets/img/INTERIOR-DEPARTMENT/1) Nasima Khatoon_HEAD OF DEPARTMENT.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Nasima Khatoon</h5>
+                    <p class="instructor-placement"> <span>HEAD OF DEPARTMENT</span></p>
                 </div>
 
                 <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Damini Bhattacharya</h5>
-                    <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
+                    <img src="assets/img/INTERIOR-DEPARTMENT/2) Priyanka Chakraborty_assistant Professor.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Priyanka Chakraborty</h5>
+                    <p class="instructor-placement"><span>assistant Professor</span></p>
                 </div>
 
                 <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Sneha Singh</h5>
-                    <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
+                    <img src="assets/img/INTERIOR-DEPARTMENT/3) Harsh Madhogarhia_Assistant professor.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Harsh Madhogarhia</h5>
+                    <p class="instructor-placement"><span>Assistant Professor</span></p>
                 </div>
 
                 <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Abhishek Mishra</h5>
-                    <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
+                    <img src="assets/img/INTERIOR-DEPARTMENT/4) Amit Sinha_  Professor of CAD.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Amit Sinha</h5>
+                    <p class="instructor-placement"> <span>Professor of CAD</span></p>
                 </div>
 
                 <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Prity Dutta</h5>
-                    <p class="instructor-placement">Placed at: <span>Manish</span></p>
+                    <img src="assets/img/INTERIOR-DEPARTMENT/5) Manisha Nayak_assistant Professor.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name"> Manisha Nayak</h5>
+                    <p class="instructor-placement"> <span>assistant Professor</span></p>
                 </div>
 
                 <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Muskan Agarwal</h5>
-                    <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
+                    <img src="assets/img/INTERIOR-DEPARTMENT/6) Akritti Jain_personality Development Coach.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Akritti Jain</h5>
+                    <p class="instructor-placement"> <span>personality Development Coach</span></p>
                 </div>
 
                 <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Naziya Khan</h5>
-                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
+                    <img src="assets/img/INTERIOR-DEPARTMENT/7) Disha Bhattacharya_Management.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Disha Bhattacharya</h5>
+                    <p class="instructor-placement"> <span>Management</span></p>
                 </div>
 
-                <div class="instructor-card text-center">
-                    <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Ritika Sharma</h5>
-                    <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                </div>
+
 
             </div>
         </div>
@@ -940,152 +936,105 @@
         </div>
         <div class="marquee-container1">
             <div class="marquee-track1 marquee-right">
+
                 <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with Ritu Kumar.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=1" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Sneha Singh</div>
+                            <div class="role">Ritu Kumar</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card bg-blue">
-                    <p>“The projects and hands-on tasks made learning fun and practical. I feel confident now.”</p>
+                    <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=2" alt="Student">
                         <div>
-                            <div class="name">Sneha Mehra</div>
-                            <div class="role">MCA, Mumbai</div>
+                            <div class="name">Riya Chowdhury</div>
+                            <div class="role">P&S by Sneha</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+                    <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=3" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Mousomi</div>
+                            <div class="role">AANURAG DALMIA</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card bg-blue">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+                    <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&M.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <img src="https://picsum.photos/50?random=4" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Rishita Sengupta</div>
+                            <div class="role">H&M</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
-                    <p>“The instructors are amazing and always ready to help. The community support is top-notch.”</p>
+                    <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
                     <div class="rating">
                         <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                        <img src="https://picsum.photos/50?random=5" alt="Student">
                         <div>
-                            <div class="name">Aditya Joshi</div>
-                            <div class="role">B.Sc CS, Pune</div>
+                            <div class="name">Mehka Sagol Semmans</div>
+                            <div class="role">Wasabi</div>
                         </div>
                     </div>
                 </div>
-                <!-- Duplicate cards for smooth loop -->
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="card bg-blue">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="https://picsum.photos/50?random=6" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Gaurangi Jhawar</div>
+                            <div class="role">Founder, gauRangi</div>
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
+                    <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
                     <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
+                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
                     </div>
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="https://picsum.photos/50?random=7" alt="Student">
                         <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
+                            <div class="name">Abhishek Mishra</div>
+                            <div class="role">Levi’s</div>
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card bg-blue">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <p>“This course helped me improve my coding skills drastically in just 6 weeks. Highly recommended!”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span>
-                    </div>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
-                        <div>
-                            <div class="name">Harsh Tiwari</div>
-                            <div class="role">B.Tech, Bangalore</div>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
 
