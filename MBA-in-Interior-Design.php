@@ -848,18 +848,7 @@
         <div class="col-md-4 content ny ">
 
             <h6 class="title "> Industry <br> Alliances</h6>
-            <div class="my-2 ecx">
-                <!-- <a href="#" class="btn-animated btn-light">
-                    <div class="btn-text-wrap">
-                        <div class="btn-text">Industry Collaborations</div>
-                        <div class="btn-text-hover">Industry Collaborations</div>
-                    </div>
-                    <div class="btn-icon-wrap">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                    </div>
-                </a> -->
-            </div>
+
 
 
 

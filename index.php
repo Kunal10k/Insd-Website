@@ -153,6 +153,21 @@
   <div class="container">
     <div class="row">
 
+      <!-- Years of Excellence -->
+      <div class="col-md-3">
+        <div class="stats-card">
+          <div class="stats-icon">
+            <img src="assets/img/about/save-money.png" alt="">
+          </div>
+          <div class="stats-content">
+            <h2>
+              <span class="stats-count" data-num="15" data-suffix="+">15</span>+
+            </h2>
+            <p>Years of Excellence</p>
+          </div>
+        </div>
+      </div>
+
       <!-- Industry Partners -->
       <div class="col-md-3">
         <div class="stats-card">
@@ -198,20 +213,7 @@
         </div>
       </div>
 
-      <!-- Years of Excellence -->
-      <div class="col-md-3">
-        <div class="stats-card">
-          <div class="stats-icon">
-            <img src="assets/img/about/save-money.png" alt="">
-          </div>
-          <div class="stats-content">
-            <h2>
-              <span class="stats-count" data-num="15" data-suffix="+">15</span>+
-            </h2>
-            <p>Years of Excellence</p>
-          </div>
-        </div>
-      </div>
+
 
     </div>
   </div>
@@ -1000,18 +1002,7 @@
     <div class="col-md-5 content ny">
 
       <h6 class="title ">Academic and industry collaborations </h6>
-      <div class="my-2 ecx">
-        <!-- <a href="#" class="btn-animated btn-light">
-          <div class="btn-text-wrap">
-            <div class="btn-text">Industry Collaborations</div>
-            <div class="btn-text-hover">Industry Collaborations</div>
-          </div>
-          <div class="btn-icon-wrap">
-            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-          </div>
-        </a> -->
-      </div>
+
 
 
 
@@ -1199,26 +1190,35 @@
 
             <div class="brand-grid left-marquee mt-4">
               <div class="brand-track">
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (1).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (2).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (3).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (4).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (5).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (18).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (19).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (6).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (7).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (8).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (9).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (10).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (17).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (20).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (11).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (12).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (13).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (14).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (15).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (16).png" alt=""></div>
+                <!-- Original Items -->
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (1).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (2).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (3).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (4).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (5).png" alt=""></div>
+
+
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (6).png" alt=""></div>
+
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (7).png" alt=""></div>
+
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (8).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (9).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (10).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (11).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (12).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (13).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (14).png" alt=""></div>
+
+
+
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (15).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (16).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (17).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (18).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (19).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (20).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (21).png" alt=""></div>
               </div>
             </div>
 
@@ -1884,7 +1884,7 @@
 
 
 
-<!-- Modal -->
+
 <div class="modal fade" id="connectModal" tabindex="-1">
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
@@ -1895,29 +1895,29 @@
       </div>
 
       <div class="modal-body">
-        <form>
+        <form action="home-mail.php" method="POST">
 
           <div class="mb-3">
             <label class="form-label">Full Name</label>
-            <input type="text" class="form-control" placeholder="Enter your name">
+            <input type="text" name="name" class="form-control" placeholder="Enter your name" required>
           </div>
 
           <div class="mb-3">
             <label class="form-label">Email Address</label>
-            <input type="email" class="form-control" placeholder="Enter your email">
+            <input type="email" name="email" class="form-control" placeholder="Enter your email" required>
           </div>
 
           <div class="mb-3">
             <label class="form-label">Mobile Number</label>
             <div class="input-group">
               <span class="input-group-text">+91</span>
-              <input type="tel" class="form-control" placeholder="Enter mobile number">
+              <input type="tel" name="phone" class="form-control" placeholder="Enter mobile number" required>
             </div>
           </div>
 
           <div class="mb-3">
             <label class="form-label">Select Course</label>
-            <select class="form-select">
+            <select name="course" class="form-select" required>
               <option selected disabled>Select Course</option>
               <option>Web Development</option>
               <option>Digital Marketing</option>
@@ -1926,7 +1926,7 @@
           </div>
 
           <div class="d-grid">
-            <button type="submit" class="btn btn-primary">
+            <button type="submit" name="submit" class="btn btn-primary">
               Apply to Join
             </button>
           </div>

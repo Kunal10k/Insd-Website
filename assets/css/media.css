@@ -838,6 +838,15 @@
     font-size: 22px !important;
   }
 
+
+  .course-highlights {
+    display: grid;
+    gap: 10px;
+    flex-wrap: wrap;
+    grid-template-columns: auto auto;
+
+  }
+
   .trust_logo .w-25 {
     width: 60% !important;
   }
@@ -1378,6 +1387,7 @@
 
   .cta-left p {
     font-size: 15px;
+    text-align: center;
   }
 
   .cta-box {

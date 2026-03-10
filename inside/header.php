@@ -196,7 +196,7 @@
                       <li class="dropdown-submenu">
                         <a class="dropdown-item dropdown-toggle" href="#">Graphic Design </a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="javascript:void(0)">Department Overview
+                          <li><a class="dropdown-item" href="Department-Overview-Design-graphics-design.php">Department Overview
                               Design</a></li>
                           <li><a class="dropdown-item" href="B.DES-in-Graphic-Design.php">B.DES in Graphic Design</a></li>
                           <li><a class="dropdown-item" href="javascript:void(0)">MBA in Graphic Design</a></li>
@@ -402,7 +402,7 @@
                         <li class="dropdown-submenu">
                           <a class="dropdown-item dropdown-toggle" href="#">Graphic Design </a>
                           <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="landing-page.php">Department Overview
+                            <li><a class="dropdown-item" href="Department-Overview-Design-graphics-design.php">Department Overview
                                 Design</a></li>
                             <li><a class="dropdown-item" href="B.DES-in-Graphic-Design.php">B.DES in Graphic Design</a></li>
                             <li><a class="dropdown-item" href="MBA-in-Graphic-Design.php">MBA in Graphic Design</a></li>

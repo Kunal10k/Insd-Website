@@ -677,9 +677,7 @@
         <div class="col-md-3 content ny ">
 
             <h6 class="title "> Industry <br>Alliances</h6>
-            <div class="my-2 ecx">
 
-            </div>
 
 
 

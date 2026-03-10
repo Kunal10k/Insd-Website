@@ -11117,8 +11117,8 @@ textarea {
 .course-highlights {
   display: flex;
   gap: 15px;
-  flex-wrap: wrap;
 }
+
 
 .highlight-card {
   background: #fff;

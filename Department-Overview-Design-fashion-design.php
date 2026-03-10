@@ -483,19 +483,18 @@
 
                 <div class="image_changer">
 
-                    <img src="assets/img/fashion/01- (1).jpg" class="active">
-                    <img src="assets/img/fashion/01- (2).jpg">
-                    <img src="assets/img/fashion/01- (3).jpg">
-                    <img src="assets/img/fashion/01- (4).jpg">
-                    <img src="assets/img/01/05- (1).jpg">
-                    <img src="assets/img/01/05- (2).jpg">
-                    <img src="assets/img/01/05- (3).jpg">
-                    <img src="assets/img/01/05- (4).jpg">
-                    <img src="assets/img/01/05- (5).jpg">
-                    <img src="assets/img/01/05- (6).jpg">
-                    <img src="assets/img/01/05- (7).jpg">
+                    <img src="assets/img/fashion/z- (1).jpeg" class="active">
 
 
+                    <img src="assets/img/fashion/z- (2).jpeg">
+                    <img src="assets/img/fashion/z- (3).jpeg">
+                    <img src="assets/img/fashion/z- (4).jpeg">
+                    <img src="assets/img/fashion/z- (5).jpeg">
+                    <img src="assets/img/fashion/z- (6).jpeg">
+                    <img src="assets/img/fashion/z- (7).jpeg">
+                    <img src="assets/img/fashion/z- (8).jpeg">
+                    <img src="assets/img/fashion/z- (9).jpeg">
+                    <img src="assets/img/fashion/z- (10).jpeg">
 
 
 
