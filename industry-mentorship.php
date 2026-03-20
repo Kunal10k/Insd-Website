@@ -37,49 +37,309 @@
     </div>
 
     <!-- Owl Carousel -->
-    <div class=" e1 owl-carousel mt-4">
+    
+    <div class="grid_itemss navy">
+        
+            <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Yogesh Chaudary</h4>
+          <span class="mentor-post">Director, Jaipur Rugs</span>
+
+        </div>
+      </div>
+        
+         <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Neha Lulla</h4>
+          <span class="mentor-post">Jewellery Designer</span>
+  
+        </div>
+      </div>
+      
+        <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Biren Vaidya(MD, Rose Group.).jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Biren Vaidya</h4>
+          <span class="mentor-post">MD, Rose Group</span>
+
+        </div>
+      </div>
+      
+         <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Bhavana Jasra (Owner,First Impression.).jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Bhavana Jasra</h4>
+          <span class="mentor-post">Owner,First Impression</span>
+
+        </div>
+      </div>
+      
+       <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation &amp; MASH).jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Shalini Passi</h4>
+          <span class="mentor-post">Founder Art Foundation &amp; MASH</span>
+
+        </div>
+      </div>
+      
+        <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/031-1601553383456.avif"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Rishab Suresh</h4>
+          <span class="mentor-post">Ex. Country Manager, Vacheron  &amp; Constantin</span>
+
+        </div>
+      </div>
+      <!-- <div class="mentor-box">-->
+      <!--  <div class="mentor-photo">-->
+      <!--    <img-->
+      <!--      src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation &amp; MASH).jpg"-->
+      <!--      alt="Mentor">-->
+      <!--  </div>-->
+      <!--  <div class="mentor-text">-->
+      <!--    <h4>Shalini Passi</h4>-->
+      <!--    <span class="mentor-post">Founder Art Foundation &amp; MASH</span>-->
+
+      <!--  </div>-->
+      <!--</div>-->
 
       <div class="mentor-box">
         <div class="mentor-photo">
           <img
-            src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg"
             alt="Mentor">
         </div>
         <div class="mentor-text">
-          <h4>Rahul Mehta</h4>
-          <span class="mentor-post">Creative Director</span>
-          <p class="mentor-org">Studio RM</p>
-          <span class="mentor-field">Fashion & Luxury Design</span>
+          <h4>Olivier Nicolay</h4>
+          <span class="mentor-post">Former President, Chanel UK</span>
+
         </div>
       </div>
+
+  
+   
+     
+  
+      <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Aparajita Toor</h4>
+          <span class="mentor-post">Founder, Aparajita Toor Footwear.</span>
+
+        </div>
+      </div>
+      
+          <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Payal Singhal.jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Payal Singhal</h4>
+          <span class="mentor-post">Founder, Payal Singhal Fashion House</span>
+
+        </div>
+      </div>
+      <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Azad Adham.jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Azad Adham</h4>
+          <span class="mentor-post">Global Brand Director, BALENCIAGA</span>
+
+        </div>
+      </div>
+   
+    
+      
+        
+    </div>
+    
+    
+    <div class=" e1 owl-carousel mt-4 d-md-none d-block">
+
+   <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Yogesh Chaudary (Director, Jaipur Rugs.).jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Yogesh Chaudary</h4>
+          <span class="mentor-post">Director, Jaipur Rugs</span>
+
+        </div>
+      </div>
+        
+         <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Neha Lulla (Jewellery Designer).jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Neha Lulla</h4>
+          <span class="mentor-post">Jewellery Designer</span>
+  
+        </div>
+      </div>
+      
+        <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Biren Vaidya(MD, Rose Group.).jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Biren Vaidya</h4>
+          <span class="mentor-post">MD, Rose Group</span>
+
+        </div>
+      </div>
+      
+         <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Bhavana Jasra (Owner,First Impression.).jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Bhavana Jasra</h4>
+          <span class="mentor-post">Owner,First Impression</span>
+
+        </div>
+      </div>
+      
+       <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation &amp; MASH).jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Shalini Passi</h4>
+          <span class="mentor-post">Founder Art Foundation &amp; MASH</span>
+
+        </div>
+      </div>
+      
+        <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/031-1601553383456.avif"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Rishab Suresh</h4>
+          <span class="mentor-post">Ex. Country Manager, Vacheron  &amp; Constantin</span>
+
+        </div>
+      </div>
+      <!-- <div class="mentor-box">-->
+      <!--  <div class="mentor-photo">-->
+      <!--    <img-->
+      <!--      src="assets/img/INDUSTRY-SPEAKER/Shalini Passi ( Founder,Art Foundation &amp; MASH).jpg"-->
+      <!--      alt="Mentor">-->
+      <!--  </div>-->
+      <!--  <div class="mentor-text">-->
+      <!--    <h4>Shalini Passi</h4>-->
+      <!--    <span class="mentor-post">Founder Art Foundation &amp; MASH</span>-->
+
+      <!--  </div>-->
+      <!--</div>-->
 
       <div class="mentor-box">
         <div class="mentor-photo">
           <img
-            src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            src="assets/img/INDUSTRY-SPEAKER/Olivier Nicolay.jpg"
             alt="Mentor">
         </div>
         <div class="mentor-text">
-          <h4>Ananya Sen</h4>
-          <span class="mentor-post">Interior Consultant</span>
-          <p class="mentor-org">Urban Space</p>
-          <span class="mentor-field">Interior & Retail Design</span>
+          <h4>Olivier Nicolay</h4>
+          <span class="mentor-post">Former President, Chanel UK</span>
+
         </div>
       </div>
 
+  
+   
+     
+  
       <div class="mentor-box">
         <div class="mentor-photo">
           <img
-            src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            src="assets/img/INDUSTRY-SPEAKER/Aparajita Toor.jpg"
             alt="Mentor">
         </div>
         <div class="mentor-text">
-          <h4>Arjun Kapoor</h4>
-          <span class="mentor-post">Brand Strategist</span>
-          <p class="mentor-org">BrandLab India</p>
-          <span class="mentor-field">Branding & Entrepreneurship</span>
+          <h4>Aparajita Toor</h4>
+          <span class="mentor-post">Founder, Aparajita Toor Footwear.</span>
+
         </div>
       </div>
+      
+          <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Payal Singhal.jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Payal Singhal</h4>
+          <span class="mentor-post">Founder, Payal Singhal Fashion House</span>
+
+        </div>
+      </div>
+      <div class="mentor-box">
+        <div class="mentor-photo">
+          <img
+            src="assets/img/INDUSTRY-SPEAKER/Azad Adham.jpg"
+            alt="Mentor">
+        </div>
+        <div class="mentor-text">
+          <h4>Azad Adham</h4>
+          <span class="mentor-post">Global Brand Director, BALENCIAGA</span>
+
+        </div>
+      </div>
+   
+    
+      
 
     </div>
   </div>
@@ -134,227 +394,180 @@
 
 
 
-<section class="placement-cta-new">
-  <div class="container">
-
-    <div class="cta-box">
-
-      <div class="cta-left">
-        <h2>Academic Guidance at INSD Kolkata</h2>
-        <p class="para">Faculty members play a central role in guiding students through studio work, practical execution, and portfolio development. Their engagement supports structured learning while integrating professional discipline, creative thinking, and applied skills.
-          This approach helps ensure that students receive academic guidance that is informed by both educational frameworks and real industry practice.
-
-
-        </p>
 
 
 
-        <div class="ban-btn">
-          <div class="mt-4">
+<!--<section class="global_Section_ready">-->
+<!--  <div class="container">-->
+<!--    <div class="row">-->
+<!--      <div class="col-md-6">-->
+<!--        <h2 class="title">-->
+<!--          GLOBAL ACADEMIC <br><span>Alliances</span>-->
+<!--        </h2>-->
+      
 
-            <!-- Apply Button -->
-            <a href="#" class="btn-animated btn-light" data-bs-toggle="modal" data-bs-target="#enquiryModal">
-              <span class="btn-text-wrap">
-                <span class="btn-text">Explore Academic Programs</span>
-                <span class="btn-text-hover">Explore Academic Programs</span>
-              </span>
+<!--        <h5 class="mt-3">International Academic Partners</h5>-->
+<!--        <p class="para">-->
 
-              <span class="btn-icon-wrap">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
-              </span>
-            </a>
+<!--          INSD Kolkata maintains academic collaborations with reputed international institutions known for their focus on design, business, and creative education. These include:-->
+<!--        </p>-->
+<!--        <ul class="campus-features mt-3">-->
+<!--          <li>-->
+<!--            <i class="fa-solid fa-circle-check me-2"></i>-->
+<!--            <strong>College de Paris</strong>-->
+<!--          </li>-->
 
+<!--          <li>-->
+<!--            <i class="fa-solid fa-circle-check me-2"></i>-->
+<!--            <strong>International Business School of Washington</strong>-->
+<!--          </li>-->
 
+<!--          <li>-->
+<!--            <i class="fa-solid fa-circle-check me-2"></i>-->
+<!--            <strong>International Business School of Washington</strong>-->
+<!--          </li>-->
 
-          </div>
-        </div>
+<!--          <li>-->
+<!--            <i class="fa-solid fa-circle-check me-2"></i>-->
+<!--            <strong>École Supérieure de Relooking</strong>-->
+<!--          </li>-->
 
-      </div>
-
-
-
-    </div>
-
-  </div>
-</section>
-
-
-<section class="global_Section_ready">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6">
-        <h2 class="title">
-          GLOBAL ACADEMIC <br><span>Alliances</span>
-        </h2>
-        <!-- <p class="para">
-          Expanding Design Education Beyond Borders
-          International School of Design Kolkata believes that contemporary design education benefits from global exposure and international academic perspectives. Through global academic collaborations, the institute connects students to learning environments beyond India, supporting broader understanding of design practices, creative cultures, and professional standards. <br>
-          These collaborations are designed to complement classroom learning by introducing students to global academic frameworks and international approaches to design education.
-        </p> -->
-
-        <h5 class="mt-3">International Academic Partners</h5>
-        <p class="para">
-
-          INSD Kolkata maintains academic collaborations with reputed international institutions known for their focus on design, business, and creative education. These include:
-        </p>
-        <ul class="campus-features mt-3">
-          <li>
-            <i class="fa-solid fa-circle-check me-2"></i>
-            <strong>College de Paris</strong>
-          </li>
-
-          <li>
-            <i class="fa-solid fa-circle-check me-2"></i>
-            <strong>International Business School of Washington</strong>
-          </li>
-
-          <li>
-            <i class="fa-solid fa-circle-check me-2"></i>
-            <strong>International Business School of Washington</strong>
-          </li>
-
-          <li>
-            <i class="fa-solid fa-circle-check me-2"></i>
-            <strong>École Supérieure de Relooking</strong>
-          </li>
-
-          <li>
-            <i class="fa-solid fa-circle-check me-2"></i>
-            <strong>ESG Paris</strong>
-          </li>
-        </ul>
+<!--          <li>-->
+<!--            <i class="fa-solid fa-circle-check me-2"></i>-->
+<!--            <strong>ESG Paris</strong>-->
+<!--          </li>-->
+<!--        </ul>-->
 
 
 
 
 
-      </div>
-      <div class="col-md-6">
-        <img src="assets/img/connected-across-continents-diverse-students-leveraging-technology-global-learning-environment_1235950-104117.avif" alt="" class="img-fluid">
-      </div>
-    </div>
+<!--      </div>-->
+<!--      <div class="col-md-6">-->
+<!--        <img src="assets/img/connected-across-continents-diverse-students-leveraging-technology-global-learning-environment_1235950-104117.avif" alt="" class="img-fluid">-->
+<!--      </div>-->
+<!--    </div>-->
 
-    <div class="row mt-3">
-      <div class="col-md-8">
+<!--    <div class="row mt-3">-->
+<!--      <div class="col-md-8">-->
 
-        <div class="marquee-container e44 ">
-          <div class="owl-carousel fashion-slider owl-loaded owl-drag">
-            <div class="owl-carousel custom-slider-x owl-loaded owl-drag">
+<!--        <div class="marquee-container e44 ">-->
+<!--          <div class="owl-carousel fashion-slider owl-loaded owl-drag">-->
+<!--            <div class="owl-carousel custom-slider-x owl-loaded owl-drag">-->
 
-              <div class="owl-stage-outer">
-                <div class="owl-stage" style="transform: translate3d(-1243px, 0px, 0px); transition: 0.6s; width: 2487px;">
-                  <div class="owl-item cloned" style="width: 238.667px; margin-right: 10px;">
-                    <div class="item">
-                      <img src="assets/img/d2.png" alt="" class="vcx">
-                    </div>
-                  </div>
-                  <div class="owl-item cloned" style="width: 238.667px; margin-right: 10px;">
-                    <div class="item">
-                      <img src="assets/img/d3.png" alt="" class="vcx">
-                    </div>
-                  </div>
-                  <div class="owl-item cloned" style="width: 238.667px; margin-right: 10px;">
-                    <div class="item">
-                      <img src="assets/img/Untitled-design-32.png" alt="" class="vcx">
-                    </div>
-                  </div>
-                  <div class="owl-item" style="width: 238.667px; margin-right: 10px;">
-                    <div class="item">
-                      <img src="assets/img/d1.png" alt="" class="img-fluid vcx">
-                    </div>
-                  </div>
-                  <div class="owl-item" style="width: 238.667px; margin-right: 10px;">
-                    <div class="item">
-                      <img src="assets/img/d2.png" alt="" class="vcx">
-                    </div>
-                  </div>
-                  <div class="owl-item active" style="width: 238.667px; margin-right: 10px;">
-                    <div class="item">
-                      <img src="assets/img/d3.png" alt="" class="vcx">
-                    </div>
-                  </div>
-                  <div class="owl-item active" style="width: 238.667px; margin-right: 10px;">
-                    <div class="item">
-                      <img src="assets/img/Untitled-design-32.png" alt="" class="vcx">
-                    </div>
-                  </div>
-                  <div class="owl-item cloned active" style="width: 238.667px; margin-right: 10px;">
-                    <div class="item">
-                      <img src="assets/img/d1.png" alt="" class="img-fluid vcx">
-                    </div>
-                  </div>
-                  <div class="owl-item cloned" style="width: 238.667px; margin-right: 10px;">
-                    <div class="item">
-                      <img src="assets/img/d2.png" alt="" class="vcx">
-                    </div>
-                  </div>
-                  <div class="owl-item cloned" style="width: 238.667px; margin-right: 10px;">
-                    <div class="item">
-                      <img src="assets/img/d3.png" alt="" class="vcx">
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
-              <div class="owl-dots disabled"></div>
-            </div>
+<!--              <div class="owl-stage-outer">-->
+<!--                <div class="owl-stage" style="transform: translate3d(-1243px, 0px, 0px); transition: 0.6s; width: 2487px;">-->
+<!--                  <div class="owl-item cloned" style="width: 238.667px; margin-right: 10px;">-->
+<!--                    <div class="item">-->
+<!--                      <img src="assets/img/d2.png" alt="" class="vcx">-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                  <div class="owl-item cloned" style="width: 238.667px; margin-right: 10px;">-->
+<!--                    <div class="item">-->
+<!--                      <img src="assets/img/d3.png" alt="" class="vcx">-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                  <div class="owl-item cloned" style="width: 238.667px; margin-right: 10px;">-->
+<!--                    <div class="item">-->
+<!--                      <img src="assets/img/Untitled-design-32.png" alt="" class="vcx">-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                  <div class="owl-item" style="width: 238.667px; margin-right: 10px;">-->
+<!--                    <div class="item">-->
+<!--                      <img src="assets/img/d1.png" alt="" class="img-fluid vcx">-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                  <div class="owl-item" style="width: 238.667px; margin-right: 10px;">-->
+<!--                    <div class="item">-->
+<!--                      <img src="assets/img/d2.png" alt="" class="vcx">-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                  <div class="owl-item active" style="width: 238.667px; margin-right: 10px;">-->
+<!--                    <div class="item">-->
+<!--                      <img src="assets/img/d3.png" alt="" class="vcx">-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                  <div class="owl-item active" style="width: 238.667px; margin-right: 10px;">-->
+<!--                    <div class="item">-->
+<!--                      <img src="assets/img/Untitled-design-32.png" alt="" class="vcx">-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                  <div class="owl-item cloned active" style="width: 238.667px; margin-right: 10px;">-->
+<!--                    <div class="item">-->
+<!--                      <img src="assets/img/d1.png" alt="" class="img-fluid vcx">-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                  <div class="owl-item cloned" style="width: 238.667px; margin-right: 10px;">-->
+<!--                    <div class="item">-->
+<!--                      <img src="assets/img/d2.png" alt="" class="vcx">-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                  <div class="owl-item cloned" style="width: 238.667px; margin-right: 10px;">-->
+<!--                    <div class="item">-->
+<!--                      <img src="assets/img/d3.png" alt="" class="vcx">-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                </div>-->
+<!--              </div>-->
+<!--              <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>-->
+<!--              <div class="owl-dots disabled"></div>-->
+<!--            </div>-->
 
-          </div>
-        </div>
-      </div>
-    </div>
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
 
-  </div>
+<!--  </div>-->
 
-</section>
-
-
-<section class="placement-cta-new">
-  <div class="container">
-
-    <div class="cta-box">
-
-      <div class="cta-left">
-        <h2>International Academic Exposure</h2>
-        <p class="para">Through these global academic collaborations, students at INSD Kolkata have the opportunity to participate in international academic exposure programmes, including short-term study modules conducted at partner institutions abroad.
-          These experiences allow students to engage with international faculty, understand global design perspectives, and experience academic environments beyond their home country, contributing to creative growth and global awareness.
+<!--</section>-->
 
 
+<!--<section class="placement-cta-new">-->
+<!--  <div class="container">-->
 
-        </p>
+<!--    <div class="cta-box">-->
+
+<!--      <div class="cta-left">-->
+<!--        <h2>International Academic Exposure</h2>-->
+<!--        <p class="para">Through these global academic collaborations, students at INSD Kolkata have the opportunity to participate in international academic exposure programmes, including short-term study modules conducted at partner institutions abroad.-->
+<!--          These experiences allow students to engage with international faculty, understand global design perspectives, and experience academic environments beyond their home country, contributing to creative growth and global awareness.-->
 
 
 
-        <div class="ban-btn">
-          <div class="mt-4">
+<!--        </p>-->
+
+
+
+<!--        <div class="ban-btn">-->
+<!--          <div class="mt-4">-->
 
             <!-- Apply Button -->
-            <a href="#" class="btn-animated btn-light" data-bs-toggle="modal" data-bs-target="#enquiryModal">
-              <span class="btn-text-wrap">
-                <span class="btn-text">EXPLORE COURSES</span>
-                <span class="btn-text-hover">EXPLORE COURSES</span>
-              </span>
+<!--            <a href="#" class="btn-animated btn-light" data-bs-toggle="modal" data-bs-target="#enquiryModal">-->
+<!--              <span class="btn-text-wrap">-->
+<!--                <span class="btn-text">EXPLORE COURSES</span>-->
+<!--                <span class="btn-text-hover">EXPLORE COURSES</span>-->
+<!--              </span>-->
 
-              <span class="btn-icon-wrap">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
-                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
-              </span>
-            </a>
-
-
-
-          </div>
-        </div>
-
-      </div>
+<!--              <span class="btn-icon-wrap">-->
+<!--                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">-->
+<!--                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">-->
+<!--              </span>-->
+<!--            </a>-->
 
 
 
-    </div>
+<!--          </div>-->
+<!--        </div>-->
 
-  </div>
-</section>
+<!--      </div>-->
+
+
+
+<!--    </div>-->
+
+<!--  </div>-->
+<!--</section>-->
 
 <?php include 'inside/footer.php' ?>
 

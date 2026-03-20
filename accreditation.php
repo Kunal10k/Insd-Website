@@ -18,24 +18,24 @@
 
 
 
-<section class="affi" style="background: #fff;">
-    <div class="container">
-        <div class="row">
+<!--<section class="affi" style="background: #fff;">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
 
-            <div class="col-md-12 ">
-                <h2 class="title ">Affiliations & Global <span>Accreditations</span> </span></h2>
-                <p class="para ">
-                    International School of Design Kolkata operates within a recognised academic and industry ecosystem that connects structured education with real-world design practice. <br>
-                    The institute’s academic affiliations, industry alliances, and global associations support credible learning across Interior Design, Fashion Design, and Graphic Design, ensuring that education remains professionally relevant, industry-aligned, and academically structured.
-                </p>
-            </div>
-
-
+<!--            <div class="col-md-12 ">-->
+<!--                <h2 class="title ">Affiliations & Global <span>Accreditations</span> </span></h2>-->
+<!--                <p class="para ">-->
+<!--                    International School of Design Kolkata operates within a recognised academic and industry ecosystem that connects structured education with real-world design practice. <br>-->
+<!--                    The institute’s academic affiliations, industry alliances, and global associations support credible learning across Interior Design, Fashion Design, and Graphic Design, ensuring that education remains professionally relevant, industry-aligned, and academically structured.-->
+<!--                </p>-->
+<!--            </div>-->
 
 
-        </div>
-    </div>
-</section>
+
+
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 
 
 <section class="global_Section_ready">
@@ -92,7 +92,7 @@
 
                     </p>
                     <div class="row">
-                        <div class="col-md-8">
+                        <div class="col-md-12">
 
                             <div class="marquee-container e44 mt-3">
                                 <div class="owl-carousel fashion-slider owl-loaded owl-drag">
@@ -123,23 +123,23 @@
                     </div>
 
 
-                    <div class="ban-btn mt-4 ">
+                    <!--<div class="ban-btn mt-4 ">-->
 
-                        <a href="#" class="btn-animated btn-light">
-                            <div class="btn-text-wrap">
-                                <div class="btn-text"> Explore Academic Programs</div>
-                                <div class="btn-text-hover"> Explore Academic Programs</div>
-                            </div>
-                            <div class="btn-icon-wrap">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                                <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                            </div>
-                        </a>
-
-
+                    <!--    <a href="#" class="btn-animated btn-light">-->
+                    <!--        <div class="btn-text-wrap">-->
+                    <!--            <div class="btn-text"> Explore Academic Programs</div>-->
+                    <!--            <div class="btn-text-hover"> Explore Academic Programs</div>-->
+                    <!--        </div>-->
+                    <!--        <div class="btn-icon-wrap">-->
+                    <!--            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">-->
+                    <!--            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">-->
+                    <!--        </div>-->
+                    <!--    </a>-->
 
 
-                    </div>
+
+
+                    <!--</div>-->
                 </div>
 
             </div>
@@ -170,7 +170,7 @@
                     items: 2
                 },
                 992: {
-                    items: 4
+                    items: 5
                 }
             }
         });

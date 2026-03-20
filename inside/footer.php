@@ -1,13 +1,71 @@
+
+<div class="modal fade" id="connectModal" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <h5 class="modal-title">Connect With Us</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+
+      <div class="modal-body">
+        <form action="home-mail.php" method="POST">
+
+          <div class="mb-3">
+            <label class="form-label">Full Name</label>
+            <input type="text" name="name" class="form-control" placeholder="Enter your name" required>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label">Email Address</label>
+            <input type="email" name="email" class="form-control" placeholder="Enter your email" required>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label">Mobile Number</label>
+            <div class="input-group">
+              <span class="input-group-text">+91</span>
+              <input type="tel" name="phone" class="form-control" placeholder="Enter mobile number" required>
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label">Select Course</label>
+            <select name="course" class="form-select" required>
+              <option selected disabled>Select Course</option>
+              <option>Web Development</option>
+              <option>Digital Marketing</option>
+              <option>Graphic Design</option>
+            </select>
+          </div>
+
+          <div class="d-grid">
+            <button type="submit" name="submit" class="btn btn-primary">
+              Apply to Join
+            </button>
+          </div>
+
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
 <footer class="footer">
   <div class="container">
     <div class="row">
       <div class="col-md-3">
         <div class="footer-column">
           <h2 class="footer-logo">
-            <img src="assets/img/cropped-logo-1-1-2.png" alt="" width="150">
+            <a href="/"><img src="assets/img/cropped-logo-1-1-2.png" alt="" width="150"></a>
           </h2>
           <p class=" footer-para">
-            Industry-driven design education focused on practical learning and career outcomes
+            International School of Design (INSD) Kolkata offers industry-focused education in Interior, Fashion, and Graphic Design, combining studio learning with professional exposure to prepare students for creative careers.
+            <br>
+
+            The institute operates under the aegis of Shree Jeen Education Centre.
           </p>
         </div>
       </div>
@@ -65,7 +123,7 @@
 
               <li class="contact-info-item">
                 <i class="fa-solid fa-phone contact-info-icon"></i>
-                <strong class="contact-info-text">+916290905125/+916291065177</strong>
+                <strong class="contact-info-text">6291065177/ 8910330354</strong>
               </li>
               <li class="contact-info-item">
                 <i class="fa-solid fa-location-dot contact-info-icon"></i>
@@ -87,7 +145,7 @@
 
     <div class="footer-bottom">
       <h1 class="footer-bg-text">INSD</h1>
-      <p>2025 © All right reserved by <span>Esspesoft</span></p>
+      <p>© 2026 insdkolkata.com. All rights reserved. | By  <span>Esspesoft</span></p>
     </div>
 
   </div>
@@ -363,7 +421,41 @@
 </script>
 
 
+<script>
+  $(document).ready(function() {
 
+    $("#mentor-slider").owlCarousel({
+      items: 3,
+      loop: true,
+      margin: 25,
+      nav: true,
+      dots: false,
+      autoplay: true,
+      autoplayTimeout: 3500,
+      autoplayHoverPause: true,
+      navText: [
+        '<i class="fa-solid fa-chevron-left"></i>',
+        '<i class="fa-solid fa-chevron-right"></i>'
+      ],
+      responsive: {
+        0: {
+          items: 1
+        },
+        768: {
+          items: 2
+        },
+        992: {
+          items: 3
+        },
+        1200: {
+          items: 4
+        }
+      }
+
+    });
+
+  });
+</script>
 
 <script>
   $(document).ready(function() {
@@ -750,7 +842,7 @@
 
 
 
-<script>
+<!-- <script>
   const cards = document.querySelectorAll('.testimonial-card');
   const nextBtn = document.querySelector('.next');
   const prevBtn = document.querySelector('.prev');
@@ -770,6 +862,32 @@
     index = (index - 1 + cards.length) % cards.length;
     showCard(index);
   });
+</script> -->
+<script>
+  (function() {
+
+    const cards = document.querySelectorAll('.testimonial-card');
+    const nextBtn = document.querySelector('.next');
+    const prevBtn = document.querySelector('.prev');
+
+    let index = 0;
+
+    function showCard(i) {
+      cards.forEach(card => card.classList.remove('active'));
+      cards[i].classList.add('active');
+    }
+
+    nextBtn.addEventListener('click', () => {
+      index = (index + 1) % cards.length;
+      showCard(index);
+    });
+
+    prevBtn.addEventListener('click', () => {
+      index = (index - 1 + cards.length) % cards.length;
+      showCard(index);
+    });
+
+  })();
 </script>
 
 <script>

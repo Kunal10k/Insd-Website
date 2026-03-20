@@ -22,199 +22,393 @@
                 <p class="para text-center">
                     Academic leadership grounded in practice, discipline, and design relevance.
                 </p>
+                <div class="grid_itemss navy mt-4">
+                    
+                       <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/1) Fareena Mssood_HEAD OF  FASHION DESING.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Fareena Mssood</h4>
+                            <span class="mentor-post">Head of Department - Fashion Design 
 
-                <div class="e1 owl-carousel mt-4 owl-loaded owl-drag mb-2">
+</span>
 
-
-
-
-
-
-
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="width: 6275px; transform: translate3d(-1981px, 0px, 0px); transition: 0.25s;">
-                            <div class="owl-item cloned" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Ananya Sen</h4>
-                                        <span class="mentor-post">Interior Consultant</span>
-                                        <p class="mentor-org">Urban Space</p>
-                                        <span class="mentor-field">Interior &amp; Retail Design</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Arjun Kapoor</h4>
-                                        <span class="mentor-post">Brand Strategist</span>
-                                        <p class="mentor-org">BrandLab India</p>
-                                        <span class="mentor-field">Branding &amp; Entrepreneurship</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Rahul Mehta</h4>
-                                        <span class="mentor-post">Creative Director</span>
-                                        <p class="mentor-org">Studio RM</p>
-                                        <span class="mentor-field">Fashion &amp; Luxury Design</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Ananya Sen</h4>
-                                        <span class="mentor-post">Interior Consultant</span>
-                                        <p class="mentor-org">Urban Space</p>
-                                        <span class="mentor-field">Interior &amp; Retail Design</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Arjun Kapoor</h4>
-                                        <span class="mentor-post">Brand Strategist</span>
-                                        <p class="mentor-org">BrandLab India</p>
-                                        <span class="mentor-field">Branding &amp; Entrepreneurship</span>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                            <div class="owl-item" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Rahul Mehta</h4>
-                                        <span class="mentor-post">Creative Director</span>
-                                        <p class="mentor-org">Studio RM</p>
-                                        <span class="mentor-field">Fashion &amp; Luxury Design</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item active" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Ananya Sen</h4>
-                                        <span class="mentor-post">Interior Consultant</span>
-                                        <p class="mentor-org">Urban Space</p>
-                                        <span class="mentor-field">Interior &amp; Retail Design</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item active" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Arjun Kapoor</h4>
-                                        <span class="mentor-post">Brand Strategist</span>
-                                        <p class="mentor-org">BrandLab India</p>
-                                        <span class="mentor-field">Branding &amp; Entrepreneurship</span>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                            <div class="owl-item cloned active" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Rahul Mehta</h4>
-                                        <span class="mentor-post">Creative Director</span>
-                                        <p class="mentor-org">Studio RM</p>
-                                        <span class="mentor-field">Fashion &amp; Luxury Design</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item cloned active" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Ananya Sen</h4>
-                                        <span class="mentor-post">Interior Consultant</span>
-                                        <p class="mentor-org">Urban Space</p>
-                                        <span class="mentor-field">Interior &amp; Retail Design</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Arjun Kapoor</h4>
-                                        <span class="mentor-post">Brand Strategist</span>
-                                        <p class="mentor-org">BrandLab India</p>
-                                        <span class="mentor-field">Branding &amp; Entrepreneurship</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Rahul Mehta</h4>
-                                        <span class="mentor-post">Creative Director</span>
-                                        <p class="mentor-org">Studio RM</p>
-                                        <span class="mentor-field">Fashion &amp; Luxury Design</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item cloned" style="width: 305.25px; margin-right: 25px;">
-                                <div class="mentor-box">
-                                    <div class="mentor-photo">
-                                        <img src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Mentor">
-                                    </div>
-                                    <div class="mentor-text">
-                                        <h4>Ananya Sen</h4>
-                                        <span class="mentor-post">Interior Consultant</span>
-                                        <p class="mentor-org">Urban Space</p>
-                                        <span class="mentor-field">Interior &amp; Retail Design</span>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
-                    <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><i class="fa-solid fa-chevron-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa-solid fa-chevron-right"></i></button></div>
-                    <div class="owl-dots disabled"></div>
-                    <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
-                    <div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div>
+                    
+                       <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/GRAPHIC-DEPARTMENT/1) Ayan Biswas_ HEAD OF DEPARTMENT.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Ayan Biswas</h4>
+                            <span class="mentor-post">Head of Department - Graphic Design
+
+</span>
+
+                        </div>
+                    </div>
+                    
+                        <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/INTERIOR-DEPARTMENT/1) Nasima Khatoon_HEAD OF DEPARTMENT.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Nasima Khatoon</h4>
+                            <span class="mentor-post">Head of Department - Interior Design</span>
+
+                        </div>
+                    </div>
+                    
+                        <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/6) Ankan Bandyopadhyay_Visual Design Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Ankan Bandyopadhyay</h4>
+                            <span class="mentor-post">Visual Design Professor</span>
+
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/3) Arunima Sarkar_Assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Arunima Sarkar</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+                            <!-- <p class="mentor-org">BrandLab India</p>
+                            <span class="mentor-field">Branding & Entrepreneurship</span>
+                        </div> -->
+                        </div>
+
+
+
+                    </div>
+                    
+                    
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/4) PRAGYAA PANDEY_Assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>PRAGYAA PANDEY</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                    
+                      <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/GRAPHIC-DEPARTMENT/3) Sohom Das_ UI-UX Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Sohom Das</h4>
+                            <span class="mentor-post">UI-UX Professor</span>
+
+                        </div>
+                    </div>
+                    
+                     <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/GRAPHIC-DEPARTMENT/4) Akritti Jain_personality Development Coach.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Akritti Jain</h4>
+                            <span class="mentor-post">Personality Development Coach</span>
+
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/INTERIOR-DEPARTMENT/4) Amit Sinha_  Professor of CAD.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Amit Sinha</h4>
+                            <span class="mentor-post">Professor of CAD</span>
+
+                        </div>
+                    </div>
+
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/2) Arundhati Ghosh_Assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Arundhati Ghosh</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                    
+                      
+                    
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/GRAPHIC-DEPARTMENT/2) Ayan Kundu_Assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Ayan Kundu</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                  
+
+
+                    
+                    <!--<div class="mentor-box">-->
+                    <!--    <div class="mentor-photo">-->
+                    <!--        <img src="assets/img/FASHION-DEPARTMENT/5) Akritti Jain_personality Development Coach.jpg" alt="Mentor">-->
+                    <!--    </div>-->
+                    <!--    <div class="mentor-text">-->
+                    <!--        <h4>Akritti Jain</h4>-->
+                    <!--        <span class="mentor-post">Personality Development Coach</span>-->
+
+                    <!--    </div>-->
+                    <!--</div>-->
+                
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/7) Disha Bhattacharya_Management.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Disha Bhattacharya</h4>
+                            <span class="mentor-post">Business & Management Professor</span>
+
+                        </div>
+                    </div>
+                    
+                     <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/INTERIOR-DEPARTMENT/3) Harsh Madhogarhia_Assistant professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Harsh Madhogarhia</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                      <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/INTERIOR-DEPARTMENT/5) Manisha Nayak_assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Manisha Nayak</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/INTERIOR-DEPARTMENT/2) Priyanka Chakraborty_assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Priyanka Chakraborty</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                   
+
+
+                  
                 </div>
+
+                <div id="mentor-slider" class="owl-carousel mt-4 mb-2 d-md-none d-block">
+
+             
+                        <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/6) Ankan Bandyopadhyay_Visual Design Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Ankan Bandyopadhyay</h4>
+                            <span class="mentor-post">Visual Design Professor</span>
+
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/3) Arunima Sarkar_Assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Arunima Sarkar</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+                            <!-- <p class="mentor-org">BrandLab India</p>
+                            <span class="mentor-field">Branding & Entrepreneurship</span>
+                        </div> -->
+                        </div>
+
+
+
+                    </div>
+                       <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/1) Fareena Mssood_HEAD OF  FASHION DESING.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Fareena Mssood</h4>
+                            <span class="mentor-post">Head Of Fashion Desing
+</span>
+
+                        </div>
+                    </div>
+                    
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/4) PRAGYAA PANDEY_Assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>PRAGYAA PANDEY</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                    
+                      <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/GRAPHIC-DEPARTMENT/3) Sohom Das_ UI-UX Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Sohom Das</h4>
+                            <span class="mentor-post">UI-UX Professor</span>
+
+                        </div>
+                    </div>
+                    
+                     <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/GRAPHIC-DEPARTMENT/4) Akritti Jain_personality Development Coach.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Akritti Jain</h4>
+                            <span class="mentor-post">Personality Development Coach</span>
+
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/INTERIOR-DEPARTMENT/4) Amit Sinha_  Professor of CAD.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Amit Sinha</h4>
+                            <span class="mentor-post">Professor of CAD</span>
+
+                        </div>
+                    </div>
+
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/2) Arundhati Ghosh_Assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Arundhati Ghosh</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                    
+                         <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/GRAPHIC-DEPARTMENT/1) Ayan Biswas_ HEAD OF DEPARTMENT.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Ayan Biswas</h4>
+                            <span class="mentor-post">Head Of Department
+</span>
+
+                        </div>
+                    </div>
+                    
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/GRAPHIC-DEPARTMENT/2) Ayan Kundu_Assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Ayan Kundu</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                  
+
+
+                    
+                    <!--<div class="mentor-box">-->
+                    <!--    <div class="mentor-photo">-->
+                    <!--        <img src="assets/img/FASHION-DEPARTMENT/5) Akritti Jain_personality Development Coach.jpg" alt="Mentor">-->
+                    <!--    </div>-->
+                    <!--    <div class="mentor-text">-->
+                    <!--        <h4>Akritti Jain</h4>-->
+                    <!--        <span class="mentor-post">Personality Development Coach</span>-->
+
+                    <!--    </div>-->
+                    <!--</div>-->
+                
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/FASHION-DEPARTMENT/7) Disha Bhattacharya_Management.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Disha Bhattacharya</h4>
+                            <span class="mentor-post">Business & Management Professor</span>
+
+                        </div>
+                    </div>
+                    
+                     <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/INTERIOR-DEPARTMENT/3) Harsh Madhogarhia_Assistant professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Harsh Madhogarhia</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                      <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/INTERIOR-DEPARTMENT/5) Manisha Nayak_assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Manisha Nayak</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/INTERIOR-DEPARTMENT/1) Nasima Khatoon_HEAD OF DEPARTMENT.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Nasima Khatoon</h4>
+                            <span class="mentor-post">Head Of Interior Department</span>
+
+                        </div>
+                    </div>
+                    <div class="mentor-box">
+                        <div class="mentor-photo">
+                            <img src="assets/img/INTERIOR-DEPARTMENT/2) Priyanka Chakraborty_assistant Professor.jpg" alt="Mentor">
+                        </div>
+                        <div class="mentor-text">
+                            <h4>Priyanka Chakraborty</h4>
+                            <span class="mentor-post">Assistant Professor</span>
+
+                        </div>
+                    </div>
+                </div>
+
 
                 <p class="w-100 para ">
                     Faculty at INSD Kolkata form the academic backbone of the institute. Teaching is built on a structured blend of conceptual understanding, studio practice, and contemporary industry awareness, ensuring students develop clarity of thought, technical competence, and professional discipline.
@@ -222,6 +416,51 @@
 
                 </p>
             </div>
+
+            <section class="placement-cta-new">
+                <div class="container">
+
+                    <div class="cta-box">
+
+                        <div class="cta-left">
+                            <h2>Academic Guidance at INSD Kolkata</h2>
+                            <p class="para">Faculty members play a central role in guiding students through studio work, practical execution, and portfolio development. Their engagement supports structured learning while integrating professional discipline, creative thinking, and applied skills.
+                                This approach helps ensure that students receive academic guidance that is informed by both educational frameworks and real industry practice.
+
+
+                            </p>
+
+
+
+                            <div class="ban-btn">
+                                <div class="mt-4">
+
+                                    <!-- Apply Button -->
+                                    <a href="#" class="btn-animated btn-light" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                                        <span class="btn-text-wrap">
+                                            <span class="btn-text">Explore Academic Programs</span>
+                                            <span class="btn-text-hover">Explore Academic Programs</span>
+                                        </span>
+
+                                        <span class="btn-icon-wrap">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+                                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+                                        </span>
+                                    </a>
+
+
+
+                                </div>
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+
+                </div>
+            </section>
             <div class="faculty-section nds mt-4">
                 <div class="container">
 

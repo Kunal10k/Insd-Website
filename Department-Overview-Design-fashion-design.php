@@ -3,7 +3,7 @@
 
 
 <section class="landing_banner" id="form">
-    <div class="banner lando" style="background-image: url('./assets/img/insd slider.jpg.jpeg');">
+    <div class="banner lando" style="background-image: url('./assets/img/fashion/insd\ slider\ \(8\).jpg.jpeg');">
         <marquee behavior="scroll" direction="left" scrollamount="6" class="add">
             <h5 class="vcxs">ADMISSIONS OPEN | 2026–27 INTAKE | APPLY FOR SCHOLARSHIP </h5>
 
@@ -11,7 +11,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-12 landing_pick">
-                    <div class="landing_content">
+                    <div class="landing_content  mobile_work">
                         <div class="trust_logo">
                             <img src="assets/img/and.png" alt="" class="w-50 ">
                         </div>
@@ -70,49 +70,52 @@
 
                         </div>
 
-                        <form action="landing.php" method="post" class="landing_form">
+                       <form action="deparment-mail.php" method="post" class="landing_form" id="land">
 
-                            <!-- Full Name -->
-                            <div class="form-group">
-                                <label for="name" class="form-label">Full Name</label>
-                                <input type="text" id="name" class="form-control" name="name" placeholder="Enter your name" required>
+                            <!-- Name -->
+                            <div>
+                                <label class="form-label">Full Name</label>
+                                <input type="text" class="form-control" name="name" placeholder="Enter your name"
+                                    required>
                             </div>
 
                             <!-- Email -->
-                            <div class="form-group">
-                                <label for="email" class="form-label">Email Address</label>
-                                <input type="email" id="email" class="form-control" name="email" placeholder="Enter your email" required>
+                            <div>
+                                <label class="form-label">Email Address</label>
+                                <input type="email" class="form-control" name="email" placeholder="Enter your email"
+                                    required>
                             </div>
 
-                            <!-- Course Dropdown -->
-                            <div class="form-group">
-                                <label for="course" class="form-label">Select Course</label>
-                                <select id="course" name="course" class="form-control cxza" required>
+                            <div class="mb-1">
+                                <label class="form-label">Select Course</label>
+                                <select name="course" class="form-control cxza" required>
                                     <option value="">-- Choose Your Course --</option>
                                     <option value="Diploma / Advanced Diploma in Fashion Design">
-                                        Diploma / Advanced Diploma in Fashion Design
+                                        Diploma & Advanced Diploma in Interior Design
                                     </option>
                                     <option value="B.Des in Fashion Design & Technology">
-                                        B.Des in Fashion Design & Technology
+                                        B.Des in Interior Design
                                     </option>
                                     <option value="MBA in Fashion Design & Technology">
-                                        MBA in Fashion Design & Technology
+                                        MBA in Interior Designing & Technology
                                     </option>
                                 </select>
                             </div>
 
-                            <!-- Mobile Number -->
-                            <div class="form-group">
-                                <label for="phone" class="form-label">Mobile Number</label>
+                            <!-- Phone -->
+                            <div>
+                                <label class="form-label">Mobile Number</label>
                                 <div class="input-group">
                                     <span class="input-group-text">+91</span>
-                                    <input type="tel" id="phone" class="form-control" name="phone"
+                                    <input type="tel" class="form-control" name="phone"
                                         placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
                                 </div>
                             </div>
 
-                            <!-- Submit Button -->
-                            <button type="submit" name="submit" class="btn-animated btn-light mt-3">
+
+
+                            <!-- Submit -->
+                            <button type="submit" class="btn-animated btn-light ">
                                 <div class="btn-text-wrap">
                                     <div class="btn-text">Apply to Join</div>
                                     <div class="btn-text-hover">Apply to Join</div>
@@ -157,49 +160,65 @@
                             </div> -->
                 </div>
 
-                <form action="" method="post" class="landing_form" id="land">
+                <form action="deparment-mail.php" method="post" class="landing_form" id="land">
 
-                    <!-- Name -->
-                    <div>
-                        <label class="form-label">Full Name</label>
-                        <input type="text" class="form-control" name="name" placeholder="Enter your name"
-                            required>
-                    </div>
+                            <!-- Name -->
+                            <div>
+                                <label class="form-label">Full Name</label>
+                                <input type="text" class="form-control" name="name" placeholder="Enter your name"
+                                    required>
+                            </div>
 
-                    <!-- Email -->
-                    <div>
-                        <label class="form-label">Email Address</label>
-                        <input type="email" class="form-control" name="email" placeholder="Enter your email"
-                            required>
-                    </div>
+                            <!-- Email -->
+                            <div>
+                                <label class="form-label">Email Address</label>
+                                <input type="email" class="form-control" name="email" placeholder="Enter your email"
+                                    required>
+                            </div>
 
-                    <!-- Phone -->
-                    <div>
-                        <label class="form-label">Mobile Number</label>
-                        <div class="input-group">
-                            <span class="input-group-text">+91</span>
-                            <input type="tel" class="form-control" name="phone"
-                                placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
-                        </div>
-                    </div>
+                            <div class="mb-1">
+                                <label class="form-label">Select Course</label>
+                                <select name="course" class="form-control cxza" required>
+                                    <option value="">-- Choose Your Course --</option>
+                                    <option value="Diploma / Advanced Diploma in Fashion Design">
+                                        Diploma & Advanced Diploma in Interior Design
+                                    </option>
+                                    <option value="B.Des in Fashion Design & Technology">
+                                        B.Des in Interior Design
+                                    </option>
+                                    <option value="MBA in Fashion Design & Technology">
+                                        MBA in Interior Designing & Technology
+                                    </option>
+                                </select>
+                            </div>
+
+                            <!-- Phone -->
+                            <div>
+                                <label class="form-label">Mobile Number</label>
+                                <div class="input-group">
+                                    <span class="input-group-text">+91</span>
+                                    <input type="tel" class="form-control" name="phone"
+                                        placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
+                                </div>
+                            </div>
 
 
 
-                    <!-- Submit -->
-                    <button type="submit" class="btn-animated btn-light ">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Apply to Join</div>
-                            <div class="btn-text-hover">Apply to Join</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </button>
+                            <!-- Submit -->
+                            <button type="submit" class="btn-animated btn-light ">
+                                <div class="btn-text-wrap">
+                                    <div class="btn-text">Apply to Join</div>
+                                    <div class="btn-text-hover">Apply to Join</div>
+                                </div>
+                                <div class="btn-icon-wrap">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon-hover">
+                                </div>
+                            </button>
 
-                </form>
+                        </form>
 
             </div>
 
@@ -289,32 +308,7 @@
                 Technology</span></h2>
 
         <div class="row g-4 mt-2 mt-md-2">
-
-
-            <!-- Diploma / Advanced Diploma in Fashion Design -->
-            <div class="col-md-4">
-                <div class="course-card">
-                    <div class="card-header">
-                        <h2>Diploma / Advanced Diploma in Fashion Design</h2>
-
-                    </div>
-
-                    <div class="card-row">
-                        <span class="label">DURATION:</span>
-                        <span class="value">1 Year (Diploma) | 2 Years (Advanced Diploma)</span>
-                    </div>
-
-                    <div class="card-row">
-                        <span class="label">IDEAL FOR:</span>
-                        <span class="value">Beginners & Skill-Focused Learners</span>
-                    </div>
-                    <a href="#form" class="apply-btn">Apply Now</a>
-
-                </div>
-            </div>
-
-
-            <!-- B.Des in Fashion Design & Technology -->
+                  <!-- B.Des in Fashion Design & Technology -->
             <div class="col-md-4">
                 <div class="course-card">
                     <div class="card-header">
@@ -335,6 +329,11 @@
                     <a href="#form" class="apply-btn">Apply Now</a>
                 </div>
             </div>
+
+
+
+
+      
 
 
             <!-- MBA in Fashion Design & Technology -->
@@ -361,6 +360,27 @@
 
 
 
+            <!-- Diploma / Advanced Diploma in Fashion Design -->
+            <div class="col-md-4">
+                <div class="course-card">
+                    <div class="card-header">
+                        <h2>Diploma / Advanced Diploma in Fashion Design</h2>
+
+                    </div>
+
+                    <div class="card-row">
+                        <span class="label">DURATION:</span>
+                        <span class="value">1 Year (Diploma) | 2 Years (Advanced Diploma)</span>
+                    </div>
+
+                    <div class="card-row">
+                        <span class="label">IDEAL FOR:</span>
+                        <span class="value">Beginners & Skill-Focused Learners</span>
+                    </div>
+                    <a href="#form" class="apply-btn">Apply Now</a>
+
+                </div>
+            </div>
 
 
 
@@ -377,29 +397,50 @@
 <section class="video-testimonial-section">
     <div class="container">
         <h2 class="title text-center">Student Life <span>at INSD</span></h2>
-        <p class="para w-100 m-auto text-center">
+        <p class="para w-100 m-auto text-center d-none d-md-block">
             From fashion shows and student collections to workshops, exhibitions, and campus events, <br> student life at
             INSD is vibrant, creative, and industry-facing.
         </p>
 
-        <div class="owl-carousel video-testimonial-slider mt-4">
+      
 
-            <div class="video-testimonial-item">
-                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
+       <div class="owl-carousel video-testimonial-slider mt-4">
 
-            </div>
-            <div class="video-testimonial-item">
-                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
+    <!-- Video 1 -->
+    <div class="video-testimonial-item">
+        <iframe class="yt-video"
+            src="https://www.youtube.com/embed/WFLsZdpzeTs?mute=1&controls=0&loop=1&playlist=WFLsZdpzeTs&playsinline=1"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+        </iframe>
+    </div>
 
-            </div>
-            <div class="video-testimonial-item">
-                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
+    <!-- Video 2 -->
+    <div class="video-testimonial-item">
+        <iframe class="yt-video"
+            src="https://www.youtube.com/embed/dpUTMQsty1g?mute=1&controls=0&loop=1&playlist=dpUTMQsty1g&playsinline=1"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+        </iframe>
+    </div>
 
-            </div>
+    <!-- Video 3 -->
+    <div class="video-testimonial-item">
+        <iframe class="yt-video"
+            src="https://www.youtube.com/embed/wciTNES0uoc?mute=1&controls=0&loop=1&playlist=wciTNES0uoc&playsinline=1"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+        </iframe>
+    </div>
+
+</div>
 
 
 
-        </div>
+    
     </div>
 </section>
 
@@ -483,18 +524,17 @@
 
                 <div class="image_changer">
 
-                    <img src="assets/img/fashion/z- (1).jpeg" class="active">
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (1).jpeg" class="active">
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (2).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (3).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (4).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (5).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (6).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (7).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (8).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (9).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (10).jpeg" >
 
-
-                    <img src="assets/img/fashion/z- (2).jpeg">
-                    <img src="assets/img/fashion/z- (3).jpeg">
-                    <img src="assets/img/fashion/z- (4).jpeg">
-                    <img src="assets/img/fashion/z- (5).jpeg">
-                    <img src="assets/img/fashion/z- (6).jpeg">
-                    <img src="assets/img/fashion/z- (7).jpeg">
-                    <img src="assets/img/fashion/z- (8).jpeg">
-                    <img src="assets/img/fashion/z- (9).jpeg">
-                    <img src="assets/img/fashion/z- (10).jpeg">
 
 
 
@@ -863,13 +903,18 @@
                             <div class="brand-track">
 
                                 <!-- Original Items -->
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (1).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (2).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (3).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (4).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (5).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (18).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (19).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (1).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (2).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (4).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (5).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (6).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (7).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (8).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (9).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (10).png" alt=""></div>
+                            
 
 
 
@@ -879,13 +924,16 @@
                         <!-- RIGHT MARQUEE -->
                         <div class="brand-grid right-marquee mt-3">
                             <div class="brand-track">
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (6).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (7).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (8).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (9).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (10).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (17).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (20).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (11).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (12).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (13).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (14).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (15).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (16).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (17).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (18).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (19).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (20).png" alt=""></div>
 
 
 
@@ -899,12 +947,16 @@
                         <div class="brand-grid left-marquee mt-3">
                             <div class="brand-track">
 
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (11).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (12).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (13).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (14).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (15).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (16).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (21).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (22).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (23).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (24).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (25).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (26).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (27).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (28).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (29).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (30).png" alt=""></div>
 
 
 
@@ -955,22 +1007,6 @@
 
     </div>
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <section class="roles-section">
@@ -1060,21 +1096,50 @@
 
             <div class="marquee-container e44">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                    <div class="item"><img src="assets/img/fashion-show
+/01- (1).jpg"></div>
 
+     <div class="item"><img src="assets/img/fashion-show
+/01- (1).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (2).jpg"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (2).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (3).jpg"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (3).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (4).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (5).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (6).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (7).png"></div>
 
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
+                    <div class="item"><img src="assets/img/fashion-show
+/01- (1).jpg"></div>
 
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
-                    <div class="item"><img src="assets/img/logo/the-fashion-week.png"></div>
-                    <div class="item"><img src="assets/img/logo/p1.jpg"></div>
-                    <div class="item"><img src="assets/img/logo/country.png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (1).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (2).jpg"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (2).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (3).jpg"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (3).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (4).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (5).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (6).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (7).png"></div>
+                   
                 </div>
             </div>
 
@@ -1088,7 +1153,7 @@
 </section>
 
 
-<section class="student-test mt-4">
+<section class="student-test">
     <div class="">
         <div class="container">
             <h5 class="sub-head text-center cen">Testimonial</h5>
@@ -1097,87 +1162,95 @@
             <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
         </div>
         <div class="marquee-container1">
-            <div class="marquee-track1 marquee-right">
+      <div class="marquee-track1 marquee-right">
 
-                <div class="card">
-                    <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with P&S by Sneha.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=11" alt="Student">
-                        <div>
-                            <div class="name">Sneha Singh</div>
-                            <div class="role">P&S by Sneha</div>
-                        </div>
-                    </div>
-                </div>
+        <div class="card">
+          <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with Ritu Kumar.”</p>
 
-                <div class="card bg-blue">
-                    <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=12" alt="Student">
-                        <div>
-                            <div class="name">Riya Chowdhury</div>
-                            <div class="role">Pee Safe</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=13" alt="Student">
-                        <div>
-                            <div class="name">Mousomi</div>
-                            <div class="role">AANURAG DALMIA</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&M.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=14" alt="Student">
-                        <div>
-                            <div class="name">Rishita Sengupta</div>
-                            <div class="role">H&M</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=15" alt="Student">
-                        <div>
-                            <div class="name">Mehka Sagol Semmans</div>
-                            <div class="role">Wasabi</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=16" alt="Student">
-                        <div>
-                            <div class="name">Gaurangi Jhawar</div>
-                            <div class="role">Founder, gauRangi</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=17" alt="Student">
-                        <div>
-                            <div class="name">Abhishek Mishra</div>
-                            <div class="role">Levi’s</div>
-                        </div>
-                    </div>
-                </div>
-
+          <div class="profile">
+            <img src="assets/img/student-testimonial/sneha-Singh.jpg" alt="Student">
+            <div>
+              <div class="name">Sneha Singh</div>
+              <div class="role">Ritu Kumar</div>
             </div>
+          </div>
         </div>
+
+        <div class="card bg-blue">
+          <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Riya CHowdhury.jpg" alt="Student">
+            <div>
+              <div class="name">Riya Chowdhury</div>
+              <div class="role">P&amp;S by Sneha</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Mousumi.jpg" alt="Student">
+            <div>
+              <div class="name">Mousomi</div>
+              <div class="role">AANURAG DALMIA</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card bg-blue">
+          <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&amp;M.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Rishita Sengupta.jpg" alt="Student">
+            <div>
+              <div class="name">Rishita Sengupta</div>
+              <div class="role">H&amp;M</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Mehka Sagol Semmans.jpg" alt="Student">
+            <div>
+              <div class="name">Mehka Sagol Semmans</div>
+              <div class="role">Wasabi</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card bg-blue">
+          <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Gaurangi Jhawar.jpg" alt="Student">
+            <div>
+              <div class="name">Gaurangi Jhawar</div>
+              <div class="role">Founder, gauRangi</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Abhishek Mishra.jpg" alt="Student">
+            <div>
+              <div class="name">Abhishek Mishra</div>
+              <div class="role">Levi’s</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
 
 
     </div>
@@ -1313,262 +1386,24 @@
     </div>
 </section>
 
-<!-- Footer Section -->
-<footer class="cu-footer">
-    <div class="container">
-        <div class="footer-content">
 
-            <!-- LEFT -->
-            <div class="footer-left">
-                <img src="assets/img/cropped-logo-1-1-2.png" alt="INSD Kolkata Logo" class="footer-logo">
-                <p>
-                    INSD Kolkata stands at the forefront of design education in Eastern India, combining visionary
-                    academics with hands-on industry exposure.<br><br>
-                    International School of Design under aegis of Shree Jeen Education Centre.
-                </p>
-            </div>
-
-            <!-- CENTER -->
-            <div class="footer-center">
-                <p><strong>INSD Kolkata</strong></p>
-
-                <p>
-                    1st Floor, Plot No. JL-9, EP Block,<br>
-                    Sector V, Kolkata, West Bengal – 700091
-                </p>
-
-                <p>
-                    <i class="fas fa-phone-alt"></i>
-                    <a href="tel:+916290905125">+91 6290905125</a> |
-                    <a href="tel:+916291065177">+91 6291065177</a>
-                </p>
-
-                <p>
-                    <i class="fas fa-envelope"></i>
-                    <a href="mailto:enquiry@insdkolkata.com">enquiry@insdkolkata.com</a>
-                </p>
-
-                <p>
-                    <i class="fas fa-info-circle"></i>
-                    <a href="mailto:info@insdkolkata.com">info@insdkolkata.com</a>
-                </p>
-
-                <!-- SOCIAL ICONS -->
-                <div class="social-icons">
-                    <a href="https://www.facebook.com/" target="_blank" class="facebook">
-                        <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a href="https://www.instagram.com/" target="_blank" class="instagram">
-                        <i class="fab fa-instagram"></i>
-                    </a>
-                    <a href="https://twitter.com/" target="_blank" class="twitter">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-                    <a href="https://wa.me/916290905125" target="_blank" class="whatsapp">
-                        <i class="fab fa-whatsapp"></i>
-                    </a>
-                </div>
-            </div>
-
-        </div>
-
-        <hr class="alen">
-
-        <!-- BOTTOM -->
-        <div class="footer-bottom">
-            <p>© 2026 INSD Kolkata. All rights reserved.</p>
-        </div>
-    </div>
-
-    <!-- MARQUEE -->
-    <!-- <div class="marquee-wrapper">
-        <p class="marquee-text">
-            <strong>
-                Admission Open for Session 2026–27
-            </strong>
-        </p>
-    </div> -->
-</footer>
-
-
-
-
-
-
-
-
-
-<!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-
-<!-- Bootstrap Bundle JS -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-
-<!-- Owl Carousel JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-
-<!-- Fancybox JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
-
-
-<script src="assets/js/main.js"></script>
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
-<!-- GLightbox JS -->
-<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
-
-
-
-
+<?php include 'inside/footer.php' ?>
 
 <script>
-    window.addEventListener('scroll', function() {
-        const header = document.querySelector('header');
-        header.classList.toggle('sticky', window.scrollY > 50);
-    });
+$('.achiever-carousel').owlCarousel({
+    loop: true,
+    margin: 20,
+    nav: false,
+    dots: false,
+    autoplay: true,
+    autoplayTimeout: 2000,
+    responsive: {
+        0: { items: 2 },
+        600: { items: 3 },
+        1000: { items: 5 }
+    }
+});
 </script>
-
-
-
-<script>
-    const statsSection = document.querySelector('.v-stats-grid');
-    const numbers = document.querySelectorAll('.v-count-number');
-
-    const startCounting = (el) => {
-        let goal = parseInt(el.dataset.goal);
-        let count = 0;
-
-        // Higher divisor = slower/smoother animation
-        let increment = goal / 100;
-
-        let counter = setInterval(() => {
-            count += increment;
-            if (count >= goal) {
-                el.textContent = goal.toLocaleString(); // Final formatted number
-                clearInterval(counter);
-            } else {
-                el.textContent = Math.ceil(count);
-            }
-        }, 20); // 20ms update interval for smoothness
-    };
-
-    // Intersection Observer to trigger on scroll
-    const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                numbers.forEach(num => startCounting(num));
-                observer.unobserve(entry.target); // Run only once
-            }
-        });
-    }, {
-        threshold: 0.5
-    }); // Trigger when 50% of section is visible
-
-    observer.observe(statsSection);
-</script>
-
-
-
-
-
-
-<script>
-    $(document).ready(function() {
-        $(".mentor-slider").owlCarousel({
-            loop: true,
-            margin: 20,
-            nav: true,
-            dots: false,
-            autoplay: true,
-            responsive: {
-                0: {
-                    items: 1
-                },
-                768: {
-                    items: 3
-                } // Image-e jemon duto card pashapashi ache
-            }
-        });
-    });
-</script>
-
-
-<script>
-    $('.alumni-carousel').owlCarousel({
-        loop: true,
-        margin: 30,
-        autoplay: true,
-        autoplayTimeout: 2000,
-        autoplayHoverPause: true,
-        dots: false,
-        nav: false,
-        responsive: {
-            0: {
-                items: 2
-            },
-            576: {
-                items: 3
-            },
-            768: {
-                items: 4
-            },
-            992: {
-                items: 6
-            }
-        }
-    });
-</script>
-
-
-<script>
-    $(document).ready(function() {
-        $(".feedback-slider").owlCarousel({
-            loop: true,
-            margin: 10,
-            nav: false,
-            dots: true,
-            autoplay: true,
-            autoplayTimeout: 5000,
-            responsive: {
-                0: {
-                    items: 1 // Mobile-e 1-ti
-                },
-                768: {
-                    items: 2 // Tablet-e 2-ti
-                },
-                1000: {
-                    items: 3 // Desktop-e 3-ti show korbe
-                }
-            }
-        });
-    });
-</script>
-
-
-<script>
-    $('.mentor-owl').owlCarousel({
-        loop: true,
-        margin: 30,
-        nav: false,
-        dots: true,
-        autoplay: true,
-        autoplayTimeout: 3000,
-        responsive: {
-            0: {
-                items: 2
-            },
-            576: {
-                items: 3
-            },
-            992: {
-                items: 5
-            }
-        }
-    });
-</script>
-
-
 <script>
     $(document).ready(function() {
 
@@ -1579,15 +1414,15 @@
             margin: 20,
             nav: true,
             dots: true,
-            autoplay: true, // 🔥 autoplay ON
-            autoplayTimeout: 5000, // 5 seconds
+            autoplay: false, // ❌ autoplay OFF
+            autoplayTimeout: 5000,
             autoplayHoverPause: true,
             responsive: {
                 0: {
                     items: 1
                 },
                 768: {
-                    items: 2
+                    items: 1
                 },
                 1200: {
                     items: 3
@@ -1602,97 +1437,6 @@
                 $(this).attr('src', src);
             });
         });
-
-    });
-</script>
-
-
-<script>
-    const stats = document.querySelectorAll(".stats-count");
-
-    stats.forEach(item => {
-        item.innerText = "0";
-
-        const animate = () => {
-            const target = +item.getAttribute("data-num");
-            const current = +item.innerText;
-            const speed = target / 120;
-
-            if (current < target) {
-                item.innerText = Math.ceil(current + speed);
-                setTimeout(animate, 25);
-            } else {
-                item.innerText = target;
-            }
-        };
-
-        animate();
-    });
-</script>
-
-<script>
-    $('.achiever-carousel').owlCarousel({
-        loop: true,
-        margin: 20,
-        nav: false,
-        dots: false,
-        autoplay: true,
-        autoplayTimeout: 3000,
-        responsive: {
-            0: {
-                items: 2
-            },
-            576: {
-                items: 2
-            },
-            768: {
-                items: 3
-            },
-            992: {
-                items: 5
-            }
-        }
-    });
-</script>
-
-
-<script>
-    $('.fashion-slider').owlCarousel({
-        loop: true,
-        margin: 10,
-        autoplay: true,
-        autoplayTimeout: 2000,
-        autoplayHoverPause: true,
-        nav: false,
-        dots: false,
-        responsive: {
-            0: {
-                items: 1
-            },
-            600: {
-                items: 2
-            },
-            1000: {
-                items: 4
-            }
-        }
-    });
-</script>
-
-
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-
-        const images = document.querySelectorAll(".image_changer img");
-        let index = 0;
-
-        setInterval(() => {
-
-            images[index].classList.remove("active");
-            index = (index + 1) % images.length;
-            images[index].classList.add("active");
-
-        }, 3000);
 
     });
 </script>

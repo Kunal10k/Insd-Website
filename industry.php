@@ -196,32 +196,84 @@
     <div class="container">
 
         <div class="section-heading text-center">
-            <h2 class="title">Fashion Industry <span>Platforms</span></h2>
+            <h2 class="title">Fashion design   <span>Alliance</span></h2>
         </div>
 
-        <div class="owl-carousel logo-carousel mt-4">
+        <!--<div class="owl-carousel logo-carousel mt-4">-->
 
-            <div class="logo-item">
-                <img src="https://1000logos.net/wp-content/uploads/2020/04/Lakme-Logo-2011.png" alt="Lakmé Fashion Week">
+        <!--    <div class="logo-item">-->
+        <!--        <img src="https://1000logos.net/wp-content/uploads/2020/04/Lakme-Logo-2011.png" alt="Lakmé Fashion Week">-->
+        <!--    </div>-->
+
+        <!--    <div class="logo-item">-->
+        <!--        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgrGrXUYTcX0f7HFjgVGGO_V4SoCWPfOcAQ&s" alt="Times Fashion Week">-->
+        <!--    </div>-->
+
+        <!--    <div class="logo-item">-->
+        <!--        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCRQoSW1hVzsvJM9kRhWTCfOseDHqramBn-g&s" alt="Asian Designer Week">-->
+        <!--    </div>-->
+
+        <!--    <div class="logo-item">-->
+        <!--        <img src="https://static.vecteezy.com/system/resources/thumbnails/045/958/748/small/silhouette-of-sexy-woman-with-long-red-tail-dress-fashion-logo-of-women-s-dress-vector.jpg" alt="National Fashion Show">-->
+        <!--    </div>-->
+
+        <!--    <div class="logo-item">-->
+        <!--        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjCmiFGWmTeJLdmNnEuaxBTxL4pvUB9Jgew&s" alt="Couture Runway Week">-->
+        <!--    </div>-->
+
+        <!--</div>-->
+        
+        <div class="marquee-container e44 mt-3">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/fashion-show
+/01- (1).jpg"></div>
+
+<!--     <div class="item"><img src="assets/img/fashion-show-->
+<!--/01- (1).png"></div>-->
+     <div class="item"><img src="assets/img/fashion-show
+/01- (2).jpg"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (2).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (3).jpg"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (3).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (4).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (5).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (6).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (7).png"></div>
+
+                    <div class="item"><img src="assets/img/fashion-show
+/01- (1).jpg"></div>
+
+<!--     <div class="item"><img src="assets/img/fashion-show-->
+<!--/01- (1).png"></div>-->
+     <div class="item"><img src="assets/img/fashion-show
+/01- (2).jpg"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (2).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (3).jpg"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (3).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (4).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (5).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (6).png"></div>
+     <div class="item"><img src="assets/img/fashion-show
+/01- (7).png"></div>
+                   
+                </div>
             </div>
-
-            <div class="logo-item">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgrGrXUYTcX0f7HFjgVGGO_V4SoCWPfOcAQ&s" alt="Times Fashion Week">
-            </div>
-
-            <div class="logo-item">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCRQoSW1hVzsvJM9kRhWTCfOseDHqramBn-g&s" alt="Asian Designer Week">
-            </div>
-
-            <div class="logo-item">
-                <img src="https://static.vecteezy.com/system/resources/thumbnails/045/958/748/small/silhouette-of-sexy-woman-with-long-red-tail-dress-fashion-logo-of-women-s-dress-vector.jpg" alt="National Fashion Show">
-            </div>
-
-            <div class="logo-item">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjCmiFGWmTeJLdmNnEuaxBTxL4pvUB9Jgew&s" alt="Couture Runway Week">
-            </div>
-
-        </div>
+        
+    
+    
 
 
         <div class="carousel-note text-center">
@@ -240,17 +292,47 @@
 
     <!-- Interior Design Competitions -->
     <div class="container mb-5">
-        <h3 class="title text-center">Interior Design Competitions <br> & <span>Exhibitions</span></h3>
+        <h3 class="title text-center">Interior Design   <span>Alliance</span></h3>
 
 
-        <div class="owl-carousel logo-carousel mt-5">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZBmjZUEW0vvSkpqcKJVWSe-2zKLc1BlAYA&s">
+        <!--<div class="owl-carousel logo-carousel mt-5">-->
+        <!--    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZBmjZUEW0vvSkpqcKJVWSe-2zKLc1BlAYA&s">-->
 
-            <img src="https://static.wixstatic.com/media/a784e3_505c83518e2647799b7903307d5675e8~mv2.png">
-            <img src="https://media.licdn.com/dms/image/v2/D4E0BAQGdnTuoJaTPDQ/company-logo_200_200/company-logo_200_200/0/1682660886963/wwwabidinteriorscom_logo?e=2147483647&v=beta&t=hHmsBP7QG6RM4mMdkpiC9p8x4yTzoiFlovJd_wK2IpY">
-        </div>
+        <!--    <img src="https://static.wixstatic.com/media/a784e3_505c83518e2647799b7903307d5675e8~mv2.png">-->
+        <!--    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQGdnTuoJaTPDQ/company-logo_200_200/company-logo_200_200/0/1682660886963/wwwabidinteriorscom_logo?e=2147483647&v=beta&t=hHmsBP7QG6RM4mMdkpiC9p8x4yTzoiFlovJd_wK2IpY">-->
+        <!--</div>-->
+        
+   <div class="marquee-container">
+                <div class="marquee marquee-left">
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+                    <!--<div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>-->
+                    <!--<div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>-->
+                    <!--<div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>-->
 
-        <div mt-4>
+
+    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+                    
+                    
+                        <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
+           
+
+
+                </div>
+            </div>
+
+        <div class="mt-4">
             <p class="para w-100 text-center  ">
                 Interior design students engage through industry-led competitions and exhibitions focused <br>on real-world design evaluation.
             </p>
@@ -264,7 +346,7 @@
         <div class="logo-row py-3">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHR-thI-JKqdFZwHZY-RTWEchzcj8C3MJeXA&s">
             <img src="https://images.seeklogo.com/logo-png/19/3/fashion-design-council-of-india-fdci-logo-png_seeklogo-198867.png">
-            <img src="https://media.licdn.com/dms/image/v2/C4D0BAQEz8EFfrhN6bg/company-logo_200_200/company-logo_200_200/0/1631347995407?e=2147483647&v=beta&t=dEwARE5fVgc0ZxRkMZcNvolLFaMX63DPS4L9qXFo1V8">
+            <img src="assets/img/Industry-Alliances/01- (8).jpg">
 
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLsK_2jULtbifhbywXpEDuIzaNv4fHGSuiig&s">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XtUVJDx5XwJ4YodVWJU9qkSeNXAN96PbCg&s">

@@ -11,7 +11,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-12 landing_pick">
-                    <div class="landing_content">
+                    <div class="landing_content  mobile_work">
                         <div class="trust_logo">
                             <img src="assets/img/and.png" alt="" class="w-50 ">
                         </div>
@@ -70,49 +70,52 @@
 
                         </div>
 
-                        <form action="landing.php" method="post" class="landing_form">
+                        <form action="deparment-mail.php" method="post" class="landing_form" id="land">
 
-                            <!-- Full Name -->
-                            <div class="form-group">
-                                <label for="name" class="form-label">Full Name</label>
-                                <input type="text" id="name" class="form-control" name="name" placeholder="Enter your name" required>
+                            <!-- Name -->
+                            <div>
+                                <label class="form-label">Full Name</label>
+                                <input type="text" class="form-control" name="name" placeholder="Enter your name"
+                                    required>
                             </div>
 
                             <!-- Email -->
-                            <div class="form-group">
-                                <label for="email" class="form-label">Email Address</label>
-                                <input type="email" id="email" class="form-control" name="email" placeholder="Enter your email" required>
+                            <div>
+                                <label class="form-label">Email Address</label>
+                                <input type="email" class="form-control" name="email" placeholder="Enter your email"
+                                    required>
                             </div>
 
-                            <!-- Course Dropdown -->
-                            <div class="form-group">
-                                <label for="course" class="form-label">Select Course</label>
-                                <select id="course" name="course" class="form-control cxza" required>
+                            <div class="mb-1">
+                                <label class="form-label">Select Course</label>
+                                <select name="course" class="form-control cxza" required>
                                     <option value="">-- Choose Your Course --</option>
                                     <option value="Diploma / Advanced Diploma in Fashion Design">
-                                        Diploma / Advanced Diploma in Fashion Design
+                                        Diploma & Advanced Diploma in Interior Design
                                     </option>
                                     <option value="B.Des in Fashion Design & Technology">
-                                        B.Des in Fashion Design & Technology
+                                        B.Des in Interior Design
                                     </option>
                                     <option value="MBA in Fashion Design & Technology">
-                                        MBA in Fashion Design & Technology
+                                        MBA in Interior Designing & Technology
                                     </option>
                                 </select>
                             </div>
 
-                            <!-- Mobile Number -->
-                            <div class="form-group">
-                                <label for="phone" class="form-label">Mobile Number</label>
+                            <!-- Phone -->
+                            <div>
+                                <label class="form-label">Mobile Number</label>
                                 <div class="input-group">
                                     <span class="input-group-text">+91</span>
-                                    <input type="tel" id="phone" class="form-control" name="phone"
+                                    <input type="tel" class="form-control" name="phone"
                                         placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
                                 </div>
                             </div>
 
-                            <!-- Submit Button -->
-                            <button type="submit" name="submit" class="btn-animated btn-light mt-3">
+
+
+                            <!-- Submit -->
+                            <button type="submit" class="btn-animated btn-light ">
                                 <div class="btn-text-wrap">
                                     <div class="btn-text">Apply to Join</div>
                                     <div class="btn-text-hover">Apply to Join</div>
@@ -157,49 +160,65 @@
                             </div> -->
                 </div>
 
-                <form action="" method="post" class="landing_form" id="land">
+             <form action="deparment-mail.php" method="post" class="landing_form" id="land">
 
-                    <!-- Name -->
-                    <div>
-                        <label class="form-label">Full Name</label>
-                        <input type="text" class="form-control" name="name" placeholder="Enter your name"
-                            required>
-                    </div>
+                            <!-- Name -->
+                            <div>
+                                <label class="form-label">Full Name</label>
+                                <input type="text" class="form-control" name="name" placeholder="Enter your name"
+                                    required>
+                            </div>
 
-                    <!-- Email -->
-                    <div>
-                        <label class="form-label">Email Address</label>
-                        <input type="email" class="form-control" name="email" placeholder="Enter your email"
-                            required>
-                    </div>
+                            <!-- Email -->
+                            <div>
+                                <label class="form-label">Email Address</label>
+                                <input type="email" class="form-control" name="email" placeholder="Enter your email"
+                                    required>
+                            </div>
 
-                    <!-- Phone -->
-                    <div>
-                        <label class="form-label">Mobile Number</label>
-                        <div class="input-group">
-                            <span class="input-group-text">+91</span>
-                            <input type="tel" class="form-control" name="phone"
-                                placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
-                        </div>
-                    </div>
+                            <div class="mb-1">
+                                <label class="form-label">Select Course</label>
+                                <select name="course" class="form-control cxza" required>
+                                    <option value="">-- Choose Your Course --</option>
+                                    <option value="Diploma / Advanced Diploma in Fashion Design">
+                                        Diploma & Advanced Diploma in Interior Design
+                                    </option>
+                                    <option value="B.Des in Fashion Design & Technology">
+                                        B.Des in Interior Design
+                                    </option>
+                                    <option value="MBA in Fashion Design & Technology">
+                                        MBA in Interior Designing & Technology
+                                    </option>
+                                </select>
+                            </div>
+
+                            <!-- Phone -->
+                            <div>
+                                <label class="form-label">Mobile Number</label>
+                                <div class="input-group">
+                                    <span class="input-group-text">+91</span>
+                                    <input type="tel" class="form-control" name="phone"
+                                        placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
+                                </div>
+                            </div>
 
 
 
-                    <!-- Submit -->
-                    <button type="submit" class="btn-animated btn-light ">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Apply to Join</div>
-                            <div class="btn-text-hover">Apply to Join</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </button>
+                            <!-- Submit -->
+                            <button type="submit" class="btn-animated btn-light ">
+                                <div class="btn-text-wrap">
+                                    <div class="btn-text">Apply to Join</div>
+                                    <div class="btn-text-hover">Apply to Join</div>
+                                </div>
+                                <div class="btn-icon-wrap">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon-hover">
+                                </div>
+                            </button>
 
-                </form>
+                        </form>
 
             </div>
 
@@ -359,48 +378,48 @@
 
             <div class="marquee-container e44">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (1).jpg"></div>
 
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (1).png"></div>
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (3).jpg"></div>
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (5).jpg"></div>
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (6).jpg"></div>
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (7).jpg"></div>
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (8).jpg"></div>
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (9).jpg"></div>
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (10).jpg"></div>
-                    <div class="item"><img src="assets/img/tools/Adobe-suits/01- (11).jpg"></div>
-
-
-                    <div class="item"><img src="assets/img/tools/AI-Tools/chatgpt.png"></div>
-                    <div class="item"><img src="assets/img/tools/AI-Tools/gemini.png"></div>
-                    <div class="item"><img src="assets/img/tools/AI-Tools/prep.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (8).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (9).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (10).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (11).jpg"></div>
 
 
-                    <div class="item"><img src="assets/img/tools/Digital-marketing/google ads.png"></div>
-                    <div class="item"><img src="assets/img/tools/Digital-marketing/meta.png"></div>
-                    <div class="item"><img src="assets/img/tools/Digital-marketing/seo.png"></div>
-                    <div class="item"><img src="assets/img/tools/Digital-marketing/Untitled-1.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/AI-Tools/chatgpt.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/AI-Tools/gemini.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/AI-Tools/prep.png"></div>
+
+
+                    <div class="item"><img src="assets/img/TOOLS/Digital-marketing/google ads.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Digital-marketing/meta.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Digital-marketing/seo.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Digital-marketing/Untitled-1.png"></div>
 
 
 
-                    <div class="item"><img src="assets/img/tools/social-media/facebook.png"></div>
-                    <div class="item"><img src="assets/img/tools/social-media/insta.png"></div>
-                    <div class="item"><img src="assets/img/tools/social-media/twitter.png"></div>
-                    <div class="item"><img src="assets/img/tools/social-media/youtube.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/social-media/facebook.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/social-media/insta.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/social-media/twitter.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/social-media/youtube.png"></div>
 
 
-                    <div class="item"><img src="assets/img/tools/user-interface/figma.png"></div>
-                    <div class="item"><img src="assets/img/tools/user-interface/sketch.png"></div>
-                    <div class="item"><img src="assets/img/tools/user-interface/xd.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/user-interface/figma.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/user-interface/sketch.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/user-interface/xd.png"></div>
 
 
-                    <div class="item"><img src="assets/img/tools/web-marketing/css.png"></div>
-                    <div class="item"><img src="assets/img/tools/web-marketing/html.png"></div>
-                    <div class="item"><img src="assets/img/tools/web-marketing/java script.png"></div>
-                    <div class="item"><img src="assets/img/tools/web-marketing/wordpress.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/web-marketing/css.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/web-marketing/html.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/web-marketing/java script.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/web-marketing/wordpress.png"></div>
 
 
 
@@ -420,36 +439,138 @@
 
 
 
-<section class="video-testimonial-section">
+<!--<section class="video-testimonial-section">-->
+<!--    <div class="container">-->
+<!--        <h2 class="title text-center">Student Life <span>at INSD</span></h2>-->
+<!--        <p class="para w-100  w-md-75 m-auto text-center d-none d-md-block">-->
+<!--            Through hands-on projects, workshops, and live industry assignments,INSD Graphic Design students gain practical skills in a real-world creative environment.-->
+
+
+<!--        </p>-->
+
+<!--        <div class="owl-carousel video-testimonial-slider mt-4">-->
+
+<!--            <div class="video-testimonial-item">-->
+<!--                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>-->
+
+<!--            </div>-->
+<!--            <div class="video-testimonial-item">-->
+<!--                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>-->
+
+<!--            </div>-->
+<!--            <div class="video-testimonial-item">-->
+<!--                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>-->
+
+<!--            </div>-->
+
+
+
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
+
+
+
+
+
+<section class="why-choose">
     <div class="container">
-        <h2 class="title text-center">Student Life <span>at INSD</span></h2>
-        <p class="para w-100  w-md-75 m-auto text-center">
-            Through hands-on projects, workshops, and live industry assignments,INSD Graphic Design students gain practical skills in a real-world creative environment.
+        <div class="row align-items-center">
+
+            <div class="col-md-6">
+                <!-- <h5 class="sub-head">Why Choose INSD Kolkata</h5> -->
+                <h2 class="title">
+                    WHY STUDY GRAPHIC <br>
+                    <span>DESIGN AT INSD</span>
+                </h2>
+
+                <div class="benifit-wraps">
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Taught by practicing designers & creative professionals</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Studio-based design learning approach</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Live projects with industry exposure</h5>
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Strong portfolio development support</h5>
+                        </div>
+                    </div>
+
+                    <!--<div class="benefit-item">-->
+                    <!--    <div class="icon-circle">-->
+                    <!--        <i class="bi bi-patch-check-fill"></i>-->
+                    <!--    </div>-->
+                    <!--    <div class="benefit-text">-->
+                    <!--        <h5>Training in industry-standard design software</h5>-->
+                    <!--    </div>-->
+                    <!--</div>-->
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Affordable quality education</h5>
+                        </div>
+                    </div>
+
+                </div>
 
 
-        </p>
 
-        <div class="owl-carousel video-testimonial-slider mt-4">
 
-            <div class="video-testimonial-item">
-                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
 
             </div>
-            <div class="video-testimonial-item">
-                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
+
+
+
+
+            <div class="col-md-6">
+
+                <div class="image_changer">
+
+               <img src="assets/img/why-Should-Insd-graphic/01- (1).jpg" class="active">
+                    <img src="assets/img/why-Should-Insd-graphic/01- (2).jpg" >
+                    <img src="assets/img/why-Should-Insd-graphic/01- (3).jpg" >
+                    <img src="assets/img/why-Should-Insd-graphic/01- (4).jpg" >
+                    <img src="assets/img/why-Should-Insd-graphic/01- (5).jpg" >
+
+
+
+
+                </div>
 
             </div>
-            <div class="video-testimonial-item">
-                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
-
-            </div>
-
-
 
         </div>
     </div>
 </section>
-
 
 
 <section class="alumni-container p-0">
@@ -503,113 +624,6 @@
 
 
 
-</section>
-
-
-<section class="why-choose">
-    <div class="container">
-        <div class="row align-items-center">
-
-            <div class="col-md-6">
-                <!-- <h5 class="sub-head">Why Choose INSD Kolkata</h5> -->
-                <h2 class="title">
-                    WHY STUDY GRAPHIC <br>
-                    <span>DESIGN AT INSD</span>
-                </h2>
-
-                <div class="benifit-wraps">
-
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Taught by practicing designers & creative professionals</h5>
-                        </div>
-                    </div>
-
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Studio-based design learning approach</h5>
-                        </div>
-                    </div>
-
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Live projects with industry exposure</h5>
-                        </div>
-                    </div>
-
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Strong portfolio development support</h5>
-                        </div>
-                    </div>
-
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Training in industry-standard design software</h5>
-                        </div>
-                    </div>
-
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Affordable quality education</h5>
-                        </div>
-                    </div>
-
-                </div>
-
-
-
-
-
-            </div>
-
-
-
-
-            <div class="col-md-6">
-
-                <div class="image_changer">
-
-                    <img src="assets/img/fashion/01- (1).jpg" class="active">
-                    <img src="assets/img/fashion/01- (2).jpg">
-                    <img src="assets/img/fashion/01- (3).jpg">
-                    <img src="assets/img/fashion/01- (4).jpg">
-                    <img src="assets/img/01/05- (1).jpg">
-                    <img src="assets/img/01/05- (2).jpg">
-                    <img src="assets/img/01/05- (3).jpg">
-                    <img src="assets/img/01/05- (4).jpg">
-                    <img src="assets/img/01/05- (5).jpg">
-                    <img src="assets/img/01/05- (6).jpg">
-                    <img src="assets/img/01/05- (7).jpg">
-
-
-
-
-
-                </div>
-
-            </div>
-
-        </div>
-    </div>
 </section>
 
 <section class="mentor-area">
@@ -1028,41 +1042,41 @@
 </section>
 
 
-<section class="student-achievers py-5">
-    <div class="container">
+<!--<section class="student-achievers py-5">-->
+<!--    <div class="container">-->
 
-        <div class="text-center mb-3">
-            <h2 class="title">STUDENT <span>ACHIEVER’S</span></h2>
-        </div>
+<!--        <div class="text-center mb-3">-->
+<!--            <h2 class="title">STUDENT <span>ACHIEVER’S</span></h2>-->
+<!--        </div>-->
 
-        <div class="owl-carousel achiever-carousel">
+<!--        <div class="owl-carousel achiever-carousel">-->
 
-            <div class="achiever-card"><img src="assets/img/achiverss/1.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/2.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/3.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/4.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/5.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/6.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/7.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/8.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/9.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/10.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/11.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/12.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/13.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/14.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/15.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/16.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/17.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/18.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/19.png"></div>
-            <div class="achiever-card"><img src="assets/img/achiverss/20.png"></div>
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/1.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/2.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/3.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/4.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/5.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/6.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/7.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/8.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/9.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/10.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/11.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/12.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/13.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/14.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/15.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/16.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/17.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/18.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/19.png"></div>-->
+<!--            <div class="achiever-card"><img src="assets/img/achiverss/20.png"></div>-->
 
 
-        </div>
+<!--        </div>-->
 
-    </div>
-</section>
+<!--    </div>-->
+<!--</section>-->
 
 
 
@@ -1167,14 +1181,12 @@
             <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
         </div>
 
-        <div class="marquee-container1">
+        <div class="marquee-container1 off">
             <div class="marquee-track1 marquee-right">
 
                 <div class="card">
                     <p>“My journey at INSD Kolkata really helped me grow as a designer. The practical projects and portfolio guidance gave me the confidence to begin my professional journey with Cognizant.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=1" alt="Student">
                         <div>
@@ -1186,9 +1198,7 @@
 
                 <div class="card bg-blue">
                     <p>“Studying at INSD Kolkata was a great experience. The hands-on learning and creative projects helped me understand how the design industry works and prepared me for my role at Technicolor Creative Studios.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=2" alt="Student">
                         <div>
@@ -1200,9 +1210,7 @@
 
                 <div class="card">
                     <p>“INSD Kolkata helped me improve both my creative thinking and technical design skills. The learning environment and support from mentors helped me confidently start my career at Wipro.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=3" alt="Student">
                         <div>
@@ -1214,9 +1222,7 @@
 
                 <div class="card bg-blue">
                     <p>“The practical training and portfolio development at INSD Kolkata helped me understand real-world design. It gave me the confidence and skills needed to begin my journey with Kraftix Digital.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=4" alt="Student">
                         <div>
@@ -1228,9 +1234,7 @@
 
                 <div class="card">
                     <p>“My time at INSD Kolkata helped me explore my creativity while learning important design tools and concepts. The guidance from faculty played a big role in helping me start my career at Capgemini.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=5" alt="Student">
                         <div>
@@ -1242,9 +1246,7 @@
 
                 <div class="card bg-blue">
                     <p>“INSD Kolkata gave me the opportunity to learn design in a practical and creative way. The projects and mentorship here helped me build the confidence to begin my professional journey at Infosys.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=6" alt="Student">
                         <div>
@@ -1256,9 +1258,7 @@
 
                 <div class="card">
                     <p>“My experience at INSD Kolkata helped me develop strong visual storytelling and design skills. The exposure and guidance here helped me step into the industry and begin my journey with Hoichoi.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=7" alt="Student">
                         <div>
@@ -1270,9 +1270,7 @@
 
                 <div class="card bg-blue">
                     <p>“The learning experience at INSD Kolkata helped me grow creatively and professionally. The practical projects and portfolio support helped me take my first step into the industry with Framestore.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=8" alt="Student">
                         <div>

@@ -96,7 +96,7 @@
                   </div>
                 </a>
 
-                <a href="#" class="btn-animated btn-light1">
+                <a href="#evnys" class="btn-animated btn-light1">
                   <div class="btn-text-wrap">
                     <div class="btn-text">Explore our Courses</div>
                     <div class="btn-text-hover">Explore our Courses</div>
@@ -226,7 +226,7 @@
 <section class="gallery-wrap">
   <div class="container">
     <h2 class="title text-center">Campus <span>Life</span> <br></h2>
-    <p class="para text-center">Explore our studios, classrooms, and creative campus.</p>
+    <p class="para text-center d-none d-md-block">Explore our studios, classrooms, and creative campus.</p>
 
     <div class="gallery mt-4" id="gallery">
 
@@ -270,7 +270,7 @@
       </div>
     </div>
 
-    <div class="tab-sec">
+    <div class="tab-sec" id="evnys">
       <!-- Tabs -->
       <ul class="nav nav-pills justify-content-center mb-0 mb-md-4" id="libraryTabs" role="tablist">
         <li class="nav-item" role="presentation">
@@ -299,13 +299,14 @@
               <div class="course-header">
                 <img src="assets/img/g- (3).png" alt="Interior Design" class="img_sdtc">
                 <h2>B.Des in Interior
-                  Design
+                  Design & Tech
 
                 </h2>
 
                 <ul class="btn_xzz">
-                  <li>10+ Pass</li>
-                  <li>1+2yr Diploma & ADV Diploma</li>
+
+                  <li>4 Years</li>
+                  <li>10+2 (Any Stream)</li>
                 </ul>
               </div>
 
@@ -337,11 +338,11 @@
                 <img src="assets/img/g- (4).png" alt="Interior Design" class="img_sdtc">
 
 
-                <h2>MBA in Interior <br>Design</h2>
+                <h2>MBA in Interior <br>Design & Tech</h2>
 
                 <ul class="btn_xzz">
-                  <li>4yr Diploma</li>
-                  <li>10+ Pass </li>
+                  <li>2 Years</li>
+                  <li>Graduation </li>
 
                 </ul>
               </div>
@@ -377,13 +378,13 @@
 
 
 
-                <h2>Diploma / Advanced Diploma in Interior Design
+                <h2>Diploma in Interior Design & Tech
 
 
                 </h2>
                 <ul class="btn_xzz">
-                  <li>2yr Diploma </li>
-                  <li>Graduation (Any Stream)</li>
+                  <li>1 Years | 2 Years </li>
+                  <li>10th Pass (Any Stream)</li>
                   <!-- <li>10+ Pass </li> -->
 
                 </ul>
@@ -423,17 +424,17 @@
 
             <div class="course-card">
               <div class="course-header">
-                <img src="assets/img/g- (4).png" alt="Interior Design" class="img_sdtc">
+                <img src="assets/img/g- (3).png" alt="Interior Design" class="img_sdtc">
 
 
-                <h2>B.Des in Fashion Design & Technology
+                <h2>B.Des in Fashion Design & Tech
 
                 </h2>
 
                 <ul class="btn_xzz">
-                  <li>4yr Diploma</li>
-                  <!-- <li>Master’s</li>
-                  <li>Diploma</li> -->
+                  <li>4 Years</li>
+                  <li>10+2 Pass (Any Stream)</li>
+
                 </ul>
               </div>
 
@@ -445,8 +446,45 @@
 
               <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
-                  <div class="btn-text">Explore Fashion Design</div>
-                  <div class="btn-text-hover">Explore Fashion Design</div>
+                  <div class="btn-text">Explore Courses</div>
+                  <div class="btn-text-hover">Explore Courses</div>
+                </div>
+                <div class="btn-icon-wrap ">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon">
+                  <img
+                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                    alt="Arrow" class="btn-icon-hover">
+                </div>
+              </a>
+            </div>
+            <div class="course-card">
+              <div class="course-header">
+                <img src="assets/img/g- (4).png" alt="Interior Design" class="img_sdtc">
+
+
+                <h2>MBA in Fashion Design & Tech
+
+                </h2>
+
+                <ul class="btn_xzz">
+                  <li>2 Years</li>
+                  <li>Graduation (Any Stream)</li>
+
+                </ul>
+              </div>
+
+              <ul class="course-features">
+                <li><i class="fa-solid fa-check-circle"></i>Design development & technical training</li>
+                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
+                <li><i class="fa-solid fa-check-circle"></i>Career-ready portfolio building</li>
+              </ul>
+
+              <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
+                <div class="btn-text-wrap">
+                  <div class="btn-text">Explore Courses</div>
+                  <div class="btn-text-hover">Explore Courses</div>
                 </div>
                 <div class="btn-icon-wrap ">
                   <img
@@ -463,14 +501,13 @@
                 <img src="assets/img/g- (1).png" alt="Interior Design" class="img_sdtc">
 
 
-                <h2>MBA in Fashion Design & Technology
-
+                <h2>Diploma in Fashion Design & Tech
                 </h2>
 
                 <ul class="btn_xzz">
-                  <li>2yr Diploma </li>
-                  <!-- <li>Master’s</li>
-                  <li>Diploma</li> -->
+                  <li>1 Years | 2 Years</li>
+                  <li>10th Pass</li>
+
                 </ul>
               </div>
 
@@ -482,44 +519,8 @@
 
               <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
                 <div class="btn-text-wrap">
-                  <div class="btn-text">Explore Fashion Design</div>
-                  <div class="btn-text-hover">Explore Fashion Design</div>
-                </div>
-                <div class="btn-icon-wrap ">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon-hover">
-                </div>
-              </a>
-            </div>
-            <div class="course-card">
-              <div class="course-header">
-                <img src="assets/img/g- (3).png" alt="Interior Design" class="img_sdtc">
-
-
-                <h2>Diploma / Advanced Diploma in Fashion Design
-                </h2>
-
-                <ul class="btn_xzz">
-                  <li>1+2yr Diploma ADV Diploma</li>
-                  <!-- <li>Master’s</li>
-                  <li>Diploma</li> -->
-                </ul>
-              </div>
-
-              <ul class="course-features">
-                <li><i class="fa-solid fa-check-circle"></i>Design development & technical training</li>
-                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
-                <li><i class="fa-solid fa-check-circle"></i>Career-ready portfolio building</li>
-              </ul>
-
-              <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
-                <div class="btn-text-wrap">
-                  <div class="btn-text">Explore Fashion Design</div>
-                  <div class="btn-text-hover">Explore Fashion Design</div>
+                  <div class="btn-text">Explore Courses</div>
+                  <div class="btn-text-hover">Explore Courses</div>
                 </div>
                 <div class="btn-icon-wrap ">
                   <img
@@ -541,147 +542,128 @@
 
         <div class="tab-pane fade" id="community" role="tabpanel">
 
-          <div class="course-card-grid">
+  <div class="course-card-grid">
 
-            <!-- Interior Design -->
-            <div class="course-card">
-              <div class="course-header">
-                <img src="assets/img/g- (3).png" alt="Interior Design" class="img_sdtc">
+    <!-- B.Des Graphic Design -->
+    <div class="course-card">
+      <div class="course-header">
+        <img src="assets/img/g- (3).png" alt="Graphic Design" class="img_sdtc">
 
-                <h2>B.Des in Graphic
-                  Design</h2>
+        <h2>B.Des in Graphic Design & Technology</h2>
 
-                <!-- <ul class="btn_xzz">
-                  <li>Bachelor’s</li>
-                  <li>Master’s</li>
-                  <li>Diploma</li>
-                </ul> -->
-              </div>
+        <ul class="btn_xzz">
+          <li>4 Years</li>
+          <li>10+2 Pass</li>
+        </ul>
+      </div>
 
-              <ul class="course-features">
-                <li><i class="fa-solid fa-check-circle"></i> Studio-based interior design learning</li>
-                <li><i class="fa-solid fa-check-circle"></i> Live projects & site exposure</li>
-                <li><i class="fa-solid fa-check-circle"></i> Portfolio-driven career preparation</li>
-              </ul>
+      <ul class="course-features">
+        <li><i class="fa-solid fa-check-circle"></i> Foundations of visual communication</li>
+        <li><i class="fa-solid fa-check-circle"></i> Training in industry-standard design software</li>
+        <li><i class="fa-solid fa-check-circle"></i> Portfolio development through studio projects</li>
+      </ul>
 
-              <a href="B.Des-in-Fashion-Design.php" class="btn-animated btn-light ">
-                <div class="btn-text-wrap">
-                  <div class="btn-text">Explore Courses</div>
-                  <div class="btn-text-hover">Explore Courses</div>
-                </div>
-                <div class="btn-icon-wrap ">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon-hover">
-                </div>
-              </a>
-            </div>
-
-            <!-- Fashion Design -->
-            <div class="course-card">
-              <div class="course-header">
-                <img src="assets/img/g- (4).png" alt="Interior Design" class="img_sdtc">
-
-
-                <h2>MBA in Graphic Design</h2>
-
-                <!-- <ul class="btn_xzz">
-                  <li>Bachelor’s</li>
-                  <li>Master’s</li>
-                  <li>Diploma</li>
-                </ul> -->
-              </div>
-
-              <ul class="course-features">
-                <li><i class="fa-solid fa-check-circle"></i> Design development & technical training</li>
-                <li><i class="fa-solid fa-check-circle"></i> Fashion shows & industry exposure</li>
-                <li><i class="fa-solid fa-check-circle"></i> Career-ready portfolio building</li>
-              </ul>
-
-              <a href="MBA-in-Fashion-Design.php" class="btn-animated btn-light ">
-                <div class="btn-text-wrap">
-                  <div class="btn-text">Explore Graphic Design</div>
-                  <div class="btn-text-hover">Explore Fashion Design</div>
-                </div>
-                <div class="btn-icon-wrap ">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon-hover">
-                </div>
-              </a>
-
-
-            </div>
-
-            <!-- Graphic Design -->
-            <div class="course-card">
-              <div class="course-header">
-                <img src="assets/img/g- (4).png" alt="Interior Design" class="img_sdtc">
-
-
-                <h2>Diploma & Advanced Diploma in Graphic Design</h2>
-                <!-- 
-                <ul class="btn_xzz">
-                  <li>Bachelor’s</li>
-                  <li>Master’s</li>
-                  <li>Diploma</li>
-                </ul> -->
-              </div>
-
-              <ul class="course-features">
-                <li><i class="fa-solid fa-check-circle"></i> Visual communication & branding skills</li>
-                <li><i class="fa-solid fa-check-circle"></i> Digital tools & real-world briefs</li>
-                <li><i class="fa-solid fa-check-circle"></i> Professional portfolio development</li>
-              </ul>
-
-              <a href="Diploma-&-Advanced-Diploma-in-Fashion-Design.php" class="btn-animated btn-light ">
-                <div class="btn-text-wrap">
-                  <div class="btn-text">Explore Graphic Design</div>
-                  <div class="btn-text-hover">Explore Graphic Design</div>
-                </div>
-                <div class="btn-icon-wrap ">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon">
-                  <img
-                    src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                    alt="Arrow" class="btn-icon-hover">
-                </div>
-              </a>
-
-
-            </div>
-
-          </div>
+      <a href="B.Des-in-Graphic-Design.php" class="btn-animated btn-light">
+        <div class="btn-text-wrap">
+          <div class="btn-text">Explore Courses</div>
+          <div class="btn-text-hover">Explore Courses</div>
         </div>
+        <div class="btn-icon-wrap">
+          <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+          <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+        </div>
+      </a>
+    </div>
+
+
+    <!-- MBA Graphic Design -->
+    <div class="course-card">
+      <div class="course-header">
+        <img src="assets/img/g- (4).png" alt="Graphic Design" class="img_sdtc">
+
+        <h2>MBA in Graphic Design & Technology</h2>
+
+        <ul class="btn_xzz">
+          <li>2 Years</li>
+          <li>Graduation</li>
+        </ul>
+      </div>
+
+      <ul class="course-features">
+        <li><i class="fa-solid fa-check-circle"></i> Design strategy, branding & creative leadership</li>
+        <li><i class="fa-solid fa-check-circle"></i> Digital design workflows & emerging technologies</li>
+        <li><i class="fa-solid fa-check-circle"></i> Portfolio development with industry exposure</li>
+      </ul>
+
+      <a href="MBA-in-Graphic-Design.php" class="btn-animated btn-light">
+        <div class="btn-text-wrap">
+          <div class="btn-text">Explore Courses</div>
+          <div class="btn-text-hover">Explore Courses</div>
+        </div>
+        <div class="btn-icon-wrap">
+          <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+          <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+        </div>
+      </a>
+    </div>
+
+
+    <!-- Diploma Graphic Design -->
+    <div class="course-card">
+      <div class="course-header">
+        <img src="assets/img/g- (1).png" alt="Graphic Design" class="img_sdtc">
+
+        <h2>Diploma  in Graphic Design & Technology</h2>
+
+        <ul class="btn_xzz">
+          <li>1 Year | 2 Years</li>
+          <li>10th Pass</li>
+        </ul>
+      </div>
+
+      <ul class="course-features">
+        <li><i class="fa-solid fa-check-circle"></i> Fundamentals of graphic design & visual communication</li>
+        <li><i class="fa-solid fa-check-circle"></i> Hands-on training in design tools & digital media</li>
+        <li><i class="fa-solid fa-check-circle"></i> Practical projects with portfolio preparation</li>
+      </ul>
+
+      <a href="Diploma-Graphic-Design.php" class="btn-animated btn-light">
+        <div class="btn-text-wrap">
+          <div class="btn-text">Explore Courses</div>
+          <div class="btn-text-hover">Explore Courses</div>
+        </div>
+        <div class="btn-icon-wrap">
+          <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
+          <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
+        </div>
+      </a>
+
+    </div>
+
+  </div>
+</div>
 
         <!-- Community -->
 
       </div>
     </div>
 
-    <div class="text-center">
-      <a href="#" class="btn-animated btn-light mt-2 mt-md-4 mb-5">
-        <div class="btn-text-wrap">
-          <div class="btn-text">Talk to our Counsellor</div>
-          <div class="btn-text-hover">Talk to our Counsellor</div>
-        </div>
-        <div class="btn-icon-wrap ">
-          <img
-            src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-            alt="Arrow" class="btn-icon">
-          <img
-            src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-            alt="Arrow" class="btn-icon-hover">
-        </div>
-      </a>
-    </div>
+    <!--<div class="text-center">-->
+    <!--  <a href="#" class="btn-animated btn-light mt-2 mt-md-4 mb-5">-->
+    <!--    <div class="btn-text-wrap">-->
+    <!--      <div class="btn-text">Talk to our Counsellor</div>-->
+    <!--      <div class="btn-text-hover">Talk to our Counsellor</div>-->
+    <!--    </div>-->
+    <!--    <div class="btn-icon-wrap ">-->
+    <!--      <img-->
+    <!--        src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"-->
+    <!--        alt="Arrow" class="btn-icon">-->
+    <!--      <img-->
+    <!--        src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"-->
+    <!--        alt="Arrow" class="btn-icon-hover">-->
+    <!--    </div>-->
+    <!--  </a>-->
+    <!--</div>-->
   </div>
 </section>
 
@@ -803,10 +785,12 @@
 
         <div class="image_changer">
 
-          <img src="assets/img/L1.jpeg" class="active">
-          <img src="assets/img/L2.jpeg">
-          <img src="assets/img/L3.jpeg">
-
+          <img src="assets/img/Photos-for-home-Page/01- (1).jpg" class="active">
+          <img src="assets/img/Photos-for-home-Page/01- (2).jpg">
+          <img src="assets/img/Photos-for-home-Page/01- (3).jpg">
+          <img src="assets/img/Photos-for-home-Page/01- (4).jpg">
+          <img src="assets/img/Photos-for-home-Page/01- (5).jpg">
+         
 
 
         </div>
@@ -833,92 +817,178 @@
 
   <!-- <h5 class="sub-head text-center">Beyond the Classroom</h5> -->
   <h2 class="title text-center">The INSD <span>Experience</span></h2>
-  <p class="para text-center">
-    Earning, creating, and showcasing design in real environments
-  </p>
+<p class="para text-center d-none d-md-block">
+  Earning, creating, and showcasing design in real environments
+</p>
 
-  <div class="marquee-track1 marquee-left mt-4">
+  <!--<div class="marquee-track1 marquee-left mt-4">-->
 
     <!-- Video 1 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/vkcZAq_-pGk?autoplay=1&mute=1&loop=1&playlist=vkcZAq_-pGk&controls=0&modestbranding=1&playsinline=1"
-          frameborder="0"
-          allow="autoplay; encrypted-media"
-          allowfullscreen>
-        </iframe>
-      </div>
-    </div>
+  <!--  <div class="testimonial-card">-->
+  <!--    <div class="video-wrapper">-->
+  <!--      <iframe class="bg-video"-->
+  <!--        src="https://www.youtube.com/embed/vkcZAq_-pGk?autoplay=1&mute=1&loop=1&playlist=vkcZAq_-pGk&controls=0&modestbranding=1&playsinline=1"-->
+  <!--        frameborder="0"-->
+  <!--        allow="autoplay; encrypted-media"-->
+  <!--        allowfullscreen>-->
+  <!--      </iframe>-->
+  <!--    </div>-->
+  <!--  </div>-->
 
 
 
     <!-- Video 3 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/7CD1oMINLcI?autoplay=1&mute=1&loop=1&playlist=7CD1oMINLcI&controls=0&modestbranding=1&playsinline=1"
-          frameborder="0"
-          allow="autoplay; encrypted-media"
-          allowfullscreen>
-        </iframe>
-      </div>
-    </div>
+  <!--  <div class="testimonial-card">-->
+  <!--    <div class="video-wrapper">-->
+  <!--      <iframe class="bg-video"-->
+  <!--        src="https://www.youtube.com/embed/7CD1oMINLcI?autoplay=1&mute=1&loop=1&playlist=7CD1oMINLcI&controls=0&modestbranding=1&playsinline=1"-->
+  <!--        frameborder="0"-->
+  <!--        allow="autoplay; encrypted-media"-->
+  <!--        allowfullscreen>-->
+  <!--      </iframe>-->
+  <!--    </div>-->
+  <!--  </div>-->
 
     <!-- Video 4 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/tuVERQsiErU?autoplay=1&mute=1&loop=1&playlist=tuVERQsiErU&controls=0&modestbranding=1&playsinline=1"
-          frameborder="0"
-          allow="autoplay; encrypted-media"
-          allowfullscreen>
-        </iframe>
-      </div>
-    </div>
+  <!--  <div class="testimonial-card">-->
+  <!--    <div class="video-wrapper">-->
+  <!--      <iframe class="bg-video"-->
+  <!--        src="https://www.youtube.com/embed/tuVERQsiErU?autoplay=1&mute=1&loop=1&playlist=tuVERQsiErU&controls=0&modestbranding=1&playsinline=1"-->
+  <!--        frameborder="0"-->
+  <!--        allow="autoplay; encrypted-media"-->
+  <!--        allowfullscreen>-->
+  <!--      </iframe>-->
+  <!--    </div>-->
+  <!--  </div>-->
 
 
     <!-- Video 1 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/vkcZAq_-pGk?autoplay=1&mute=1&loop=1&playlist=vkcZAq_-pGk&controls=0&modestbranding=1&playsinline=1"
-          frameborder="0"
-          allow="autoplay; encrypted-media"
-          allowfullscreen>
-        </iframe>
-      </div>
-    </div>
+  <!--  <div class="testimonial-card">-->
+  <!--    <div class="video-wrapper">-->
+  <!--      <iframe class="bg-video"-->
+  <!--        src="https://www.youtube.com/embed/vkcZAq_-pGk?autoplay=1&mute=1&loop=1&playlist=vkcZAq_-pGk&controls=0&modestbranding=1&playsinline=1"-->
+  <!--        frameborder="0"-->
+  <!--        allow="autoplay; encrypted-media"-->
+  <!--        allowfullscreen>-->
+  <!--      </iframe>-->
+  <!--    </div>-->
+  <!--  </div>-->
 
 
 
     <!-- Video 3 -->
-    <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/7CD1oMINLcI?autoplay=1&mute=1&loop=1&playlist=7CD1oMINLcI&controls=0&modestbranding=1&playsinline=1"
-          frameborder="0"
-          allow="autoplay; encrypted-media"
-          allowfullscreen>
-        </iframe>
-      </div>
-    </div>
+  <!--  <div class="testimonial-card">-->
+  <!--    <div class="video-wrapper">-->
+  <!--      <iframe class="bg-video"-->
+  <!--        src="https://www.youtube.com/embed/7CD1oMINLcI?autoplay=1&mute=1&loop=1&playlist=7CD1oMINLcI&controls=0&modestbranding=1&playsinline=1"-->
+  <!--        frameborder="0"-->
+  <!--        allow="autoplay; encrypted-media"-->
+  <!--        allowfullscreen>-->
+  <!--      </iframe>-->
+  <!--    </div>-->
+  <!--  </div>-->
 
     <!-- Video 4 -->
+  <!--  <div class="testimonial-card">-->
+  <!--    <div class="video-wrapper">-->
+  <!--      <iframe class="bg-video"-->
+  <!--        src="https://www.youtube.com/embed/tuVERQsiErU?autoplay=1&mute=1&loop=1&playlist=tuVERQsiErU&controls=0&modestbranding=1&playsinline=1"-->
+  <!--        frameborder="0"-->
+  <!--        allow="autoplay; encrypted-media"-->
+  <!--        allowfullscreen>-->
+  <!--      </iframe>-->
+  <!--    </div>-->
+  <!--  </div>-->
+
+  <!--</div>-->
+
+<div class="marquee-track1 marquee-left mt-4">
+
+    <!-- 1 -->
     <div class="testimonial-card">
-      <div class="video-wrapper">
-        <iframe class="bg-video"
-          src="https://www.youtube.com/embed/tuVERQsiErU?autoplay=1&mute=1&loop=1&playlist=tuVERQsiErU&controls=0&modestbranding=1&playsinline=1"
-          frameborder="0"
-          allow="autoplay; encrypted-media"
-          allowfullscreen>
-        </iframe>
-      </div>
+        <div class="video-wrapper">
+            <iframe class="bg-video"
+                src="https://www.youtube.com/embed/wciTNES0uoc?autoplay=1&mute=1&loop=1&playlist=wciTNES0uoc&controls=0&modestbranding=1&playsinline=1"
+                frameborder="0"
+                allow="autoplay; encrypted-media"
+                allowfullscreen>
+            </iframe>
+        </div>
     </div>
 
-  </div>
+    <!-- 2 -->
+    <div class="testimonial-card">
+        <div class="video-wrapper">
+            <iframe class="bg-video"
+                src="https://www.youtube.com/embed/nAtcHf3B5oo?autoplay=1&mute=1&loop=1&playlist=nAtcHf3B5oo&controls=0&modestbranding=1&playsinline=1"
+                frameborder="0"
+                allow="autoplay; encrypted-media"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
 
+    <!-- 3 -->
+    <div class="testimonial-card">
+        <div class="video-wrapper">
+            <iframe class="bg-video"
+                src="https://www.youtube.com/embed/07HUgdHNmNA?autoplay=1&mute=1&loop=1&playlist=07HUgdHNmNA&controls=0&modestbranding=1&playsinline=1"
+                frameborder="0"
+                allow="autoplay; encrypted-media"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
 
+    <!-- 4 -->
+    <div class="testimonial-card">
+        <div class="video-wrapper">
+            <iframe class="bg-video"
+                src="https://www.youtube.com/embed/f0PlKLZMa8U?autoplay=1&mute=1&loop=1&playlist=f0PlKLZMa8U&controls=0&modestbranding=1&playsinline=1"
+                frameborder="0"
+                allow="autoplay; encrypted-media"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+
+    <!-- 5 -->
+    <div class="testimonial-card">
+        <div class="video-wrapper">
+            <iframe class="bg-video"
+                src="https://www.youtube.com/embed/N7rtlWfxn5I?autoplay=1&mute=1&loop=1&playlist=N7rtlWfxn5I&controls=0&modestbranding=1&playsinline=1"
+                frameborder="0"
+                allow="autoplay; encrypted-media"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+
+    <!-- 6 -->
+    <div class="testimonial-card">
+        <div class="video-wrapper">
+            <iframe class="bg-video"
+                src="https://www.youtube.com/embed/ct0TMWs2roM?autoplay=1&mute=1&loop=1&playlist=ct0TMWs2roM&controls=0&modestbranding=1&playsinline=1"
+                frameborder="0"
+                allow="autoplay; encrypted-media"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+
+    <!-- 7 -->
+    <div class="testimonial-card">
+        <div class="video-wrapper">
+            <iframe class="bg-video"
+                src="https://www.youtube.com/embed/hceXVadupcQ?autoplay=1&mute=1&loop=1&playlist=hceXVadupcQ&controls=0&modestbranding=1&playsinline=1"
+                frameborder="0"
+                allow="autoplay; encrypted-media"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+
+</div>
 
 </section>
 
@@ -1012,13 +1082,18 @@
       <!-- MARQUEE LEFT -->
       <div class="marquee-container mt-3">
         <div class="marquee marquee-left">
-          <div class="item"><img src="assets/img/International-college/01- (1).jpg"></div>
+          <div class="item"><img src="assets/img/d1.png"></div>
+          <div class="item"><img src="assets/img/d2.png"></div>
+          <div class="item"><img src="assets/img/d3.png"></div>
+          <div class="item"><img src="assets/img/Untitled-design-32.png"></div>
+          <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
+          <!-- <div class="item"><img src="assets/img/International-college/01- (1).jpg"></div>
           <div class="item"><img src="assets/img/International-college/01- (1).png"></div>
           <div class="item"><img src="assets/img/International-college/01- (3).png"></div>
           <div class="item"><img src="assets/img/International-college/01- (4).png"></div>
           <div class="item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLsK_2jULtbifhbywXpEDuIzaNv4fHGSuiig&s"></div>
           <div class="item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XtUVJDx5XwJ4YodVWJU9qkSeNXAN96PbCg&s"></div>
-          <div class="item"><img src="assets/img/International-college/01- (4).png"></div>
+          <div class="item"><img src="assets/img/International-college/01- (4).png"></div> -->
 
 
         </div>
@@ -1164,7 +1239,7 @@
               <div class="brand-track">
 
                 <!-- Original Items -->
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (1).png" alt=""></div>
+                <!-- <div class="brand-tile"><img src="assets/img/interior-landing/1- (1).png" alt=""></div>
                 <div class="brand-tile"><img src="assets/img/interior-landing/1- (2).png" alt=""></div>
                 <div class="brand-tile"><img src="assets/img/interior-landing/1- (3).png" alt=""></div>
                 <div class="brand-tile"><img src="assets/img/interior-landing/1- (4).png" alt=""></div>
@@ -1184,7 +1259,74 @@
                 <div class="brand-tile"><img src="assets/img/interior-landing/1- (13).png" alt=""></div>
                 <div class="brand-tile"><img src="assets/img/interior-landing/1- (14).png" alt=""></div>
                 <div class="brand-tile"><img src="assets/img/interior-landing/1- (15).png" alt=""></div>
-                <div class="brand-tile"><img src="assets/img/interior-landing/1- (16).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/interior-landing/1- (16).png" alt=""></div> -->
+                <!-- 
+                <div class="brand-tile"><img src="assets/img/logo/the-fashion-week.png"></div>
+                <div class="brand-tile"><img src="assets/img/logo/p1.jpg"></div>
+                <div class="brand-tile"><img src="assets/img/logo/country.png"></div>
+
+
+                <div class="brand-tile"><img src="assets/img/logo/the-fashion-week.png"></div>
+                <div class="brand-tile"><img src="assets/img/logo/p1.jpg"></div>
+                <div class="brand-tile"><img src="assets/img/logo/country.png"></div>
+
+                <div class="brand-tile"><img src="assets/img/logo/the-fashion-week.png"></div>
+                <div class="brand-tile"><img src="assets/img/logo/p1.jpg"></div>
+                <div class="brand-tile"><img src="assets/img/logo/country.png"></div>
+                <div class="brand-tile"><img src="assets/img/logo/the-fashion-week.png"></div>
+                <div class="brand-tile"><img src="assets/img/logo/p1.jpg"></div>
+                <div class="brand-tile"><img src="assets/img/logo/country.png"></div> -->
+              </div>
+            </div>
+            
+            <div class="brand-grid right-marquee">
+              <div class="brand-track">
+
+               
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (1).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (2).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (3).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (4).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (5).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (6).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (7).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (8).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (9).png" alt=""></div>
+                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (10).png" alt=""></div>
+                
+           
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (11).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (12).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (13).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (14).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (15).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (16).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (17).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (18).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (19).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (20).png" alt=""></div>
+
+
+
+
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (21).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (22).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (23).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (24).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (25).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (26).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (27).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (28).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (29).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (30).png" alt=""></div>
+
+
+
+                     
+
+
+                       
+
               </div>
             </div>
 
@@ -1222,6 +1364,8 @@
                 <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (21).png" alt=""></div>
               </div>
             </div>
+            
+            
 
             <!-- <div class="brand-grid left-marquee">
               <div class="brand-track">
@@ -1278,6 +1422,8 @@
 
               </div>
             </div> -->
+            
+            
 
           </div>
         </div>
@@ -1315,7 +1461,7 @@
             </a>
 
             <!-- Explore Button -->
-            <a href="#" class="btn-animated btn-light">
+            <a href="#evnys" class="btn-animated btn-light">
               <span class="btn-text-wrap">
                 <span class="btn-text">Explore our Courses</span>
                 <span class="btn-text-hover">Explore our Courses</span>
@@ -1357,11 +1503,9 @@
 
         <div class="card">
           <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with Ritu Kumar.”</p>
-          <div class="rating">
-            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-          </div>
+
           <div class="profile">
-            <img src="https://picsum.photos/50?random=1" alt="Student">
+            <img src="assets/img/student-testimonial/sneha-Singh.jpg" alt="Student">
             <div>
               <div class="name">Sneha Singh</div>
               <div class="role">Ritu Kumar</div>
@@ -1371,11 +1515,9 @@
 
         <div class="card bg-blue">
           <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
-          <div class="rating">
-            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-          </div>
+
           <div class="profile">
-            <img src="https://picsum.photos/50?random=2" alt="Student">
+            <img src="assets/img/student-testimonial/Riya CHowdhury.jpg" alt="Student">
             <div>
               <div class="name">Riya Chowdhury</div>
               <div class="role">P&S by Sneha</div>
@@ -1385,11 +1527,9 @@
 
         <div class="card">
           <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
-          <div class="rating">
-            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-          </div>
+
           <div class="profile">
-            <img src="https://picsum.photos/50?random=3" alt="Student">
+            <img src="assets/img/student-testimonial/Mousumi.jpg" alt="Student">
             <div>
               <div class="name">Mousomi</div>
               <div class="role">AANURAG DALMIA</div>
@@ -1399,11 +1539,9 @@
 
         <div class="card bg-blue">
           <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&M.”</p>
-          <div class="rating">
-            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-          </div>
+
           <div class="profile">
-            <img src="https://picsum.photos/50?random=4" alt="Student">
+            <img src="assets/img/student-testimonial/Rishita Sengupta.jpg" alt="Student">
             <div>
               <div class="name">Rishita Sengupta</div>
               <div class="role">H&M</div>
@@ -1413,11 +1551,9 @@
 
         <div class="card">
           <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
-          <div class="rating">
-            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-          </div>
+
           <div class="profile">
-            <img src="https://picsum.photos/50?random=5" alt="Student">
+            <img src="assets/img/student-testimonial/Mehka Sagol Semmans.jpg" alt="Student">
             <div>
               <div class="name">Mehka Sagol Semmans</div>
               <div class="role">Wasabi</div>
@@ -1427,11 +1563,9 @@
 
         <div class="card bg-blue">
           <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
-          <div class="rating">
-            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-          </div>
+
           <div class="profile">
-            <img src="https://picsum.photos/50?random=6" alt="Student">
+            <img src="assets/img/student-testimonial/Gaurangi Jhawar.jpg" alt="Student">
             <div>
               <div class="name">Gaurangi Jhawar</div>
               <div class="role">Founder, gauRangi</div>
@@ -1441,11 +1575,9 @@
 
         <div class="card">
           <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
-          <div class="rating">
-            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-          </div>
+
           <div class="profile">
-            <img src="https://picsum.photos/50?random=7" alt="Student">
+            <img src="assets/img/student-testimonial/Abhishek Mishra.jpg" alt="Student">
             <div>
               <div class="name">Abhishek Mishra</div>
               <div class="role">Levi’s</div>
@@ -1457,88 +1589,95 @@
     </div>
 
 
-    <div class="marquee-container1">
-      <div class="marquee-track1 marquee-left">
+ <div class="marquee-container1">
+            <div class="marquee-track1 marquee-left">
 
-        <div class="card">
-          <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with P&S by Sneha.”</p>
-          <div class="profile">
-            <img src="https://picsum.photos/50?random=11" alt="Student">
-            <div>
-              <div class="name">Sneha Singh</div>
-              <div class="role">P&S by Sneha</div>
+                <div class="card">
+                    <p>“My time at INSD Kolkata gave me strong practical knowledge and real site exposure. The guidance from faculty helped me understand interior design beyond theory and start my journey confidently at A Square Designs.”</p>
+
+                    <div class="profile">
+                        <img src="assets/img/faculty-testimonials/SOUVIKSAH.jpeg" alt="Student">
+                        <div>
+                            <div class="name">Souvik Saha </div>
+                            <div class="role">Placed at A Square Designs</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card bg-blue">
+                    <p>“When I joined INSD Kolkata, I only had a passion for interiors. With practical learning, site visits, and constant faculty support, that passion turned into confidence and helped me begin my career at Livspace.”</p>
+
+                    <div class="profile">
+                           <img src="assets/img/faculty-testimonials/PRIYANJALISE.jpeg" alt="Student">
+                        <div>
+                            <div class="name">Priyanjali Sen </div>
+                            <div class="role">Placed at Livspace</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <p>“INSD Kolkata gave me more than design skills — it gave me the confidence to start my own studio. The practical exposure and mentorship here played a big role in shaping my entrepreneurial journey.”</p>
+
+                    <div class="profile">
+                     <img src="assets/img/faculty-testimonials/AMITKUMARSAHO.jpeg" alt="Student">
+                        <div>
+                            <div class="name">Amit Kumar Sahoo </div>
+                            <div class="role">Entrepreneur, Vision V Studio</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card bg-blue">
+                    <p>“The hands-on learning and portfolio guidance at INSD Kolkata helped me grow as a designer. The industry exposure here helped me build the confidence that led to my placement at Provo.”</p>
+
+                    <div class="profile">
+                <img src="assets/img/faculty-testimonials/SHRUTIBAHE.jpeg" alt="Student">
+                        <div>
+                            <div class="name">Shruti Baher </div>
+                            <div class="role">Placed at Provo</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <p>“Studying at INSD Kolkata helped me develop both creative thinking and practical design skills. The hands-on learning experience prepared me well for my professional journey at Studio WB Interior Architects.”</p>
+
+                    <div class="profile">
+                   <img src="assets/img/faculty-testimonials/PUNAMPAU.jpeg" alt="Student">
+                        <div>
+                            <div class="name">Punam Paul </div>
+                            <div class="role">Studio WB Interior Architects</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card bg-blue">
+                    <p>“The practical exposure and guidance from faculty at INSD Kolkata helped me understand the real world of interior design and confidently begin my career with Rupande Shah &amp; Associates.”</p>
+
+                    <div class="profile">
+                             <img src="assets/img/faculty-testimonials/NILANJANGHOS.jpeg" alt="Student">
+                        <div>
+                            <div class="name">Nilanjan Ghosh </div>
+                            <div class="role">Rupande Shah &amp; Associates</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <p>“My journey at INSD Kolkata helped me strengthen my creativity and understanding of design. The experience and mentorship here helped me step confidently into the industry with Jaipur Rugs.”</p>
+
+                    <div class="profile">
+                                  <img src="assets/img/faculty-testimonials/DAMINIBHATTACHARIY.jpeg" alt="Student">
+                        <div>
+                            <div class="name">Damini Bhattachariya </div>
+                            <div class="role">Jaipur Rugs</div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
-          </div>
         </div>
-
-        <div class="card bg-blue">
-          <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
-          <div class="profile">
-            <img src="https://picsum.photos/50?random=12" alt="Student">
-            <div>
-              <div class="name">Riya Chowdhury</div>
-              <div class="role">Pee Safe</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="card">
-          <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
-          <div class="profile">
-            <img src="https://picsum.photos/50?random=13" alt="Student">
-            <div>
-              <div class="name">Mousomi</div>
-              <div class="role">AANURAG DALMIA</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="card bg-blue">
-          <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&M.”</p>
-          <div class="profile">
-            <img src="https://picsum.photos/50?random=14" alt="Student">
-            <div>
-              <div class="name">Rishita Sengupta</div>
-              <div class="role">H&M</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="card">
-          <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
-          <div class="profile">
-            <img src="https://picsum.photos/50?random=15" alt="Student">
-            <div>
-              <div class="name">Mehka Sagol Semmans</div>
-              <div class="role">Wasabi</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="card bg-blue">
-          <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
-          <div class="profile">
-            <img src="https://picsum.photos/50?random=16" alt="Student">
-            <div>
-              <div class="name">Gaurangi Jhawar</div>
-              <div class="role">Founder, gauRangi</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="card">
-          <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
-          <div class="profile">
-            <img src="https://picsum.photos/50?random=17" alt="Student">
-            <div>
-              <div class="name">Abhishek Mishra</div>
-              <div class="role">Levi’s</div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
 
   </div>
 </section>
@@ -1705,7 +1844,7 @@
           </div>
 
           <!-- Form -->
-          <form action="landing.php" method="post" class="landing_form pb-4">
+          <form action="home-mail.php" method="post" class="landing_form pb-4">
 
             <!-- Name -->
             <div class="mb-1">
@@ -1743,7 +1882,7 @@
                 <option value="fashion_design">Fashion Designing</option>
                 <option value="interior_design">Interior Designing</option>
                 <option value="graphic_design">Graphic Designing</option>
-                <option value="ui_ux_design">UI / UX Design</option>
+                <!--<option value="ui_ux_design">UI / UX Design</option>-->
               </select>
             </div>
 
@@ -1772,58 +1911,7 @@
 
 
 
-<div class="modal fade" id="connectModal" tabindex="-1">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
 
-      <div class="modal-header">
-        <h5 class="modal-title">Connect With Us</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-      </div>
-
-      <div class="modal-body">
-        <form action="home-mail.php" method="POST">
-
-          <div class="mb-3">
-            <label class="form-label">Full Name</label>
-            <input type="text" name="name" class="form-control" placeholder="Enter your name" required>
-          </div>
-
-          <div class="mb-3">
-            <label class="form-label">Email Address</label>
-            <input type="email" name="email" class="form-control" placeholder="Enter your email" required>
-          </div>
-
-          <div class="mb-3">
-            <label class="form-label">Mobile Number</label>
-            <div class="input-group">
-              <span class="input-group-text">+91</span>
-              <input type="tel" name="phone" class="form-control" placeholder="Enter mobile number" required>
-            </div>
-          </div>
-
-          <div class="mb-3">
-            <label class="form-label">Select Course</label>
-            <select name="course" class="form-select" required>
-              <option selected disabled>Select Course</option>
-              <option>Web Development</option>
-              <option>Digital Marketing</option>
-              <option>Graphic Design</option>
-            </select>
-          </div>
-
-          <div class="d-grid">
-            <button type="submit" name="submit" class="btn btn-primary">
-              Apply to Join
-            </button>
-          </div>
-
-        </form>
-      </div>
-
-    </div>
-  </div>
-</div>
 
 
 

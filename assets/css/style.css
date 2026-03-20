@@ -50,6 +50,9 @@ body {
   background-size: auto;
   background-position: center;
 }
+.off .profile img{
+    display: none !important;
+}
 
 html {
   font-size: 100%;
@@ -113,6 +116,10 @@ body {
 	max-width: 1320px;
 } */
 
+span.form-note {
+    font-size: 14px;
+}
+
 .image-anime {
   position: relative;
   overflow: hidden;
@@ -145,6 +152,17 @@ body {
   border: 2px solid transparent;
 }
 
+.grid_itemss {
+ display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 15px !important;
+
+}
+@media only screen and (max-width: 767px) {
+    .navy {
+        display: none !important;
+    }
+}
 
 /* .fade-i {
   opacity: 0;
@@ -636,7 +654,7 @@ header.sticky .dropdown-toggle::after {
 
 .vcx {
   width: 100 !important;
-  height: 100px !important;
+  height: 154px !important;
   object-fit: contain;
 }
 
@@ -2145,11 +2163,11 @@ ul#autoTab {
 }
 
 .card .profile img {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  border: 2px solid #3b82f6;
-  margin-right: 15px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid #3b82f6;
+    margin-right: 15px;
 }
 
 .card .profile .name {
@@ -2159,8 +2177,9 @@ ul#autoTab {
 }
 
 .card .profile .role {
-  font-size: 12px;
-  color: #64748b;
+    font-size: 14px;
+    color: #222222;
+    font-weight: 700;
 }
 
 .bg-blue {
@@ -2538,7 +2557,7 @@ textarea {
 }
 
 .footer-para {
-  font-size: 15px;
+  font-size: 14px;
   margin-top: 15px;
   margin-top: 15px !important;
 }
@@ -6989,14 +7008,14 @@ alumni-carousel .item img {
 }
 
 .mentor-post {
-  display: block;
-  font-size: 14px;
-  font-weight: 500;
-  background: var(--secondary-color1);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  margin-bottom: 6px;
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+    background: var(--secondary-color1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 6px;
 }
 
 .mentor-org {
@@ -9150,15 +9169,16 @@ textarea {
 }
 
 .appinform-form-group label {
-  display: block;
-  margin-bottom: 8px;
-  font-weight: 600;
-  color: #444;
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+    color: #444;
+    font-size: 14px;
 }
 
 .appinform-form-control {
   width: 100%;
-  padding: 12px 15px;
+  padding: 3px 12px;
   border: 1px solid #ccc;
   border-radius: 4px;
   font-size: 1rem;
@@ -9338,7 +9358,7 @@ textarea {
   border-radius: 16px;
   padding: 0;
   text-align: center;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  /*box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);*/
   transition: all 0.35s ease;
 }
 
@@ -9348,8 +9368,8 @@ textarea {
 
 /* Video */
 .video-testimonial-item iframe.yt-video {
-  width: 100%;
-  height: 220px;
+  width: 300px;
+  height: 480px;
   border-radius: 14px;
   border: none;
 }
@@ -10134,9 +10154,9 @@ textarea {
   line-height: 15px;
 }
 
-.card .profile img {
-  display: none;
-}
+/*.card .profile img {*/
+/*  display: none;*/
+/*}*/
 
 /* ==========================
    Owl Carousel Overrides
@@ -10209,8 +10229,8 @@ textarea {
   }
 
   .instructor-card img {
-    width: 80px !important;
-    height: 80px !important;
+    width: 120px !important;
+    height: 120px !important;
   }
 
   .instructor-name {

@@ -211,86 +211,138 @@
                         <div class="rbt-accordion-style rbt-accordion-02 accordion">
                             <h4 class="mt-3 title">Curriculum <span>Structure</span></h4>
                             <div class="accordion mt-3" id="accordionExampleb2">
-                                <div class="accordion-item">
+                                <div class="accordion mt-3" id="multimediaAccordion">
 
-                                    <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseOne" aria-expanded="true">
-                                            <i class="fa-solid fa-layer-group me-2"></i>
-                                            B.Des Graphic Design & Technology – Curriculum Overview
-                                        </button>
-                                    </h2>
+<!-- YEAR 1 -->
+<div class="accordion-item">
+<h2 class="accordion-header">
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#year1">
+<i class="fa-solid fa-layer-group me-2"></i>
+YEAR 1 
+</button>
+</h2>
 
-                                    <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExampleb2">
-                                        <div class="accordion-body curriculum-body">
+<div id="year1" class="accordion-collapse collapse " data-bs-parent="#multimediaAccordion">
+<div class="accordion-body">
 
-                                            <h6><i class="fa-solid fa-pen-nib me-2"></i> Core Design Foundations</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fundamentals of design, visual language, and composition</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Drawing, sketching, and visual storytelling</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Colour theory, form, balance, and layout principles</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Design thinking and creative problem-solving</strong></li>
-                                            </ul>
+<ul class="rbt-course-main-content liststyle mt-3">
 
-                                            <h6><i class="fa-solid fa-font me-2"></i> Typography & Visual Communication</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Typography, calligraphy, and type anatomy</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Layout design and grid systems</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Brand communication and visual identity</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Advertising creatives and campaign design</strong></li>
-                                            </ul>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Fundamentals of Design & Drawing</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Design Principles & Color Theory</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Digital Painting & Illustration</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>History of Graphic Design</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Typography & Calligraphy</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Product Packaging Design</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Computer Fundamentals for Designers</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Adobe Photoshop</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>CorelDRAW & Adobe Illustrator</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Communication & Presentation Skills</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Masterclasses by Industry Experts</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Live Projects & Industry Visits</strong></li>
 
-                                            <h6><i class="fa-solid fa-palette me-2"></i> Digital Illustration & Graphic Design</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Digital illustration and digital painting</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Image manipulation and photo editing</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Branding, packaging, and product graphics</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Print and publication design</strong></li>
-                                            </ul>
+</ul>
 
-                                            <h6><i class="fa-solid fa-robot me-2"></i> AI, Motion & Emerging Design Technologies</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>AI-powered design tools and generative design concepts</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>AI-assisted creative workflows and automation</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Motion graphics and animation fundamentals</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Video editing, sound design, and post-production</strong></li>
-                                            </ul>
+</div>
+</div>
+</div>
 
-                                            <h6><i class="fa-solid fa-code me-2"></i> Web, UI & Digital Design</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Web and digital design fundamentals</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>UI basics, layouts, and interface design</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>HTML & CSS fundamentals for designers</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Responsive and digital-first design thinking</strong></li>
-                                            </ul>
 
-                                            <h6><i class="fa-solid fa-briefcase me-2"></i> Professional Practice & Business Skills</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Business communication and presentation skills</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Client handling and agency workflows</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Freelancing, personal branding, and design entrepreneurship</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Marketing fundamentals and digital media awareness</strong></li>
-                                            </ul>
+<!-- YEAR 2 -->
+<div class="accordion-item">
+<h2 class="accordion-header">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#year2">
+<i class="fa-solid fa-layer-group me-2"></i>
+YEAR 2 
+</button>
+</h2>
 
-                                            <h6><i class="fa-solid fa-id-card-clip me-2"></i> Industry Training & Portfolio Development</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Portfolio development and career readiness</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Interview preparation and professional reviews</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Live projects with brands in every semester</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Final-year internship and on-the-job industry training</strong></li>
-                                            </ul>
+<div id="year2" class="accordion-collapse collapse" data-bs-parent="#multimediaAccordion">
+<div class="accordion-body">
 
-                                            <h6><i class="fa-solid fa-chalkboard-user me-2"></i> Learning Experience & Practical Training</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fully equipped graphic design studios and digital labs</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Hands-on creative projects and real-world briefs</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Continuous studio assignments, critiques, and exhibitions</strong></li>
-                                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Masterclasses by industry experts and entrepreneurs every semester</strong></li>
-                                            </ul>
+<ul class="rbt-course-main-content liststyle mt-3">
 
-                                        </div>
-                                    </div>
-                                </div>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Motion Graphics with Adobe After Effects</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Video Editing with Adobe Premiere Pro</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Audio Editing with Adobe Audition</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Sound Design Fundamentals</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Storyboarding & Visual Narrative</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Character Design & Animation Principles</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Traditional & 2D Animation Techniques</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Short Film & Video Production Projects</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Introduction to Creative Marketing</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Design for Advertising & Campaign Concepts</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Masterclasses & Live Industry Projects</strong></li>
+
+</ul>
+
+</div>
+</div>
+</div>
+
+
+<!-- YEAR 3 -->
+<div class="accordion-item">
+<h2 class="accordion-header">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#year3">
+<i class="fa-solid fa-layer-group me-2"></i>
+YEAR 3
+</button>
+</h2>
+
+<div id="year3" class="accordion-collapse collapse" data-bs-parent="#multimediaAccordion">
+<div class="accordion-body">
+
+<ul class="rbt-course-main-content liststyle mt-3">
+
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Editorial Design with Adobe InDesign</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Web Design & UI Principles</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Webpage Layout Design</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>HTML & CSS for Designers</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>JavaScript Fundamentals</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>WordPress Website Development</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Search Engine Optimization (SEO)</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Idea Visualization & Design Thinking</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Brand Strategy & Visual Identity Design</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Marketing Management for Creative Businesses</strong></li>
+
+</ul>
+
+</div>
+</div>
+</div>
+
+
+<!-- YEAR 4 -->
+<div class="accordion-item">
+<h2 class="accordion-header">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#year4">
+<i class="fa-solid fa-layer-group me-2"></i>
+YEAR 4 
+</button>
+</h2>
+
+<div id="year4" class="accordion-collapse collapse" data-bs-parent="#multimediaAccordion">
+<div class="accordion-body">
+
+<ul class="rbt-course-main-content liststyle mt-3">
+
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Portfolio Development & Presentation</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Creative Direction & Campaign Development</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Design Management & Client Communication</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Entrepreneurship for Creative Professionals</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Social Media Branding & Digital Content Strategy</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Content Writing & Digital Marketing</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Professional Communication & Interview Preparation</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Live Film / Media Project</strong></li>
+<li><i class="fa-solid fa-circle-check me-2"></i><strong>Industry Internship</strong></li>
+
+</ul>
+
+</div>
+</div>
+</div>
+
+</div>
                             </div>
 
                         </div>
@@ -302,15 +354,15 @@
                         id="details">
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
                             <h6 class="py-2">Career Opportunities </h6>
-                            <ul class="rbt-list-style-1">
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Graphic Designer</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Visual / Creative Designer</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Branding & Advertising Executive</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Digital Media Designer</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Motion Graphics Designer</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Junior UI / Creative Designer</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Freelancer / Design Entrepreneur</li>
-                            </ul>
+                          <ul class="rbt-list-style-1">
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Graphic Designer</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Visual / Creative Designer</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Branding & Advertising Executive</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Digital Media Designer</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Motion Graphics Designer</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Junior UI / Creative Designer</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Freelancer / Design Entrepreneur</strong></li>
+</ul>
 
 
 
@@ -339,14 +391,17 @@
 
                             <div class="eligibility-section">
                                 <h6 class="py-2">Eligibility </h6>
-                                <ul class="rbt-list-style-1 mt-3">
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>10+2 pass from a recognised board
-                                    </li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>No prior design background required
-                                    </li>
-                                    <!-- <li><i class="fa-solid fa-circle-check me-2"></i>Creativity, interest, and
-                                        commitment encouraged</li> -->
-                                </ul>
+                              <ul class="rbt-list-style-1 mt-3">
+    <li>
+        <i class="fa-solid fa-circle-check me-2"></i>
+        <strong>10+2 pass from a recognised board</strong>
+    </li>
+    <li>
+        <i class="fa-solid fa-circle-check me-2"></i>
+        <strong>No prior design background required</strong>
+    </li>
+    <!-- <li><i class="fa-solid fa-circle-check me-2"></i>Creativity, interest, and commitment encouraged</li> -->
+</ul>
 
 
 
@@ -394,49 +449,68 @@
 
 
 
-<section class="alumni-container p-0">
+<section class="alumni-container p-0 mt-4">
     <div class="row">
-        <div class="col-md-3 content ny ">
-
-            <h6 class="title "> Industry <br>projects</h6>
+        <div class="col-md-4 content">
 
 
+            <h6 class="title  m-0">Master 20+ <br>
+                design tools</h6>
 
 
         </div>
-        <div class="col-md-9 center-box">
-            <!-- MARQUEE LEFT -->
-            <div class="marquee-container">
+        <div class="col-md-8">
+
+            <div class="marquee-container e44">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/Industry-projects/1- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (1).png"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (2).png"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (3).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (3).png"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (4).png"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (5).png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (1).jpg"></div>
+
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (1).png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (4).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (5).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (6).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (7).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (8).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (9).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (10).jpg"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Adobe-suits/01- (11).jpg"></div>
+
+
+                    <div class="item"><img src="assets/img/TOOLS/AI-Tools/chatgpt.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/AI-Tools/gemini.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/AI-Tools/prep.png"></div>
+
+
+                    <div class="item"><img src="assets/img/TOOLS/Digital-marketing/google ads.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Digital-marketing/meta.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Digital-marketing/seo.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/Digital-marketing/Untitled-1.png"></div>
 
 
 
+                    <div class="item"><img src="assets/img/TOOLS/social-media/facebook.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/social-media/insta.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/social-media/twitter.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/social-media/youtube.png"></div>
 
-                    <div class="item"><img src="assets/img/Industry-projects/1- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (1).png"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (2).png"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (3).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (3).png"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (4).png"></div>
-                    <div class="item"><img src="assets/img/Industry-projects/1- (5).png"></div>
+
+                    <div class="item"><img src="assets/img/TOOLS/user-interface/figma.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/user-interface/sketch.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/user-interface/xd.png"></div>
+
+
+                    <div class="item"><img src="assets/img/TOOLS/web-marketing/css.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/web-marketing/html.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/web-marketing/java script.png"></div>
+                    <div class="item"><img src="assets/img/TOOLS/web-marketing/wordpress.png"></div>
 
 
 
 
                 </div>
             </div>
-
-
-
 
 
         </div>
@@ -511,13 +585,16 @@
             <!-- RIGHT IMAGE -->
             <div class="col-lg-5 text-center">
 
-                <div class="image_changer" style="height: 550px;">
+              <div class="image_changer">
 
-                    <img src="assets/img/L2.jpeg" class="">
-                    <img src="assets/img/courses/04- (1).jpeg" class="">
-                    <img src="assets/img/courses/04- (2).jpeg" class="">
-                    <img src="assets/img/courses/04- (3).jpeg" class="active">
-                    <img src="assets/img/courses/04- (4).jpeg" class="">
+               <img src="assets/img/why-Should-Insd-graphic/01- (1).jpg" class="">
+                    <img src="assets/img/why-Should-Insd-graphic/01- (2).jpg" class="">
+                    <img src="assets/img/why-Should-Insd-graphic/01- (3).jpg" class="">
+                    <img src="assets/img/why-Should-Insd-graphic/01- (4).jpg" class="active">
+                    <img src="assets/img/why-Should-Insd-graphic/01- (5).jpg">
+
+
+
 
                 </div>
             </div>
@@ -525,7 +602,6 @@
         </div>
     </div>
 </section>
-
 
 
 <section class="instructor-section py-5">
@@ -536,8 +612,7 @@
             <h4 class="title text-center">Faculty Members</h4>
 
 
-
-            <div class="instructor-carousel owl-carousel">
+              <div class="instructor-carousel owl-carousel">
 
                 <div class="instructor-card text-center">
                     <img src="assets/img/GRAPHIC-DEPARTMENT/1) Ayan Biswas_ HEAD OF DEPARTMENT.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
@@ -546,35 +621,34 @@
                 </div>
 
                 <div class="instructor-card text-center">
-                    <img src="assets/img/GRAPHIC-DEPARTMENT/2) Ayan Kundu_Assistant Professor.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                      <img src="assets/img/GRAPHIC-DEPARTMENT/2) Ayan Kundu_Assistant Professor.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
                     <h5 class="instructor-name">Ayan Kundu</h5>
-                    <p class="instructor-placement"><span>assistant Professor</span></p>
+                    <p class="instructor-placement"><span>Assistant Professor</span></p>
                 </div>
 
                 <div class="instructor-card text-center">
-                    <img src="assets/img/GRAPHIC-DEPARTMENT/3) Sohom Das_ UI-UX Professor.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name"> Sohom Das</h5>
+                      <img src="assets/img/GRAPHIC-DEPARTMENT/3) Sohom Das_ UI-UX Professor.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Sohom Das</h5>
                     <p class="instructor-placement"><span>UI-UX Professor</span></p>
                 </div>
 
                 <div class="instructor-card text-center">
-                    <img src="assets/img/GRAPHIC-DEPARTMENT/4) Akritti Jain_personality Development Coach.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                      <img src="assets/img/GRAPHIC-DEPARTMENT/4) Akritti Jain_personality Development Coach.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
                     <h5 class="instructor-name">Akritti Jain</h5>
-                    <p class="instructor-placement"> <span>personality Development Coach</span></p>
+                    <p class="instructor-placement"><span>personality Development Coach</span></p>
                 </div>
-
                 <div class="instructor-card text-center">
-                    <img src="assets/img/GRAPHIC-DEPARTMENT/5) Ankan Bandyopadhyay_Visual Design Professor.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                      <img src="assets/img/GRAPHIC-DEPARTMENT/5) Ankan Bandyopadhyay_Visual Design Professor.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
                     <h5 class="instructor-name"> Ankan Bandyopadhyay</h5>
-                    <p class="instructor-placement"> <span>Visual Design Professor</span></p>
+                    <p class="instructor-placement"><span>Visual Design Professor</span></p>
                 </div>
-
                 <div class="instructor-card text-center">
-                    <img src="assets/img/GRAPHIC-DEPARTMENT/6) Disha Bhattacharya_Management.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
-                    <h5 class="instructor-name">Disha Bhattacharya</h5>
-                    <p class="instructor-placement"> <span>Management</span></p>
+                      <img src="assets/img/GRAPHIC-DEPARTMENT/6) Disha Bhattacharya_Management.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name"> Disha Bhattacharya</h5>
+                    <p class="instructor-placement"><span>Business & Management professor</span></p>
                 </div>
 
+             
 
 
 
@@ -628,7 +702,7 @@
     <div class="row">
         <div class="col-md-3 content ny ">
 
-            <h6 class="title "> Industry <br>Alliances</h6>
+            <h6 class="title "> Industry <br>projects</h6>
 
 
 
@@ -638,35 +712,30 @@
             <!-- MARQUEE LEFT -->
             <div class="marquee-container">
                 <div class="marquee marquee-left">
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (4).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (5).png"></div>
 
 
 
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
+
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (1).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (2).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).jpg"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (3).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (4).png"></div>
+                    <div class="item"><img src="assets/img/Industry-projects/1- (5).png"></div>
 
 
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>
-                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>
+
+
                 </div>
             </div>
 
@@ -682,170 +751,168 @@
 
 </section>
 
+<!--<section class="alumni-container p-0">-->
+<!--    <div class="row">-->
+<!--        <div class="col-md-3 content ny ">-->
+
+<!--            <h6 class="title "> Industry <br>Alliances</h6>-->
+
+
+
+
+<!--        </div>-->
+<!--        <div class="col-md-9 center-box">-->
+            <!-- MARQUEE LEFT -->
+<!--            <div class="marquee-container">-->
+<!--                <div class="marquee marquee-left">-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>-->
+
+
+
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>-->
+
+
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (1).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (2).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (3).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (4).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (5).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (6).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (7).jpg"></div>-->
+<!--                    <div class="item"><img src="assets/img/Industry-Alliances/01- (8).jpg"></div>-->
+<!--                </div>-->
+<!--            </div>-->
+
+
+
+
+
+<!--        </div>-->
+<!--    </div>-->
+
+
+
+
+<!--</section>-->
+
+
 
 <section class="student-work">
     <div class="container">
-        <!-- <h5 class="sub-head text-center cen">Student work</h5> -->
-        <h2 class="title text-center">Life at INSD <span>Kolkata</span></h2>
 
-        <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
-        <div class="student-work-slider owl-carousel mt-3 owl-loaded owl-drag">
+        <h2 class="title text-center">
+            Life at INSD <span>Kolkata</span>
+        </h2>
+
+        <div class="student-work-slider owl-carousel mt-3">
+<!-- Life at INSD Graphic Images -->
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (1).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (1).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (2).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (2).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (3).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (3).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (4).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (4).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (5).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (5).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (6).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (6).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (7).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (7).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (8).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (8).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (9).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (9).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (10).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (10).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (11).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (11).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (12).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (12).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (13).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (13).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (14).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (14).jpg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/Life-at-INSD-graphic/01- (15).jpg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/Life-at-INSD-graphic/01- (15).jpg" alt="Student Work">
+    </a>
+</div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <div class="owl-stage-outer">
-                <div class="owl-stage" style="transform: translate3d(-1988px, 0px, 0px); transition: 0.25s; width: 5396px;">
-                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/courses/05- (2).jpg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/courses/05- (2).jpg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/courses/05- (3).jpg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/courses/05- (3).jpg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/courses/05- (4).jpg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/courses/05- (4).jpg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/courses/05- (5).jpg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/courses/05- (5).jpg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/life-at-insd/01- (1).jpeg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/life-at-insd/01- (1).jpeg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/life-at-insd/01- (2).jpeg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/life-at-insd/01- (2).jpeg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item active" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/life-at-insd/01- (3).jpeg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/life-at-insd/01- (3).jpeg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item active" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/life-at-insd/01- (4).jpeg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/life-at-insd/01- (4).jpeg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item active" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item active" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/courses/05- (2).jpg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/courses/05- (2).jpg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/courses/05- (3).jpg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/courses/05- (3).jpg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/courses/05- (4).jpg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/courses/05- (4).jpg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/courses/05- (5).jpg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/courses/05- (5).jpg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/life-at-insd/01- (1).jpeg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/life-at-insd/01- (1).jpeg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/life-at-insd/01- (2).jpeg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/life-at-insd/01- (2).jpeg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/life-at-insd/01- (3).jpeg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/life-at-insd/01- (3).jpeg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/life-at-insd/01- (4).jpeg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/life-at-insd/01- (4).jpeg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 264px; margin-right: 20px;">
-                        <div class="work-item">
-                            <a href="assets/img/courses/05- (1).jpg" class="glightbox" data-gallery="student-work">
-                                <img src="assets/img/courses/05- (1).jpg" alt="Student Work">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
-            <div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div>
         </div>
+
     </div>
 </section>
 
@@ -871,7 +938,7 @@
                                     <i class="fa-solid fa-indian-rupee-sign"></i>
                                 </div>
                                 <div>
-                                    <h3>14L</h3>
+                                    <h3>11L</h3>
                                     <p>HIGHEST PACKAGE</p>
                                 </div>
                             </div>
@@ -920,15 +987,16 @@
                             <div class="brand-track">
 
                                 <!-- Original Items -->
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (1).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (2).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (3).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (4).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (5).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (18).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (19).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (1).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (2).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (4).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (5).png" alt=""></div>
 
 
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (6).png" alt=""></div>
+
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (7).png" alt=""></div>
 
                             </div>
                         </div>
@@ -936,13 +1004,13 @@
                         <!-- RIGHT MARQUEE -->
                         <div class="brand-grid right-marquee mt-3">
                             <div class="brand-track">
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (6).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (7).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (8).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (9).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (10).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (17).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (20).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (8).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (9).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (10).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (11).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (12).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (13).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (14).png" alt=""></div>
 
 
 
@@ -956,12 +1024,13 @@
                         <div class="brand-grid left-marquee mt-3">
                             <div class="brand-track">
 
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (11).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (12).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (13).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (14).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (15).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (16).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (15).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (16).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (17).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (18).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (19).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (20).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/Graphic-companies/01- (21).png" alt=""></div>
 
 
 
@@ -981,8 +1050,10 @@
         <div class="row align-items-center">
 
             <!-- LEFT IMAGE -->
-            <div class="col-lg-4 text-center mb-4 mb-lg-0">
-                <img src="assets/img/z1- (6).jpg" alt="Scholarships at INSD Kolkata" class="img-fluid rounded shadow">
+      <div class="col-lg-4 text-center mb-4 mb-lg-0">
+                <img src="assets/img/Life-at-INSD-details/sd.jpeg"
+                    alt="Scholarships at INSD Kolkata"
+                    class="img-fluid rounded shadow">
             </div>
 
             <!-- RIGHT CONTENT -->
@@ -1005,16 +1076,16 @@
                             <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
                         </div>
                     </a>
-                    <a href="#test" class="btn-animated btn-light">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Check Scholarship Eligibility</div>
-                            <div class="btn-text-hover">Check Scholarship Eligibility</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </a>
+                    <!--<a href="#test" class="btn-animated btn-light">-->
+                    <!--    <div class="btn-text-wrap">-->
+                    <!--        <div class="btn-text">Check Scholarship Eligibility</div>-->
+                    <!--        <div class="btn-text-hover">Check Scholarship Eligibility</div>-->
+                    <!--    </div>-->
+                    <!--    <div class="btn-icon-wrap">-->
+                    <!--        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">-->
+                    <!--        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">-->
+                    <!--    </div>-->
+                    <!--</a>-->
 
                 </div>
 
@@ -1032,14 +1103,12 @@
 
             <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
         </div>
-        <div class="marquee-container1">
+        <div class="marquee-container1 off">
             <div class="marquee-track1 marquee-right">
 
                 <div class="card">
                     <p>“My journey at INSD Kolkata really helped me grow as a designer. The practical projects and portfolio guidance gave me the confidence to begin my professional journey with Cognizant.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=1" alt="Student">
                         <div>
@@ -1051,9 +1120,7 @@
 
                 <div class="card bg-blue">
                     <p>“Studying at INSD Kolkata was a great experience. The hands-on learning and creative projects helped me understand how the design industry works and prepared me for my role at Technicolor Creative Studios.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=2" alt="Student">
                         <div>
@@ -1065,9 +1132,7 @@
 
                 <div class="card">
                     <p>“INSD Kolkata helped me improve both my creative thinking and technical design skills. The learning environment and support from mentors helped me confidently start my career at Wipro.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=3" alt="Student">
                         <div>
@@ -1079,9 +1144,7 @@
 
                 <div class="card bg-blue">
                     <p>“The practical training and portfolio development at INSD Kolkata helped me understand real-world design. It gave me the confidence and skills needed to begin my journey with Kraftix Digital.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=4" alt="Student">
                         <div>
@@ -1093,9 +1156,7 @@
 
                 <div class="card">
                     <p>“My time at INSD Kolkata helped me explore my creativity while learning important design tools and concepts. The guidance from faculty played a big role in helping me start my career at Capgemini.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=5" alt="Student">
                         <div>
@@ -1107,9 +1168,7 @@
 
                 <div class="card bg-blue">
                     <p>“INSD Kolkata gave me the opportunity to learn design in a practical and creative way. The projects and mentorship here helped me build the confidence to begin my professional journey at Infosys.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=6" alt="Student">
                         <div>
@@ -1121,9 +1180,7 @@
 
                 <div class="card">
                     <p>“My experience at INSD Kolkata helped me develop strong visual storytelling and design skills. The exposure and guidance here helped me step into the industry and begin my journey with Hoichoi.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=7" alt="Student">
                         <div>
@@ -1135,9 +1192,7 @@
 
                 <div class="card bg-blue">
                     <p>“The learning experience at INSD Kolkata helped me grow creatively and professionally. The practical projects and portfolio support helped me take my first step into the industry with Framestore.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+
                     <div class="profile">
                         <img src="https://picsum.photos/50?random=8" alt="Student">
                         <div>
@@ -1326,5 +1381,31 @@
                 });
             });
         });
+    });
+</script>
+
+
+<script>
+    $('.student-work-slider').owlCarousel({
+        loop: true,
+        margin: 20,
+        nav: true,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 2
+            },
+            768: {
+                items: 3
+            },
+            992: {
+                items: 4
+            }
+        }
     });
 </script>

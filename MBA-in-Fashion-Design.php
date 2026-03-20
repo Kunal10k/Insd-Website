@@ -433,95 +433,7 @@
                                     </div>
                                 </div>
 
-                                <!-- Learning Experience -->
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="learningTech">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#learningTechCollapse">
-                                            <i class="fa-solid fa-laptop-code me-2"></i>
-                                            Learning Experience & Industry Exposure
-                                        </button>
-                                    </h2>
-
-                                    <div id="learningTechCollapse" class="accordion-collapse collapse"
-                                        data-bs-parent="#curriculumAccordion">
-                                        <div class="accordion-body">
-                                            <p class="para mb-3">
-                                                The MBA program follows a practice-driven, industry-integrated learning approach that combines
-                                                academic depth with real-world exposure across the fashion ecosystem.
-                                            </p>
-
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Advanced Fashion Design Studios & CAD-enabled Classrooms</strong>
-                                                </li>
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Live Industry Projects integrated across all semesters</strong>
-                                                </li>
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Masterclasses by practicing designers & industry leaders</strong>
-                                                </li>
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Industry Workshops , case studies & expert sessions</strong>
-                                                </li>
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Internship, portfolio development & professional readiness</strong>
-                                                </li>
-
-                                            </ul>
-
-                                            <div class="mt-4 d-flex gap-3 flex-wrap">
-
-                                                <!-- Book Free Counselling -->
-                                                <a href="#" class="btn-animated btn-light">
-                                                    <div class="btn-text-wrap">
-                                                        <div class="btn-text">Book Free Counselling</div>
-                                                        <div class="btn-text-hover">Book Free Counselling</div>
-                                                    </div>
-                                                    <div class="btn-icon-wrap">
-                                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
-                                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
-                                                    </div>
-                                                </a>
-
-                                                <!-- Academic Advisor -->
-                                                <a href="#" class="btn-animated btn-light">
-                                                    <div class="btn-text-wrap">
-                                                        <div class="btn-text">Speak to an Academic Advisor</div>
-                                                        <div class="btn-text-hover">Speak to an Academic Advisor</div>
-                                                    </div>
-                                                    <div class="btn-icon-wrap">
-                                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
-                                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
-                                                    </div>
-                                                </a>
-
-                                                <!-- Submit -->
-                                                <a href="#" class="btn-animated btn-light">
-                                                    <div class="btn-text-wrap">
-                                                        <div class="btn-text">Submit</div>
-                                                        <div class="btn-text-hover">Submit</div>
-                                                    </div>
-                                                    <div class="btn-icon-wrap">
-                                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon">
-                                                        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" class="btn-icon-hover">
-                                                    </div>
-                                                </a>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                              
 
                             </div>
 
@@ -538,14 +450,14 @@
                             <h6 class="py-2">Career Opportunities </h6>
 
 
-                            <ul class="rbt-list-style-1 mt-2">
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Fashion Design Manager</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Brand / Product Manager (Fashion)</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Merchandising & Buying Manager</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Fashion Consultant</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Fashion Business Entrepreneur</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Project & Operations Manager (Fashion)</li>
-                            </ul>
+                           <ul class="rbt-list-style-1 mt-2">
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Design Manager</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Brand / Product Manager (Fashion)</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Merchandising & Buying Manager</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Consultant</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Business Entrepreneur</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Project & Operations Manager (Fashion)</strong></li>
+</ul>
 
                             <!-- <h6 class="py-2">Placement Highlights</h6>
                             <ul class="rbt-list-style-1">
@@ -582,11 +494,17 @@
                         <!-- Eligibility -->
                         <div class="fees-section mt-3">
                             <h6 class="py-2">Eligibility</h6>
-                            <ul class="rbt-list-style-1 mt-3">
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Graduation in any stream from a recognised university</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Fashion background not mandatory</li>
-                                <!-- <li><i class="fa-solid fa-circle-check me-2"></i>Interest in fashion, business, and technology preferred</li> -->
-                            </ul>
+                           <ul class="rbt-list-style-1 mt-3">
+    <li>
+        <i class="fa-solid fa-circle-check me-2"></i>
+        <strong>Graduation in any stream from a recognised university</strong>
+    </li>
+    <li>
+        <i class="fa-solid fa-circle-check me-2"></i>
+        <strong>Fashion background not mandatory</strong>
+    </li>
+    <!-- <li><i class="fa-solid fa-circle-check me-2"></i>Interest in fashion, business, and technology preferred</li> -->
+</ul>
                         </div>
 
                         <!-- Action Buttons -->
@@ -714,10 +632,17 @@
                 <div class="image_changer" style="height: 550px;">
 
 
-                    <img src="assets/img/fashion/03- (1).jpeg" class="active">
-                    <img src="assets/img/fashion/03- (2).jpeg">
-                    <img src="assets/img/fashion/03- (3).jpeg">
-                    <img src="assets/img/fashion/03- (4).jpeg">
+                     <img src="assets/img/Why-study-fashion-at-INSD/01- (1).jpeg" class="active">
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (2).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (3).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (4).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (5).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (6).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (7).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (8).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (9).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (10).jpeg" >
+
 
 
                 </div>
@@ -735,145 +660,53 @@
 
         <div class="instructor-wrapper shadow-sm p-4 rounded">
 
-            <h4 class="title text-center">Faculty Members</h4>
+            <h4 class="title text-center mb-3">Faculty Members</h4>
+       
 
+            <div class="instructor-carousel owl-carousel">
 
-            <div class="instructor-carousel owl-carousel owl-loaded owl-drag">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                <div class="owl-stage-outer">
-                    <div class="owl-stage" style="transform: translate3d(-1632px, 0px, 0px); transition: 0.7s; width: 4352px;">
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Prity Dutta</h5>
-                                <p class="instructor-placement">Placed at: <span>Manish</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Muskan Agarwal</h5>
-                                <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Naziya Khan</h5>
-                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Ritika Sharma</h5>
-                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Rishita Sengupta</h5>
-                                <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Damini Bhattacharya</h5>
-                                <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Sneha Singh</h5>
-                                <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Abhishek Mishra</h5>
-                                <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-5.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Prity Dutta</h5>
-                                <p class="instructor-placement">Placed at: <span>Manish</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item active" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-6.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Muskan Agarwal</h5>
-                                <p class="instructor-placement">Placed at: <span>Anandadhara Line</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-2.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Naziya Khan</h5>
-                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-1.jpg" alt="Ritika Sharma" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Ritika Sharma</h5>
-                                <p class="instructor-placement">Placed at: <span>Puma</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-1.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Rishita Sengupta</h5>
-                                <p class="instructor-placement">Placed at: <span>H&amp;M</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-2.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Damini Bhattacharya</h5>
-                                <p class="instructor-placement">Placed at: <span>Jaipur Rugs</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-3.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Sneha Singh</h5>
-                                <p class="instructor-placement">Placed at: <span>Ritu Kumar</span></p>
-                            </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 252px; margin-right: 20px;">
-                            <div class="instructor-card text-center">
-                                <img src="assets/img/fashion/place-4.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
-                                <h5 class="instructor-name">Abhishek Mishra</h5>
-                                <p class="instructor-placement">Placed at: <span>Levi’s</span></p>
-                            </div>
-                        </div>
-                    </div>
+                <div class="instructor-card text-center">
+                    <img src="assets/img/FASHION-DEPARTMENT/1) Fareena Mssood_HEAD OF  FASHION DESING.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Fareena Mssood</h5>
+                    <p class="instructor-placement"> <span>HEAD OF FASHION DESING</span></p>
                 </div>
-                <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
-                <div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button></div>
+                <div class="instructor-card text-center">
+                    <img src="assets/img/FASHION-DEPARTMENT/2) Arundhati Ghosh_Assistant Professor.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Arundhati Ghosh</h5>
+                    <p class="instructor-placement"> <span>Assistant Professor</span></p>
+                </div>
+                <div class="instructor-card text-center">
+                    <img src="assets/img/FASHION-DEPARTMENT/3) Arunima Sarkar_Assistant Professor.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Arunima Sarkar</h5>
+                    <p class="instructor-placement"> <span>Assistant Professor</span></p>
+                </div>
+                <div class="instructor-card text-center">
+                    <img src="assets/img/FASHION-DEPARTMENT/4) PRAGYAA PANDEY_Assistant Professor.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">PRAGYAA PANDEY</h5>
+                    <p class="instructor-placement"> <span>Assistant Professor</span></p>
+                </div>
+                <div class="instructor-card text-center">
+                    <img src="assets/img/FASHION-DEPARTMENT/5) Akritti Jain_personality Development Coach.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Akritti Jain</h5>
+                    <p class="instructor-placement"> <span>personality Development Coach</span></p>
+                </div>
+                <div class="instructor-card text-center">
+                    <img src="assets/img/FASHION-DEPARTMENT/6) Ankan Bandyopadhyay_Visual Design Professor.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Ankan Bandyopadhyay</h5>
+                    <p class="instructor-placement"> <span>Visual Design Professor</span></p>
+                </div>
+                <div class="instructor-card text-center">
+                    <img src="assets/img/FASHION-DEPARTMENT/7) Disha Bhattacharya_Management.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
+                    <h5 class="instructor-name">Disha Bhattacharya</h5>
+                    <p class="instructor-placement"> <span>Business & Management professor</span></p>
+                </div>
+
+          
+
+             
+
+
+
             </div>
         </div>
     </div>
@@ -989,36 +822,120 @@
 
         <div class="student-work-slider owl-carousel mt-3">
 
-            <div class="work-item">
-                <a href="assets/img/fashion/02- (1).jpg"
-                    class="glightbox"
-                    data-gallery="student-work">
-                    <img src="assets/img/fashion/02- (1).jpg" alt="Student Work">
-                </a>
-            </div>
-            <div class="work-item">
-                <a href="assets/img/fashion/02- (1).png"
-                    class="glightbox"
-                    data-gallery="student-work">
-                    <img src="assets/img/fashion/02- (1).png" alt="Student Work">
-                </a>
-            </div>
-            <div class="work-item">
-                <a href="assets/img/fashion/03- (2).jpeg"
-                    class="glightbox"
-                    data-gallery="student-work">
-                    <img src="assets/img/fashion/03- (2).jpeg" alt="Student Work">
-                </a>
-            </div>
-            <div class="work-item">
-                <a href="assets/img/fashion/03- (3).jpeg"
-                    class="glightbox"
-                    data-gallery="student-work">
-                    <img src="assets/img/fashion/03- (3).jpeg" alt="Student Work">
-                </a>
-            </div>
 
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (1).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (1).jpeg" alt="Student Work">
+    </a>
+</div>
 
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (2).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (2).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (3).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (3).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (4).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (4).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (5).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (5).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (6).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (6).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (7).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (7).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (8).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (8).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (9).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (9).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (10).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (10).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (11).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (11).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (12).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (12).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (13).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (13).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (14).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (14).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (15).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (15).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (16).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (16).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (17).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (17).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (18).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (18).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (19).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (19).jpeg" alt="Student Work">
+    </a>
+</div>
 
         </div>
 
@@ -1096,13 +1013,18 @@
                             <div class="brand-track">
 
                                 <!-- Original Items -->
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (1).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (2).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (3).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (4).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (5).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (18).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (19).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (1).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (2).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (4).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (5).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (6).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (7).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (8).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (9).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (10).png" alt=""></div>
+                            
 
 
 
@@ -1112,13 +1034,16 @@
                         <!-- RIGHT MARQUEE -->
                         <div class="brand-grid right-marquee mt-3">
                             <div class="brand-track">
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (6).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (7).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (8).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (9).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (10).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (17).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (20).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (11).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (12).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (13).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (14).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (15).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (16).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (17).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (18).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (19).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (20).png" alt=""></div>
 
 
 
@@ -1132,12 +1057,16 @@
                         <div class="brand-grid left-marquee mt-3">
                             <div class="brand-track">
 
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (11).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (12).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (13).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (14).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (15).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (16).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (21).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (22).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (23).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (24).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (25).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (26).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (27).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (28).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (29).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (30).png" alt=""></div>
 
 
 
@@ -1163,88 +1092,95 @@
 
             <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
         </div>
-        <div class="marquee-container1">
-            <div class="marquee-track1 marquee-right">
+          <div class="marquee-container1">
+      <div class="marquee-track1 marquee-right">
 
-                <div class="card">
-                    <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with P&S by Sneha.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=11" alt="Student">
-                        <div>
-                            <div class="name">Sneha Singh</div>
-                            <div class="role">P&S by Sneha</div>
-                        </div>
-                    </div>
-                </div>
+        <div class="card">
+          <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with Ritu Kumar.”</p>
 
-                <div class="card bg-blue">
-                    <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=12" alt="Student">
-                        <div>
-                            <div class="name">Riya Chowdhury</div>
-                            <div class="role">Pee Safe</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=13" alt="Student">
-                        <div>
-                            <div class="name">Mousomi</div>
-                            <div class="role">AANURAG DALMIA</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&M.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=14" alt="Student">
-                        <div>
-                            <div class="name">Rishita Sengupta</div>
-                            <div class="role">H&M</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=15" alt="Student">
-                        <div>
-                            <div class="name">Mehka Sagol Semmans</div>
-                            <div class="role">Wasabi</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=16" alt="Student">
-                        <div>
-                            <div class="name">Gaurangi Jhawar</div>
-                            <div class="role">Founder, gauRangi</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=17" alt="Student">
-                        <div>
-                            <div class="name">Abhishek Mishra</div>
-                            <div class="role">Levi’s</div>
-                        </div>
-                    </div>
-                </div>
-
+          <div class="profile">
+            <img src="assets/img/student-testimonial/sneha-Singh.jpg" alt="Student">
+            <div>
+              <div class="name">Sneha Singh</div>
+              <div class="role">Ritu Kumar</div>
             </div>
+          </div>
         </div>
+
+        <div class="card bg-blue">
+          <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Riya CHowdhury.jpg" alt="Student">
+            <div>
+              <div class="name">Riya Chowdhury</div>
+              <div class="role">P&S by Sneha</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Mousumi.jpg" alt="Student">
+            <div>
+              <div class="name">Mousomi</div>
+              <div class="role">AANURAG DALMIA</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card bg-blue">
+          <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&M.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Rishita Sengupta.jpg" alt="Student">
+            <div>
+              <div class="name">Rishita Sengupta</div>
+              <div class="role">H&M</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Mehka Sagol Semmans.jpg" alt="Student">
+            <div>
+              <div class="name">Mehka Sagol Semmans</div>
+              <div class="role">Wasabi</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card bg-blue">
+          <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Gaurangi Jhawar.jpg" alt="Student">
+            <div>
+              <div class="name">Gaurangi Jhawar</div>
+              <div class="role">Founder, gauRangi</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Abhishek Mishra.jpg" alt="Student">
+            <div>
+              <div class="name">Abhishek Mishra</div>
+              <div class="role">Levi’s</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
 
 
 

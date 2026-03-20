@@ -837,7 +837,27 @@
   .title {
     font-size: 22px !important;
   }
+  
+  .video-testimonial-item iframe.yt-video {
+  width: 300px;
+  height: 480px;
+  border-radius: 14px;
+  border: none;
+}
+  
+  .mobile_work {
+    background: #ffffffa8;
+    padding: 10px;
+    border-radius: 10px;
+  }
 
+.mentor-item span {
+    font-size: 15px;
+
+}
+.landing_content h1 {
+    font-size: 20px;
+}
 
   .course-highlights {
     display: grid;
@@ -1440,4 +1460,10 @@
   .insd-stats-card {
     padding: 16px;
   }
+}
+
+@media (max-width: 375px) {
+    .course-highlights {
+        display: none;
+    }
 }

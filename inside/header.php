@@ -4,7 +4,17 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>INSD </title>
+    <!-- Primary Meta Tags -->
+<title>Top Design College in West Bengal | INSD Kolkata – Interior, Fashion & Graphic Design Institute</title>
+
+<meta name="title" content="Top Design College in West Bengal | INSD Kolkata – Interior, Fashion & Graphic Design Institute">
+<meta name="description" content="International School of Design Kolkata (est. 2011) offers industry-focused programs in Interior, Fashion, and Graphic Design. Learn through studio-based training, build strong portfolios, and prepare for a professional creative career with practical, hands-on education.">
+
+<!-- SEO Keywords (optional) -->
+<meta name="keywords" content="design college in Kolkata, top design institute West Bengal, interior design course Kolkata, fashion design institute Kolkata, graphic design course Kolkata, INSD Kolkata, design college India">
+
+<!-- Author -->
+<meta name="author" content="INSD Kolkata">
     <link rel="icon" type="image/png" href="assets/img/insd-fav-icon.png">
 
     <!-- Bootstrap 5 CSS -->
@@ -51,11 +61,31 @@
     <link rel="stylesheet" href="assets/css/footer.css">
     <link rel="stylesheet" href="assets/css/media.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
+    
+    
+    <!-- Google Tag Manager -->
+        <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id=GTM-57F68SVG'+dl;
+        f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-57F68SVG');
+        </script>
+<!-- End Google Tag Manager -->
 
 
   </head>
 
   <body>
+      
+      
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57F68SVG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 
     <button id="backToTop">
@@ -116,7 +146,7 @@
 
           <nav class="navbar navbar-expand-lg navbar-light d-none d-lg-block">
             <div class="container px-0">
-              <a class="navbar-brand" href="index.php">
+              <a class="navbar-brand" href="/">
 
                 <div class="logo">
                   <img src="assets/img/cropped-logo-1-1-2.png" alt="Logo" class="img-fluid" width="">
@@ -145,7 +175,7 @@
                       <li><a class="dropdown-item" href="about2.php">About INSD</a></li>
                       <li><a class="dropdown-item" href="accreditation.php">Affiliation & Industry Accreditations</a></li>
                       <li><a class="dropdown-item" href="industry-mentorship.php">Industry Mentors & Experts</a></li>
-                      <li><a class="dropdown-item" href="faculty.php">Faculty</a></li>
+                      <li><a class="dropdown-item" href="faculty.php">Faculty Members</a></li>
 
                       <li><a class="dropdown-item" href="industry.php">Industry & Academic Collaborations</a></li>
                     </ul>
@@ -277,12 +307,12 @@
 
 
                   <li class="nav-item">
-                    <a href="contact.php" class="nav-link">
+                    <a href="contact.php" class="nav-link" >
 
-                      <span class="nav-btn-spacer">Apply Now</span>
+                      <span class="nav-btn-spacer">Contact Us</span>
 
-                      <span class="nav-btn-text">Apply Now</span>
-                      <span class="nav-btn-text-hover">Apply Now</span>
+                      <span class="nav-btn-text">Contact Us</span>
+                      <span class="nav-btn-text-hover">Contact Us</span>
                     </a>
                   </li>
 

@@ -187,224 +187,151 @@
                             <h4 class="mt-3 title">Curriculum <span>Structure</span> </h4>
 
 
-                            <div class="accordion mt-3" id="accordionExampleb2">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseOne" aria-expanded="true">
-                                            <i class="fa-solid fa-layer-group me-2"></i>
-                                            Fashion Design Program Curriculum Overview
-                                        </button>
-                                    </h2>
+                          <div class="accordion mt-3" id="accordionExampleb2">
 
-                                    <div id="collapseOne" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExampleb2">
-                                        <div class="accordion-body curriculum-body">
+    <!-- Year 1 -->
+   <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+        <button class="accordion-button" type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#collapseOne"
+            aria-expanded="true"
+            aria-controls="collapseOne">
 
-                                            <h6><i class="fa-solid fa-pen-ruler"></i> Core Design Foundations</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
+            <i class="fa-solid fa-circle-1 me-2"></i> Year 1
+        </button>
+    </h2>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Design principles, visual language, and creative thinking</strong>
-                                                </li>
+    <div id="collapseOne"
+        class="accordion-collapse collapse "
+        aria-labelledby="headingOne"
+        data-bs-parent="#accordionExampleb2">
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Drawing, sketching, and fashion illustration</strong>
-                                                </li>
+        <div class="accordion-body">
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Colour theory and design application</strong>
-                                                </li>
+            <ul class="rbt-course-main-content liststyle mt-3">
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Design research, concept development, and collection planning</strong>
-                                                </li>
+                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Foundation Art & Design Principles</strong></li>
 
-                                            </ul>
+                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Illustration & Visualisation</strong></li>
 
-                                            <h6><i class="fa-solid fa-shirt"></i> Fashion Design Knowledge & Skills</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
+                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Introduction to Pattern Making</strong></li>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Textile fundamentals and fabric behaviour</strong>
-                                                </li>
+                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Textile Science & Fabric Understanding</strong></li>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Garment construction and sewing techniques</strong>
-                                                </li>
+                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Sewing Technology & Garment Construction Basics</strong></li>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Pattern making, grading, and draping methods</strong>
-                                                </li>
+                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Costume History</strong></li>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Surface ornamentation, embroidery, dyeing, and printing</strong>
-                                                </li>
+                <li><i class="fa-solid fa-circle-check me-2"></i><strong>CAD for Fashion (Introduction)</strong></li>
 
-                                            </ul>
+                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Live Projects</strong></li>
 
-                                            <h6><i class="fa-solid fa-laptop"></i> Advanced Fashion Design Applications</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
+                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Masterclasses by Industry Mentors & Practicing Designers</strong></li>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Fashion CAD tools for design development and presentation</strong>
-                                                </li>
+            </ul>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Apparel production processes and quality standards</strong>
-                                                </li>
+        </div>
+    </div>
+</div>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Fashion forecasting and trend analysis</strong>
-                                                </li>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Fashion merchandising and market understanding</strong>
-                                                </li>
+    <!-- Year 2 -->
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapseTwo">
+                Year 2
+            </button>
+        </h2>
 
-                                            </ul>
+        <div id="collapseTwo" class="accordion-collapse collapse"
+            data-bs-parent="#accordionExampleb2">
+            <div class="accordion-body">
 
-                                            <h6><i class="fa-solid fa-industry"></i> Experiential & Studio-Based Learning</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
+                <ul class="rbt-course-main-content liststyle mt-3">
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Studio-based design projects and practical assignments</strong>
-                                                </li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Advanced Fashion Illustration</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Draping Techniques</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Pattern Making Techniques</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Apparel Design Development</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Dyeing, Printing & Surface Ornamentation</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Traditional & Contemporary Embroidery</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>CAD Applications</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Live Projects</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Masterclasses by Industry Mentors & Practicing Designers</strong></li>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Live industry projects across all semesters</strong>
-                                                </li>
+                </ul>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Fashion shows, exhibitions, and competitions</strong>
-                                                </li>
+            </div>
+        </div>
+    </div>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Workshops and hands-on industry interactions</strong>
-                                                </li>
 
-                                            </ul>
+    <!-- Year 3 -->
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapseThree">
+                Year 3
+            </button>
+        </h2>
 
-                                            <h6><i class="fa-solid fa-chalkboard-user"></i> Industry Masterclasses & Exposure</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
+        <div id="collapseThree" class="accordion-collapse collapse"
+            data-bs-parent="#accordionExampleb2">
+            <div class="accordion-body">
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Masterclasses by practicing fashion designers</strong>
-                                                </li>
+                <ul class="rbt-course-main-content liststyle mt-3">
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Sessions with industry professionals and entrepreneurs</strong>
-                                                </li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Forecasting & Trend Research</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Menswear Design</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Marketing & Branding</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Merchandising</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Retail & Consumer Behaviour</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Costing & Pricing Fundamentals</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Portfolio Development</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Live Projects</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Masterclasses by Industry Mentors & Practicing Designers</strong></li>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Professional critiques and portfolio reviews</strong>
-                                                </li>
+                </ul>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Exposure to real-world fashion industry practices</strong>
-                                                </li>
+            </div>
+        </div>
+    </div>
 
-                                            </ul>
 
-                                            <h6><i class="fa-solid fa-briefcase"></i> Fashion Business & Entrepreneurship</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
+    <!-- Year 4 -->
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingFour">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapseFour">
+                Year 4
+            </button>
+        </h2>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Fashion entrepreneurship and brand fundamentals</strong>
-                                                </li>
+        <div id="collapseFour" class="accordion-collapse collapse"
+            data-bs-parent="#accordionExampleb2">
+            <div class="accordion-body">
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Costing, pricing, and production planning</strong>
-                                                </li>
+                <ul class="rbt-course-main-content liststyle mt-3">
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Marketing, merchandising, and retail basics</strong>
-                                                </li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Commercial Pattern Making</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Specialized Apparel Design (Bridal, Corporate, Sports, Knitwear, etc.)</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Business Strategy & Entrepreneurship</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Supply Chain & Production Planning</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Brand Development & Business Model Creation</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Graduation Design Collection</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Industry Internship</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Live Projects</strong></li>
+                    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Masterclasses by Industry Mentors & Practicing Designers</strong></li>
 
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Client handling and professional practices</strong>
-                                                </li>
+                </ul>
 
-                                            </ul>
+            </div>
+        </div>
+    </div>
 
-                                            <h6><i class="fa-solid fa-id-card-clip"></i> Industry Training & Portfolio Development</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Portfolio development and professional presentation</strong>
-                                                </li>
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Final collection design and showcase</strong>
-                                                </li>
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>On-the-job training and industry exposure (advanced stage)</strong>
-                                                </li>
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Career readiness and placement support</strong>
-                                                </li>
-
-                                            </ul>
-
-                                            <h6><i class="fa-solid fa-graduation-cap"></i> Learning Experience & Practical Training</h6>
-                                            <ul class="rbt-course-main-content liststyle mt-3">
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Fully equipped fashion design studios</strong>
-                                                </li>
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Pattern making and garment construction labs</strong>
-                                                </li>
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Textile exploration and surface development facilities</strong>
-                                                </li>
-
-                                                <li>
-                                                    <i class="fa-solid fa-circle-check me-2"></i>
-                                                    <strong>Industry-relevant fashion design software and tools</strong>
-                                                </li>
-
-                                            </ul>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+</div>
 
 
 
@@ -416,14 +343,14 @@
                         <div class="rbt-course-feature-inner has-show-more-inner-content">
 
                             <h6 class="py-2">Career Opportunities </h6>
-                            <ul class="rbt-list-style-1 mt-3">
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Fashion Designer</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Apparel Designer</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Fashion Stylist</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Fashion Merchandiser</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Fashion Illustrator</li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i>Entrepreneur / Fashion Brand Owner</li>
-                            </ul>
+                         <ul class="rbt-list-style-1 mt-3">
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Designer</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Apparel Designer</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Stylist</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Merchandiser</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Fashion Illustrator</strong></li>
+    <li><i class="fa-solid fa-circle-check me-2"></i><strong>Entrepreneur / Fashion Brand Owner</strong></li>
+</ul>
 
 
 
@@ -443,7 +370,6 @@
 
 
                         </div>
-
                         <!-- <div class="rbt-show-more-btn">Show More</div> -->
                     </div>
                     <div class="rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more" id="Eligibility">
@@ -451,10 +377,17 @@
 
                             <div class="eligibility-section">
                                 <h6 class="py-2">Eligibility </h6>
-                                <ul class="rbt-list-style-1">
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>10+2 from a recognised board</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>No prior fashion background required</li>
-                                    <li><i class="fa-solid fa-circle-check me-2"></i>Creativity, interest in fashion, and willingness to learn encouraged</li>
+                                <ul class="rbt-list-style-1 mt-3">
+                             <li>
+  <i class="fa-solid fa-circle-check me-2"></i>
+  <strong>10+2 from a recognised board</strong>
+</li>
+
+<li>
+  <i class="fa-solid fa-circle-check me-2"></i>
+  <strong>No prior fashion background required</strong>
+</li>
+                                    <!--<li><i class="fa-solid fa-circle-check me-2"></i>Creativity, interest in fashion, and willingness to learn encouraged</li>-->
                                 </ul>
 
                                 <div class="mt-2">
@@ -510,61 +443,54 @@
                     Why Study B.Des in Fashion <span>Design & Technology at INSD</span>
                 </h2>
 
-                <div class="benifit-wraps">
+             <div class="benifit-wraps">
 
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Industry-aligned curriculum focused on real fashion careers</h5>
-                        </div>
-                    </div>
+    <div class="benefit-item">
+        <div class="icon-circle">
+            <i class="bi bi-patch-check-fill"></i>
+        </div>
+        <div class="benefit-text">
+            <h5>Industry-aligned curriculum focused on real fashion careers</h5>
+        </div>
+    </div>
 
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Studio-based practical learning with strong garment construction exposure</h5>
-                        </div>
-                    </div>
+    <div class="benefit-item">
+        <div class="icon-circle">
+            <i class="bi bi-patch-check-fill"></i>
+        </div>
+        <div class="benefit-text">
+            <h5>Studio-based learning with garment construction training</h5>
+        </div>
+    </div>
 
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Studio-based practical learning with strong garment construction exposure</h5>
-                        </div>
-                    </div>
+    <div class="benefit-item">
+        <div class="icon-circle">
+            <i class="bi bi-patch-check-fill"></i>
+        </div>
+        <div class="benefit-text">
+            <h5>Live projects & practical exposure</h5>
+        </div>
+    </div>
 
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Masterclasses by practicing fashion designers and industry professionals in every semester</h5>
-                        </div>
-                    </div>
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Exposure to fashion shows, exhibitions, and design presentations</h5>
-                        </div>
-                    </div>
-                    <div class="benefit-item">
-                        <div class="icon-circle">
-                            <i class="bi bi-patch-check-fill"></i>
-                        </div>
-                        <div class="benefit-text">
-                            <h5>Structured career guidance and placement assistance</h5>
-                        </div>
-                    </div>
+    <div class="benefit-item">
+        <div class="icon-circle">
+            <i class="bi bi-patch-check-fill"></i>
+        </div>
+        <div class="benefit-text">
+            <h5>Masterclasses by industry professionals every semester</h5>
+        </div>
+    </div>
 
-                </div>
+    <div class="benefit-item">
+        <div class="icon-circle">
+            <i class="bi bi-patch-check-fill"></i>
+        </div>
+        <div class="benefit-text">
+            <h5>Exposure to fashion shows, exhibitions & presentations</h5>
+        </div>
+    </div>
+
+</div>
             </div>
 
             <!-- RIGHT IMAGE -->
@@ -575,11 +501,16 @@
 
                 <div class="image_changer" style="height: 650px;">
 
-                    <img src="assets/img/fashion/02- (1).jpg" class="active">
-                    <img src="assets/img/fashion/02- (1).png">
-                    <img src="assets/img/fashion/02- (2).jpg">
-                    <img src="assets/img/fashion/02- (2).png">
-                    <img src="assets/img/fashion/01- (2).jpg">
+                     <img src="assets/img/Why-study-fashion-at-INSD/01- (1).jpeg" class="active">
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (2).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (3).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (4).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (5).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (6).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (7).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (8).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (9).jpeg" >
+                    <img src="assets/img/Why-study-fashion-at-INSD/01- (10).jpeg" >
 
 
 
@@ -601,12 +532,7 @@
         <div class="instructor-wrapper shadow-sm p-4 rounded">
 
             <h4 class="title text-center mb-3">Faculty Members</h4>
-            <!-- <p class="instructor-description mb-5">
-                Learn Under the Guidance of Industry-Active Professionals.
-                The B.Des in Interior Design program is guided by instructors actively engaged in professional design practice.
-                They bring real-world perspective into studio learning, design critiques, and project execution, ensuring that academic learning aligns with current industry standards.
-            </p> -->
-
+       
 
             <div class="instructor-carousel owl-carousel">
 
@@ -615,42 +541,40 @@
                     <h5 class="instructor-name">Fareena Mssood</h5>
                     <p class="instructor-placement"> <span>HEAD OF FASHION DESING</span></p>
                 </div>
-
                 <div class="instructor-card text-center">
-                    <img src="assets/img/FASHION-DEPARTMENT/2) Arundhati Ghosh_Assistant Professor.jpg" alt="Damini Bhattacharya" class="img-fluid rounded-circle mb-2">
+                    <img src="assets/img/FASHION-DEPARTMENT/2) Arundhati Ghosh_Assistant Professor.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
                     <h5 class="instructor-name">Arundhati Ghosh</h5>
-                    <p class="instructor-placement"><span>Assistant Professor</span></p>
+                    <p class="instructor-placement"> <span>Assistant Professor</span></p>
                 </div>
-
                 <div class="instructor-card text-center">
-                    <img src="assets/img/FASHION-DEPARTMENT/3) Arunima Sarkar_Assistant Professor.jpg" alt="Sneha Singh" class="img-fluid rounded-circle mb-2">
+                    <img src="assets/img/FASHION-DEPARTMENT/3) Arunima Sarkar_Assistant Professor.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
                     <h5 class="instructor-name">Arunima Sarkar</h5>
-                    <p class="instructor-placement"><span>Assistant Professor</span></p>
+                    <p class="instructor-placement"> <span>Assistant Professor</span></p>
                 </div>
-
                 <div class="instructor-card text-center">
-                    <img src="assets/img/FASHION-DEPARTMENT/4) PRAGYAA PANDEY_Assistant Professor.jpg" alt="Abhishek Mishra" class="img-fluid rounded-circle mb-2">
+                    <img src="assets/img/FASHION-DEPARTMENT/4) PRAGYAA PANDEY_Assistant Professor.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
                     <h5 class="instructor-name">PRAGYAA PANDEY</h5>
                     <p class="instructor-placement"> <span>Assistant Professor</span></p>
                 </div>
-
                 <div class="instructor-card text-center">
-                    <img src="assets/img/FASHION-DEPARTMENT/5) Akritti Jain_personality Development Coach.jpg" alt="Prity Dutta" class="img-fluid rounded-circle mb-2">
+                    <img src="assets/img/FASHION-DEPARTMENT/5) Akritti Jain_personality Development Coach.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
                     <h5 class="instructor-name">Akritti Jain</h5>
                     <p class="instructor-placement"> <span>personality Development Coach</span></p>
                 </div>
-
                 <div class="instructor-card text-center">
-                    <img src="assets/img/FASHION-DEPARTMENT/6) Ankan Bandyopadhyay_Visual Design Professor.jpg" alt="Muskan Agarwal" class="img-fluid rounded-circle mb-2">
+                    <img src="assets/img/FASHION-DEPARTMENT/6) Ankan Bandyopadhyay_Visual Design Professor.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
                     <h5 class="instructor-name">Ankan Bandyopadhyay</h5>
                     <p class="instructor-placement"> <span>Visual Design Professor</span></p>
                 </div>
-
                 <div class="instructor-card text-center">
-                    <img src="assets/img/FASHION-DEPARTMENT/7) Disha Bhattacharya_Management.jpg" alt="Naziya Khan" class="img-fluid rounded-circle mb-2">
+                    <img src="assets/img/FASHION-DEPARTMENT/7) Disha Bhattacharya_Management.jpg" alt="Rishita Sengupta" class="img-fluid rounded-circle mb-2">
                     <h5 class="instructor-name">Disha Bhattacharya</h5>
-                    <p class="instructor-placement"> <span>Management</span></p>
+                    <p class="instructor-placement"> <span>Business & Management professor</span></p>
                 </div>
+
+          
+
+             
 
 
 
@@ -765,34 +689,120 @@
 
         <div class="student-work-slider owl-carousel mt-3">
 
-            <div class="work-item">
-                <a href="assets/img/fashion/02- (1).jpg"
-                    class="glightbox"
-                    data-gallery="student-work">
-                    <img src="assets/img/fashion/02- (1).jpg" alt="Student Work">
-                </a>
-            </div>
-            <div class="work-item">
-                <a href="assets/img/fashion/02- (1).png"
-                    class="glightbox"
-                    data-gallery="student-work">
-                    <img src="assets/img/fashion/02- (1).png" alt="Student Work">
-                </a>
-            </div>
-            <div class="work-item">
-                <a href="assets/img/fashion/03- (2).jpeg"
-                    class="glightbox"
-                    data-gallery="student-work">
-                    <img src="assets/img/fashion/03- (2).jpeg" alt="Student Work">
-                </a>
-            </div>
-            <div class="work-item">
-                <a href="assets/img/fashion/03- (3).jpeg"
-                    class="glightbox"
-                    data-gallery="student-work">
-                    <img src="assets/img/fashion/03- (3).jpeg" alt="Student Work">
-                </a>
-            </div>
+         <div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (1).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (1).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (2).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (2).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (3).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (3).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (4).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (4).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (5).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (5).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (6).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (6).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (7).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (7).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (8).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (8).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (9).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (9).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (10).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (10).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (11).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (11).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (12).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (12).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (13).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (13).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (14).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (14).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (15).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (15).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (16).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (16).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (17).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (17).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (18).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (18).jpeg" alt="Student Work">
+    </a>
+</div>
+
+<div class="work-item">
+    <a href="assets/img/life-at-INSD-fashion/1- (19).jpeg" class="glightbox" data-gallery="student-work">
+        <img src="assets/img/life-at-INSD-fashion/1- (19).jpeg" alt="Student Work">
+    </a>
+</div>
+  
 
 
 
@@ -872,13 +882,18 @@
                             <div class="brand-track">
 
                                 <!-- Original Items -->
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (1).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (2).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (3).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (4).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (5).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (18).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (19).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (1).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (2).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (3).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (4).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (5).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (6).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (7).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (8).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (9).png" alt=""></div>
+                                <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (10).png" alt=""></div>
+                            
 
 
 
@@ -888,13 +903,16 @@
                         <!-- RIGHT MARQUEE -->
                         <div class="brand-grid right-marquee mt-3">
                             <div class="brand-track">
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (6).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (7).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (8).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (9).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (10).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (17).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (20).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (11).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (12).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (13).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (14).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (15).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (16).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (17).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (18).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (19).png" alt=""></div>
+                                         <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (20).png" alt=""></div>
 
 
 
@@ -908,12 +926,16 @@
                         <div class="brand-grid left-marquee mt-3">
                             <div class="brand-track">
 
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (11).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (12).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (13).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (14).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (15).png" alt=""></div>
-                                <div class="brand-tile"><img src="assets/img/interior-landing/1- (16).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (21).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (22).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (23).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (24).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (25).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (26).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (27).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (28).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (29).png" alt=""></div>
+                               <div class="brand-tile"><img src="assets/img/hiring-fashion/01- (30).png" alt=""></div>
 
 
 
@@ -939,87 +961,94 @@
             <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
         </div>
         <div class="marquee-container1">
-            <div class="marquee-track1 marquee-right">
+      <div class="marquee-track1 marquee-right">
 
-                <div class="card">
-                    <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with P&S by Sneha.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=11" alt="Student">
-                        <div>
-                            <div class="name">Sneha Singh</div>
-                            <div class="role">P&S by Sneha</div>
-                        </div>
-                    </div>
-                </div>
+        <div class="card">
+          <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with Ritu Kumar.”</p>
 
-                <div class="card bg-blue">
-                    <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=12" alt="Student">
-                        <div>
-                            <div class="name">Riya Chowdhury</div>
-                            <div class="role">Pee Safe</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=13" alt="Student">
-                        <div>
-                            <div class="name">Mousomi</div>
-                            <div class="role">AANURAG DALMIA</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&M.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=14" alt="Student">
-                        <div>
-                            <div class="name">Rishita Sengupta</div>
-                            <div class="role">H&M</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=15" alt="Student">
-                        <div>
-                            <div class="name">Mehka Sagol Semmans</div>
-                            <div class="role">Wasabi</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card bg-blue">
-                    <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=16" alt="Student">
-                        <div>
-                            <div class="name">Gaurangi Jhawar</div>
-                            <div class="role">Founder, gauRangi</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
-                    <div class="profile">
-                        <img src="https://picsum.photos/50?random=17" alt="Student">
-                        <div>
-                            <div class="name">Abhishek Mishra</div>
-                            <div class="role">Levi’s</div>
-                        </div>
-                    </div>
-                </div>
-
+          <div class="profile">
+            <img src="assets/img/student-testimonial/sneha-Singh.jpg" alt="Student">
+            <div>
+              <div class="name">Sneha Singh</div>
+              <div class="role">Ritu Kumar</div>
             </div>
+          </div>
         </div>
+
+        <div class="card bg-blue">
+          <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Riya CHowdhury.jpg" alt="Student">
+            <div>
+              <div class="name">Riya Chowdhury</div>
+              <div class="role">P&S by Sneha</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Mousumi.jpg" alt="Student">
+            <div>
+              <div class="name">Mousomi</div>
+              <div class="role">AANURAG DALMIA</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card bg-blue">
+          <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&M.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Rishita Sengupta.jpg" alt="Student">
+            <div>
+              <div class="name">Rishita Sengupta</div>
+              <div class="role">H&M</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Mehka Sagol Semmans.jpg" alt="Student">
+            <div>
+              <div class="name">Mehka Sagol Semmans</div>
+              <div class="role">Wasabi</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card bg-blue">
+          <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Gaurangi Jhawar.jpg" alt="Student">
+            <div>
+              <div class="name">Gaurangi Jhawar</div>
+              <div class="role">Founder, gauRangi</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
+
+          <div class="profile">
+            <img src="assets/img/student-testimonial/Abhishek Mishra.jpg" alt="Student">
+            <div>
+              <div class="name">Abhishek Mishra</div>
+              <div class="role">Levi’s</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
 
 
 

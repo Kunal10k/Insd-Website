@@ -478,7 +478,7 @@
                             <ul class="rbt-list-style-1 mt-4">
                                 <li><i class="fa-solid fa-circle-check me-2"></i><strong>10+ pass from a recognised board</strong></li>
                                 <li><i class="fa-solid fa-circle-check me-2"></i><strong>No prior design background required</strong></li>
-                                <li><i class="fa-solid fa-circle-check me-2"></i><strong>Interest in design, execution, and professional learning encouraged</strong></li>
+                                <!--<li><i class="fa-solid fa-circle-check me-2"></i><strong>Interest in design, execution, and professional learning encouraged</strong></li>-->
                             </ul>
 
                             <div class="d-flex gap-3 flex-wrap mt-3">
@@ -521,6 +521,108 @@
         </div>
 </section>
 
+
+<section class="why-choose">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-md-6">
+                <!-- <h5 class="sub-head">Why Choose INSD Kolkata</h5> -->
+                <h2 class="title">
+                   why study diploma in interior 
+                    <span>design at insd kolkata</span>
+                </h2>
+
+
+
+                <div class="benifit-wraps">
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Taught by practicing designers &amp; entrepreneurs</h5>
+                            <!-- <p>Courses designed as per current industry standards and trends.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Studio + site-based learning approach</h5>
+                            <!-- <p>Hands-on training through live projects and real design studios.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Live projects &amp; on-the-job training</h5>
+                            <!-- <p>Learn directly from industry professionals and creative leaders.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Affordable Quality Education
+                            </h5>
+                            <!-- <p>Premium design education that remains accessible and cost-effective.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="benefit-item">
+                        <div class="icon-circle">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="benefit-text">
+                            <h5>Industry-relevant tools &amp; workflows</h5>
+                            <!-- <p>Strong placement support, portfolio building, and career guidance.</p> -->
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+
+
+
+            <div class="col-md-6">
+
+                <div class="image_changer">
+
+             
+                    <img src="assets/img/why-study-Interior-design/1- (1).jpeg" class="">
+                    <img src="assets/img/why-study-Interior-design/1- (2).jpeg" class="">
+                    <img src="assets/img/why-study-Interior-design/1- (3).jpeg" class="">
+                    <img src="assets/img/why-study-Interior-design/1- (4).jpeg" class="">
+                    <img src="assets/img/why-study-Interior-design/1- (5).jpeg" class="">
+                    <img src="assets/img/why-study-Interior-design/1- (6).jpeg" class="">
+                    <img src="assets/img/why-study-Interior-design/1- (7).jpeg" class="active">
+                    <img src="assets/img/why-study-Interior-design/1- (8).jpeg">
+                    <img src="assets/img/why-study-Interior-design/1- (9).jpeg">
+                    <img src="assets/img/why-study-Interior-design/1- (10).jpeg">
+              
+
+
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
 
 
 
@@ -711,42 +813,57 @@
         <div class="student-work-slider owl-carousel mt-3">
 
             <div class="work-item">
-                <a href="assets/img/life-at-insd/02/02- (1).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/02/02- (1).jpg" alt="Student Work">
-                </a>
-            </div>
-
-            <div class="work-item">
-                <a href="assets/img/life-at-insd/02/02- (2).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/02/02- (2).jpg" alt="Student Work">
-                </a>
-            </div>
-
-            <div class="work-item">
-                <a href="assets/img/life-at-insd/02/02- (3).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/02/02- (3).jpg" alt="Student Work">
-                </a>
-            </div>
-
-            <div class="work-item">
-                <a href="assets/img/life-at-insd/02/02- (4).jpg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/life-at-insd/02/02- (4).jpg" alt="Student Work">
-                </a>
-            </div>
-
-
-
-
-            <div class="work-item">
-                <a href="assets/img/courses/06- (2).jpeg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/06- (2).jpeg" alt="Student Work">
+                <a href="assets/img/Life-at-INSD-details/1- (1).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/Life-at-INSD-details/1- (1).jpeg" alt="Student Work">
                 </a>
             </div>
             <div class="work-item">
-                <a href="assets/img/courses/06- (3).jpeg" class="glightbox" data-gallery="student-work">
-                    <img src="assets/img/courses/06- (3).jpeg" alt="Student Work">
+                <a href="assets/img/Life-at-INSD-details/1- (2).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/Life-at-INSD-details/1- (2).jpeg" alt="Student Work">
                 </a>
             </div>
+            <div class="work-item">
+                <a href="assets/img/Life-at-INSD-details/1- (3).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/Life-at-INSD-details/1- (3).jpeg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/Life-at-INSD-details/1- (4).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/Life-at-INSD-details/1- (4).jpeg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/Life-at-INSD-details/1- (5).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/Life-at-INSD-details/1- (5).jpeg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/Life-at-INSD-details/1- (6).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/Life-at-INSD-details/1- (6).jpeg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/Life-at-INSD-details/1- (7).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/Life-at-INSD-details/1- (7).jpeg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/Life-at-INSD-details/1- (8).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/Life-at-INSD-details/1- (8).jpeg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/Life-at-INSD-details/1- (9).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/Life-at-INSD-details/1- (9).jpeg" alt="Student Work">
+                </a>
+            </div>
+            <div class="work-item">
+                <a href="assets/img/Life-at-INSD-details/1- (10).jpeg" class="glightbox" data-gallery="student-work">
+                    <img src="assets/img/Life-at-INSD-details/1- (10).jpeg" alt="Student Work">
+                </a>
+            </div>
+
+        
 
 
         </div>
@@ -885,7 +1002,7 @@
 
             <!-- LEFT IMAGE -->
             <div class="col-lg-4 text-center mb-4 mb-lg-0">
-                <img src="assets/img/z1- (6).jpg" alt="Scholarships at INSD Kolkata" class="img-fluid rounded shadow">
+                <img src="assets/img/Life-at-INSD-details/sd.jpeg" alt="Scholarships at INSD Kolkata" class="img-fluid rounded shadow">
             </div>
 
             <!-- RIGHT CONTENT -->
@@ -907,16 +1024,16 @@
                             <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
                         </div>
                     </a>
-                    <a href="#test" class="btn-animated btn-light">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Check Scholarship Eligibility</div>
-                            <div class="btn-text-hover">Check Scholarship Eligibility</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </a>
+                    <!--<a href="#test" class="btn-animated btn-light">-->
+                    <!--    <div class="btn-text-wrap">-->
+                    <!--        <div class="btn-text">Check Scholarship Eligibility</div>-->
+                    <!--        <div class="btn-text-hover">Check Scholarship Eligibility</div>-->
+                    <!--    </div>-->
+                    <!--    <div class="btn-icon-wrap">-->
+                    <!--        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">-->
+                    <!--        <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon-hover">-->
+                    <!--    </div>-->
+                    <!--</a>-->
 
                 </div>
             </div>
@@ -938,99 +1055,85 @@
             <div class="marquee-track1 marquee-right">
 
                 <div class="card">
-                    <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with Ritu Kumar.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“My time at INSD Kolkata gave me strong practical knowledge and real site exposure. The guidance from faculty helped me understand interior design beyond theory and start my journey confidently at A Square Designs.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="assets/img/faculty-testimonials/SOUVIKSAH.jpeg" alt="Student">
                         <div>
-                            <div class="name">Sneha Singh</div>
-                            <div class="role">Ritu Kumar</div>
+                            <div class="name">Souvik Saha </div>
+                            <div class="role">Placed at A Square Designs</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card bg-blue">
-                    <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“When I joined INSD Kolkata, I only had a passion for interiors. With practical learning, site visits, and constant faculty support, that passion turned into confidence and helped me begin my career at Livspace.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=2" alt="Student">
+                           <img src="assets/img/faculty-testimonials/PRIYANJALISE.jpeg" alt="Student">
                         <div>
-                            <div class="name">Riya Chowdhury</div>
-                            <div class="role">P&S by Sneha</div>
+                            <div class="name">Priyanjali Sen </div>
+                            <div class="role">Placed at Livspace</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“INSD Kolkata gave me more than design skills — it gave me the confidence to start my own studio. The practical exposure and mentorship here played a big role in shaping my entrepreneurial journey.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                     <img src="assets/img/faculty-testimonials/AMITKUMARSAHO.jpeg" alt="Student">
                         <div>
-                            <div class="name">Mousomi</div>
-                            <div class="role">AANURAG DALMIA</div>
+                            <div class="name">Amit Kumar Sahoo </div>
+                            <div class="role">Entrepreneur, Vision V Studio</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card bg-blue">
-                    <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&M.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“The hands-on learning and portfolio guidance at INSD Kolkata helped me grow as a designer. The industry exposure here helped me build the confidence that led to my placement at Provo.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
+                <img src="assets/img/faculty-testimonials/SHRUTIBAHE.jpeg" alt="Student">
                         <div>
-                            <div class="name">Rishita Sengupta</div>
-                            <div class="role">H&M</div>
+                            <div class="name">Shruti Baher </div>
+                            <div class="role">Placed at Provo</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“Studying at INSD Kolkata helped me develop both creative thinking and practical design skills. The hands-on learning experience prepared me well for my professional journey at Studio WB Interior Architects.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=5" alt="Student">
+                   <img src="assets/img/faculty-testimonials/PUNAMPAU.jpeg" alt="Student">
                         <div>
-                            <div class="name">Mehka Sagol Semmans</div>
-                            <div class="role">Wasabi</div>
+                            <div class="name">Punam Paul </div>
+                            <div class="role">Studio WB Interior Architects</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card bg-blue">
-                    <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“The practical exposure and guidance from faculty at INSD Kolkata helped me understand the real world of interior design and confidently begin my career with Rupande Shah & Associates.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
+                             <img src="assets/img/faculty-testimonials/NILANJANGHOS.jpeg" alt="Student">
                         <div>
-                            <div class="name">Gaurangi Jhawar</div>
-                            <div class="role">Founder, gauRangi</div>
+                            <div class="name">Nilanjan Ghosh </div>
+                            <div class="role">Rupande Shah & Associates</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“My journey at INSD Kolkata helped me strengthen my creativity and understanding of design. The experience and mentorship here helped me step confidently into the industry with Jaipur Rugs.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=7" alt="Student">
+                                  <img src="assets/img/faculty-testimonials/DAMINIBHATTACHARIY.jpeg" alt="Student">
                         <div>
-                            <div class="name">Abhishek Mishra</div>
-                            <div class="role">Levi’s</div>
+                            <div class="name">Damini Bhattachariya </div>
+                            <div class="role">Jaipur Rugs</div>
                         </div>
                     </div>
                 </div>

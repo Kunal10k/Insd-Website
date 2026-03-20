@@ -27,7 +27,7 @@
         <div class="hero-block__content">
             <!-- <span class="sub-head">Who We Are</span> -->
             <h1 class=" title ">Top Design College in
-                East India<span> East India</span></h1>
+               <span> West Bengal</span></h1>
 
 
             <!-- <h6 class="mt-2">Who We Are</h6> -->
@@ -257,43 +257,43 @@
         <div class="row">
             <div class="col-md-12 en ">
                 <div class="owl-carousel award-carousel">
+                    <!--<div class="item">-->
+                    <!--    <div class="award-card text-center">-->
+                    <!--        <img src="" alt="" class="img-fluid">-->
+                    <!--    </div>-->
+                    <!--</div>-->
                     <div class="item">
                         <div class="award-card text-center">
-                            <img src="" alt="" class="img-fluid">
+                            <img src="assets/img/Awards/1- (1).jpg" alt="" class="img-fluid">
                         </div>
                     </div>
                     <div class="item">
                         <div class="award-card text-center">
-                            <img src="assets/img/awards/1- (1).jpg" alt="" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="award-card text-center">
-                            <img src="assets/img/awards/1- (2).jpg" alt="" class="img-fluid">
+                            <img src="assets/img/Awards/1- (2).jpg" alt="" class="img-fluid">
 
                         </div>
                     </div>
                     <div class="item">
                         <div class="award-card text-center">
-                            <img src="assets/img/awards/1- (3).jpg" alt="" class="img-fluid">
+                            <img src="assets/img/Awards/1- (3).jpg" alt="" class="img-fluid">
 
                         </div>
                     </div>
                     <div class="item">
                         <div class="award-card text-center">
-                            <img src="assets/img/awards/1- (4).jpg" alt="" class="img-fluid">
+                            <img src="assets/img/Awards/1- (4).jpg" alt="" class="img-fluid">
 
                         </div>
                     </div>
                     <div class="item">
                         <div class="award-card text-center">
-                            <img src="assets/img/awards/1- (5).jpg" alt="" class="img-fluid">
+                            <img src="assets/img/Awards/1- (5).jpg" alt="" class="img-fluid">
 
                         </div>
                     </div>
                     <div class="item">
                         <div class="award-card text-center">
-                            <img src="assets/img/awards/1- (6).jpg" alt="" class="img-fluid">
+                            <img src="assets/img/Awards/1- (6).jpg" alt="" class="img-fluid">
 
                         </div>
                     </div>

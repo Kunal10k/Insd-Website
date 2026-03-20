@@ -44,7 +44,7 @@
 
                             <div class="ban-btn mt-3">
 
-                                <a href="#" class="btn-animated btn-light">
+                                <a href="Book-Your-Counceling.php" class="btn-animated btn-light">
                                     <div class="btn-text-wrap">
                                         <div class="btn-text">Apply Now for 2026</div>
                                         <div class="btn-text-hover">Apply Now for 2026</div>
@@ -57,7 +57,7 @@
                                     </div>
                                 </a>
 
-                                <a href="#" class="btn-animated btn-light1">
+                                <a href="#" class="btn-animated btn-light1" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                                     <div class="btn-text-wrap">
                                         <div class="btn-text">Book Free Counselling</div>
                                         <div class="btn-text-hover">Book Free Counselling</div>
@@ -160,7 +160,7 @@
 
                 <div class="ban-btn mt-4">
 
-                    <a href="#" class="btn-animated btn-light">
+                    <a href="Book-Your-Counceling.php" class="btn-animated btn-light">
                         <div class="btn-text-wrap">
                             <div class="btn-text">Apply Online</div>
                             <div class="btn-text-hover">Apply Online</div>

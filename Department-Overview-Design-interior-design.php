@@ -14,7 +14,7 @@
                 <div class="col-md-7 col-sm-12 mt-5">
 
 
-                    <div class="landing_content">
+                    <div class="landing_content mobile_work">
                         <div class="trust_logo">
                             <img src="assets/img/and.png" alt="" class="w-50 ">
                         </div>
@@ -84,7 +84,7 @@
                             </div> -->
                         </div>
 
-                        <form action="" method="post" class="landing_form" id="land">
+                       <form action="deparment-mail.php" method="post" class="landing_form" id="land">
 
                             <!-- Name -->
                             <div>
@@ -172,65 +172,65 @@
                             </div> -->
                 </div>
 
-                <form action="" method="post" class="landing_form" id="land">
+                    <form action="deparment-mail.php" method="post" class="landing_form" id="land">
 
-                    <!-- Name -->
-                    <div>
-                        <label class="form-label">Full Name</label>
-                        <input type="text" class="form-control" name="name" placeholder="Enter your name"
-                            required>
-                    </div>
+                            <!-- Name -->
+                            <div>
+                                <label class="form-label">Full Name</label>
+                                <input type="text" class="form-control" name="name" placeholder="Enter your name"
+                                    required>
+                            </div>
 
-                    <!-- Email -->
-                    <div>
-                        <label class="form-label">Email Address</label>
-                        <input type="email" class="form-control" name="email" placeholder="Enter your email"
-                            required>
-                    </div>
+                            <!-- Email -->
+                            <div>
+                                <label class="form-label">Email Address</label>
+                                <input type="email" class="form-control" name="email" placeholder="Enter your email"
+                                    required>
+                            </div>
 
-                    <div class="mb-1">
-                        <label class="form-label">Select Course</label>
-                        <select name="course" class="form-control cxza" required>
-                            <option value="">-- Choose Your Course --</option>
-                            <option value="Diploma / Advanced Diploma in Fashion Design">
-                                Diploma / Advanced Diploma in Interior Design
-                            </option>
-                            <option value="B.Des in Fashion Design & Technology">
-                                B.Des in Interior Design
-                            </option>
-                            <option value="MBA in Fashion Design & Technology">
-                                MBA in Interior Designing & Technology
-                            </option>
-                        </select>
-                    </div>
+                            <div class="mb-1">
+                                <label class="form-label">Select Course</label>
+                                <select name="course" class="form-control cxza" required>
+                                    <option value="">-- Choose Your Course --</option>
+                                    <option value="Diploma / Advanced Diploma in Fashion Design">
+                                        Diploma & Advanced Diploma in Interior Design
+                                    </option>
+                                    <option value="B.Des in Fashion Design & Technology">
+                                        B.Des in Interior Design
+                                    </option>
+                                    <option value="MBA in Fashion Design & Technology">
+                                        MBA in Interior Designing & Technology
+                                    </option>
+                                </select>
+                            </div>
 
-                    <!-- Phone -->
-                    <div>
-                        <label class="form-label">Mobile Number</label>
-                        <div class="input-group">
-                            <span class="input-group-text">+91</span>
-                            <input type="tel" class="form-control" name="phone"
-                                placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
-                        </div>
-                    </div>
+                            <!-- Phone -->
+                            <div>
+                                <label class="form-label">Mobile Number</label>
+                                <div class="input-group">
+                                    <span class="input-group-text">+91</span>
+                                    <input type="tel" class="form-control" name="phone"
+                                        placeholder="Enter mobile number" pattern="[0-9]{10}" maxlength="10" required>
+                                </div>
+                            </div>
 
 
 
-                    <!-- Submit -->
-                    <button type="submit" class="btn-animated btn-light ">
-                        <div class="btn-text-wrap">
-                            <div class="btn-text">Apply to Join</div>
-                            <div class="btn-text-hover">Apply to Join</div>
-                        </div>
-                        <div class="btn-icon-wrap">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon">
-                            <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
-                                alt="Arrow" class="btn-icon-hover">
-                        </div>
-                    </button>
+                            <!-- Submit -->
+                            <button type="submit" class="btn-animated btn-light ">
+                                <div class="btn-text-wrap">
+                                    <div class="btn-text">Apply to Join</div>
+                                    <div class="btn-text-hover">Apply to Join</div>
+                                </div>
+                                <div class="btn-icon-wrap">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon">
+                                    <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg"
+                                        alt="Arrow" class="btn-icon-hover">
+                                </div>
+                            </button>
 
-                </form>
+                        </form>
 
             </div>
 
@@ -322,7 +322,53 @@
 
         <div class="row g-4 mt-2 mt-md-2">
 
+         <!-- B.Des -->
+            <div class="col-md-4">
+                <div class="course-card">
+                    <div class="card-header">
+                        <h2>Bachelor of Design in Interior Design(B.Des)</h2>
 
+
+                    </div>
+
+                    <div class="card-row">
+                        <span class="label">DURATION:</span>
+                        <span class="value">4 Years</span>
+                    </div>
+
+                    <div class="card-row">
+                        <span class="label">ELIGIBILITY:</span>
+                        <span class="value">10+2 Pass</span>
+                    </div>
+                    <a href="#form" class="apply-btn">Apply Now</a>
+
+
+                </div>
+            </div>
+              <!-- MBA -->
+            <div class="col-md-4">
+                <div class="course-card">
+                    <div class="card-header">
+                        <h2>Master of Business Administration in Interior Designing & Technology(MBA)</h2>
+
+
+                    </div>
+
+                    <div class="card-row">
+                        <span class="label">DURATION:</span>
+                        <span class="value">2 Years</span>
+                    </div>
+
+                    <div class="card-row">
+                        <span class="label">ELIGIBILITY:</span>
+                        <span class="value">Graduation (Any Stream)</span>
+                    </div>
+
+                    <a href="#form" class="apply-btn">Apply Now</a>
+
+
+                </div>
+            </div>
 
             <!-- Diploma / Advanced Diploma -->
             <div class="col-md-4">
@@ -348,54 +394,9 @@
                 </div>
             </div>
 
-            <!-- B.Des -->
-            <div class="col-md-4">
-                <div class="course-card">
-                    <div class="card-header">
-                        <h2>Bachelor of Design in Interior Design(B.Des)</h2>
+   
 
-
-                    </div>
-
-                    <div class="card-row">
-                        <span class="label">DURATION:</span>
-                        <span class="value">4 Years</span>
-                    </div>
-
-                    <div class="card-row">
-                        <span class="label">ELIGIBILITY:</span>
-                        <span class="value">10+2 Pass</span>
-                    </div>
-                    <a href="#form" class="apply-btn">Apply Now</a>
-
-
-                </div>
-            </div>
-
-            <!-- MBA -->
-            <div class="col-md-4">
-                <div class="course-card">
-                    <div class="card-header">
-                        <h2>Master of Business Administration in Interior Designing & Technology(MBA)</h2>
-
-
-                    </div>
-
-                    <div class="card-row">
-                        <span class="label">DURATION:</span>
-                        <span class="value">2 Years</span>
-                    </div>
-
-                    <div class="card-row">
-                        <span class="label">ELIGIBILITY:</span>
-                        <span class="value">Graduation (Any Stream)</span>
-                    </div>
-
-                    <a href="#form" class="apply-btn">Apply Now</a>
-
-
-                </div>
-            </div>
+          
 
 
 
@@ -413,28 +414,40 @@
 <section class="video-testimonial-section">
     <div class="container">
         <h2 class="title text-center">Student Life <span>at INSD</span></h2>
-        <p class="para w-100 m-auto text-center">
+        <p class="para w-100 m-auto text-center d-md-block d-none">
             Through hands-on studio projects, industry site visits, material libraries, and portfolio showcases, INSD interior <br>design students experience a dynamic, collaborative learning environment connected to real-world practice.
         </p>
 
-        <div class="owl-carousel video-testimonial-slider mt-4">
+     <div class="owl-carousel video-testimonial-slider mt-4">
 
-            <div class="video-testimonial-item">
-                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
+    <div class="video-testimonial-item">
+        <iframe class="yt-video"
+            src="https://www.youtube.com/embed/ct0TMWs2roM?mute=1&controls=0&loop=1&playlist=ct0TMWs2roM&playsinline=1"
+            frameborder="0"
+            allow="encrypted-media"
+            allowfullscreen>
+        </iframe>
+    </div>
 
-            </div>
-            <div class="video-testimonial-item">
-                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
+    <div class="video-testimonial-item">
+        <iframe class="yt-video"
+            src="https://www.youtube.com/embed/IWJQOaV9yOQ?mute=1&controls=0&loop=1&playlist=IWJQOaV9yOQ&playsinline=1"
+            frameborder="0"
+            allow="encrypted-media"
+            allowfullscreen>
+        </iframe>
+    </div>
 
-            </div>
-            <div class="video-testimonial-item">
-                <iframe class="yt-video" src="https://www.youtube.com/embed/ZcgiigE3cXs" allowfullscreen></iframe>
+    <div class="video-testimonial-item">
+  <iframe class="yt-video"
+        src="https://www.youtube.com/embed/wciTNES0uoc"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+</iframe>
+    </div>
 
-            </div>
-
-
-
-        </div>
+</div>
     </div>
 </section>
 
@@ -518,14 +531,18 @@
 
                 <div class="image_changer">
 
-                    <img src="assets/img/L1.jpeg" class="active">
-                    <img src="assets/img/z1- (8).jpg" class="">
-                    <img src="assets/img/z1- (7).jpg" class="">
-                    <img src="assets/img/z1- (3).jpg" class="">
-                    <img src="assets/img/courses/03- (1).jpg" class="">
-                    <img src="assets/img/courses/03- (2).jpg" class="">
-                    <img src="assets/img/courses/03- (3).jpg" class="">
-                    <img src="assets/img/courses/03- (4).jpg" class="">
+             
+                    <img src="assets/img/why-study-Interior-design/1- (1).jpeg" class="active">
+                    <img src="assets/img/why-study-Interior-design/1- (2).jpeg" >
+                    <img src="assets/img/why-study-Interior-design/1- (3).jpeg" >
+                    <img src="assets/img/why-study-Interior-design/1- (4).jpeg" >
+                    <img src="assets/img/why-study-Interior-design/1- (5).jpeg" >
+                    <img src="assets/img/why-study-Interior-design/1- (6).jpeg" >
+                    <img src="assets/img/why-study-Interior-design/1- (7).jpeg" >
+                    <img src="assets/img/why-study-Interior-design/1- (8).jpeg" >
+                    <img src="assets/img/why-study-Interior-design/1- (9).jpeg" >
+                    <img src="assets/img/why-study-Interior-design/1- (10).jpeg" >
+              
 
 
 
@@ -669,8 +686,8 @@
                 </a>
                 <a href="#form" class="btn-animated btn-light">
                     <div class="btn-text-wrap">
-                        <div class="btn-text">Get Career Guidance</div>
-                        <div class="btn-text-hover">Get Career Guidance</div>
+                        <div class="btn-text">Apply For Scholarship</div>
+                        <div class="btn-text-hover">Apply For Scholarship</div>
                     </div>
                     <div class="btn-icon-wrap">
                         <img src="https://cdn.prod.website-files.com/68e0f069e7077842f6665fd3/68e254fc5b4fb72c7d7f2407_icon-white-arrow-up.svg" alt="Arrow" class="btn-icon">
@@ -1255,7 +1272,7 @@
 </section> -->
 
 
-<section class="student-test mt-4">
+<section class="student-test">
     <div class="">
         <div class="container">
             <h5 class="sub-head text-center cen">Testimonial</h5>
@@ -1263,111 +1280,97 @@
 
             <!-- <p class="para text-center pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ducimus?</p> -->
         </div>
-
-
         <div class="marquee-container1">
             <div class="marquee-track1 marquee-right">
 
                 <div class="card">
-                    <p>“My journey at INSD Kolkata helped me grow both creatively and professionally. The practical learning and mentorship gave me the confidence to step into the fashion industry and work with Ritu Kumar.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“My time at INSD Kolkata gave me strong practical knowledge and real site exposure. The guidance from faculty helped me understand interior design beyond theory and start my journey confidently at A Square Designs.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=1" alt="Student">
+                        <img src="assets/img/faculty-testimonials/SOUVIKSAH.jpeg" alt="Student">
                         <div>
-                            <div class="name">Sneha Singh</div>
-                            <div class="role">Ritu Kumar</div>
+                            <div class="name">Souvik Saha </div>
+                            <div class="role">Placed at A Square Designs</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card bg-blue">
-                    <p>“Studying at INSD Kolkata was a wonderful experience. The projects and hands-on learning helped me understand how the industry works and prepared me for professional opportunities.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“When I joined INSD Kolkata, I only had a passion for interiors. With practical learning, site visits, and constant faculty support, that passion turned into confidence and helped me begin my career at Livspace.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=2" alt="Student">
+                           <img src="assets/img/faculty-testimonials/PRIYANJALISE.jpeg" alt="Student">
                         <div>
-                            <div class="name">Riya Chowdhury</div>
-                            <div class="role">P&S by Sneha</div>
+                            <div class="name">Priyanjali Sen </div>
+                            <div class="role">Placed at Livspace</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <p>“INSD Kolkata gave me the space to explore my creativity and sharpen my design skills. The constant guidance from faculty and portfolio development really helped me start my journey in the fashion industry.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“INSD Kolkata gave me more than design skills — it gave me the confidence to start my own studio. The practical exposure and mentorship here played a big role in shaping my entrepreneurial journey.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=3" alt="Student">
+                     <img src="assets/img/faculty-testimonials/AMITKUMARSAHO.jpeg" alt="Student">
                         <div>
-                            <div class="name">Mousomi</div>
-                            <div class="role">AANURAG DALMIA</div>
+                            <div class="name">Amit Kumar Sahoo </div>
+                            <div class="role">Entrepreneur, Vision V Studio</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card bg-blue">
-                    <p>“Studying at INSD Kolkata gave me the confidence to pursue my passion in fashion. The practical training and support from mentors really helped me prepare for the industry and begin my journey with H&M.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“The hands-on learning and portfolio guidance at INSD Kolkata helped me grow as a designer. The industry exposure here helped me build the confidence that led to my placement at Provo.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=4" alt="Student">
+                <img src="assets/img/faculty-testimonials/SHRUTIBAHE.jpeg" alt="Student">
                         <div>
-                            <div class="name">Rishita Sengupta</div>
-                            <div class="role">H&M</div>
+                            <div class="name">Shruti Baher </div>
+                            <div class="role">Placed at Provo</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <p>“My time at INSD Kolkata helped me grow both creatively and professionally. The hands-on learning and constant encouragement from the faculty gave me the confidence to step into the fashion industry.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“Studying at INSD Kolkata helped me develop both creative thinking and practical design skills. The hands-on learning experience prepared me well for my professional journey at Studio WB Interior Architects.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=5" alt="Student">
+                   <img src="assets/img/faculty-testimonials/PUNAMPAU.jpeg" alt="Student">
                         <div>
-                            <div class="name">Mehka Sagol Semmans</div>
-                            <div class="role">Wasabi</div>
+                            <div class="name">Punam Paul </div>
+                            <div class="role">Studio WB Interior Architects</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card bg-blue">
-                    <p>“The journey at INSD Kolkata played an important role in shaping me as a designer. The knowledge and skills I gained here gave me the confidence to launch my own label, gauRangi.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“The practical exposure and guidance from faculty at INSD Kolkata helped me understand the real world of interior design and confidently begin my career with Rupande Shah & Associates.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=6" alt="Student">
+                             <img src="assets/img/faculty-testimonials/NILANJANGHOS.jpeg" alt="Student">
                         <div>
-                            <div class="name">Gaurangi Jhawar</div>
-                            <div class="role">Founder, gauRangi</div>
+                            <div class="name">Nilanjan Ghosh </div>
+                            <div class="role">Rupande Shah & Associates</div>
                         </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <p>“INSD Kolkata helped me build a strong foundation in fashion design. The practical exposure and portfolio guidance from the faculty helped me secure my opportunity with Levi’s.”</p>
-                    <div class="rating">
-                        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                    </div>
+                    <p>“My journey at INSD Kolkata helped me strengthen my creativity and understanding of design. The experience and mentorship here helped me step confidently into the industry with Jaipur Rugs.”</p>
+
                     <div class="profile">
-                        <img src="https://picsum.photos/50?random=7" alt="Student">
+                                  <img src="assets/img/faculty-testimonials/DAMINIBHATTACHARIY.jpeg" alt="Student">
                         <div>
-                            <div class="name">Abhishek Mishra</div>
-                            <div class="role">Levi’s</div>
+                            <div class="name">Damini Bhattachariya </div>
+                            <div class="role">Jaipur Rugs</div>
                         </div>
                     </div>
                 </div>
 
             </div>
         </div>
+
+
 
     </div>
 </section>
@@ -1576,7 +1579,8 @@
     </div>
 
     <div class="newsletter-content">
-        <p class="sub-head text-center text-white">INTERNATIONAL STUDY TOUR TO UK, PARIS, UAE USA</p>
+        <p class="sub-head text-center text-white">**INTERNATIONAL STUDY TOUR TO UK, PARIS, UAE USA**
+</p>
         <h2 class="title text-white">Start your design journey <br>at INSD Kolkata</h2>
 
         <div class="buttons">
@@ -1915,8 +1919,8 @@
             margin: 20,
             nav: true,
             dots: true,
-            autoplay: true, // 🔥 autoplay ON
-            autoplayTimeout: 5000, // 5 seconds
+            autoplay: false, // ❌ autoplay OFF
+            autoplayTimeout: 5000,
             autoplayHoverPause: true,
             responsive: {
                 0: {
